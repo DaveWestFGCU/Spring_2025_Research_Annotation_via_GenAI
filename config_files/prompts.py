@@ -2,7 +2,7 @@ prompt = \
     {
         "poc_subset":
             {
-                'labels w/ context':
+                'labels':
                     """
                     <context>
                     
@@ -40,21 +40,7 @@ prompt = \
 
                         'ChampionsLeague':
                             "The UEFA Champions League (UCL): An annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the best team in Europe"
-                    },
-
-
-                'labels':
-                    """
-                    Classify the following tweet by the emotion the author intended to convey ONLY from the following list:
-                    1. Anger (also includes annoyance, rage)
-                    2. Disgust (also includes disinterest, dislike, loathing)
-                    3. Fear (also includes apprehension, anxiety, terror)
-                    4. Joy (also includes serenity, ecstasy)
-                    5. Sadness (also includes pensiveness, grief)
-                    6. Surprise (also includes distraction, amazement)
-                    Your response should consist of only the most relevant label.
-                    """,
-
+                    }
             },
 
         "emoevent_en_raw":
