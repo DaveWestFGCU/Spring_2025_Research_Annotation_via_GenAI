@@ -1,0 +1,47 @@
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The options are Anger, Disgust, Fear, Joy, Sadness, or Surprise.
+
+The tweet says: "Arya is awesome... That's all I have to say... #GameofThrones #NotToday". 
+
+First, let me break down the content. The author is expressing that Arya is awesome. Using the word "awesome" generally conveys a positive emotion. They also end with an ellipsis, which might indicate emphasis or excitement. The hashtags used are related to Game of Thrones and "#NotToday," which could imply resistance or not wanting something related.
+
+Looking at the emotion options:
+1. Anger: Doesn't seem right because the tweet is positive.
+2. Disgust: Also doesn't fit; no negative words here.
+3. Fear: No indication of fear in the message.
+4. Joy: Fits well since "awesome" and the exclamation mark suggest happiness or excitement.
+5. Sadness: Not present; the tone isn't sad.
+6. Surprise: Maybe, but it's more about being impressed, which is closer to joy.
+
+So, the emotion here is likely Joy because they're expressing enthusiasm about Arya being awesome.
+</think>
+
+Joy
+<think>
+Alright, let me try to figure this out step by step. So, the task is to classify a tweet based on the emotion it conveys using one of the given labels: Anger, Disgust, Fear, Joy, Sadness, or Surprise.
+
+First, I'll read the tweet carefully: "Arya is awesome... That's all I have to say... #GameofThrones #NotToday". The user is expressing their opinion about Arya. They're using the word "awesome," which generally has a positive connotation. So that might indicate Joy or perhaps even surprise, but more likely joy.
+
+Looking at the context, Game of Thrones is a show known for its complex characters and storylines. Arya Stark is one of the most popular and developed characters, often noted for her growth throughout the series. The use of "awesome" suggests admiration or approval, which aligns with positive emotions.
+
+The hashtags "#GameofThrones" and "#NotToday" add a bit more context. "#NotToday" could imply that something negative wasn't happening today, but in this case, since the user is talking positively about Arya, it might just be part of their enthusiastic response. Alternatively, maybe they're saying "not today" as a way to dismiss any negative aspects or to focus on the positive.
+
+Analyzing the emotions: The tweet doesn't show signs of Anger, Disgust, Fear, or Sadness. It's not expressing surprise either, though surprise could sometimes be associated with enthusiasm, but in this case, "awesome" is more indicative of joy. There's no indication that the user is surprised; rather, they're stating a strong positive opinion.
+
+So, putting it all together, the emotion conveyed here is likely Joy because the author is expressing admiration and satisfaction with Arya being awesome.
+</think>
+
+4. Joy
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The options are Anger, Disgust, Fear, Joy, Sadness, or Surprise. Let me break down the tweet: "Arya is awesome... That's all I have to say... #GameofThrones #NotToday"
+
+First, looking at the content, the user is talking about Arya and says she's awesome. The word "awesome" is a strong positive emotion, indicating joy or happiness. They also mention that's all they have to say, which suggests they're expressing their opinion without any negative connotations.
+
+The hashtags used are #GameofThrones and #NotToday. #GameofThrones is just the show's name, but #NotToday might be a bit confusing. It could mean "not today" as in something isn't happening today, or it could be part of a larger trend or meme. However, considering the context where the user praised Arya, it's likely they're expressing excitement or satisfaction about her character.
+
+I don't see any signs of anger, disgust, fear, sadness, or surprise here. The emotion is clearly positive and joyful.
+</think>
+
+The tweet expresses joy as the author praises Arya with enthusiasm and positivity.
+
+Answer: Joy
