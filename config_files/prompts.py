@@ -1,6 +1,6 @@
 prompt = \
     {
-        "poc_subset":
+        "emoevent_poc":
             {
                 'labels':
                     """
@@ -87,6 +87,92 @@ prompt = \
                     5. Sadness (also includes pensiveness, grief)
                     6. Surprise (also includes distraction, amazement)
                     Give only the label.
+                    """
+            },
+
+        "goemotions_6_single_poc":
+            {
+                'labels':
+                    """
+                    Identify the emotion most expressed by the writer of the text, given pre-defined emotion definitions (see below). 
+
+                    Emotion Definitions:
+                    anger - A strong feeling of displeasure or antagonism.
+                    	Includes:
+                    	annoyance - Mild anger, irritation.
+                    		disapproval - Having or expressing an unfavorable opinion.
+                    
+                    Examples of Anger:
+                    “I don’t like [NAME] in the slightest but I hate [NAME] even more. Get her Belcalis”
+                    “Are you daft ... ? That is and always has been the proposal. [NAME] don't listen and don't care though. Fucking dumbass.”
+                    “You are oddly defensive about a random chef. Did you come to /r/wewantplates just to insult people and build up this chef? [NAME]”
+                    
+                    disgust - Revulsion or strong disapproval aroused by something unpleasant or offensive.
+                    
+                    Examples of Disgust:
+                    “Those floors with *that* paneling? Ugh!”
+                    “That’s such a selfish mentality to have.”
+                    “This is the worst thing I’ve ever seen. Take my upvote.”
+                    
+                    fear - Being afraid or worried.
+                    	Includes:
+                    	nervousness - Apprehension, worry, anxiety.
+                    
+                    Examples of Fear: 
+                    “I want to go scuba diving so bad, but swimming in anything bigger than a pool terrifies me.”
+                    “They’re honestly a cult at this point. It’s not just bad, but incredibly scary.”
+                    “The Babylon Bee article makes me worry for [NAME] comic tastes.”
+                    
+                    joy - A feeling of pleasure and happiness.
+                    	Includes:
+                    admiration - Finding something impressive or worthy of respect.
+                    amusement - Finding something funny or being entertained.
+                    approval - Having or expressing a favorable opinion.
+                    caring - Displaying kindness and concern for others.
+                    desire - A strong feeling of wanting something or wishing for something to happen.
+                    excitement - Feeling of great enthusiasm and eagerness.
+                    gratitude - A feeling of thankfulness and appreciation.
+                    love - A strong positive emotion of regard and affection.
+                    optimism - Hopefulness and confidence about the future or the success of something.
+                    pride - Pleasure or satisfaction due to ones own achievements or the achievements of those with whom one is closely associated.
+                    relief - Reassurance and relaxation following release from anxiety or distress.
+                    
+                    Examples of Joy:
+                    “Cool! Glad to see some cooperation.”
+                    “My kitten just got very happy when Pasta scores. Such loud purrs! I was happy too.”
+                    “This is most excellent news! Also, glad to know he went on to work somewhere like Google.”
+                    
+                    sadness - Emotional pain, sorrow.
+                    	Includes:
+                    disappointment - Sadness or displeasure caused by the nonfulfillment of one’s hopes or expectations.
+                    embarrassment Self-consciousness, shame, or awkwardness.
+                    grief - Intense sorrow, especially caused by someone’s death.
+                    remorse - Regret or guilty feeling.
+                    
+                    Examples of Sadness:
+                    “I go to a neighborhood mexican restaurant monthly for the past 2.5 years, but nobody knows my name 🙁”
+                    “Sorry misunderstood you! I’m talking about viruses and bacteria that can kill you like the flu etc.”
+                    “The only death that made me feel any emotion. And it wasn’t even the death itself.”
+                    
+                    surprise - Feeling astonished, startled by something unexpected.
+                    	Includes:
+                    confusion - Lack of understanding, uncertainty.
+                    curiosity - A strong desire to know or learn something.
+                    realization - Becoming aware of something.
+                    
+                    Examples of Surprise:
+                    “Right, that makes sense! I wonder if the person I met in real life would acknowledge he’s more of a fence sitter than childfree, haha”
+                    “Can you imagine being taken to court over a flushing loo? I can’t believe the courts are even entertaining this.”
+                    “Wait, WHAT?!?!”
+                    
+                    neutral - Lacking in an expressed emotion.
+                    
+                    Examples of Neutral:
+                    “[NAME] was also a vice president.”
+                    “Keep us updated.”
+                    “Nope. 7th grade, different state”
+                    
+                    Here is the Reddit comment to analyze: \"<text>\"
                     """
             },
 
