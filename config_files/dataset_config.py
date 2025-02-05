@@ -1,7 +1,7 @@
 dataset = \
 {
     "EmoEvent POC": {
-        "id": "poc_subset",
+        "id": "emoevent_poc",
         "name": "Proof of Concept Subset",
         "source": "https://github.com/fmplaza/EmoEvent",
         "text_source": "tweet",
@@ -12,7 +12,7 @@ dataset = \
         "relpath": "datasets/subset/EmoEvents_raw_subset_original_labels.csv",
         "abspath": "E:\Projects\PythonProject\Dataset_Labeling_via_GenAI\datasets\subset\EmoEvents_raw_subset_original_labels.csv",
         "unused_columns": ["id", "offensive"],
-        "remap_columns": {"tweet": "text", "emotion": "labels"},
+        "remap_columns": {"tweet": "text", "emotion": "labels", "event": "context"},
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
@@ -31,7 +31,7 @@ dataset = \
         "relpath": "",
         "abspath": "",
         "unused_columns": ["id", "offensive"],
-        "remap_columns": {"tweet": "text", "emotion":"labels"},
+        "remap_columns": {"tweet": "text", "emotion":"labels", "event": "context"},
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
@@ -50,7 +50,7 @@ dataset = \
         "relpath": "",
         "abspath": "",
         "unused_columns": ["id", "offensive"],
-        "remap_columns": {"tweet":"text", "emotion":"labels"},
+        "remap_columns": {"tweet":"text", "emotion":"labels", "event": "context"},
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
@@ -60,7 +60,7 @@ dataset = \
 
 
     "GoEmotions (Ekman6)": {
-        "id": "goemotion_6_single",
+        "id": "goemotions_6_single",
         "source": "https://github.com/google-research/google-research/tree/master/goemotions",
         "paper": "https://arxiv.org/pdf/2005.00547",
         "text_source": "Reddit comment",
@@ -69,7 +69,6 @@ dataset = \
         "is_split": False,
         "label_format": "single",
         "relpath": "datasets/goemotions/ekman_6_single_label/go_emotions_merged_unified.csv",
-        "abspath": "E:/Projects/PythonProject/Dataset_Labeling_via_GenAI/datasets/goemotions/ekman_6_single_label/go_emotions_merged_unified.csv",
         "unused_columns": ["original labels", "source"],
         "remap_columns": {},
         "unlabeled_label": "",
@@ -80,7 +79,7 @@ dataset = \
     },
 
     "GoEmotions POC": {
-        "id": "goemotion_6_single_poc",
+        "id": "goemotions_6_single_poc",
         "source": "https://github.com/google-research/google-research/tree/master/goemotions",
         "paper": "https://arxiv.org/pdf/2005.00547",
         "text_source": "Reddit comment",
@@ -88,8 +87,7 @@ dataset = \
         "location": "local",
         "is_split": False,
         "label_format": "single",
-        "relpath": "",
-        "abspath": "",
+        "relpath": "datasets/goemotions/ekman_6_single_label/poc_subset/goemotions_6_single_poc.csv",
         "unused_columns": ["original labels", "source"],
         "remap_columns": {},
         "unlabeled_label": "",
