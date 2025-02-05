@@ -1,6 +1,6 @@
 dataset = \
 {
-    "Proof of Concept Subset": {
+    "EmoEvent POC": {
         "id": "poc_subset",
         "name": "Proof of Concept Subset",
         "source": "https://github.com/fmplaza/EmoEvent",
@@ -54,6 +54,47 @@ dataset = \
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
+        "num_labelers": 3,
+        "num_consensus": 2
+    },
+
+
+    "GoEmotions (Ekman6)": {
+        "id": "goemotion_6_single",
+        "source": "https://github.com/google-research/google-research/tree/master/goemotions",
+        "paper": "https://arxiv.org/pdf/2005.00547",
+        "text_source": "Reddit comment",
+        "filetype": "csv",
+        "location": "local",
+        "is_split": False,
+        "label_format": "single",
+        "relpath": "datasets/goemotions/ekman_6_single_label/go_emotions_merged_unified.csv",
+        "abspath": "E:/Projects/PythonProject/Dataset_Labeling_via_GenAI/datasets/goemotions/ekman_6_single_label/go_emotions_merged_unified.csv",
+        "unused_columns": ["original labels", "source"],
+        "remap_columns": {},
+        "unlabeled_label": "",
+        "label_type": "emotion",
+        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
+        "num_labelers": 3,
+        "num_consensus": 2
+    },
+
+    "GoEmotions POC": {
+        "id": "goemotion_6_single_poc",
+        "source": "https://github.com/google-research/google-research/tree/master/goemotions",
+        "paper": "https://arxiv.org/pdf/2005.00547",
+        "text_source": "Reddit comment",
+        "filetype": "csv",
+        "location": "local",
+        "is_split": False,
+        "label_format": "single",
+        "relpath": "",
+        "abspath": "",
+        "unused_columns": ["original labels", "source"],
+        "remap_columns": {},
+        "unlabeled_label": "",
+        "label_type": "emotion",
+        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
         "num_labelers": 3,
         "num_consensus": 2
     },
