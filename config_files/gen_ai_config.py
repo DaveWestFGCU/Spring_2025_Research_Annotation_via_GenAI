@@ -16,7 +16,7 @@ model = \
             'terminator': '</think>'
         },
 
-        'GPT 4o-Mini': {
+        'GPT 4o-mini': {
             "id": "gpt-4o-mini",
             'access': 'api',
             'platform': 'OpenAI',
@@ -24,8 +24,8 @@ model = \
             'terminator': None
         },
 
-        'o1-Mini': {
-            'id': 'o1-mini',
+        'o3-mini': {
+            'id': 'o3-mini',
             'access': 'api',
             'platform': 'OpenAI',
             'type': 'CoT',
