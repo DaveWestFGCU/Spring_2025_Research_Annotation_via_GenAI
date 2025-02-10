@@ -1,0 +1,40 @@
+Record: "Maybe unpopular but I never eat pancakes with syrup. Way too damn sweet."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The writer expresses a strong dislike for eating pancakes with syrup.
+* They use the word "damn" which implies a sense of intensity or strong disapproval.
+* There is no indication of fear, joy, sadness, surprise, or neutrality in their tone.
+
+Given these points, I would categorize the emotion as **disgust**. The writer's strong disapproval and revulsion towards eating pancakes with syrup suggests that they find it unpleasant or repulsive, which aligns with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The writer expresses a strong opinion about eating pancakes with syrup.
+* They use a phrase "Way too damn sweet" which implies a negative reaction.
+* There is no indication of fear, sadness, joy, or surprise in the comment.
+
+Given these points, I would categorize the emotion expressed by the writer as:
+
+**disgust**
+
+Reasoning: The writer's strong disapproval and revulsion towards eating pancakes with syrup suggests that they experience disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The writer expresses a strong opinion against eating pancakes with syrup.
+* They use the word "damn" to emphasize their dislike, which suggests a level of intensity.
+* The tone is blunt and direct, without any apparent enthusiasm or excitement.
+
+Based on these considerations, I would label the emotion expressed by the writer as: **disgust**
+
+The writer's strong disapproval and revulsion towards eating pancakes with syrup aligns with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+

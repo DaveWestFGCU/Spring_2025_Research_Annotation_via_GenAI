@@ -1,0 +1,33 @@
+Record: "Justified or not he'll probably go before [NAME]"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The comment appears to be a statement of anticipation or expectation about someone's fate.
+* The tone seems matter-of-fact and lacks emotional embellishment.
+
+Given these considerations, the emotion most expressed by the writer is **neutral**. The comment does not convey any strong emotions such as anger, disgust, fear, joy, sadness, or surprise, but rather presents a neutral statement of fact.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The writer seems to be expecting a negative outcome for the person mentioned.
+* There is no indication of excitement, happiness, or positivity in the statement.
+* The tone appears to be matter-of-fact and somewhat pessimistic.
+
+Given these points, I would label the emotion expressed by the writer as **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The writer mentions that someone will likely "go" (implying punishment or negative consequences) but does not express any strong emotions towards this outcome.
+* The tone is somewhat matter-of-fact and neutral, without any apparent excitement or enthusiasm.
+* There is no indication of personal involvement or investment in the situation being discussed.
+
+**Neutral**
+------------------------------------------------------------------------------------------------------------------------
+

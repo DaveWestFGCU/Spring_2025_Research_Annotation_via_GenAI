@@ -1,0 +1,40 @@
+Record: "Ya it’s Bamas league to lose every year"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The writer's tone appears to be dismissive and matter-of-fact.
+* There is no evident emotional language or intensity in the statement.
+* The phrase "Bama's league" implies a sense of superiority, but it does not convey anger or aggression.
+
+**Neutral**
+
+The writer seems to be expressing a neutral opinion without any strong emotion attached to it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text expresses a negative sentiment towards a particular team or entity (Bama).
+* The language used is brief and direct.
+* There is no apparent emotional distress, concern, or pleasure expressed.
+
+Based on the analysis, the emotion most expressed by the writer of the text is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement is blunt and matter-of-fact.
+* There is no apparent emotional appeal or attempt to persuade or manipulate.
+* The language used is direct and lacks empathy or sympathy.
+* The comment expresses a straightforward opinion about a team's chances.
+
+Given these characteristics, I would classify the emotion expressed by the writer as:
+
+**anger**
+The statement implies frustration and disappointment with the team's performance, which aligns with the definition of anger. However, it's worth noting that the tone is more dismissive than confrontational.
+------------------------------------------------------------------------------------------------------------------------
+

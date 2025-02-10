@@ -1,0 +1,84 @@
+Record: "She tried playing the “I know a secret” game during the hearing. It blew up in her"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out what emotion the writer of this Reddit comment is expressing. The comment is: "She tried playing the 'I know a secret' game during the hearing. It blew up in her." Let's break this down step by step.
+
+First, I should look at each emotion category and see which one fits best. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Starting with anger: Anger includes annoyance and disapproval. Does the comment express dislike or irritation? Well, "blew up in her" could imply things went wrong, but I'm not sure if that's due to anger.
+
+Disgust is about revulsion or strong disapproval. The comment doesn't explicitly show something being offensive or unpleasant, so maybe not disgust.
+
+Fear involves worry or nervousness. There's no indication of fear here, more like a reaction to an event.
+
+Joy would mean pleasure or happiness. This seems unlikely since the context suggests things didn't go well for her.
+
+Sadness is emotional pain or sorrow. If she tried something and it backfired, maybe she feels bad about it. But I don't see explicit sadness in the words used.
+
+Surprise includes astonishment or realization. The phrase "It blew up" might suggest an unexpected outcome, which could be surprising. Alternatively, it might just mean that her plan failed spectacularly.
+
+Neutral is lacking emotion. The comment is concise but describes an event where something went wrong for her. It's not neutral; there's some reaction implied.
+
+So between surprise and maybe anger or sadness. "Blew up" can have a connotation of explosion, which is sudden and unexpected. That might lean towards surprise because it implies the outcome wasn't anticipated.
+
+Alternatively, if she was trying to manipulate the hearing with a secret, and it didn't work out, maybe there's frustration (anger), but the wording doesn't explicitly show anger.
+
+I think the key here is that "blew up" suggests an unexpected and perhaps dramatic failure. So the emotion is surprise because of the sudden and surprising outcome.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's take a look at this Reddit comment: "She tried playing the 'I know a secret' game during the hearing. It blew up in her." I need to figure out which emotion is most expressed here from the given categories.
+
+First, breaking down the sentence. The person is talking about someone who attempted a strategy during a hearing. The phrase "It blew up in her" suggests that what she did backfired or had unintended negative consequences. This outcome likely caused some negative emotions.
+
+Looking at the emotion definitions:
+
+- **Anger**: Involves displeasure or antagonism. The comment doesn't explicitly show anger, more like a recounting of events.
+- **Disgust**: Revulsion or disapproval. There's no indication of disgust here.
+- **Fear**: Related to being afraid or worried. Not really present in the statement.
+- **Joy**: Happiness or pleasure. The situation described doesn't seem positive.
+- **Sadness**: Emotional pain or sorrow. Maybe, but not explicitly clear from the comment alone.
+- **Surprise**: Astonishment or realization. The phrase "blew up" could imply surprise, but it's more about failure than astonishment.
+- **Neutral**: Lacking emotion. Not the case here as there seems to be an implied outcome.
+
+The key part is "It blew up in her." This suggests that the strategy didn't work and probably led to a negative situation for her. The speaker might feel disappointed or upset about this outcome, which aligns with sadness. Alternatively, it could show surprise if the failure was unexpected.
+
+However, considering the context of a hearing, where such strategies are often risky, the disappointment is more likely. Therefore, the emotion expressed is probably **sadness**.
+</think>
+
+The comment describes a situation where someone's strategy backfired, leading to negative consequences. The focus is on the unintended negative outcome rather than an explicit emotional expression. While there might be an undercurrent of disappointment, the primary emotion conveyed aligns with neutrality as it's more about stating facts without clear emotional language.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion label best fits this Reddit comment: "She tried playing the 'I know a secret' game during the hearing. It blew up in her." Let me start by understanding what each emotion entails based on the definitions provided.
+
+First, looking at anger. Anger involves strong displeasure or antagonism. The comment seems to describe someone attempting something that didn't go well, but there's no explicit indication of frustration or dislike towards someone else. It's more about the situation backfiring rather than expressing irritation.
+
+Next, disgust is revulsion or disapproval. I don't see any words here that express distaste or find the action repulsive. The comment is factual, stating what happened without showing disgust.
+
+Fear involves being afraid or worried. There's no indication of fear in the comment; it's more about an attempt that failed spectacularly.
+
+Joy includes happiness and related emotions. This doesn't seem to fit either since there's nothing positive expressed here.
+
+Sadness relates to emotional pain or sorrow. While the situation didn't go well, the comment is concise and neutral in tone. There's no explicit sadness or disappointment.
+
+Surprise involves astonishment or realization. The phrase "It blew up in her" suggests something unexpected happened, which could imply surprise. However, the overall tone isn't particularly shocked or astonished; it's more observational.
+
+Neutral means there's no clear emotion expressed. The comment is factual and doesn't convey any of the other emotions strongly. It simply describes an event without emotional language.
+
+So, considering all options, the comment doesn't show anger, disgust, fear, joy, sadness, or surprise strongly. It's mostly neutral because it's stating what happened without expressing an emotion.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

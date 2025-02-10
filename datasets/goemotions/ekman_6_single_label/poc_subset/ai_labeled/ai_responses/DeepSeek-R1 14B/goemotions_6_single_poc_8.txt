@@ -1,0 +1,76 @@
+Record: "Grew up in an early 90's house with door handles, no knobs. My parents just switched to knobs after 25 years."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the writer of this Reddit comment is expressing. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The comment says: "Grew up in an early 90's house with door handles, no knobs. My parents just switched to knobs after 25 years."
+
+First, I should break down the content of the comment. The writer is talking about their childhood home which had door handles without knobs. Then they mention that after 25 years, their parents decided to switch to knobs.
+
+I don't immediately see any strong emotion words like happy, sad, angry, etc. They're just stating a fact about their house and the change made by their parents. It seems like an informative statement without much feeling attached.
+
+Looking at the emotion definitions:
+- Joy is about pleasure or happiness; there's no indication of that here.
+- Sadness involves sorrow or disappointment; nothing negative stands out.
+- Anger would include frustration, but again, not present.
+- Disgust is about revulsion, which isn't shown.
+- Fear relates to being afraid or worried; no signs of that.
+- Surprise is about astonishment. The change took 25 years, which might be surprising, but the tone doesn't express shock or surprise.
+
+The comment seems neutral because it's simply stating facts without expressing any emotion. There's no indication of strong feelings either positive or negative.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the writer is expressing based on their comment. Let me read it again: "Grew up in an early 90's house with door handles, no knobs. My parents just switched to knobs after 25 years." 
+
+Hmm, the person is talking about their childhood home and mentions that their parents changed something—door handles to knobs—after 25 years. The tone here seems pretty matter-of-fact. There are no strong adjectives or exclamations. They're just stating what happened.
+
+Let me go through each emotion category to see which fits best. 
+
+Starting with anger: I don't see any signs of irritation or frustration in the comment. No criticism or harsh words, so probably not anger.
+
+Disgust would involve something unpleasant, but the change from handles to knobs doesn't seem to elicit revulsion. It's a neutral statement about a household change.
+
+Fear isn't indicated here either; there's no mention of worry or anxiety. The topic is about a past experience without any negative emotions attached.
+
+Joy would include happiness or approval, but again, the comment is straightforward without expressing excitement or positive feelings about the change.
+
+Sadness involves emotional pain, which doesn't seem applicable here since the writer isn't expressing any sorrow or disappointment over the change.
+
+Surprise would require astonishment or unexpectedness. The statement seems expected—parents changing something after 25 years, so no surprise element.
+
+That leaves neutral, which is when there's a lack of expressed emotion. The comment is informative without any clear emotional tone, just stating facts.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the writer is expressing in their Reddit comment. The text is: "Grew up in an early 90's house with door handles, no knobs. My parents just switched to knobs after 25 years." 
+
+First, let me read through this carefully. The person is talking about their childhood home and mentions that the doors had handles without knobs. They also note that their parents recently changed them after 25 years.
+
+I should consider each emotion category: anger, disgust, fear, joy, sadness, surprise, or neutral. Let's go through them one by one.
+
+1. Anger: The comment doesn't express any frustration or irritation. It's more of a factual statement about their home setup changing over time.
+2. Disgust: There's no indication of revulsion or disapproval towards the door handles or the change.
+3. Fear: No signs of worry, nervousness, or anxiety here.
+4. Joy: The comment doesn't show happiness or excitement; it's more neutral.
+5. Sadness: They might feel some nostalgia, but it's not explicitly expressed as sadness.
+6. Surprise: There's no element of astonishment or unexpectedness in the statement.
+7. Neutral: The text is straightforward and factual without any strong emotional language.
+
+So, putting it together, the comment seems to be sharing an experience without showing much emotion. It's more about stating a fact than expressing feelings. Therefore, the most appropriate label would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

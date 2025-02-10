@@ -1,0 +1,64 @@
+Record: "well guys it was fun. [NAME] passed up the open three ffs"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to determine the emotion expressed in the comment: "well guys it was fun. [NAME] passed up the open three ffs". 
+
+First, I'll break down the text. The writer starts with "well guys it was fun," which sounds positive and a bit light-hearted. This part might suggest joy or at least a neutral stance.
+
+Next, "[NAME] passed up the open three ffs." The phrase "passed up" could indicate missing an opportunity. In basketball terms, an open three-pointer is a good chance to score, so missing it might be frustrating. However, the tone here doesn't seem overly angry; instead, it seems more like mild disappointment.
+
+Looking at the emotion categories:
+
+- **Joy** includes happiness and positive feelings. While the first part is positive, the second part isn't.
+- **Sadness** involves emotional pain or sorrow. Missing a shot might lead to mild sadness, but not necessarily.
+- **Disappointment** falls under sadness. The writer seems slightly disappointed, but it's not explicitly stated with strong negative words like anger.
+
+The overall tone doesn't show strong emotion—more of a neutral observation about the missed opportunity without clear anger or disgust.
+
+So, considering all this, the emotion is likely **neutral** because there's no overt expression of any specific emotion beyond a brief mention that could be interpreted in various ways.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion is most expressed in this Reddit comment: "well guys it was fun. [NAME] passed up the open three ffs". Let me break it down step by step.
+
+First, the overall tone of the comment seems casual and light-hearted. The writer starts with "well guys it was fun," which sounds positive but not overly excited. This part doesn't immediately signal any strong emotion; it's more of a neutral statement about an activity ending on a good note.
+
+Next, the second part mentions "[NAME] passed up the open three ffs." I'm assuming "open three" refers to something like an open three-pointer in basketball or another game. The phrase "passed up" suggests that [NAME] declined an opportunity. Depending on context, this could imply frustration or mild disappointment.
+
+Looking at the emotion categories: anger is strong displeasure, but the tone here isn't aggressive. Disgust involves revulsion, which doesn't seem applicable. Fear implies anxiety, which isn't present. Joy would be if they were excited about something positive, but it's more of a letdown. Sadness could fit if there's disappointment, but the comment is brief and not overly emotional. Surprise would require something unexpected, but this seems straightforward.
+
+Considering all this, the closest emotion might be surprise, but I'm not sure. Alternatively, maybe sadness or neutral. However, "passed up" might carry a hint of mild disappointment, suggesting sadness. But without more context, it's hard to tell if that's intended.
+
+Wait, but the comment is brief and ends on an activity that didn't go as planned for [NAME]. The writer might be expressing a bit of letdown or mild frustration, which could lean towards anger if slight, but it's not clear. Alternatively, it might just be neutral because the emotion isn't strongly expressed.
+
+I think I need to decide between surprise and neutral. Since there's no strong indication of any emotion beyond perhaps mild disappointment, maybe it's better to categorize it as neutral because the overall tone doesn't show a prominent emotion.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's try to figure out the emotion in this Reddit comment: "well guys it was fun. [NAME] passed up the open three ffs". 
+
+First, I'll read through the comment carefully. The writer starts with "well guys it was fun," which sounds positive and maybe even a bit excited. They're talking about something being fun, which could indicate joy or excitement.
+
+Then, they mention "[NAME] passed up the open three ffs." Hmm, "passed up" might mean that [NAME] missed an opportunity. The use of "ffs" at the end is common in internet slang to express frustration or disbelief. So, maybe there's some mild irritation here.
+
+Putting it together: The first part seems positive and joyful, but the second part has a hint of frustration. However, since the majority of the comment isn't expressing strong negative emotions like anger or disgust, I'm leaning towards joy because the initial part is more prominent.
+
+I don't see any signs of fear, sadness, surprise, or neutral here. So, the emotion most expressed seems to be joy.
+</think>
+
+The comment starts with a positive note ("it was fun"), which conveys **joy**. While there's mild frustration in mentioning an opportunity missed, the overall tone remains positive.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,47 @@
+Record: "She tried playing the “I know a secret” game during the hearing. It blew up in her"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The writer describes someone trying to use a tactic that backfires.
+* The tone is matter-of-fact and observational, without any emotional language.
+* There is no indication of empathy or sympathy towards the person who tried the tactic.
+
+Given these points, the emotion most expressed by the writer is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The writer mentions a person trying to play a manipulative game ("the 'I know a secret' game") during a serious event (a hearing).
+* The writer implies that this action backfired, causing embarrassment or negative consequences for the person.
+* The tone is casual and conversational, but the language suggests a sense of approval or satisfaction at the person's misfortune.
+
+**anger**
+ 
+The writer's comment implies a sense of approval or satisfaction at someone else's misfortune, which aligns with the definition of anger as "a strong feeling of displeasure or antagonism". However, the tone is not extremely aggressive or confrontational.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The writer mentions that someone tried to play a certain game ("the 'I know a secret' game") during a formal setting (a hearing).
+* This action is presented as a failed attempt, implying that it backfired or had an adverse effect.
+* The phrase "it blew up in her" suggests a negative outcome.
+
+Given these points, the emotion most expressed by the writer appears to be anger, which includes annoyance and disapproval. However, since there's no overtly aggressive language, we can consider other possibilities:
+
+* Neutral is unlikely because the text conveys a clear reaction to an event.
+* Disgust might not be the primary emotion here, as there's no explicit mention of revulsion or strong disapproval related to something unpleasant.
+
+The most likely labels are either Anger or Surprise. Since "it blew up in her" implies that the person playing the game was caught off guard, surprised by the reaction, I would lean towards:
+
+**Surprise**
+
+However, it's also possible to interpret this as a situation where the writer is annoyed and frustrated (anger), but without explicit language of disdain or outrage.
+
+**Alternative:** **Anger**, with a nuance that the text expresses a more general annoyance rather than outright hostility.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,36 @@
+Record: "If I'm no good I can still give the 1st round a crack, yeah?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The writer seems to be discussing their own abilities or qualifications in relation to a competition or challenge.
+* They express willingness to participate despite potential doubts about their chances of success.
+
+Given these considerations, the emotion most expressed by the writer is likely **neutral**, as they are making a straightforward statement without expressing any strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The writer's tone seems calm and non-confrontational.
+* They express a willingness to try something (the 1st round) despite possibly not being qualified or good enough.
+* There is no indication of strong emotions such as anger, disgust, fear, sadness, or surprise.
+
+Given these points, the emotion most expressed by the writer is neutral. The writer seems to be stating a fact or making a comment without expressing any particular opinion or feeling strongly about the matter.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The writer seems to be open-minded and willing to take on a challenge.
+* They express a sense of determination or resilience in spite of potential failure.
+
+**joy**
+
+The writer's tone is positive and optimistic, indicating that they are looking forward to the challenge rather than being fearful or discouraged. This suggests an emotion of joy or enthusiasm for the opportunity ahead.
+------------------------------------------------------------------------------------------------------------------------
+

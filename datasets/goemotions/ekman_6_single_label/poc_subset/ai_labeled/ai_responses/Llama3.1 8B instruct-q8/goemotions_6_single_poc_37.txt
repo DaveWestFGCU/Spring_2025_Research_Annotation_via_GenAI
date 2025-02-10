@@ -1,0 +1,35 @@
+Record: "350 calories The large is 20 oz and it’s 140 per 8 oz so 350"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The writer presents a straightforward calculation of calorie content.
+* There is no apparent emotional language or tone in the text, such as enthusiastic phrases, emotive adjectives, or expressions of strong feeling.
+
+Given these observations, I conclude that the writer's emotion is best categorized as **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text appears to be a factual statement about the calorie count of a drink.
+* There is no apparent emotional language or tone in the comment.
+* The comment seems to be providing information rather than expressing an opinion or feeling.
+
+**neutral**
+
+This emotion label fits because the comment lacks any expressed emotion, and its purpose appears to be informative rather than emotive.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The writer presents a straightforward calculation of the calorie count for a large drink.
+* There is no apparent expression of emotion, positive or negative, in the text.
+* The tone appears matter-of-fact and informative.
+
+**Neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,56 @@
+Record: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion is most expressed in this Reddit comment: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Let me break it down. First, the comment is about a restaurant. The writer says it's their favorite place to eat and that it's "so good." Those words like "favorite" and "so good" suggest positive feelings. 
+
+Looking at the emotion definitions: Joy includes happiness, pleasure, and approval. This fits because the person is expressing satisfaction and liking the place. There's no indication of anger or frustration; they're not upset. Disgust isn't there either since they don't mention anything bad. Fear doesn't apply because there's no sense of worry or anxiety. Sadness isn't present, as they're not expressing any sorrow. Surprise would be if something unexpected happened, but the comment is straightforward praise. Neutral is when there's no emotion, which isn't the case here.
+
+So, putting it all together, the emotion expressed is joy because they are clearly happy and approving of the restaurant.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the writer is expressing in this Reddit comment: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Let me start by breaking down the sentence. The person is talking about a new restaurant they've been to and says it's their favorite place to eat. They also add "So good" at the end. The words used seem positive. Phrases like "favorite place to eat" indicate satisfaction, and "so good" reinforces that positive sentiment.
+
+Looking at the emotion definitions: Joy includes feelings of pleasure and happiness, which seems to fit here. The writer is expressing approval and satisfaction with the restaurant. There's no indication of any negative emotions like anger or disgust; instead, it's clearly a positive experience.
+
+I don't think it's surprise because there's nothing unexpected mentioned. Fear isn't applicable either since there's no sense of worry or anxiety. Sadness and neutral are also out of place here because the tone is upbeat. So the most fitting emotion from the list is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion is most expressed in this comment: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good." 
+
+First, I'll break down the sentence. The writer is talking about a new restaurant and expressing their opinion. They mention it's their favorite place to eat and use "so good" as an exclamation.
+
+Looking at the emotion categories:
+
+- **Anger**: Doesn't seem like there's any anger here. No frustration or dislike expressed.
+- **Disgust**: The comment is positive, so disgust isn't present.
+- **Fear**: There's no indication of worry or fear; it's all about enjoyment.
+- **Joy**: Words like "favorite" and "so good" indicate a positive feeling. This seems to fit.
+- **Sadness**: No signs of sorrow or disappointment.
+- **Surprise**: The exclamation might hint at surprise, but overall, the sentiment is more about liking something rather than being surprised.
+- **Neutral**: Definitely not neutral since there's clear emotion expressed.
+
+So, considering all this, joy seems to be the most relevant emotion here because they're expressing satisfaction and approval of the restaurant. The use of "so good" adds to that positive feeling.
+</think>
+
+The writer expresses clear positive feelings about the restaurant, using approving language like "favorite" and "so good," which indicates joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

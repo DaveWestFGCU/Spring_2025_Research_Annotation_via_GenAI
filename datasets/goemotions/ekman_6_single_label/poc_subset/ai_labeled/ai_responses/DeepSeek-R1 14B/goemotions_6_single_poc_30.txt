@@ -1,0 +1,68 @@
+Record: "Wow, that was insane"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the writer is expressing in this comment: "Wow, that was insane." So first, I need to look at each emotion category and see which one fits best.
+
+Starting with anger. The examples of anger include words like "hate" or strong disapproval. This sentence doesn't seem angry; it's more about an experience.
+
+Disgust is about revulsion or strong disapproval. Again, the comment doesn't express anything negative or unpleasant.
+
+Fear involves being afraid or worried. I don't get a sense of fear here; instead, it sounds like excitement or amazement.
+
+Joy is happiness or pleasure. The words "Wow" and "insane" could indicate surprise but might also suggest something positive. However, "insane" can have both positive and negative connotations depending on context, but in this case, it seems more about astonishment.
+
+Sadness involves emotional pain or sorrow. There's no indication of sadness here; the tone is more upbeat.
+
+Surprise includes feeling astonished or startled. The word "Wow" clearly shows surprise, and "insane" can also imply something unexpected or extraordinary, which aligns with surprise.
+
+Neutral means no emotion is expressed. But definitely, an emotion is present here.
+
+So putting it all together, the comment expresses a strong sense of surprise because of the use of "Wow" and the word "insane," which conveys astonishment rather than any other emotion listed.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion is most expressed in the text "Wow, that was insane." The options are anger, disgust, fear, joy, sadness, surprise, or neutral. Let me break this down.
+
+First, I'll recall each emotion's definition from what I remember. Anger involves displeasure or antagonism, like when someone is annoyed or hates something. Disgust is about revulsion or strong disapproval towards something unpleasant. Fear is related to being afraid or worried. Joy includes happiness and positive feelings. Sadness involves emotional pain, and surprise is about feeling astonished or starting at something unexpected.
+
+Now, looking at the comment: "Wow, that was insane." The words "wow" and "insane" are key here. "Wow" is often an exclamation used to express surprise or astonishment. "Insane" typically means extreme or beyond normal behavior, which can also be surprising in context. 
+
+Let me consider other emotions. Is there any sign of anger? I don't think so; the comment doesn't express dislike or irritation. Disgust? No, it's not about something offensive or unpleasant. Fear? There's no indication of being afraid or worried. Sadness? The tone isn't somber or expressing sorrow. Joy? Well, "wow" could sometimes show excitement, which is part of joy, but "insane" leans more towards surprise.
+
+So, putting it together, the use of "Wow" and "insane" points towards surprise because they convey astonishment or unexpectedness. Therefore, I think the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion is most expressed in this Reddit comment: "Wow, that was insane". Let me start by reading through each of the emotion definitions carefully because understanding them will help me make the right choice.
+
+First up is anger. Anger includes things like displeasure or antagonism, and examples given are expressions of frustration or dislike. The comment here doesn't seem to express any sort of irritation or hostility, so I don't think it's anger.
+
+Next is disgust. Disgust involves revulsion or strong disapproval towards something unpleasant. Words used in examples include "Ugh!" or describing something as selfish. Our comment doesn't show any dislike; instead, it seems positive or impressed.
+
+Then there's fear, which includes being afraid or worried. The examples provided talk about feeling scared or anxious. However, the comment is more about excitement than fear, so I don't think this fits.
+
+Joy is next, and it's a feeling of pleasure and happiness. Examples include expressions like gladness or admiration. The words "Wow" and "insane" suggest something impressive or exciting, which aligns with joy because they express enthusiasm.
+
+Sadness involves emotional pain or sorrow. There's no indication of any negative emotions here; the comment is clearly positive.
+
+Surprise is about feeling astonished or startled by something unexpected. While "Wow" can sometimes indicate surprise, in this context, it seems to be more about excitement than astonishment. The word "insane" typically has a positive connotation when used approvingly.
+
+Finally, neutral is when there's no expressed emotion. Clearly, the comment isn't neutral; it's expressing something strong.
+
+Putting it all together, "Wow, that was insane" expresses strong positive feelings, likely excitement or enthusiasm, which falls under joy. The words chosen are common in expressing admiration or approval, fitting well within the definition of joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
