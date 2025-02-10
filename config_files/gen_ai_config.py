@@ -24,6 +24,14 @@ model = \
             'terminator': None
         },
 
+        'o1-mini': {
+            'id': 'o1-mini',
+            'access': 'api',
+            'platform': 'OpenAI',
+            'type': 'CoT',
+            'terminator': None
+        },
+
         'o3-mini': {
             'id': 'o3-mini',
             'access': 'api',

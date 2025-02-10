@@ -10,7 +10,7 @@ dataset = \
         "is_split": False,
         "label_format": "single",
         "relpath": "datasets/subset/EmoEvents_raw_subset_original_labels.csv",
-        "abspath": "E:\Projects\PythonProject\Dataset_Labeling_via_GenAI\datasets\subset\EmoEvents_raw_subset_original_labels.csv",
+        "abspath": "E:/Projects/PythonProject/Dataset_Labeling_via_GenAI/datasets/subset/EmoEvents_raw_subset_original_labels.csv",
         "unused_columns": ["id", "offensive"],
         "remap_columns": {"tweet": "text", "emotion": "labels", "event": "context"},
         "unlabeled_label": "others",
@@ -19,6 +19,27 @@ dataset = \
         "num_labelers": 3,
         "num_consensus": 2
     },
+
+
+    "GoEmotions POC": {
+        "id": "goemotions_6_single_poc",
+        "source": "https://github.com/google-research/google-research/tree/master/goemotions",
+        "paper": "https://arxiv.org/pdf/2005.00547",
+        "text_source": "Reddit comment",
+        "filetype": "csv",
+        "location": "local",
+        "is_split": False,
+        "label_format": "single",
+        "relpath": "datasets/goemotions/ekman_6_single_label/poc_subset/goemotions_6_single_poc.csv",
+        "unused_columns": ["original labels", "source"],
+        "remap_columns": {},
+        "unlabeled_label": "",
+        "label_type": "emotion",
+        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
+        "num_labelers": 3,
+        "num_consensus": 2
+    },
+
 
     "EmoEvent (Tokenized)" : {
         "id": "emoevent_en_tokenized",
@@ -38,6 +59,7 @@ dataset = \
         "num_labelers": 3,
         "num_consensus": 2
     },
+
 
     "EmoEvent (Raw)" : {
         "id": "emoevent_en_raw",
@@ -78,24 +100,6 @@ dataset = \
         "num_consensus": 2
     },
 
-    "GoEmotions POC": {
-        "id": "goemotions_6_single_poc",
-        "source": "https://github.com/google-research/google-research/tree/master/goemotions",
-        "paper": "https://arxiv.org/pdf/2005.00547",
-        "text_source": "Reddit comment",
-        "filetype": "csv",
-        "location": "local",
-        "is_split": False,
-        "label_format": "single",
-        "relpath": "datasets/goemotions/ekman_6_single_label/poc_subset/goemotions_6_single_poc.csv",
-        "unused_columns": ["original labels", "source"],
-        "remap_columns": {},
-        "unlabeled_label": "",
-        "label_type": "emotion",
-        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
-        "num_labelers": 3,
-        "num_consensus": 2
-    },
 
     "enISEAR": {
         "id": "enisear",
@@ -115,6 +119,7 @@ dataset = \
         "num_labelers": 3,
         "num_consensus": 2
     },
+
 
     "StackOverflow": {
         "id": "stackoverflow",
