@@ -1,7 +1,7 @@
 dataset = \
 {
-    "EmoEvent POC": {
-        "id": "emoevent_poc",
+    "EmoEvent": {
+        "id": "emoevent",
         "name": "Proof of Concept Subset",
         "source": "https://github.com/fmplaza/EmoEvent",
         "text_source": "tweet",
@@ -16,7 +16,8 @@ dataset = \
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 3,
         "num_consensus": 2
     },
 
@@ -36,7 +37,8 @@ dataset = \
         "unlabeled_label": "",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 5,
         "num_consensus": 2
     },
 
@@ -56,7 +58,8 @@ dataset = \
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 3,
         "num_consensus": 2
     },
 
@@ -76,13 +79,14 @@ dataset = \
         "unlabeled_label": "others",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 3,
         "num_consensus": 2
     },
 
 
-    "GoEmotions (Ekman6)": {
-        "id": "goemotions_6_single",
+    "GoEmotions Ekman Single": {
+        "id": "goemotions_ekman_single",
         "source": "https://github.com/google-research/google-research/tree/master/goemotions",
         "paper": "https://arxiv.org/pdf/2005.00547",
         "text_source": "Reddit comment",
@@ -96,7 +100,8 @@ dataset = \
         "unlabeled_label": "",
         "label_type": "emotion",
         "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 5,
         "num_consensus": 2
     },
 
@@ -116,7 +121,8 @@ dataset = \
         "unlabeled_label": None,
         "label_type": "emotion",
         "label_list": ["Anger", "Disgust", "Fear", "Guilt", "Joy", "Sadness", "Shame"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 3,
         "num_consensus": 2
     },
 
@@ -136,7 +142,8 @@ dataset = \
         "unlabeled_label": None,
         "label_type": "emotion",
         "label_list": ["ANGER", "FEAR", "JOY", "LOVE", "SADNESS", "SURPRISE"],
-        "num_labelers": 3,
+        "min_labelers": 3,
+        "max_labelers": 3,
         "num_consensus": 2
     },
 }

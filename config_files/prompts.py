@@ -1,19 +1,21 @@
 prompt = \
     {
-        "emoevent_poc":
+        "emoevent":
             {
                 'labels':
                     """
                     <context>
                     
                     Classify the following tweet by the emotion the author intended to convey ONLY from the following list:
-                    1. Anger (also includes annoyance, rage)
-                    2. Disgust (also includes disinterest, dislike, loathing)
-                    3. Fear (also includes apprehension, anxiety, terror)
-                    4. Joy (also includes serenity, ecstasy)
-                    5. Sadness (also includes pensiveness, grief)
-                    6. Surprise (also includes distraction, amazement)
-                    Your response should consist of only the most relevant label.
+                    - anger (also includes annoyance, rage)
+                    - disgust (also includes disinterest, dislike, loathing)
+                    - fear (also includes apprehension, anxiety, terror)
+                    - joy (also includes serenity, ecstasy)
+                    - sadness (also includes pensiveness, grief)
+                    - surprise (also includes distraction, amazement)
+                    
+                    <response instructions>
+                    Use ONLY the emotion categories [anger, disgust, fear, joy, sadness, surprise].
                     
                     \"<text>\"
                     """,
@@ -39,16 +41,22 @@ prompt = \
                             "Campeonato Nacional de Liga de Primera Division (La Liga): The men’s top professional football division of the Spanish football league system.",
 
                         'ChampionsLeague':
-                            "The UEFA Champions League (UCL): An annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the best team in Europe"
-                    }
+                            "The UEFA Champions League (UCL): An annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the best team in Europe",
+
+                        'SpainElection':
+                            "The 2019 Spanish general election was held on Sunday, April 2018, to elect the 13th Cortes Generales of the president of Spain."
+                    },
+                'with considerations': "Your response should consist of important points to consider given the text, followed by the one most relevant emotion label within two asterisks (i.e. **emotion**).",
+                'only label': "Your response should consist of only the one most relevant emotion label within two asterisks (i.e. **emotion**)."
             },
 
 
-        "goemotions_6_single_poc":
+        "goemotions_ekman_single":
             {
                 'labels':
-                    """
-                    Identify the emotion most expressed by the writer of the text, from the following choices [anger, disgust, fear, joy, sadness, surprise, neutral] given the emotion category definitions below. 
+                    """Identify the emotion most people will feel the speaker may be feeling given a sentence or a short text snipped uttered by the speaker.
+                    
+                    Choose the emotion from following choices [anger, disgust, fear, joy, sadness, surprise, neutral] given the emotion category definitions below. 
 
                     Emotion Definitions:
                     anger - A strong feeling of displeasure or antagonism.
@@ -101,10 +109,10 @@ prompt = \
                     <response instructions>
                     Use ONLY the emotion categories [anger, disgust, fear, joy, sadness, surprise, neutral].
                     
-                    Here is the Reddit comment to analyze: \"<text>\"
+                    Here is the speaker's Reddit comment (made in response to a post or another commenter) to analyze: \"<text>\"
                     """,
 
-                'GPT': "Your response should consist of important points to consider given the text, followed by your emotion label within two asterisks (i.e. **emotion**).",
-                'Deepseek': "Your response should consist of only the most relevant label within two asterisks (i.e. **emotion**)."
+                'with considerations': "Your response should consist of important points to consider given the text, followed by the one most relevant emotion label within two asterisks (i.e. **emotion**).",
+                'only label': "Your response should consist of only the one most relevant emotion label within two asterisks (i.e. **emotion**)."
             }
     }
