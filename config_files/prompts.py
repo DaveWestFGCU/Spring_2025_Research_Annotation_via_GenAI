@@ -3,22 +3,41 @@ prompt = \
         "emoevent":
             {
                 'labels':
-                    """
-                    <context>
-                    
-                    Classify the following tweet by the emotion the author intended to convey ONLY from the following list:
-                    - anger (also includes annoyance, rage)
-                    - disgust (also includes disinterest, dislike, loathing)
-                    - fear (also includes apprehension, anxiety, terror)
-                    - joy (also includes serenity, ecstasy)
-                    - sadness (also includes pensiveness, grief)
-                    - surprise (also includes distraction, amazement)
-                    
-                    <response instructions>
-                    Use ONLY the emotion categories [anger, disgust, fear, joy, sadness, surprise].
-                    
-                    \"<text>\"
-                    """,
+"""
+You are given a tweet. Your task is to identify the primary emotion the author intended to convey in the tweet and classify it using one of the following labels: anger, disgust, fear, joy, sadness, or surprise.
+
+Mapping Guidelines:
+If the tweet conveys a secondary emotion similar to annoyance or rage, classify it as anger.
+If the tweet conveys a secondary emotion similar to disinterest, dislike, or loathing, classify it as disgust.
+If the tweet conveys a secondary emotion similar to apprehension, anxiety, or terror, classify it as fear.
+If the tweet conveys a secondary emotion similar to serenity or ecstasy, classify it as joy.
+If the tweet conveys a secondary emotion similar to pensiveness or grief, classify it as sadness.
+If the tweet conveys a secondary emotion similar to distraction or amazement, classify it as surprise.
+
+Your response must ONLY consist of one word: the chosen emotion label from the list: anger, disgust, fear, joy, sadness, or surprise. Do not include any explanation, reasoning, or additional text. Output NOTHING but that one label.
+Any record that does not have an expressed emotion MUST be given a label from the list: anger, disgust, fear, joy, sadness, or surprise.
+Neutrality is NOT an acceptable answer.
+
+Context: <context>
+Tweet: \"<text>\"
+""",
+# """
+# You are given a tweet. Your task is to identify the primary emotion the author intended to convey in the tweet and classify it using one of the following labels: anger, disgust, fear, joy, sadness, surprise, or other.
+#
+# Mapping Guidelines:
+# If the tweet conveys a secondary emotion similar to annoyance or rage, classify it as anger.
+# If the tweet conveys a secondary emotion similar to disinterest, dislike, or loathing, classify it as disgust.
+# If the tweet conveys a secondary emotion similar to apprehension, anxiety, or terror, classify it as fear.
+# If the tweet conveys a secondary emotion similar to serenity or ecstasy, classify it as joy.
+# If the tweet conveys a secondary emotion similar to pensiveness or grief, classify it as sadness.
+# If the tweet conveys a secondary emotion similar to distraction or amazement, classify it as surprise.
+# If the tweet conveys no emotion, there are multiple emotions with no dominant one expressed, or more context is needed to determine the emotion, classify it as other.
+#
+# Your response must ONLY consist of one word: the chosen emotion label from the list: anger, disgust, fear, joy, sadness, surprise, or other. Do not include any explanation, reasoning, or additional text. Output NOTHING but that one label.
+#
+# Context: <context>
+# Tweet: \"<text>\"
+# """,
 
                 'context':
                     {
@@ -45,9 +64,7 @@ prompt = \
 
                         'SpainElection':
                             "The 2019 Spanish general election was held on Sunday, April 2018, to elect the 13th Cortes Generales of the president of Spain."
-                    },
-                'with considerations': "Your response should consist of important points to consider given the text, followed by the one most relevant emotion label within two asterisks (i.e. **emotion**).",
-                'only label': "Your response should consist of only the one most relevant emotion label within two asterisks (i.e. **emotion**)."
+                    }
             },
 
 

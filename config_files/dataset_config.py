@@ -9,13 +9,13 @@ dataset = \
         "location": "local",
         "is_split": False,
         "label_format": "single",
-        "relpath": "datasets/subset/EmoEvents_raw_subset_original_labels.csv",
+        "relpath": "datasets/emoevent/raw/emoevent_raw.tsv",
         "abspath": "E:/Projects/PythonProject/Dataset_Labeling_via_GenAI/datasets/subset/EmoEvents_raw_subset_original_labels.csv",
         "unused_columns": ["id", "offensive"],
         "remap_columns": {"tweet": "text", "emotion": "labels", "event": "context"},
         "unlabeled_label": "others",
         "label_type": "emotion",
-        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
+        "all_labels": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "other"],
         "min_labelers": 3,
         "max_labelers": 3,
         "num_consensus": 2
@@ -36,7 +36,7 @@ dataset = \
         "remap_columns": {},
         "unlabeled_label": "",
         "label_type": "emotion",
-        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
+        "all_labels": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
         "min_labelers": 3,
         "max_labelers": 5,
         "num_consensus": 2
@@ -57,7 +57,7 @@ dataset = \
         "remap_columns": {"tweet": "text", "emotion":"labels", "event": "context"},
         "unlabeled_label": "others",
         "label_type": "emotion",
-        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
+        "all_labels": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
         "min_labelers": 3,
         "max_labelers": 3,
         "num_consensus": 2
@@ -78,7 +78,7 @@ dataset = \
         "remap_columns": {"tweet":"text", "emotion":"labels", "event": "context"},
         "unlabeled_label": "others",
         "label_type": "emotion",
-        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
+        "all_labels": ["anger", "disgust", "fear", "joy", "sadness", "surprise"],
         "min_labelers": 3,
         "max_labelers": 3,
         "num_consensus": 2
@@ -99,7 +99,7 @@ dataset = \
         "remap_columns": {},
         "unlabeled_label": "",
         "label_type": "emotion",
-        "label_list": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
+        "all_labels": ["anger", "disgust", "fear", "joy", "sadness", "surprise", "neutral"],
         "min_labelers": 3,
         "max_labelers": 5,
         "num_consensus": 2
@@ -120,7 +120,7 @@ dataset = \
         "remap_columns": {"Sentence": "text", "Prior_Emotion": "labels"},
         "unlabeled_label": None,
         "label_type": "emotion",
-        "label_list": ["Anger", "Disgust", "Fear", "Guilt", "Joy", "Sadness", "Shame"],
+        "all_labels": ["Anger", "Disgust", "Fear", "Guilt", "Joy", "Sadness", "Shame"],
         "min_labelers": 3,
         "max_labelers": 3,
         "num_consensus": 2
@@ -141,7 +141,7 @@ dataset = \
         "remap_columns": {"Text": "text", "Gold Label": "labels"},
         "unlabeled_label": None,
         "label_type": "emotion",
-        "label_list": ["ANGER", "FEAR", "JOY", "LOVE", "SADNESS", "SURPRISE"],
+        "all_labels": ["ANGER", "FEAR", "JOY", "LOVE", "SADNESS", "SURPRISE"],
         "min_labelers": 3,
         "max_labelers": 3,
         "num_consensus": 2
