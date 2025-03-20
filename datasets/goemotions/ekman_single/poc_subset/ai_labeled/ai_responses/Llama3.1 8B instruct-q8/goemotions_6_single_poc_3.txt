@@ -1,0 +1,41 @@
+Record: "If I'm no good I can still give the 1st round a crack, yeah?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to a situation where they may not be considered good enough for something.
+* They express a willingness to try despite potential inadequacy.
+* The tone is matter-of-fact and lacks strong emotional language.
+
+Given these considerations, the most relevant emotion label is **neutral**. The speaker's response does not convey a strong emotional tone, but rather a practical or resigned acceptance of their situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to a suggestion or criticism that they are not good enough.
+* They seem to be considering taking action despite this perceived criticism (e.g. giving the first round a try).
+* Their tone is somewhat ambiguous and open-ended.
+
+Given these considerations, I would identify the emotion as **neutral** because:
+
+* The speaker's language is matter-of-fact and doesn't convey strong emotions like anger or sadness.
+* They're not expressing enthusiasm or joy in response to the suggestion (as might be expected if they were feeling positive).
+* Their tone is neutral and non-confrontational, indicating a lack of strong emotional investment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems uncertain about their ability ("If I'm no good").
+* They are considering taking on a challenge ("give the 1st round a crack").
+
+Given these points, it appears that the speaker is expressing a lack of confidence or uncertainty about their abilities. However, this does not necessarily equate to a negative emotion like anger or fear.
+
+Most relevant emotion label: **sadness**
+
+While sadness is typically associated with emotional pain and sorrow, in this context, the speaker's tone seems more matter-of-fact and uncertain rather than genuinely sad.
+------------------------------------------------------------------------------------------------------------------------
+

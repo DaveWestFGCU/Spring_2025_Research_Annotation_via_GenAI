@@ -1,0 +1,70 @@
+Record: "Because, “nah you guys go ahead”"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out what emotion the speaker is conveying with the comment: "Because, ‘nah you guys go ahead’". Let me break this down step by step.
+
+First, looking at the structure of the sentence. The speaker starts with "Because," which usually sets up an explanation or reason for something that follows. But in this case, it's followed by a quote: “nah you guys go ahead”. The phrase "nah" is slang and often used to mean "no" or to dismiss something.
+
+So, putting it together, the speaker is saying something like, "Because 'nah, you guys go ahead'". This could imply that they're dismissing someone else's statement or advice. Maybe in response to a previous comment where someone was advising them to do something, they replied with this.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one based on how the speaker feels.
+
+Looking at the examples provided:
+
+- Anger often includes annoyance or disapproval. The speaker might be angry if they're dismissing someone's advice harshly.
+- Disgust involves revulsion. The comment doesn't seem to express that.
+- Fear is about being afraid or worried; nothing in the statement suggests fear.
+- Joy would involve happiness, which doesn't fit here.
+- Sadness is about sorrow, which isn't indicated by this dismissive tone.
+- Surprise is about astonishment, but the speaker seems proactive in dismissing others, not surprised.
+- Neutral is lacking emotion, but the use of "nah" might indicate some attitude.
+
+The phrase "nah you guys go ahead" sounds dismissive and a bit rude. It's like telling others to proceed without their input or agreement, possibly indicating that the speaker doesn't care about their opinion anymore. This could stem from frustration or annoyance, which falls under anger.
+
+Alternatively, it might just be a neutral dismissal without any strong emotion behind it. However, considering "nah" is often used with a tone of disapproval or mild irritation, I think anger is more fitting here because it's about dismissing others in an annoyed way rather than being completely neutral.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is, "Because, 'nah you guys go ahead'". Let me break this down.
+
+First, looking at the structure of the sentence: it starts with "Because," which usually introduces a reason or explanation. Then comes "'nah you guys go ahead'". That's in quotes, so maybe it's a direct quote from someone else. The phrase "nah" is slang for "no", often used to decline something.
+
+Putting that together, the speaker is responding to something by saying "nah you guys go ahead." It sounds like they're refusing to do something but suggesting others proceed without them. Now, I need to determine the emotion behind this statement.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. Let's think about each possibility. Anger would involve strong displeasure, which doesn't seem obvious here. Disgust is revulsion but there's no indication of that. Fear would be if they were worried, but again, nothing suggests that.
+
+Joy is a feeling of pleasure. If the speaker was happy, they might use more positive language. Sadness involves emotional pain, but their tone doesn't sound sad. Surprise implies astonishment, which isn't present here either.
+
+That leaves neutral or perhaps another emotion I haven't considered yet. The comment is brief and seems like a refusal without much expression. "Nah" can sometimes be dismissive or indifferent, which might lean towards neutrality because the speaker isn't showing strong emotions—just declining politely.
+
+I think the most fitting emotion here is neutral because there's no clear indication of any other emotion; it's more about refusing in a casual way.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Because, “nah you guys go ahead”". Let me break this down.
+
+First, I know that Reddit comments can be tricky because they're often reactions to posts or other comments. The phrase "nah you guys go ahead" sounds familiar—it's a casual way of dismissing others' actions or decisions while perhaps not fully engaging or supporting them. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one.
+
+Let me think about each possibility. Anger would involve strong displeasure or antagonism, but the speaker doesn't seem angry here; it's more dismissive. Disgust is revulsion or disapproval—maybe if they were saying something offensive, but "nah" isn't necessarily disgusted. Fear involves anxiety or worry; there's no indication of that here.
+
+Joy would be happiness or approval, which doesn't fit because the tone seems indifferent or maybe a bit annoyed. Sadness involves sorrow or disappointment—it doesn't seem like the speaker is expressing sadness. Surprise implies astonishment, but "nah" is more about not caring rather than being surprised.
+
+That leaves neutral. The comment is dismissive and not showing any strong emotion. It's more about turning down an offer or declining to participate in something others are doing. So, the emotion here is likely neutral because there's no clear positive or negative emotion expressed—it's just a refusal without much feeling attached.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

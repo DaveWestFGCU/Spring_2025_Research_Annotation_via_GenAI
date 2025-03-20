@@ -1,0 +1,36 @@
+Record: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker expresses astonishment and admiration for their team's performance, using the word "amazed".
+* They also mention a negative experience with another player ([NAME]), implying frustration or disappointment.
+* However, the tone is more surprise at the team's unexpected success rather than anger or disgust.
+
+Most relevant emotion label: **surprise**
+
+The speaker's reaction to their team's performance and [NAME]'s actions suggests that they are surprised by the outcome. The use of "amazed" and the phrase "one of the worst periods I've watched" creates a sense of unexpectedness, making surprise the most fitting emotion label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses amazement and surprise at their team's performance.
+* They mention a specific incident ("that 2nd was one of the worst periods I've watched") that they feel negatively about.
+* However, their tone is more frustrated than angry, as they're criticizing their own team's performance rather than someone else's.
+
+Most relevant emotion label: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing amazement and surprise at their team's performance.
+* They mention a specific moment ("that 2nd was one of the worst periods I've watched") that they found particularly disappointing or frustrating.
+* The tone appears to be more disappointed than angry, as there is no use of aggressive language.
+
+Most relevant emotion label: **surprise** and **sadness**, but given the context of being "amazed" and expressing disappointment at a specific moment, **sadness** seems more prominent.
+------------------------------------------------------------------------------------------------------------------------
+

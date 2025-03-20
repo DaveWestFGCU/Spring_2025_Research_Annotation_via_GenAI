@@ -1,0 +1,58 @@
+Record: "I'm just really sad all that cake was wasted."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The sentence given is, "I'm just really sad all that cake was wasted." Let me break this down.
+
+First, looking at the structure of the sentence. The speaker starts with expressing a feeling: "I'm just really sad." That's a clear indicator of sadness because they're explicitly stating it. Then, they mention why they feel that way: "all that cake was wasted." So, the context is about something being wasted, which likely made them feel bad.
+
+Now, considering the emotion categories provided. Sadness includes feelings like disappointment and sorrow. In this case, the speaker seems disappointed or upset because their cake was wasted. There's no indication of anger here; they're not expressing frustration towards someone else but rather a lament over something being lost.
+
+Disgust doesn't fit because it usually relates to finding something unpleasant, which isn't the case here. Fear and surprise are about anxiety or astonishment, which aren't present either. Joy is clearly the opposite emotion, so that's out. Neutral is when there's no expressed emotion, but here they're definitely stating sadness.
+
+So putting it all together, the speaker uses "sad" to describe their feeling directly, and the context supports that emotion.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I'm just really sad all that cake was wasted." Let's break this down step by step.
+
+First, looking at the sentence, the speaker starts with "I'm just really sad," which clearly states their emotional state. The word "sad" is a direct indicator of the emotion being experienced here. 
+
+Next, examining the context: they're talking about cake being wasted. Wasting food can be a source of sadness because it's seen as something positive or enjoyable that didn't get used properly. The speaker expresses regret or sorrow over this situation.
+
+Now, considering the emotion categories provided, I need to choose from anger, disgust, fear, joy, sadness, surprise, or neutral. Since the speaker explicitly mentions feeling "sad," that aligns directly with the 'sadness' category.
+
+Looking at the definitions again: Sadness includes emotions like sorrow, disappointment, etc. The comment reflects a sense of loss or regret about the cake being wasted, which fits into the definition of sadness perfectly.
+
+I don't see any elements in the comment that point towards other emotions like anger or disgust. There's no indication of fear, joy, surprise, or neutrality here. The focus is solely on the feeling of sadness.
+
+Therefore, after analyzing the speaker's words and the context, it's clear that the emotion being conveyed is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I'm just really sad all that cake was wasted." 
+
+First, let's break down the sentence. The speaker starts with "I'm just really sad," which clearly states a feeling of sadness. The phrase "all that cake was wasted" indicates something unfortunate happened—maybe the cake wasn't used or went bad, which would naturally cause someone to feel sad.
+
+Looking at the emotion categories provided, I see options like anger, disgust, fear, joy, sadness, surprise, and neutral. Since the speaker explicitly mentions feeling sad, that's a direct indicator pointing towards the "sadness" category.
+
+I should also consider if any other emotions might fit. Is there anything in the comment that suggests anger or frustration? Not really; it's more about the cake being wasted, which is a disappointment rather than something angrily frustrating. Disgust usually involves finding something unpleasant, but the speaker isn't expressing dislike towards the cake itself, just that it was wasted.
+
+Fear would involve feeling scared or anxious, which doesn't seem to apply here. Joy and surprise are clearly not applicable because the tone is negative. Neutral is out since there's an expressed emotion of sadness.
+
+So putting it all together, the emotion most relevant here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

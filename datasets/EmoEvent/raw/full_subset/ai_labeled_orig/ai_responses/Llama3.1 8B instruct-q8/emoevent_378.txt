@@ -1,0 +1,40 @@
+Record: "I was surprised it took almost 24 hours for some anti-Islamic news to show up on my feed regarding #NotreDameCathedralFire https://t.co/ysTBJ4j4yx"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The author is referencing a specific event (the Notre-Dame Cathedral Fire)
+* They mention that it took almost 24 hours for certain news to appear on their feed
+* The news they're referring to is anti-Islamic, which may be perceived as inflammatory or problematic
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+The author's tone suggests that they are expressing surprise at how long it took for certain types of news to emerge in relation to the fire, rather than other emotions like anger, disgust, fear, joy, or sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is reacting to a specific event (the Notre Dame Cathedral Fire) and its media coverage.
+* They mention a delay in seeing anti-Islamic news related to the fire on their feed, which implies they were expecting or anticipating such content.
+* Their tone appears to be critical of the media's response.
+
+Given these points, the author intended to convey **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The tweet mentions a delay in receiving certain news, implying that the author was expecting it sooner.
+* The tone is critical of others for not sharing their perspective or views on the event earlier.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The author is expressing surprise at the delayed response from others regarding their perspective on the Notre Dame Cathedral fire.
+------------------------------------------------------------------------------------------------------------------------
+

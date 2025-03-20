@@ -1,0 +1,59 @@
+Record: "Yep California, I would've been surprised if they cleared him."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query. The user wants me to identify the emotion someone might be feeling based on their Reddit comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Looking at the sentence: "Yep California, I would've been surprised if they cleared him." 
+
+The key word here is "surprised." That immediately makes me think of surprise as one of the emotion categories. But wait, in context, does it fit?
+
+The speaker is expressing that their expectation was that someone wouldn't be cleared. So saying they'd be surprised if they were cleared suggests that they didn't expect it to happen. This aligns with the definition of surprise, which includes astonishment or realization.
+
+I should check other emotions to rule them out. There's no indication of anger (annoyance) here, nor disgust at something offensive. Fear isn't present unless there's worry, but the comment is more about expectation. Joy? No, it's not positive. Sadness might be if they were disappointed, but surprise seems more fitting.
+
+So yes, surprise is the emotion here because of the unexpected outcome being discussed.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment is: "Yep California, I would've been surprised if they cleared him." Let's break this down.
+
+First, looking at the sentence structure and wording. The speaker starts with "Yep," which sounds casual but doesn't indicate any strong emotion yet. Then they mention being surprised if something happened ("they cleared him"). 
+
+The key word here is "surprised." According to the emotion definitions, surprise includes astonishment or being startled by something unexpected. So when the speaker says they would've been surprised, it suggests that the outcome (clearing him) was not expected.
+
+Now, looking at the other emotions: anger isn't indicated here because there's no expression of displeasure or antagonism. Disgust doesn't seem relevant as there's nothing unpleasant mentioned. Fear isn't present either since there's no indication of being afraid or worried. Joy isn't shown; the speaker isn't expressing happiness or approval. Sadness isn't evident either, as there's no sorrow or disappointment expressed. Neutral is not applicable because the speaker is clearly stating an emotion.
+
+So, putting it all together, the speaker is expressing that they found a certain outcome surprising, which fits into the surprise category.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Yep California, I would've been surprised if they cleared him." 
+
+First, let's break down the sentence. The word "surprised" jumps out at me because it directly relates to one of the emotions we're considering—surprise. But before jumping to conclusions, I should analyze the context and the emotion categories.
+
+The speaker is talking about being surprised if someone was cleared, which implies that they didn't expect that outcome. This suggests a sense of astonishment or unexpectedness. Now, let's look at the other emotions to see if any might fit better.
+
+Anger: The comment doesn't express irritation or displeasure; it's more about expectation and surprise.
+Disgust: There's no indication of revulsion or disapproval here.
+Fear: The speaker isn't expressing worry or anxiety but rather an unexpected outcome.
+Joy: No happiness or pleasure is conveyed in this statement.
+Sadness: There's no sorrow or disappointment mentioned.
+Neutral: While the comment is factual, the use of "surprised" indicates some emotion beyond neutrality.
+
+Therefore, the most relevant emotion here is surprise because the speaker explicitly mentions being surprised by an unexpected outcome.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

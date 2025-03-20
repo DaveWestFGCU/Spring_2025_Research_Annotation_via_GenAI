@@ -1,0 +1,65 @@
+Record: "Very disappointed Salah failed to net that. You just have to score or at least hit the target. What more can you say about Messi. Ridiculous man. Ridiculous career. #BARLIV #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I'm trying to classify this tweet based on the emotion the author intended to convey. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's read the tweet carefully: "Very disappointed Salah failed to net that. You just have to score or at least hit the target. What more can you say about Messi. Ridiculous man. Ridiculous career. #BARLIV #ChampionsLeague"
+
+Okay, so the author is talking about Salah and Messi. They express disappointment with Salah's performance, mentioning he failed to score or even hit the target. Then they criticize Messi, calling him a "ridiculous man" and having a "ridiculous career."
+
+The emotion here seems strong. The words "disappointed," "failed," "score," "hit the target," "ridiculous" all carry negative connotations. But I need to map this to one of the six categories.
+
+Looking at the options:
+
+- Anger: This involves annoyance or rage.
+- Disgust: Includes disinterest, dislike, loathing.
+- Sadness: Involves pensiveness or grief.
+- Surprise: Could be distraction or amazement.
+
+The author is clearly expressing frustration and criticism. They're not just sad about the outcome; they're showing strong dissatisfaction. The use of words like "ridiculous" suggests a sense of disgust, perhaps with Messi's performance or career path.
+
+Wait, but could it also be anger? Because disappointment can lead to anger, especially when directed at someone's failure, like missing an important opportunity in a game.
+
+However, the primary emotion seems to be more about dislike and frustration rather than pure anger. The criticism towards both Salah and Messi points towards disgust or maybe even surprise if the performance was unexpected. But given the strong negative adjectives, I think disgust is more fitting because it's more about disapproval and dislike.
+
+So, considering all that, I would classify this tweet under disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion is conveyed in this tweet. Let me start by reading the tweet carefully.
+
+The user says, "Very disappointed Salah failed to net that." They express disappointment because Salah didn't score or even hit the target. Then they compare Messi and say, "Ridiculous man. Ridiculous career." The hashtags are #BARLIV and #ChampionsLeague.
+
+First emotion word: "disappointed" – that's a clear indicator of sadness. The user is expressing dissatisfaction with Salah's performance. They're upset because he didn't score as expected.
+
+Next, they mention Messi in a negative way, calling him "ridiculous." That adds to the frustration but still falls under disappointment rather than anger or disgust. There's no indication of fear or surprise; it's more about the outcome not meeting their expectations.
+
+So, the primary emotion here is sadness because of unmet expectations and disappointment.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let's break this down. The user wants me to classify a tweet based on emotion from a list: anger, disgust, fear, joy, sadness, surprise.
+
+First, I'll read the tweet carefully. It says, "Very disappointed Salah failed to net that. You just have to score or at least hit the target. What more can you say about Messi. Ridiculous man. Ridiculous career." The hashtags are #BARLIV and #ChampionsLeague.
+
+The author is talking about Salah missing a chance and Messi in a negative way. Words like "disappointed," "ridiculous" show strong feelings. Disappointment often relates to sadness, but the tone seems more intense. They're criticizing both players harshly, which could indicate anger or disgust.
+
+Looking at emotion categories: anger involves annoyance or rage. The author is clearly frustrated with Salah's performance and critical of Messi. Using words like "ridiculous" adds to that frustration. Disappointment can tie into sadness, but here the focus is more on criticism and intense dissatisfaction, which points more towards anger.
+
+So I think the emotion conveyed is anger because it's about being annoyed or frustrated with the players' performance.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

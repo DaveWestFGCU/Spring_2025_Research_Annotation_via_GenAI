@@ -1,0 +1,70 @@
+Record: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query. The user wants me to identify the emotion someone is feeling based on their Reddit comment. They've given specific emotion categories and definitions, so I need to make sure I match the comment accurately.
+
+The comment in question is: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists"
+
+First, let's break this down. The speaker mentions [NAME] looking down on Chinese people, implying a negative attitude towards them. This could suggest feelings like anger or disgust. 
+
+Looking at the emotion definitions, anger is described as a strong feeling of displeasure or antagonism, including annoyance and disapproval. Disgust involves revulsion or strong disapproval toward something unpleasant.
+
+In this case, the speaker seems to be pointing out that [NAME] are looking down on Chinese people, which shows disapproval or disdain. This fits more with disgust because it's about their attitude towards a group of people rather than an angry reaction. 
+
+Additionally, the comment doesn't express any positive emotions like joy, nor does it show fear or surprise. There's no indication of sadness either. The focus is on the negative evaluation of others' behavior, which aligns with disgust.
+
+So, after considering all possibilities, I conclude that the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out which emotion the speaker might be feeling based on their comment. The sentence is: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists." 
+
+First, I need to break down the content and context. The speaker is talking about people who are looking down on Chinese individuals. They mention that these people have forgotten why Singapore exists. 
+
+Looking at the emotion categories provided:
+
+- **Anger**: This would involve strong displeasure or antagonism. If someone is frustrated with others' behavior, anger might be involved.
+- **Disgust**: This relates to revulsion or disapproval. The speaker might feel disgusted by the attitudes of these people.
+- **Fear**: Not really present here; there's no indication of worry or anxiety.
+- **Joy**: Doesn't seem applicable as there's no positive emotion expressed.
+- **Sadness**: Maybe, but more about emotional pain rather than strong disapproval.
+- **Surprise**: The statement is straightforward, so surprise isn't likely unless something unexpected was said.
+- **Neutral**: If the speaker is just stating facts without emotion, but here they seem to have a reaction.
+
+The key part is "look down on 中国人." Looking down implies a negative attitude or condescending behavior. The speaker points out that these people have forgotten why Singapore exists, which suggests they disapprove of such attitudes. 
+
+Disgust fits because the speaker is expressing strong disapproval towards the others' behavior. They find it offensive and are likely feeling revolted by their actions. Alternatively, anger could also fit as there's a sense of annoyance or disapproval, but disgust seems more about the overall negative reaction to something unpleasant.
+
+I think disgust is the most appropriate emotion here because the speaker is showing strong disapproval towards others' condescending behavior.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists." 
+
+First, let me understand the context. It's a Reddit comment, probably in response to another post or commenter. The speaker mentions people from [NAME] looking down on Chinese people and forgetting why Singapore exists. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The comment seems critical of [NAME]'s behavior towards Chinese individuals. The phrase "look down on" suggests a negative attitude or disrespect. The part about forgetting the reason Singapore exists implies that the speaker is pointing out an oversight or ignorance in others' actions. This could indicate frustration or disapproval, which are components of anger.
+
+I should check if it's disgust instead. Disgust involves revulsion towards something unpleasant. While the behavior described is negative, the speaker isn't expressing personal aversion but rather criticism towards [NAME]'s attitude. 
+
+Fear is about being afraid or worried; there's no indication of that here. Joy and surprise are positive emotions, which don't fit. Sadness would involve sorrow or disappointment, but the tone here is more confrontational.
+
+Therefore, anger seems most appropriate because the speaker is expressing disapproval and frustration towards [NAME]'s actions.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

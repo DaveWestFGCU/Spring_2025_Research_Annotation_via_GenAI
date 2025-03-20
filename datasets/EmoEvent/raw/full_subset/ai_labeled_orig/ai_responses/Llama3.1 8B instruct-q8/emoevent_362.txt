@@ -1,0 +1,37 @@
+Record: "USER is prepared for a big celebration, hope not prematurely. Could clinch #LaLiga title tonight.💥💥💥 https://t.co/D6ESeDBDSS"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author of the tweet is expressing excitement and anticipation about a potential event.
+* The use of emojis (💥💥💥) suggests enthusiasm and energy.
+* The tone of the tweet is positive and optimistic.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The user mentions being "prepared for a big celebration", indicating excitement and anticipation.
+* They express a hint of caution with the phrase "hope not prematurely", suggesting a sense of uncertainty or possibility that it might not happen.
+* The use of multiple fireworks emojis (💥) adds to the celebratory tone.
+
+Based on these points, the author's intended emotion is:
+
+**joy**
+
+The user is clearly excited and hopeful about their team potentially winning the title, which suggests a positive and joyful tone. The cautionary note adds a hint of uncertainty, but overall the sentiment remains positive and celebratory.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions being "prepared for a big celebration", indicating excitement or anticipation.
+* They express a caveat with the phrase "hope not prematurely", suggesting a note of caution but still an overall positive tone.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+Record: "I’m so inspired by this young girl and at the same time so ashamed/sad of the corruption in politics today that it takes a 13 year old to actually listen and stop with the BS #GretaThunberg #inspiring #womenleaders #ClimateActionNow #ClimateStrike  #auspol2019 #VoteGreen2019 https://t.co/Rkl5Yd18Q8"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify a tweet by the emotion it conveys using only the given categories: anger, disgust, fear, joy, sadness, surprise. Let me look at the tweet carefully.
+
+The tweet says: "I’m so inspired by this young girl and at the same time so ashamed/sad of the corruption in politics today that it takes a 13 year old to actually listen and stop with the BS #GretaThunberg #inspiring #womenleaders #ClimateActionNow #ClimateStrike #auspol2019 #VoteGreen2019 https://t.co/Rkl5Yd18Q8"
+
+Breaking this down, the author starts by expressing inspiration from a young girl, which is positive. However, they quickly pivot to negative emotions: ashamed and sad about political corruption. They're frustrated that it takes a child to make a difference, indicating disappointment or sorrow.
+
+The hashtags include #GretaThunberg, climate action, and politics-related tags, but the key emotion words are "ashamed/sad." The combination of being inspired yet feeling shame and sadness suggests the dominant emotion is sadness. Even though there's an element of frustration (which could lean towards anger), the explicit mention of feeling sad makes that the primary emotion.
+
+So, considering all this, the tweet primarily conveys sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise. Let's look at the content.
+
+The user starts by saying they're "inspired" and mentions a young girl, Greta Thunberg. Then they express feeling "ashamed/sad" about political corruption because it takes a 13-year-old to stop the BS. 
+
+So, the main emotions here are inspiration (which is positive but not one of the categories) and sadness or shame due to corruption in politics. Since the options don't include positive emotions like joy, but they do have sadness.
+
+The tweet combines both inspiration and negative feelings towards political issues. The key emotion conveyed seems to be sadness because they're ashamed and sad about the situation.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this problem. I need to classify a tweet by the emotion it conveys using only the given categories: anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet, the author says they're "inspired" and also feel "ashamed/sad" because of political corruption. The use of words like "BS" indicates frustration. So, there are mixed emotions here—inspiration is joy-related, but the shame and sadness point more towards negative feelings.
+
+The key part is the mention of feeling sad and ashamed. Sadness fits directly into one of the categories, so that's likely the primary emotion intended.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

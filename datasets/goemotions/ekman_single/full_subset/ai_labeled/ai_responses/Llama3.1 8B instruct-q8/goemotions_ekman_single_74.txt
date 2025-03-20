@@ -1,0 +1,40 @@
+Record: "I'm excited as a Lions fan."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions they are a fan of the Lions.
+* They express excitement about their team, using the word "excited".
+* There is no indication of any negative emotions such as anger, disgust, fear, or sadness.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+Reasoning: The speaker's use of the word "excited" and the context of being a fan suggest that they are experiencing a positive emotion. Joy encompasses feelings of pleasure and happiness, which align with the speaker's enthusiastic tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions being "excited", which is a positive emotion.
+* The context is a sports team, specifically the Detroit Lions.
+* The tone appears enthusiastic and optimistic.
+
+Most relevant emotion label: **joy**
+The speaker's excitement about their favorite sports team suggests a feeling of pleasure and happiness, which aligns with the joy category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions being a "Lions fan", which suggests they have some level of enthusiasm and attachment to the team.
+* They use the word "excited", which is often associated with positive emotions.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of the word "excited" and their self-identification as a "Lions fan" suggests that they are feeling enthusiasm and happiness, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+

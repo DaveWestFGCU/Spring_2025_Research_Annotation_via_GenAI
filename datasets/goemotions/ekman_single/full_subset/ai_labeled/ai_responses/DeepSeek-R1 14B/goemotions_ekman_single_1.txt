@@ -1,0 +1,52 @@
+Record: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The sentence given is: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period." 
+
+First, looking at the words used. They start with "amazed," which immediately makes me think of surprise or astonishment. The speaker is expressing that they're shocked about getting two points after what they describe as a terrible period. Using words like "amazed" and "worst periods I've watched" indicates both surprise and negative feelings.
+
+The mention of [NAME] stealing the period could imply that someone took something valuable or perhaps acted unfairly, which might add elements of anger or disgust. But the primary emotion seems to be the astonishment at the outcome, hence surprise.
+
+Looking at the emotion categories: surprise includesastonishment, which fits here because the speaker is clearly expressing being amazed and possibly taken aback by the situation. While there are negative connotations about the period being bad and someone stealing it, the strongest emotional indicator is the word "amazed," pointing directly to surprise rather than anger or disgust.
+
+So, after considering all this, I think the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out the emotion behind this Reddit comment: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period." 
+
+First, let's break down each part of the sentence. The speaker starts by saying they're "amazed" we got 2 points. Amazed usually relates to surprise or astonishment. Then they mention that the second point was one of the worst periods they've ever watched, which sounds like disappointment or frustration—maybe sadness? They also accuse someone named [NAME] of stealing that period, which could indicate anger.
+
+Looking at the emotion definitions: Surprise includesastonishment and realization, while anger involves displeasure or antagonism. The word "amazed" points towards surprise, but the negative comments about the period being terrible might lean more towards anger or disgust. However, the primary emotion here seems to be the astonishment that they managed to get 2 points despite such a bad performance.
+
+Wait, but the speaker is expressing both positive (getting two points) and negative emotions (disappointment with the second point). The key phrase is "amazed we walked away with 2 points." That's clearly an expression of surprise because they're astonished that they managed to get any points at all, especially after a bad period. So even though there are elements of frustration or anger towards [NAME], the main emotion here is surprise.
+
+I think I might have overcomplicated it by considering both surprise and other emotions. The speaker's initial reaction is surprise at the outcome despite their dissatisfaction with the performance. Therefore, the most relevant emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break this down. The speaker is responding to something on Reddit and says, "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period." 
+
+First, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The word "amazed" stands out because it's a strong indicator of surprise. The speaker seems astonished that they only got 2 points and refers to the second period as one of the worst they've seen. Using "stole" could imply frustration but in this context, combined with "amazed," it leans more towards surprise rather than anger.
+
+No signs of fear or sadness here; it's more about being unexpectedly impressed by how poorly things went despite a small positive outcome. The tone suggests disbelief rather than any negative emotion beyond the situation itself.
+
+So, putting it all together, the emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

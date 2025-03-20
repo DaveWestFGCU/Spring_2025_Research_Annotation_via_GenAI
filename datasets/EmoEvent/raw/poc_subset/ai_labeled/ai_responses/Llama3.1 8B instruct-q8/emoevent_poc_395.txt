@@ -1,0 +1,40 @@
+Record: "I did this with tuna salad. I already ate tuna a lot (at the time) and it’s a decently blank slate."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is talking about creating something with tuna salad.
+* They mention that they already ate tuna a lot at the time, implying that it's not new or exciting.
+* The phrase "decently blank slate" suggests that the author sees tuna as a neutral ingredient.
+
+Most relevant emotion label: **joy**
+
+Note: While the text doesn't explicitly convey intense emotions, the tone seems lighthearted and positive. The use of the word "decently" also implies a sense of satisfaction or enjoyment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+* The author is reflecting on their past experience with eating tuna salad.
+* They mention that they had eaten a lot of tuna at the time, implying a sense of familiarity or routine.
+* The phrase "decently blank slate" suggests that the author found tuna to be a neutral ingredient.
+
+Based on these points, the most relevant emotion label is:
+**joy** 
+
+The author's tone seems casual and matter-of-fact, which is often associated with feelings of joy or contentment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author is reflecting on their past action of making tuna salad.
+* They mention that they had eaten tuna frequently at the time, implying familiarity with the ingredient.
+* They describe tuna as a "decently blank slate", which suggests a neutral or unremarkable quality.
+
+Given these points, it appears that the author's tone is matter-of-fact and perhaps slightly amused by their past decision to make tuna salad. This suggests that they are not strongly emotional about the topic.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

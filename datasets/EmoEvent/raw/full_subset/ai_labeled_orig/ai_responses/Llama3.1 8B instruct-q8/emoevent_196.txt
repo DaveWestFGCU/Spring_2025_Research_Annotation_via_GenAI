@@ -1,0 +1,36 @@
+Record: "That was the best hour and a half of TV I've ever witnessed.   Suspense. Action. Horror. Devastation. Delight!   #GameOfThrones #GOT8 #BattleOfWinterfell https://t.co/porhRjQHKX"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses positive adjectives such as "best", "suspense", "action", and "delight" which suggest a strong positive emotional response.
+* The author mentions a range of intense emotions including "horror" and "devastation", but these are likely being used in an exaggerated or ironic way, given the overall tone of the tweet is enthusiastic.
+* The author's use of multiple exclamation points also suggests excitement and enthusiasm.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses words like "best", "suspense", "action", and "delight" which convey a positive tone.
+* The mention of "horror" and "devastation" could be negative, but in this context it's likely used to describe the intense and dramatic plot rather than being genuinely disturbing or upsetting.
+* The overall sentiment is enthusiastic and celebratory.
+
+**joy**
+
+This classification is based on the use of positive adjectives and the overall tone of excitement and appreciation for the TV show.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is discussing a TV show they enjoyed.
+* They mention various intense emotions such as suspense, horror, and devastation.
+* However, they also mention "Delight", which suggests a positive emotional response.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

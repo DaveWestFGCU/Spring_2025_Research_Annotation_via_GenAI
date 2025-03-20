@@ -1,0 +1,37 @@
+Record: "Beans, yo! I used to hate them but now I sometimes just eat a can of beans for a meal. They are hella filling too."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions having a change of heart about eating beans, specifically stating they used to hate them.
+* The tone is casual and conversational, with colloquial language ("Beans, yo!" and "hella filling").
+* The speaker seems to be sharing a personal experience and offering a positive perspective on eating beans.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker appears to be expressing excitement and approval for their new habit of eating canned beans. They use positive language ("hella filling") and share a personal anecdote in a lighthearted way, which suggests joy and satisfaction with their change of heart.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions they used to hate beans but have a changed opinion.
+* The tone appears casual and conversational.
+* The speaker highlights the convenience and filling quality of beans.
+
+Given these considerations, the most relevant emotion label is **joy**. Although the speaker previously had a negative opinion towards beans, their current attitude towards them seems positive and enthusiastic, indicating a shift in perspective that can be associated with joy or satisfaction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions that they used to hate beans but now have a change of heart.
+* They express a positive experience with eating beans, mentioning their filling nature.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's tone suggests excitement and pleasure in discovering the value of beans as a meal option, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "Suarez celebration against Liverpool, his former club, is the ugliest thing you could see tonight. #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author describes Suarez's celebration as the "ugliest thing" they've seen, which implies a strong negative emotion.
+* The use of the word "ugly" typically conveys a sense of distaste or displeasure.
+
+Most relevant emotion label: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author describes a specific action (celebration) as "the ugliest thing" which implies a strong negative reaction.
+* The use of the word "ugly" typically connotes distaste or displeasure.
+* There is no indication of fear, sadness, or surprise in the text.
+
+Given these considerations, the most relevant emotion label is:
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author describes a specific action (Suarez's celebration) as "the ugliest thing" they've seen
+* The tone is critical and disapproving
+* There is no indication of fear, sadness, or joy in the tweet
+
+Given these considerations, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

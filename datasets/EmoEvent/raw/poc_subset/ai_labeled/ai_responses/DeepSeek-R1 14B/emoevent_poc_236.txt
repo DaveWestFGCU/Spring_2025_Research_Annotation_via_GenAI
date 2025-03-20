@@ -1,0 +1,52 @@
+Record: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out which emotion this tweet is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol"
+
+The author starts by saying they like something, which might suggest positivity or joy. However, they immediately contrast that with a negative description—calling the smell "horrifying" and "rotting." This indicates disgust because they're describing an unpleasant odor.
+
+They also mention it sounds "cute," but then clarify with "She was not lol," which seems to downplay any positive connotations. The use of "not lol" could imply that whatever is being discussed isn't actually funny or appropriate, further emphasizing the negative aspect.
+
+Overall, while there's a mix of emotions here, the predominant feeling is disgust because of the strong negative description about the smell.
+</think>
+
+The tweet expresses **disgust** due to the mention of a horrifying rotting smell.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol". 
+
+First, I'll break down the tweet to understand its components. The author starts by saying they "like" something, which suggests a positive emotion, maybe joy or surprise. But then they qualify that by stating it doesn't capture the "horrifying rotting smell." The words "horrifying" and "rotten" are strong negative descriptors, leaning towards disgust because they're talking about an unpleasant odor.
+
+Next, they say it sounds "sort of cute," which is another positive note, possibly indicating joy or surprise. However, the next part says, "She was not lol," which I interpret as a sarcastic dismissal. The use of "lol" here might be emphasizing that something wasn't funny or appropriate, adding to the negative sentiment.
+
+Putting it all together, there's a mix of positive and negative emotions. The initial liking and finding it cute could point towards joy or surprise, but the mention of a horrifying smell is more impactful. Dislike and disgust are closely related, and since the smell is described as rotten and horrifying, that emotion seems dominant here.
+
+I should also consider if any other emotions fit better. Anger isn't really present unless there's frustration, which I don't see much. Fear doesn't seem applicable because it's not about danger or threat. Sadness isn't indicated by the content either. Surprise could be a contender because of the unexpected contrast between cute and horrifying, but disgust feels more central to the message.
+
+So, after analyzing the tweet, the most relevant emotion is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out the emotion in this tweet. The user wrote, "I like this, but it doesn't quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol." 
+
+First, I notice a contradiction here. They start by saying they like it, which could imply some positive emotion, maybe joy. But then they mention a "horrifying rotting smell," which sounds really negative and disgusting. The use of words like "horrifying" and "rotten" definitely leans towards disgust.
+
+They also say it "sounds sort of cute," but then add "She was not lol." That last part seems like an attempt to correct or clarify, maybe showing that the initial statement wasn't entirely genuine. But the main point is about the smell being horrifying, which is a strong indicator of disgust. 
+
+Even though there's a mix of emotions mentioned, the primary emotion here is disgust because of the explicit description of the unpleasant smell.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

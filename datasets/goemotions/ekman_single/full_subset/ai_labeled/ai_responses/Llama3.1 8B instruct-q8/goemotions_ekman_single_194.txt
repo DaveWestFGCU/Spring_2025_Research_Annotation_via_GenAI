@@ -1,0 +1,34 @@
+Record: "That’s not true. She represents those who voted her into power."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is disputing information presented by someone else.
+* The speaker seems to be defending a person, likely the subject of the original post.
+* The tone appears confrontational and assertive.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is denying a claim made about someone.
+* The speaker is defending the person being discussed.
+* The tone of the comment seems assertive and direct.
+
+Given these points, it appears that the speaker may be feeling **anger** because they are strongly disagreeing with another's statement and asserting their own perspective in a forceful manner.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to a statement they disagree with.
+* They are correcting the original claim, implying it's incorrect.
+* Their tone seems defensive and assertive.
+
+Given these points, the most relevant emotion label is **anger**. The speaker's tone and language suggest a strong feeling of displeasure or antagonism towards the opposing view, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+

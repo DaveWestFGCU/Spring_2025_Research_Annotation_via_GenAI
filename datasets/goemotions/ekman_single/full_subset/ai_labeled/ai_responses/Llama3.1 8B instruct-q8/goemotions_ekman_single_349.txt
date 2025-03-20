@@ -1,0 +1,39 @@
+Record: "Which sucks, because it's a *bitch* to find replacements for those."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses an expletive ("bitch") which can indicate strong negative emotions.
+* The phrase "it's a *bitch*" is idiomatic and often used to express frustration or annoyance.
+* The overall tone of the sentence suggests that the speaker is unhappy with the situation.
+
+Most relevant emotion label: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses profanity ("bitch") which indicates strong language and possibly strong emotions.
+* The context is about finding replacements, implying that something is lacking or unfulfilling.
+* The tone seems casual, but the use of a derogatory word suggests frustration.
+
+Most relevant emotion: **anger**
+
+Reasoning: While the speaker's tone appears casual, the use of profanity ("bitch") and the statement about something being difficult to find replacements for implies frustration and possibly anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses strong language ("a *bitch*" is an expletive), which suggests a strong negative emotion.
+* The speaker mentions that something is difficult or frustrating ("a *bitch* to find replacements"), implying that they are experiencing some level of annoyance.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of strong language and mention of difficulty/frustration suggest that they are feeling annoyed or irritated, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+

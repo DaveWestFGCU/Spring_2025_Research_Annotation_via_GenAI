@@ -1,0 +1,39 @@
+Record: "I’m so disappointed that the Notre Dame didn’t burn all the way to the ground. #NotreDame #NotreDameCathedralFire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are some points to consider:
+
+* The author is expressing a negative sentiment towards the fire not spreading completely.
+* The author's tone implies a sense of longing or disappointment, rather than anger or frustration.
+* There is no indication that the author feels afraid, disgusted, joyful, or surprised by the situation.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+The author appears to be expressing sadness and disappointment that the cathedral did not experience complete destruction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a negative sentiment about the fire not spreading completely.
+* They seem to be hinting at a desire for the destruction of the cathedral.
+* The tone appears to be melancholic or regretful.
+
+Most relevant emotion label: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author expresses disappointment
+* Disappointment can be a negative emotion
+* However, disappointment is closely related to sadness and grief
+
+Given the context of the tweet and the author's statement, it appears they are expressing regret that the cathedral didn't suffer more damage. This suggests a sense of loss or dissatisfaction.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

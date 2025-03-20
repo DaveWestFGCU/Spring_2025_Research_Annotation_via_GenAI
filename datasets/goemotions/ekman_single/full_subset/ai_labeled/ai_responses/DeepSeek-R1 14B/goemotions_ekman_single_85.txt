@@ -1,0 +1,56 @@
+Record: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out which emotion the speaker is feeling based on their comment. The comment says, "I didn't delete it. Your moderators did. But that's what [NAME] do, they..." 
+
+First, I'll break down the sentence. The speaker is pointing out that someone else (the moderators) deleted something, not them. This might indicate some frustration or maybe a bit of defensiveness. They're correcting the other person about who was responsible.
+
+Looking at the emotion categories: anger involves displeasure or antagonism. Disgust is about revulsion or disapproval. Fear is related to being afraid or worried. Joy is happiness, sadness is sorrow, surprise is astonishment, and neutral is without emotion.
+
+The speaker doesn't seem happy or sad, nor are they expressing fear or surprise. They're correcting someone else's assumption, which could come off as annoyed or frustrated—those feelings fall under anger. There's no strong indication of disgust, which would involve something offensive. So, I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure this out. So, I have to determine the emotion the speaker is feeling based on their comment. The comment is: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+
+First, looking at the structure of the sentence, the speaker is explaining that someone else (the moderators) deleted something, not them. They're clarifying that the action wasn't their doing. The tone seems a bit defensive or maybe annoyed because they feel the need to correct the other person's assumption.
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise, and neutral. I need to choose the most relevant one. Anger often involves strong displeasure or antagonism. In this case, the speaker is correcting someone else, which could indicate mild frustration but not necessarily full-blown anger. Disgust usually involves revulsion towards something unpleasant, which doesn't seem applicable here.
+
+Fear is about being afraid or worried; there's no indication of that in the comment. Joy and surprise are positive emotions, so probably not. Sadness would involve emotional pain, which also isn't evident here. Neutral is a possibility because sometimes people don't express any emotion strongly.
+
+But considering the defensive tone and the correction, it might lean towards mild anger or frustration rather than neutral. However, since the comment doesn't show strong language or clear indicators of anger, maybe it's more on the neutral side as they're simply stating facts without much emotional expression.
+
+Wait, but the user says "I didn't delete it," which could imply some defensiveness, a hint of annoyance perhaps. So, is that closer to anger or still neutral? The emotion categories are specific, so if there's any trace of frustration, maybe anger. But if it's just clarifying without strong feelings, it's neutral.
+
+I think the speaker isn't expressing a strong emotion but rather stating facts, so neutral might be the best choice.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+
+First, let me break down the sentence. The speaker is saying that they didn't delete something, but the moderators did. Then they mention that's what "[NAME]" does, but the sentence ends abruptly with "they" so I'm not sure about the full thought there.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. 
+
+The speaker is pointing out that someone else (moderators) took action, implying maybe they're upset about it. The use of "But that's what [NAME] do" suggests frustration or disapproval towards [NAME]. This could indicate anger because they seem annoyed or critical.
+
+I don't see any signs of disgust, which would involve something unpleasant. Fear isn't present here; there's no mention of being worried. Joy and surprise are also absent as the tone is more negative. Sadness might be possible if it's about disappointment, but the focus seems to be on blaming others rather than expressing sorrow. 
+
+So, putting it together, the emotion is likely anger because of the frustration and disapproval towards [NAME] for their actions.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

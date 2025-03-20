@@ -1,0 +1,33 @@
+Record: "The one who accidently paid 1 cent less couldn't have just given the other dumb bitch a penny? smdh"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses derogatory language ("dumb bitch") which suggests strong negative emotions.
+* The tone is dismissive and critical, implying frustration or annoyance.
+* The comment focuses on a specific action (the person not giving the other person a penny) rather than the overall situation.
+
+Given these points, the most relevant emotion label for this speaker's comment is **anger**, as it involves strong negative emotions towards someone else's behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language ("dumb bitch") and an abbreviation for a dismissive expression (smdh), which may indicate a negative emotion.
+* The speaker is reacting to someone's actions, specifically not giving the other person a penny after accidentally paying 1 cent less.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses derogatory language towards another person, calling them a "dumb bitch".
+* The tone is critical and disapproving.
+* The speaker implies that the action of not giving an extra penny was inconsiderate or lazy.
+
+Based on these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

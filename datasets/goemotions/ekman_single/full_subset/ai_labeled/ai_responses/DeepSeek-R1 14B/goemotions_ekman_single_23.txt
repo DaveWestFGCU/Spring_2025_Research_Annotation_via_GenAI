@@ -1,0 +1,57 @@
+Record: "Yeah I regret ever moving to Leduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment: "Yeah I regret ever moving to Lduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let me break down the sentence. The speaker starts with a strong statement of regret about moving to Leduc. They describe it as "backwoods" and "proud-to-be-ignorant," which are terms that carry negative connotations. The word "regret" itself indicates some level of dissatisfaction or unhappiness.
+
+Looking at the emotion definitions, sadness is defined as emotional pain or sorrow, including disappointment. Here, the speaker expresses regret and disappointment in their choice to move, describing the community negatively. There's no indication of anger or disgust, which might involve stronger words or more direct expressions of dislike. Fear isn't present because there's no mention of being afraid or worried. Joy and surprise are clearly not applicable here since the sentiment is negative. Neutral doesn't fit because the speaker is expressing a strong emotion.
+
+So, putting it all together, the emotion seems to be sadness, as the speaker is expressing regret and disappointment.
+</think>
+
+The speaker expresses regret and disappointment about moving to Leduc, describing it negatively. This fits the definition of sadness, which includes emotional pain and disappointment.
+
+**emotion**
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The sentence is: "Yeah I regret ever moving to Leduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen." 
+
+First, I'll break down the words and tone used here. The speaker mentions regretting moving to a place called Leduc. They describe it as "backwoods" and "proud-to-be-ignorant," which are negative descriptors. Backwoods can imply being in a rural or less developed area, often associated with being behind the times or having limited education. Using "proud-to-be-ignorant" clearly shows disapproval.
+
+The emotion categories to choose from are anger, disgust, fear, joy, sadness, surprise, and neutral. Let's go through each possibility:
+
+1. Anger: The speaker doesn't seem angry; they're expressing disappointment rather than intense rage.
+2. Disgust: The words used suggest a strong dislike or disapproval of the community. "Proud-to-be-ignorant" is derogatory, indicating disgust.
+3. Fear: There's no indication of fear or worry here; it's more about negative judgment.
+4. Joy: Definitely not joy; the tone is negative.
+5. Sadness: Regret could be linked to sadness, but the stronger emotion here seems to be the speaker's disapproval rather than sorrow.
+6. Surprise: No element of surprise in the statement.
+7. Neutral: The speaker clearly has an opinion, so it's not neutral.
+
+So, putting it together, the strongest emotion is disgust because they're expressing strong disapproval and revulsion towards the community. They don't just dislike it; they're disgusted by its characteristics.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out the emotion behind this comment: "Yeah I regret ever moving to Leduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen."
+
+First, I notice that the speaker is expressing regret about moving somewhere. Regret often ties into sadness because it involves looking back with disappointment or unhappiness.
+
+The words used are pretty strong: "backwoods," "proud-to-be-ignorant." These terms suggest a negative judgment about the community. The speaker feels annoyed or disapproving, which could lean towards anger. But since they're talking about their own feelings of regret and disappointment, it's more sadness.
+
+There's no indication of fear, joy, surprise, disgust (though there is some judgment), or neutral feelings here. The main emotion seems to be the sadness from regretting a decision and feeling let down by where they moved.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

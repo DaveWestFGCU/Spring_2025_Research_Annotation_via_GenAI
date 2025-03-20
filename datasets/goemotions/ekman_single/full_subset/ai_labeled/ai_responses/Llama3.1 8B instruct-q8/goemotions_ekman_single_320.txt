@@ -1,0 +1,38 @@
+Record: "[NAME] is honestly really badass and he has a great design I hope they give him something good to do in 11"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses positive language, such as "badass" and "great design", indicating admiration.
+* They express hope that the person will be given an opportunity, which suggests enthusiasm and approval.
+
+Given these points, the emotion most people will feel the speaker may be feeling is:
+
+**joy**
+
+The speaker's tone and language convey a sense of excitement and appreciation for the person's work, which aligns with feelings of joy and admiration.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses positive language to describe [NAME], calling them "badass" and praising their design.
+* The tone of the comment is enthusiastic and encouraging, with the speaker expressing hope for [NAME]'s future endeavors.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's use of positive language and enthusiasm suggests that they are feeling joy or happiness in response to the topic being discussed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is positive and enthusiastic, with words like "badass" and "great".
+* The speaker expresses admiration for [NAME] and their work.
+* The speaker hopes for a positive outcome for [NAME], indicating a sense of optimism.
+
+Given these points, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "Wow, you weren't instantly downvoted hundreds of times. The omniscum must have had a salad once and got a protein deficancy."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the speaker is critical and mocking.
+* The language used is sarcastic and derogatory, with an emphasis on ridicule ("hundreds of times", "protein deficiency").
+* The speaker is addressing another Reddit user who made a post or comment that they found laughable.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+Note: While anger is not the most intense emotion in this response (the tone is more mocking than aggressive), it is the closest match among the provided options. The speaker's sarcasm and ridicule suggest a level of displeasure or antagonism, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to someone's comment or post.
+* They mention being surprised that the person wasn't immediately downvoted, implying that they expected a strong negative reaction.
+* However, the tone of the response shifts quickly to mocking and sarcasm with the statement about the omniscum having a salad.
+
+Given these points, it appears that the speaker is initially expressing surprise or astonishment at someone's lack of instant backlash. However, this surprise quickly gives way to mockery and contempt, which aligns more closely with the emotion of **anger**, as the speaker seems to be expressing disdain and annoyance towards the person they are responding to.
+
+The tone and language used by the speaker suggest a strong negative emotional state, but it's not quite disgust (which would involve revulsion or strong disapproval), nor is it fear, joy, sadness, surprise in its pure form. The closest match from the provided emotion categories is anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone is mocking and sarcastic.
+* The language used is ironic and humorous.
+* The comment appears to be criticizing or ridiculing someone's opinion or behavior.
+
+Given these points, the most relevant emotion label is **anger**. Although the tone is not overtly aggressive, it does convey a sense of strong disapproval and annoyance, which are characteristic of anger. However, it's also worth noting that the tone is more playful and sarcastic than genuinely angry, but based on the provided definitions and examples, anger seems to be the closest match.
+
+Alternatively, **disgust** could also be considered, as the comment implies a strong sense of revulsion towards the omniscum's behavior (i.e., having a salad with a protein deficiency). However, disgust typically involves a stronger emotional response and a greater sense of moral outrage than is present in this comment.
+------------------------------------------------------------------------------------------------------------------------
+

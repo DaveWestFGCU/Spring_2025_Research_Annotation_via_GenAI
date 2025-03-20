@@ -1,0 +1,71 @@
+Record: "If I haven’t told you lately...I love you and you are my hero. ❤️❤️❤️"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The sentence they wrote is: "If I haven’t told you lately...I love you and you are my hero. ❤️❤️❤️".
+
+First, looking at the words used. They explicitly say "I love you," which is a strong expression of affection. The word "love" typically falls under joy or perhaps admiration, but given the category definitions, joy includes love as part of its list.
+
+Next, they refer to someone as their "hero." Being called a hero usually signifies deep respect and admiration, which again ties into positive emotions. The use of multiple heart emojis emphasizes strong positive feelings.
+
+Looking at the emotion categories:
+
+- Anger: Doesn't fit because there's no sign of displeasure or antagonism.
+- Disgust: Not applicable as there's nothing offensive mentioned.
+- Fear: There's no indication of being afraid or worried.
+- Sadness: No signs of sorrow or disappointment.
+- Surprise: The statement isn't unexpected; it's a direct expression of love and admiration.
+- Neutral: Definitely not, since emotions are clearly expressed.
+
+So the emotion here is joy because they're expressing love and admiration, which falls under the joy category as defined. There's no element of surprise, anger, or any other emotion listed. It's a heartfelt statement showing affection and appreciation.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's try to figure out what emotion the speaker is feeling based on their comment. The comment says, "If I haven’t told you lately...I love you and you are my hero. ❤️❤️❤️". 
+
+First, looking at the words used: "love" and "hero" are strong positive terms. The speaker is expressing affection and admiration towards someone else. They also added multiple heart emojis, which usually symbolize love or affection.
+
+Now, comparing this to the emotion categories:
+
+- **Anger**: Doesn't fit because there's no sign of displeasure or antagonism.
+- **Disgust**: No indication of revulsion or disapproval.
+- **Fear**: There's no mention of worry or nervousness.
+- **Joy**: This seems right because expressing love and admiration falls under joy, which includes affection and happiness.
+- **Sadness**: The message isn't sad or sorrowful.
+- **Surprise**: No unexpected elements here; it's a clear expression of feelings.
+- **Neutral**: Definitely not neutral since emotions are being expressed.
+
+So, the emotion that best fits is joy because the speaker is clearly expressing love and admiration.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "If I haven’t told you lately...I love you and you are my hero. ❤️❤️❤️". They've given me a list of emotions to choose from: anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker starts by saying they haven't told someone something lately, implying there might have been some time since their last interaction or expression of feelings. Then they express love and refer to the person as a hero. They also include three heart emojis, which are typically associated with strong positive emotions.
+
+Looking at the emotion definitions:
+
+- Anger involves displeasure or antagonism. The speaker doesn't show any signs of anger here; instead, it's quite the opposite.
+- Disgust is about revulsion or disapproval. Again, there's no indication of that in the comment.
+- Fear includes anxiety or worry. There’s nothing suggesting fear in the statement.
+- Joy encompasses pleasure and happiness, as well as love and admiration. The use of "I love you" and calling someone a hero definitely points to joy.
+- Sadness involves pain or sorrow. The tone here is positive and affectionate, so sadness doesn't fit.
+- Surprise includes astonishment or realization. While the statement is heartfelt, it's not something that would cause surprise in others; it’s a direct expression of feelings.
+- Neutral means no emotion. Clearly, there's a strong emotion being expressed.
+
+The heart emojis reinforce the feeling of love and affection, which are part of joy. The speaker isn't just stating facts but expressing deep positive emotions towards someone else. Therefore, the most appropriate emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

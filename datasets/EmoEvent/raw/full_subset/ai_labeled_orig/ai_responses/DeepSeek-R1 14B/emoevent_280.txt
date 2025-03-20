@@ -1,0 +1,50 @@
+Record: "Happy #WorldBookDay . I have no literary criteria. I just like good stories. https://t.co/YE6QduhSee"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise. Let me break it down.
+
+The tweet says, "Happy #WorldBookDay . I have no literary criteria. I just like good stories." The author starts with "Happy," which immediately suggests a positive emotion. Then they mention enjoying good stories without any specific criteria, which adds to the cheerful tone.
+
+Looking at the possible emotions: anger isn't there since it's happy; disgust doesn't fit because there's nothing negative mentioned. Fear and sadness are absent as well. Surprise? Not really, unless something unexpected happened, but it's more about enjoyment. Joy seems spot on because they're expressing happiness and love for stories.
+
+So yeah, the emotion is joy.
+</think>
+
+The tweet expresses happiness related to World Book Day and a fondness for good stories, which falls under **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given list: anger, disgust, fear, joy, sadness, surprise. Let me look at the tweet again.
+
+The tweet says, "Happy #WorldBookDay. I have no literary criteria. I just like good stories." The user starts with "Happy," which immediately suggests a positive emotion. They mention World Book Day, which is an event promoting reading and books—so that's another hint towards positivity.
+
+Then they say they don't have any specific literary criteria but enjoy good stories. This shows enthusiasm for reading without being overly critical or negative. Words like "like" and "good" are positive. There's no indication of any negative emotions here, so I can rule out anger, disgust, fear, sadness, or surprise.
+
+The emotion that fits best is joy. The user seems happy about World Book Day and their love for stories, which aligns with the joy category.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "Happy #WorldBookDay . I have no literary criteria. I just like good stories. https://t.co/YE6QduhSee".
+
+First, let's break it down. The user starts with "Happy", which immediately signals a positive emotion. They're celebrating World Book Day, so that's already a joy-related feeling.
+
+Next, they mention having no literary criteria but enjoying good stories. This shows enthusiasm and simplicity in their enjoyment of books, which again aligns with positive emotions.
+
+Looking at the structure: "Happy" is explicit, and the context is about appreciating stories, both pointing towards joy. There's no indication of any negative feelings like anger or disgust, nor fear or surprise. Sadness isn't present either.
+
+So, considering all these elements, the emotion conveyed here is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

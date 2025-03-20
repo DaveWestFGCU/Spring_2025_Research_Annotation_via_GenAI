@@ -1,0 +1,36 @@
+Record: "Would be better if not for the stupid gas mask. Should have had it's own comissar cap instead!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses derogatory language ("stupid") which could indicate a negative emotion.
+* The speaker expresses a desire for something to be different, implying discontent or frustration.
+* The tone seems to be critical and mocking.
+
+Based on these points, the most relevant emotion label is **anger**. The speaker's use of strong language and criticism suggests that they are feeling angry about the design choice being discussed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "stupid" which implies criticism and annoyance.
+* The tone is dismissive and suggests that the design choice is inferior.
+* The speaker proposes an alternative, suggesting they are invested in the topic.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses derogatory language ("stupid") towards an inanimate object (gas mask).
+* They express a preference for an alternative design ("Should have had its own comissar cap").
+* The tone appears to be playful and critical rather than aggressive.
+
+Given these points, the most relevant emotion label is **disgust**, as the speaker's language suggests strong disapproval or revulsion towards the gas mask. However, it's worth noting that the tone is also somewhat playful and lighthearted, which might suggest a more nuanced emotion. 
+
+However, given the options provided, I would choose **disgust** as the most relevant label, with the understanding that the speaker's tone is likely sarcastic or humorous rather than genuinely disgusted.
+------------------------------------------------------------------------------------------------------------------------
+

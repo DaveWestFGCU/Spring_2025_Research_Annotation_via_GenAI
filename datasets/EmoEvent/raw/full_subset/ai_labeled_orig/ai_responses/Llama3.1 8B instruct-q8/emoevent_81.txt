@@ -1,0 +1,36 @@
+Record: "USER USER USER USER USER A very happy #WorldBookDay, indeed! We're so excited to read USER' new book, "The Moment of Lift.""
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text mentions "#WorldBookDay", indicating a celebration or positive event.
+* The author expresses excitement about reading a new book.
+* There is no mention of any negative emotions or experiences.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+This classification is based on the presence of words like "happy" and "excited", which are indicators of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is about celebrating World Book Day.
+* The author uses enthusiastic language such as "very happy" and "excited".
+* There are no negative or critical comments.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The text mentions a positive event ("A very happy #WorldBookDay").
+- The author expresses enthusiasm and excitement for reading the new book.
+- There is no indication of negative emotions or any kind of conflict.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

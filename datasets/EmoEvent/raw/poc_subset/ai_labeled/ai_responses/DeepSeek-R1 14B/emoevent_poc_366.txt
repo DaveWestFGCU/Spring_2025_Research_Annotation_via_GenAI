@@ -1,0 +1,59 @@
+Record: "Ha jokes on you guys we still use paper charts"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify the emotion in this tweet: "Ha jokes on you guys we still use paper charts." Let me break it down.
+
+First, the word "jokes" catches my eye. It's used here in a playful way, maybe mocking or teasing others. The person is saying that despite what others might be doing, they're still using paper charts. So there's an element of mockery or light-hearted teasing involved.
+
+Looking at the emotion options: anger, disgust, fear, joy, sadness, surprise. I don't think it's any of the negative ones like anger or disgust because the tone seems more playful than hostile. Fear and surprise aren't really present here either since there's no indication of worry or astonishment.
+
+That leaves us with joy or maybe a related emotion. The use of "jokes" suggests amusement, which falls under joy. Even though it might have a teasing component, the overall sentiment is positive and lighthearted.
+
+So I think the intended emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion this tweet is conveying. The tweet says: "Ha jokes on you guys we still use paper charts." Let me break it down.
+
+First, the author starts with "Ha," which sounds like a playful laugh or maybe a sarcastic one. Then they say "jokes on you guys," implying that others might have thought something was funny or absurd. The next part is "we still use paper charts," suggesting that maybe people expected them to have moved away from paper, but they're still using it.
+
+So, what emotion does this convey? Let's go through the options:
+
+- **Anger**: Doesn't seem like it. No signs of frustration or rage here.
+- **Disgust**: Not really. There's no indication of dislike or aversion.
+- **Fear**: Doesn't fit either. The tone isn't anxious or scared.
+- **Joy**: Hmm, maybe? The use of "Ha" could indicate amusement. But let me think more.
+- **Sadness**: No, there's no sorrow or grief in the message.
+- **Surprise**: Could be, but it depends on context.
+
+The tweet seems to have a light-hearted tone. They're pointing out that others might have thought they've moved away from paper charts, which could be something people find outdated or less cool. The author is highlighting that they still use them, perhaps with a sense of humor or pride. So the emotion here is likely **joy**, as it's about finding something amusing or expressing satisfaction in their choice.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion is conveyed in this tweet: "Ha jokes on you guys we still use paper charts." The user mentioned that the emotion should be one of anger, disgust, fear, joy, sadness, or surprise. 
+
+Let me break it down. First, the tweet starts with "Ha," which sounds like a laugh or maybe a sarcastic tone. Then it says "jokes on you guys we still use paper charts." So, the author is pointing out that others might think using paper charts is outdated, but they're still doing it. 
+
+I'm trying to figure out the emotion here. The word "jokes" could imply mockery or sarcasm. The person is highlighting that others are making fun of them for using something traditional (paper charts), but they’re still doing it regardless. This might show a bit of defiance or pride in sticking to their ways, which could be a form of joy because they're not letting themselves be phased by others' opinions. Alternatively, it could also come off as frustration or annoyance if the author is tired of being mocked.
+
+But looking at the emotion categories, I have to choose between anger, disgust, fear, joy, sadness, surprise. Since "jokes" and the overall tone don't seem hostile but more playful or confident, maybe it's joy. The author isn’t angry; instead, they're making a light-hearted comment about continuing to use paper charts despite others' humor.
+
+Wait, could it be surprise? No, because there’s no indication of something unexpected happening. It's more about their stance on the issue. Disgust or dislike might not fit here unless they’re disgusted by others' reliance on technology, but that doesn't seem to be the case.
+
+So, considering all this, the emotion conveyed is likely joy because the author is taking a lighthearted approach and perhaps finding humor in the situation.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

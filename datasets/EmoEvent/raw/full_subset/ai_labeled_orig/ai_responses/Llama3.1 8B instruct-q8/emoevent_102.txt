@@ -1,0 +1,35 @@
+Record: "Lets go USER. We take matter in our own hands. This is the moment we have been fighting for. Lets make it happen. #viscabarça #WeColorFootball #laliga"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is motivational and encouraging.
+* The language used is energetic and assertive ("Lets go", "take matter in our own hands").
+* The text expresses a sense of anticipation and determination.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used is encouraging and motivational.
+* The tone suggests a sense of determination and enthusiasm.
+* The use of capital letters in "Lets go USER" emphasizes urgency and excitement.
+* The hashtags indicate affiliation with specific teams or leagues, suggesting a strong allegiance.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used is energetic and motivational, with words like "Lets go" and "make it happen".
+* The author mentions taking matters into their own hands, implying a sense of determination.
+* The hashtags suggest that the user is supporting a football team.
+
+Based on these points, the most relevant emotion label is **joy**. The language used suggests excitement and enthusiasm for an upcoming event or situation, which aligns with joy.
+------------------------------------------------------------------------------------------------------------------------
+

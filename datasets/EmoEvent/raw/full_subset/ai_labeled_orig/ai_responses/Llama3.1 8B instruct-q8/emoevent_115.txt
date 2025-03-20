@@ -1,0 +1,42 @@
+Record: "Best of luck to USER who are taking on USER tonight in the #ChampionsLeague semi-final! 🔴⚽️  We're looking forward to welcoming Barcelona fans to Liverpool next week! 🙌 https://t.co/AIWUQ7ySq1"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is wishing good luck to a team, indicating support and positivity.
+* The tone is friendly and welcoming, with the use of emojis such as 🙌 which convey excitement and enthusiasm.
+* There is no indication of negativity or criticism towards any team.
+
+Given these points, the emotion that best fits the author's intention is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text is a message of good luck and welcome, indicating positivity.
+* The use of enthusiastic language ("Best of luck", "looking forward") and emojis (🔴⚽️, 🙌) suggests excitement and cheerfulness.
+* The tone is supportive and inclusive.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The text conveys a sense of enthusiasm and happiness for the upcoming match, making joy the most fitting emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet appears neutral and objective, as it only conveys information and good wishes.
+* There is no indication of a negative or critical sentiment towards any team or player.
+* The use of enthusiastic language and emojis (e.g. "Best of luck", 🙌) suggests a positive attitude.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's tone is optimistic and celebratory, wishing good fortune to both teams and expressing excitement for the upcoming match.
+------------------------------------------------------------------------------------------------------------------------
+

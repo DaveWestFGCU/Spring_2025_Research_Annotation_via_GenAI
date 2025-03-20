@@ -1,0 +1,70 @@
+Record: "Huh. Similar things happen to me. Just my big brother believe that I got the wrong diagnoses and Dad think I am "cured"."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Huh. Similar things happen to me. Just my big brother believes that I got the wrong diagnoses and Dad thinks I am 'cured'."
+
+Let me break this down. First, the speaker starts with "Huh," which might indicate surprise or confusion. Then they mention that similar things happen to them. They talk about their big brother believing they have the wrong diagnosis and their dad thinking they're cured.
+
+So, what emotions are involved here? The brother's belief in a wrong diagnosis could make the speaker feel frustrated or misunderstood, leaning towards anger or maybe even sadness because of the doubt from family members. On the other hand, the father thinking they're cured might bring some hope or relief, which is joy, but that's mixed with the negative feelings.
+
+But looking at the emotion categories, I need to pick one. The comment doesn't show overtly positive emotions like joy; instead, it seems more about the speaker feeling misunderstood by their family. They might be expressing frustration or disappointment, which are part of anger and sadness respectively.
+
+Since the speaker is pointing out that others have wrong beliefs about their condition, they could be feeling annoyed (anger) because their experience isn't being understood correctly. Alternatively, it could be sadness due to the emotional impact of not being supported properly by family.
+
+But considering the words used like " believes" and "thinks," which suggest a lack of acceptance, I think anger is more appropriate because it's about others disapproving or not believing in their situation. It feels more like frustration towards the brother and dad rather than sorrow.
+
+Wait, but maybe it's surprise? The speaker starts with "Huh," which could indicate being surprised by the similarities. But the rest of the comment isn't really about an unexpected event; it's about explaining their own experiences.
+
+So, weighing the options, I think anger fits better because the speaker is expressing frustration at others' incorrect beliefs about their diagnosis.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let me try to figure out the emotion in this Reddit comment. The speaker says, "Huh. Similar things happen to me. Just my big brother believes that I got the wrong diagnoses and Dad thinks I am 'cured'." 
+
+First, I'll break down what's being said. The person is sharing a personal experience where their family has different beliefs about their medical situation. Their big brother thinks they have the wrong diagnosis, and their dad thinks they're cured.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Is there any sign of anger? The speaker doesn't express frustration or irritation, so probably not anger.
+
+Disgust usually involves finding something offensive. There's no indication of that here; it's more about differing opinions rather than something unpleasant.
+
+Fear would involve being afraid or worried. The comment is more about others' beliefs affecting the speaker, but I don't sense fear in their tone.
+
+Joy is a feeling of pleasure. This doesn't seem to fit because the situation seems negative for the speaker.
+
+Sadness involves emotional pain or sorrow. The fact that family members have different opinions might make the speaker feel misunderstood or disappointed, which are related to sadness.
+
+Surprise is about being astonished or unexpectedly informed. While it's a personal story, the emotion isn't focused on surprise but more on the impact of others' beliefs.
+
+Neutral would be if there were no emotion, but the context suggests some emotional weight because their family has conflicting views about their health.
+
+So, putting it all together, the speaker is likely feeling sadness due to being misunderstood and possibly disappointed by their family's beliefs. They might feel sorrow or a sense of being let down.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "Huh. Similar things happen to me. Just my big brother believes that I got the wrong diagnoses and Dad thinks I am 'cured'." Let's break this down step by step.
+
+First, looking at the words used: "Huh" could indicate surprise or confusion. Then, they mention that similar things happen to them, which might suggest a personal connection but doesn't immediately point to an emotion. The key part is where they talk about their brother believing they got the wrong diagnosis and their dad thinking they're cured.
+
+The speaker is sharing that both family members have different beliefs about their medical situation. This could be frustrating because maybe the speaker feels misunderstood or unsupported. The fact that the brother thinks it's a wrong diagnosis might make them feel angry or annoyed, especially if they know their situation well. Similarly, the dad thinking they're cured could mean he doesn't fully grasp the severity, which might lead to feelings of frustration or anger as well.
+
+Looking at the emotion definitions: Anger includes annoyance and disapproval. The speaker seems to be expressing frustration with how their family members perceive their condition, which aligns with anger. There's no clear indication of disgust because it's not directed at something offensive but rather a misunderstanding by others. Fear doesn't seem present as there's no expression of worry or being scared. Joy isn't here since they're talking about negative experiences. Sadness could be involved if they feel down, but the focus seems more on the frustration with others' beliefs rather than sadness. Surprise is possible because of "Huh," but the main emotion appears to be directed at others' actions, which leans towards anger.
+
+So putting it all together, the speaker's frustration and disapproval of their family members' views likely stem from anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

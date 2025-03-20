@@ -1,0 +1,43 @@
+Record: "USER USER USER USER Its always been a meh kind of issue. With more youth getting involved maybe it's finally getting attn. Depends who they asked, of course!  But I was happy to see it, because climate usually never makes the list. #buzzbuzz 🐝 #GretaThunberg  #Fridays4Future  #TheYoungPeopleWillWin"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author seems to be somewhat disconnected or apathetic ("It's always been a meh kind of issue").
+* They mention being "happy" to see the youth getting involved, which suggests a positive tone.
+* However, this happiness is tempered by skepticism and criticism ("Depends who they asked, of course!").
+
+Given these points, the author's emotion is more nuanced than a single strong label. However, considering the overall tone is slightly positive and optimistic, but with a hint of sarcasm and skepticism:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the phrase "meh kind of issue", which implies a lack of strong emotional investment or enthusiasm.
+* They express a positive sentiment by stating they were "happy" to see more youth getting involved in the climate issue.
+* The tone is somewhat sarcastic and tongue-in-cheek, with phrases like "Depends who they asked, of course!" that suggest the author doesn't fully trust the attention being given to the issue.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's use of positive language ("happy") and a sense of optimism ("The Young People Will Win") suggests that they are feeling joyful or uplifted by the increased attention on climate issues.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is somewhat apathetic and casual, with words like "meh" and "depends who they asked".
+* The author mentions being "happy" to see youth involvement in climate issues.
+* The use of hashtags #buzzbuzz and a bee emoji 🐝 suggests a lighthearted and optimistic tone.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+ 
+The author's casual apathy ("meh") gives way to genuine happiness and optimism when discussing youth involvement in climate issues. The use of hashtags and emojis reinforces this positive tone.
+------------------------------------------------------------------------------------------------------------------------
+

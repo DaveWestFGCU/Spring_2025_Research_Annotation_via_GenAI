@@ -1,0 +1,37 @@
+Record: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses phrases such as "sad", "Feel like shit", and "want [NAME] back" which suggest a negative emotional state.
+* The author is expressing a desire for comfort or alleviation of their current emotional pain.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses a strong negative sentiment using the phrase "Feel like shit".
+* They explicitly state they are "sad" and seeking comfort.
+* The use of the phrase "just want [NAME] back" implies a longing for someone or something that is absent.
+
+Most relevant emotion label: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the phrase "Feel like shit" which is a strong expression of negative emotions.
+* They express a desire for comfort and reassurance from others, specifically mentioning wanting someone they care about ("[NAME]") back in their life.
+* The overall tone is melancholic and longing.
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+
+Note: While the author does mention feeling like "shit", which could be interpreted as disgust or anger, the primary emotional tone conveyed by the tweet is one of sadness and longing.
+------------------------------------------------------------------------------------------------------------------------
+

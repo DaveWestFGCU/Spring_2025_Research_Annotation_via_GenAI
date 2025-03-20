@@ -1,0 +1,62 @@
+Record: "I almost downvoted you, because “Boooooooo!”"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet: "I almost downvoted you, because “Boooooooo!”" into one of the given emotions: anger, disgust, fear, joy, sadness, surprise. Let me think through this step by step.
+
+First, let's parse the tweet. The author says they almost downvoted someone because of a very long "Booooooo!" That word seems like an extended 'booh', which is typically used to mock or express disdain. So the author was considering downvoting, which usually indicates dislike or disagreement, but here it's tied to this mocking sound.
+
+The emotion categories are: anger (including annoyance), disgust (disinterest, dislike), fear, joy, sadness, surprise. 
+
+So "Boooooooo!" is a long, drawn-out 'booh', which I associate with mockery or derision. That points towards negative emotions. The action of almost downvoting also suggests the author felt something strong enough to take an action against the person.
+
+Looking at the options: Anger would be if they were upset or annoyed. Disgust is about dislike or disinterest, but more of a feeling of aversion. Fear isn't really here; there's no indication of worry or anxiety. Sadness doesn't fit because the tweet seems to express an action rather than sorrow. Surprise? No, it's not about being amazed.
+
+Between anger and disgust: The 'Boooooooo!' is more of a mocking sound, which I think aligns with disgust because it's expressing dislike or disdain towards something someone said or did. Alternatively, anger could be if they were annoyed enough to almost downvote, but the word choice feels more like mockery rather than sheer anger.
+
+Wait, sometimes people use booh as a way to mock and express anger, so maybe it's overlapping with both. But in this case, since the author used such an extended sound, I think it's more about expressing disgust or dislike towards the person they were considering downvoting. 
+
+So I'd lean towards 'disgust' because it's about their aversion to something the other person did/said, prompting them to almost take action against them.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I have this tweet: "I almost downvoted you, because “Boooooooo!”" And I need to classify the emotion it conveys from the given list. Let's break this down.
+
+First, I see that the author is talking about almost downvoting someone. Downvoting usually indicates disagreement or dislike on platforms like Reddit. So the act of downvoting is often associated with negative emotions. But what exactly is the emotion here?
+
+The tweet adds a reason: "because “Boooooooo!”" The word "booo" sounds like booing, which is typically done to show disapproval or to mock someone. It's that long 'o' sound which emphasizes the Boo! So the author is expressing that they almost downvoted because of this Boo noise.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise.
+
+Anger would be if there was frustration or rage. Disgust could be if it's about dislike or disapproval. Fear might come into play with anxiety or apprehension, but I don't see that here. Joy is positive, so unlikely. Sadness is more about grief or pensiveness, which doesn't fit. Surprise is for unexpected events, not sure.
+
+So between anger and disgust. Now, the author's action of almost downvoting and their reason being "Boooooooo!" seems to express dislike or disapproval rather than pure anger. Disgust includes dislike, so that might be it. Anger could also fit because downvoting can stem from frustration, but in this case, the Boo! is a direct expression of disapproval, which aligns more with disgust.
+
+Therefore, I think the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to classify this tweet: "I almost downvoted you, because “Boooooooo!”". The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's look at the content. The user mentions almost downvoting someone, which suggests they were considering a negative action. Then there's "Boooooooo!", which sounds like a long 'booh'—probably a boo or jeer.
+
+So, downvoting and booing are both acts of disapproval. Now, I need to map this to the emotion categories. Anger is about irritation or rage, but here it's more about expressing dislike rather than intense anger. Disgust involves dislike or厌恶, which fits because the person doesn't like what the other said enough to downvote and boo.
+
+I don't see fear, joy, sadness, or surprise here. The emotion seems to be a strong dislike leading them to act negatively towards the tweet. So, disgust makes sense as it's about disliking something.
+</think>
+
+The tweet expresses strong dislike through actions like considering a downvote and jeering with "Boooooooo!", which fits under **disgust**.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "This is the same federal government that's been shut down for the last month?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author seems to be expressing a sense of incredulity or frustration at the fact that the government has been shut down for an extended period.
+* The tone of the tweet suggests a sense of annoyance or exasperation with the situation.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author's use of rhetorical questioning and their apparent exasperation with the prolonged shutdown suggest a strong negative emotional response.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a sense of frustration and disappointment with the federal government.
+* The phrase "same" implies a sense of repetition or déjà vu, which can be frustrating.
+* There is no indication of positive emotions or reactions.
+
+Given these points, the most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author seems to be expressing frustration and incredulity about a prolonged event.
+* The tone is likely questioning or sarcastic.
+
+**anger**
+
+(Note: Anger often involves feelings of frustration, exasperation, or outrage. Given the context, it's reasonable to assume that the author is upset about the prolonged shutdown.)
+------------------------------------------------------------------------------------------------------------------------
+

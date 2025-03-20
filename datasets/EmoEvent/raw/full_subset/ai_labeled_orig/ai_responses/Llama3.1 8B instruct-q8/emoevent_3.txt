@@ -1,0 +1,41 @@
+Record: "Educating for Extinction. (climate change as a catalyst for shifts in a failing system) https://t.co/oY1QrLD30a … #ExtinctionRebellion #GretaThunberg #creativelearning #pedagogy #education #climatestrike https://t.co/JPMmDdI532"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the tweet's intended emotion, consider the following points:
+
+* The use of the phrase "Educating for Extinction" is a stark warning about the consequences of climate change.
+* The reference to "a failing system" suggests that the author views the current state of affairs as dire and in need of significant change.
+* The hashtags #ExtinctionRebellion, #GretaThunberg, and #climatestrike imply a sense of urgency and activism.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The tweet's tone suggests that the author is outraged by the state of climate change and the failing systems that contribute to it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions "Educating for Extinction", which implies a serious and dire situation.
+* The hashtag #ExtinctionRebellion suggests a sense of urgency and concern about the consequences of climate change.
+* Greta Thunberg is associated with the movement "Fridays for Future", which involves protests against inaction on climate legislation.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The tone of the tweet seems to convey a sense of frustration and anger at the state of the world's response to climate change. The use of "Extinction" as a topic suggests a strong negative emotional tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions "Educating for Extinction", which suggests a dire or critical situation.
+* It references climate change, a topic often associated with negative emotions like fear and sadness.
+* Greta Thunberg is mentioned, who is known for her passionate advocacy on the issue of climate change.
+
+Given these points, the most relevant emotion label in this context is likely to be **sadness**, as the tweet appears to convey a sense of distress or concern about the state of the environment.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,65 @@
+Record: "Yeah it’s a repost, I saw this same exact post in a different subreddit couple months ago"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion the speaker is feeling based on their comment. The comment is: "Yeah it's a repost, I saw this same exact post in a different subreddit couple months ago." 
+
+First, I'll break down what the speaker is saying. They're confirming that the content has been posted before elsewhere and mention it was from a few months prior. This suggests they recognize the content as something they've seen before.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. Let's evaluate each possibility.
+
+Anger: The comment doesn't express any frustration or irritation. There's no indication of dislike or antagonism here.
+Disgust: There's no revulsion or strong disapproval evident in the statement.
+Fear: No signs of worry or nervousness are present.
+Joy: The tone isn't positive or happy; it's more about recognition without enthusiasm.
+Sadness: There's no sorrow or disappointment conveyed.
+Surprise: The speaker doesn't seem astonished. They're simply stating a fact they remember.
+Neutral: This fits because the comment is informative and factual without any emotional undertone.
+
+So, the emotion here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion label fits best for the given Reddit comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The speaker says: "Yeah it’s a repost, I saw this same exact post in a different subreddit couple months ago." 
+
+Let me break this down. They're pointing out that the content is a repost they've seen before elsewhere. The tone here doesn't seem particularly positive or negative; it's more of an informative statement. There's no strong emotion expressed like anger or joy, nor does it show fear or surprise.
+
+I don't detect any signs of disgust either because it's not about something offensive. Sadness isn't present since there's no indication of sorrow or disappointment. The comment is straightforward, just sharing information without any emotional charge.
+
+So, considering all the emotion categories, the speaker seems to be expressing a neutral sentiment here.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion behind the speaker's comment: "Yeah it's a repost, I saw this same exact post in a different subreddit couple months ago." Let me break this down step by step.
+
+First, let's look at what the speaker is saying. They mention that it's a repost and they've seen the same exact post before in another subreddit a few months ago. The tone here seems pretty straightforward without any strong positive or negative language. 
+
+I'll compare this to the emotion categories given: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+- Anger would involve strong displeasure, which I don't see here.
+- Disgust is about revulsion, but again, nothing offensive or unpleasant is mentioned.
+- Fear implies anxiety or worry, which doesn't seem to be the case.
+- Joy would include happiness or excitement, which isn't present in this statement.
+- Sadness involves emotional pain, but there's no indication of that either.
+- Surprise includes astonishment, but the speaker seems matter-of-fact about it, not surprised.
+  
+That leaves neutral. The comment is informative and lacks any clear emotion. They're simply stating a fact about the post being reposted from another subreddit. There's no expression of feelings or reactions beyond pointing out repetition.
+
+So, considering all this, the most appropriate emotion category here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

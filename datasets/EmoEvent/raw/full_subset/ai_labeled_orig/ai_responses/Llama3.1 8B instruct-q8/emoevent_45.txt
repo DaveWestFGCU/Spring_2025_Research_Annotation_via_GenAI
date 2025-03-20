@@ -1,0 +1,39 @@
+Record: "This #Venezuela coup is disappointingly non-violent. I've seen more people get crushed in the Central line stairways at Bond Street station"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The author compares a significant and potentially violent political event (a coup) to a mundane, everyday situation (people getting crushed on the stairs of a London subway station).
+- The comparison is made to highlight the unexpected lack of violence in the Venezuelan coup.
+
+Given this context, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a "coup", implying a situation of conflict or upheaval.
+* The author expresses surprise at the lack of violence, which suggests that they were expecting or hoping for a more dramatic or intense outcome.
+* The comparison to a mundane and frustrating experience (getting crushed in a crowded stairway) implies that the author is somewhat disappointed by the peaceful nature of the coup.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+The author's tone suggests that they were expecting something more exciting or dramatic to happen, but instead found the situation to be disappointingly non-violent.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a "coup", implying a significant and potentially disturbing event.
+* The use of the word "disappointingly" suggests that the author is expressing a negative sentiment, but one that is somewhat mild compared to expectations.
+* The comparison to a mundane and relatively harmless situation (getting crushed in a crowded train station) implies that the author finds the current situation underwhelming or unremarkable.
+
+Based on these considerations, the most relevant emotion label is:
+
+**disgust**
+
+This classification is due to the fact that the author appears to be expressing disappointment and mild distaste for the lack of intensity or drama in the Venezuelan coup. The comparison to a mundane situation implies a sense of disinterest or boredom, which can be classified under the category of disgust.
+------------------------------------------------------------------------------------------------------------------------
+

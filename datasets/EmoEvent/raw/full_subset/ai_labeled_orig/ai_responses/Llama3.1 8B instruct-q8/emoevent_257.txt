@@ -1,0 +1,34 @@
+Record: "I am an absolute mess. That was the most amazing thing I have ever watched in my entire life #gameofthrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the phrase "absolute mess", which suggests a strong emotional reaction.
+* The tone of the statement is overwhelmingly positive, with the author describing their experience as "the most amazing thing" they've ever watched.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The author's use of enthusiastic language and description of their experience as "amazing" suggests a strong feeling of joy or excitement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the phrase "absolute mess", which typically connotes a state of being overwhelmed or ecstatic rather than negative emotions.
+* The tone is positive, as indicated by the use of "amazing" and "entire life".
+* The hashtag "#gameofthrones" suggests that the author is referencing the TV series.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the phrase "an absolute mess", which implies a strong emotional response.
+* The tone of the statement is overwhelmingly positive, with the use of "amazing" and the hashtag "#gameofthrones", indicating enthusiasm for the series.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

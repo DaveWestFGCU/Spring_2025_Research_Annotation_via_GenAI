@@ -1,0 +1,40 @@
+Record: "We talk about the devastating #NotreDameCathedralFire on our newest #podcast episode. We are so #thankful this is happening. #Paris https://t.co/T4y4h2BelX"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a "devastating" event, which typically connotes a negative emotion.
+* However, the author also uses the word "so thankful", which suggests a positive sentiment.
+
+Given these points, it seems that the author is expressing gratitude or relief in response to a tragic event, rather than emotions like anger, disgust, fear, sadness, or surprise. 
+
+**joy**
+
+(Note: While the tweet's tone may seem unusual or even counterintuitive given the context of a devastating fire, the author explicitly states they are "so thankful", which aligns with the emotion category of joy.)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a devastating event, which typically evokes a negative emotional response.
+* However, the author's tone is not one of outrage or criticism, but rather appreciation and gratitude.
+* The use of "#thankful" explicitly indicates a positive emotion.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a "devastating" event, implying that the fire had a significant negative impact.
+* However, the author also uses the phrase "#thankful", which suggests that they are expressing gratitude rather than despair.
+
+Given these considerations, it's clear that the author is expressing an emotion that is opposite of sadness or fear. Since "devastating" typically connotes a negative outcome, it's likely that the author is not feeling angry, disgusted, or fearful. The use of "#thankful" in the context of a devastating event suggests that the author may be experiencing surprise at their own reaction.
+
+However, considering the absurdity and unexpected nature of expressing gratitude for a devastating event, **surprise** seems to be the most fitting emotion label.
+------------------------------------------------------------------------------------------------------------------------
+

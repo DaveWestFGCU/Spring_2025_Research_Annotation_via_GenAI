@@ -1,0 +1,44 @@
+Record: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "I'm sad" explicitly.
+* They express a desire for comfort and reassurance ("can someone make me feel better").
+* They mention feeling unwell ("Feel like shit") and longing for something or someone ("just want [NAME] back").
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's explicit statement of sadness, combined with their expression of physical discomfort and emotional distress, strongly suggests that they are experiencing sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker explicitly states they are feeling sad.
+* They express a desire for comfort and reassurance ("make me feel better").
+* They mention a specific person who is not present, implying that this person's absence is contributing to their sadness.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+This matches the speaker's explicit statement of feeling sad, as well as their desire for comfort and reassurance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker starts with "I'm sad", which explicitly states their emotional state.
+* They express a desire for comfort and support, asking others to make them feel better.
+* The speaker mentions feeling down and wanting someone (specifically named) back, implying they are missing or grieving.
+
+Most relevant emotion label: **sadness**
+
+The speaker's explicit statement of sadness, combined with their desire for comfort and expression of longing, strongly suggests that the dominant emotion in this text is sadness.
+------------------------------------------------------------------------------------------------------------------------
+

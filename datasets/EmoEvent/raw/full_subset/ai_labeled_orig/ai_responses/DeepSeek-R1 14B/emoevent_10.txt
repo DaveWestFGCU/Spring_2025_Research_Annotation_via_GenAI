@@ -1,0 +1,60 @@
+Record: "USER USER Shes not &amp; youd know that if you weren't into regime change wars or gave a shit about the the aftermath if one were to happen. No benefit to #Venezuela https://t.co/2exnu5CVaC"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this classification task step by step. The user has provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It says: "USER USER Shes not & youd know that if you weren't into regime change wars or gave a shit about the the aftermath if one were to happen. No benefit to #Venezuela [link]".
+
+Breaking it down, the user is addressing someone (possibly another Twitter user) and making several points. The mention of "regime change wars" suggests frustration with ongoing political conflicts. Phrases like "gave a shit" indicate strong negative feelings towards others' lack of concern for Venezuela's aftermath.
+
+The overall tone seems critical and disapproving. Words like "shes not" (maybe intended as "she isn't") show dismissiveness, which aligns with disgust or possibly anger. However, the emphasis on the uselessness or harm caused by certain actions points more towards disgust—dislike for others' attitudes or behaviors.
+
+I don't detect elements of fear, joy, sadness, or surprise in this tweet. The primary emotion is a strong dislike or disapproval of others' stance on regime change and its potential impact on Venezuela.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet: "USER USER Shes not & youd know that if you weren't into regime change wars or gave a shit about the the aftermath if one were to happen. No benefit to #Venezuela https://t.co/2exnu5CVaC"
+
+First, breaking it down. The user is addressing someone else, using "USER USER" which seems like they're trying to get their attention. Then they say "Shes not", which might be a typo or abbreviation but doesn't convey much emotion yet.
+
+Next part: "if you weren't into regime change wars". Here, the author is criticizing someone's stance on regime change in Venezuela. The use of "into" and "wars" suggests disapproval or maybe frustration.
+
+Then, "or gave a shit about the aftermath if one were to happen." This phrase has strong language ("gave a shit") which indicates irritation or disgust. They're implying that the other person doesn't care about the consequences, which is a negative judgment.
+
+Lastly, "No benefit to #Venezuela" – this expresses a negative view on the situation, possibly frustration with how things are going in Venezuela.
+
+Putting it all together: The language used is harsh and critical. Words like "gave a shit," "regime change wars," and the overall tone suggest that the author feels strongly against certain actions or attitudes. It doesn't seem to be anger because there's no direct expression of intense irritation, more so a sense of disgust towards the other person's attitude or actions.
+
+So, I think the emotion here is **disgust**.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I have this tweet that I need to classify based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet carefully.
+
+The tweet says: "USER USER Shes not &amp; youd know that if you weren't into regime change wars or gave a shit about the the aftermath if one were to happen. No benefit to #Venezuela https://t.co/2exnu5CVaC"
+
+First, breaking it down, the user starts by addressing another user ("USER USER"). Then they say "Shes not", which might be a typo for "She's not". Following that, there's a criticism about someone being into "regime change wars" and caring about the aftermath. The last part is a negative statement about the benefit to Venezuela.
+
+The language used here includes "gave a shit", which is a strong slang term expressing frustration or disgust. Words like "wars" and "aftermath" suggest concern about negative consequences, but the overall tone seems more annoyed or frustrated. The hashtags #Venezuela could be related to current events, so the user might be reacting to something happening there.
+
+Looking at the emotions, anger is often expressed with strong language or frustration. Disgust involves feelings of disapproval or aversion, which can also come through here. However, the use of "gave a shit" leans more towards expressing irritation or frustration, which falls under anger. The mention of regime change and negative outcomes might contribute to that frustration.
+
+I don't see any elements indicating fear (like threats or anxiety), joy, sadness, or surprise. So the primary emotion seems to be anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

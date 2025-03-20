@@ -1,0 +1,39 @@
+Record: "#WorldBookDay i was in love with reading before i was finished learning how to. from baby books to bibliophile, my journey with reading will be lucky in my eyes. im not sure what my first chapter book was, as i was reading entire boois and novels while i was still in preschool.+"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+**Important points to consider:**
+
+* The author is expressing enthusiasm and fondness for reading.
+* The use of words like "in love" and "lucky in my eyes" suggests a positive emotional tone.
+* The author shares their personal experience with reading from an early age, which implies a sense of nostalgia and happiness.
+
+**Most relevant emotion label:** **joy**
+
+The author's tone is overwhelmingly positive and celebratory, indicating that they are expressing joy about their love for reading.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The tweet mentions a positive experience (reading) from an early age.
+* The author uses affectionate language towards reading ("in love", "lucky in my eyes").
+* The text also highlights the author's extensive and precocious reading habits.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+This classification suggests that the author intended to convey a sense of happiness and enthusiasm when discussing their relationship with reading.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is celebrating World Book Day.
+* The author expresses a deep love for reading from a young age.
+* They share a fond memory of being an avid reader even before learning how to read fully.
+
+Given the tone and content, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

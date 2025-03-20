@@ -1,0 +1,66 @@
+Record: "YES [NAME], we're rooting for you! 🎉🎉"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this classification task. The tweet in question is: "YES [NAME], we're rooting for you! 🎉🎉". I need to figure out the emotion conveyed here from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+First, looking at the words used. The author uses "YES" which is an affirmative and enthusiastic response. They also mention "we're rooting for you!", which is a common expression of support and encouragement. Rooting for someone usually implies positive feelings, like excitement or happiness for their success.
+
+The emojis 🎉🎉 are two party poppers, which are typically associated with celebrations and joyous occasions. Emojis can be a strong indicator of emotion in tweets. Here, they definitely add to the celebratory tone.
+
+Now, considering each emotion category:
+
+1. **Anger**: The tweet doesn't show any signs of irritation or rage. Instead, it's positive.
+2. **Disgust**: There's no indication of dislike or aversion here.
+3. **Fear**: No elements suggesting apprehension or anxiety are present.
+4. **Joy**: The use of "rooting for you" and the party emojis clearly indicate happiness and excitement.
+5. **Sadness**: The tone is far from somber or grief-stricken.
+6. **Surprise**: While surprising news can evoke surprise, this tweet seems more celebratory than unexpected.
+
+Putting it all together, the emotion here is definitely joy. The author is expressing support and excitement, which falls under the joy category including serenity and ecstasy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this tweet classification task. The tweet is: "YES [NAME], we're rooting for you! 🎉🎉". I need to determine the emotion conveyed by the author from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+First, looking at the words used—"YES," which is a positive affirmation. "We're rooting for you" indicates support and encouragement, both of which are uplifting emotions. The use of emojis 🎉🎉 adds to the celebratory tone, reinforcing positivity.
+
+Considering each emotion category:
+- Anger: Doesn't fit; there's no indication of frustration or rage.
+- Disgust: Also doesn't apply as there's nothing negative expressed.
+- Fear: Not present; the message is supportive, not anxious.
+- Sadness: No signs of sorrow or grief here.
+- Surprise: While the tweet is exciting, surprise typically involves unexpectedness. The support seems intentional rather than surprising.
+
+Joy stands out because it encompasses positive emotions like encouragement and celebration, which are clearly conveyed in the tweet. The author is expressing enthusiasm and backing, which aligns perfectly with joy.
+
+I should double-check if there's any nuance I might have missed. The emojis definitely add to the celebratory vibe, making joy even more certain. There's no ambiguity here; it's a clear expression of positive support.
+
+So, after analyzing each element—word choice, tone, and emojis—it's evident that the emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify the emotion of this tweet: "YES [NAME], we're rooting for you! 🎉🎉". Let me break it down step by step.
+
+First, looking at the words used. The author starts with "YES", which is an affirmative and positive response. Using someone's name suggests a direct address, making the message personal. Then they say, "we're rooting for you!", which means they are showing support and encouragement. Rooting for someone typically implies hope and positivity.
+
+The emojis 🎉🎉 are two confetti emojis, usually associated with celebrations or congratulations. Emojis can be a big clue because they often convey emotions more visually. Confetti is linked to joyous occasions, so that reinforces the positive sentiment.
+
+Considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. The message doesn't show any negative emotions like anger or disgust. There's no sign of fear or anxiety; instead, it's supportive. Sadness isn't present either. Surprise is about unexpected events, but this is more about encouragement and positivity.
+
+Therefore, the emotion here is clearly joy. The author is expressing support, excitement, and positive vibes towards the person named.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

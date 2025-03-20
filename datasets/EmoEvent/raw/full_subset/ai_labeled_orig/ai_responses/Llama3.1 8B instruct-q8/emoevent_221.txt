@@ -1,0 +1,37 @@
+Record: "The inside of Notre-Dame Cathedral before and after the devastating fire #NotreDameCathedralFire https://t.co/TYruhk0f5u"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a reaction to the devastating fire at Notre-Dame Cathedral.
+* The language used is "devastating", which implies a negative outcome.
+* The tone of the tweet is likely somber and reflective.
+
+Based on these considerations, the most relevant emotion label is: **sadness**
+
+The author's intention seems to be conveying sadness and grief over the damage caused by the fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet compares a catastrophic event (the fire) to something devastating.
+* The tone is somber, indicating a serious and tragic situation.
+
+Given these considerations, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a "devastating fire", which implies a negative event.
+* There is no indication of positive emotions such as joy or surprise that might be associated with the cathedral itself.
+* The use of the word "before" suggests a contrast between what was and what is now, implying a sense of loss.
+
+**sadness**
+
+The author's intended emotion appears to be sadness, likely in response to the damage caused by the fire.
+------------------------------------------------------------------------------------------------------------------------
+

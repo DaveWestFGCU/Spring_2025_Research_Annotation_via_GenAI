@@ -1,0 +1,36 @@
+Record: "I’d love that luxury of time."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to a statement or idea presented by someone else.
+* They express a desire for something, specifically "the luxury of time".
+* Their tone appears to be reflective and wistful.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker says they would "love" something, indicating a positive sentiment.
+* They mention a "luxury," which implies something desirable.
+* There is no language of disappointment, regret, or criticism.
+
+Given these points, the speaker's tone seems to be appreciative and enthusiastic about an unspecified opportunity or situation. Therefore:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a desire for something, specifically the "luxury of time".
+* The tone appears to be wistful or yearning.
+* There is no apparent negative emotion expressed.
+
+Given these points, the most relevant emotion label is **sadness**, as the speaker seems to be expressing a sense of longing or regret for not having enough time.
+------------------------------------------------------------------------------------------------------------------------
+

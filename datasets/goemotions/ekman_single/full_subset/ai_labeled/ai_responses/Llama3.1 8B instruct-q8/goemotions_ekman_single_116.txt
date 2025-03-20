@@ -1,0 +1,49 @@
+Record: "AE think that's looking harder and harder to defend?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is questioning someone else's argument or position.
+* The language used is cautious, with the phrase "looking harder and harder to defend," which implies difficulty in justifying or supporting something.
+* There is no overtly negative or emotive tone.
+
+Given these considerations, I believe the most relevant emotion label is:
+
+**sadness**
+
+However, this may not be the primary emotion. A more fitting option could be that the speaker is raising concerns or doubts about a position, but without further context, it's difficult to pinpoint the exact emotion. Considering the available options and taking into account that "sadness" can sometimes imply disappointment, I still lean towards **sadness**, but with some reservation.
+
+A closer alternative might be:
+
+**neutral**
+
+This label captures the speaker's cautious tone and lack of overtly negative language, suggesting they are more concerned or questioning rather than emotionally invested in a particular emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is questioning the defensibility of something.
+* The tone appears critical, implying that the thing being defended may not be as strong as previously thought.
+
+Given these considerations, the most relevant emotion label is **suspicion** is not an option, but  another close emotion is **anger**, no however it seems more like a " warning/ concern" and not necessarily anger towards a person. The closest match from the options provided would be:
+
+*ANGER
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is questioning the defensibility of something ("that's" referring to an idea, statement, or position).
+* The speaker uses a rhetorical question, which implies they are expressing doubt or skepticism.
+* There is no indication of strong emotions like anger or disgust.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+ 
+The speaker's tone suggests disappointment or disillusionment with something that was previously believed to be defensible. This matches the sadness category definition, which includes disappointment and emotional pain.
+------------------------------------------------------------------------------------------------------------------------
+

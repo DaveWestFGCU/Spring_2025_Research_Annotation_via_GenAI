@@ -1,0 +1,43 @@
+Record: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "impressed" initially, which suggests a positive tone.
+* However, the speaker's tone changes to one of disapproval after learning about the company's actions (firing the original poster).
+* The phrase "Glad you had some backing!" implies that the speaker is relieved or satisfied that the company's attempt to fire the original poster was unsuccessful.
+
+Given these points, the most relevant emotion label for this text would be **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker initially expresses admiration ("impressed") towards the company.
+* However, their tone shifts to disapproval upon hearing that the company attempted to fire the original poster (OP).
+* The speaker's final phrase "Glad you had some backing!" suggests relief or satisfaction that the OP received support and was not harmed.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's initial admiration gives way to a more positive emotional tone of joy, driven by their approval and relief at the OP receiving backing.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker initially expressed admiration or approval of the company ("impressed").
+* However, the tone shifts when mentioning the company's attempt to fire the original poster.
+* The word "mistake" implies that the company made an error.
+* The phrase "Glad you had some backing" suggests relief and support for the OP.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+ 
+The speaker's initial approval and subsequent relief at the OP's situation are consistent with the joy category.
+------------------------------------------------------------------------------------------------------------------------
+

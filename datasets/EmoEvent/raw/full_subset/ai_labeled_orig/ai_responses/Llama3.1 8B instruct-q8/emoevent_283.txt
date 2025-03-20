@@ -1,0 +1,37 @@
+Record: "Just have to say that liverpool deserve to be getting a good dicking after they way their fans have been behaving in Barcelona. #BARLIV #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions Liverpool's fans behaving poorly, implying a negative behavior.
+* The use of the phrase "getting a good dicking" is an idiomatic expression meaning to be thoroughly defeated or humiliated.
+* The tone appears to be critical and disapproving.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+This tweet conveys a sense of annoyance and frustration towards Liverpool's fans, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is criticizing Liverpool's behavior and using strong language ("dicking"), which suggests a negative tone.
+* The mention of "fans" implies that the author is addressing a group, rather than an individual player or team performance.
+* The use of hashtags "#BARLIV #ChampionsLeague" suggests that the tweet is about the Champions League match between Liverpool and Barcelona.
+
+Given these points, the most relevant emotion label for this tweet is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing strong disapproval towards Liverpool's fans.
+* The use of the phrase "good dicking" suggests a desire for punishment or retribution.
+* The tone is confrontational and accusatory.
+
+Given these considerations, the most relevant emotion label is **anger**. The author's language and tone suggest a strong sense of annoyance, frustration, and possibly even rage towards Liverpool's fans.
+------------------------------------------------------------------------------------------------------------------------
+

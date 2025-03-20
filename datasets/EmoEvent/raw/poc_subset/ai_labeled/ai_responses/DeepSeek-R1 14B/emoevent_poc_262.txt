@@ -1,0 +1,54 @@
+Record: "The University of Essex was a mistake. They're not even good at sports."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "The University of Essex was a mistake. They're not even good at sports." 
+
+First, let me break down the content. The author is talking about their experience at the University of Essex and claims it was a mistake. Then they criticize the university's sports abilities. So, the main points are negative judgment about the university and a specific criticism regarding sports.
+
+Now, looking at the emotion categories: anger involves feelings like annoyance or rage. Disgust includes disinterest or dislike. Fear is more about anxiety or apprehension, which doesn't seem to fit here. Joy and surprise are positive emotions, so probably not. Sadness could include grief or pensiveness, but the tweet isn't expressing personal loss or sadness.
+
+The key words here are "mistake" and "not even good." These indicate disappointment and criticism. The author is clearly expressing a negative view about the university's performance in sports, which shows dislike or disapproval. This fits more into disgust rather than anger because it's not an intense outburst but a statement of dissatisfaction.
+
+So, I think the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion this tweet is conveying. The tweet says, "The University of Essex was a mistake. They're not even good at sports." Alright, let's break it down.
+
+First, the author mentions that attending the University of Essex was a mistake. That probably indicates some negative feelings about their experience there. Mistake often implies regret or dissatisfaction, which could tie into sadness because they might be reflecting on wasted time or opportunities.
+
+Next, they criticize the university by saying they're not even good at sports. This seems like a sarcastic or disappointed remark. While sarcasm can sometimes imply other emotions like disgust or surprise, in this context, it's more about expressing that the university didn't meet their expectations. So, disappointment fits under sadness because it relates to unmet expectations and regret.
+
+Looking at the emotion categories: anger involves annoyance or rage. The tweet doesn't seem angry; it's more of a critique than an explosion of anger. Disgust is about dislike, but the author isn't expressing hate towards the university per se, just disappointment in its performance. Fear would involve anxiety or apprehension, which isn't present here. Joy and surprise are clearly not applicable because the sentiment is negative.
+
+So, putting it all together, the main emotion here is sadness, specifically due to disappointment.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to classify this tweet's emotion. The tweet is: "The University of Essex was a mistake. They're not even good at sports." 
+
+First, let me understand the content. The author mentions that attending the University of Essex was a mistake and criticizes them for not being good at sports. So, they are expressing dissatisfaction or disappointment.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise. I need to pick the most relevant one. 
+
+"Disappointment" is close to "sadness," but sadness usually refers more to grief or pensiveness. Disappointment can also tie into disgust if it's about disliking something, but in this case, it seems more like regret or dissatisfaction rather than disgust.
+
+The author doesn't express anger explicitly, though disappointment can sometimes be a form of mild anger. However, the primary emotion here is likely sadness because they're reflecting on a mistake and expressing dissatisfaction with their experience. 
+
+So, I think the best fit is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,30 @@
+Record: "Maybe she was having a bad day. But then again at least say hi."
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet reflects an observation of someone else's behavior ("Maybe she was having a bad day"), indicating a level of understanding or empathy towards that person.
+- The phrase "at least say hi" suggests a sense of expectation or disappointment in social interaction, which may indicate annoyance.
+- Overall, the sentiment conveys mild annoyance at the lack of social courtesy rather than overt anger or joy.
+
+Based on these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:  
+- The author expresses a sense of disappointment or frustration regarding someone's lack of acknowledgment.  
+- The phrase "maybe she was having a bad day" suggests understanding, but it contrasts with the expectation of a simple greeting.  
+- The emphasis on saying "hi" indicates a desire for basic social interaction, which was not met.  
+
+Based on these points, the emotion conveyed leans towards frustration or annoyance. Thus, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+- The tweet reflects a level of irritation towards someone who did not acknowledge the author.
+- The phrase "at least say hi" implies a sense of expectation for basic social interaction, which was unmet.
+- The mention of "maybe she was having a bad day" suggests understanding but is also countered by a feeling of annoyance that the person did not reach out.
+
+Taking these points into account, the most relevant emotion conveyed in the tweet is one of irritation or annoyance, which aligns with the classification of **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

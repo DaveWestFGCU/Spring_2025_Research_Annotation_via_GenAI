@@ -1,0 +1,40 @@
+Record: "Thank you, I love Heart and Zeppelin and haven't seen that till now."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker expresses gratitude with the phrase "thank you"
+* They mention two of their favorite bands, indicating a positive association
+* They hadn't seen the content before, suggesting they were pleased to discover something new
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is enthusiastic and appreciative.
+* The speaker expresses admiration for the bands mentioned, using the word "love".
+* The language used is positive and grateful.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's comment is an example of joy because it conveys a sense of pleasure and happiness at discovering something new (the video) that resonates with their musical tastes.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding positively to something they've just learned.
+* They express gratitude with the phrase "thank you".
+* Their enthusiasm for specific bands suggests a strong emotional response.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This conclusion is based on the definition of joy as a feeling of pleasure and happiness, which aligns with the speaker's grateful and enthusiastic tone.
+------------------------------------------------------------------------------------------------------------------------
+

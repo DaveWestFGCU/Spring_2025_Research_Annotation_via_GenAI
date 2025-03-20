@@ -1,0 +1,40 @@
+Record: "Here's a purple heart for you recapping that! OMG matching romantic scoots I'm cryin'"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses enthusiastic language such as "purple heart" and "OMG".
+* They express admiration and excitement about the topic, specifically mentioning romantic scooters.
+* The phrase "I'm cryin'" is often used humorously or ironically, but in this context, it suggests strong emotional response.
+
+Given these points, the most relevant emotion label for the speaker's comment is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "purple heart," which is an award given to someone who has done something exceptional, implying admiration or approval.
+* The use of "OMG" suggests excitement and enthusiasm.
+* The mention of crying indicates a strong emotional response.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's tone and language suggest that they are expressing happiness and appreciation for someone else's efforts, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is giving a compliment to someone, specifically mentioning a "purple heart" as an award.
+* The phrase "OMG matching romantic scoots" suggests excitement and playfulness.
+* The speaker claims they are "cryin'", which could imply happiness or joy rather than sadness.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**joy**
+
+The speaker's use of enthusiastic language ("Here's a purple heart!", "OMG") and playful puns ("matching romantic scoots") suggests that they are feeling happy and joyful. The phrase "I'm cryin'" is also likely meant to be humorous, rather than indicating actual sadness.
+------------------------------------------------------------------------------------------------------------------------
+

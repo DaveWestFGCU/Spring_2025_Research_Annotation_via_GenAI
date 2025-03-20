@@ -1,0 +1,67 @@
+Record: "Why are they asking women and nonwhites specifically?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the emotion in this tweet: "Why are they asking women and nonwhites specifically?" Alright, let's break it down.
+
+First, looking at the sentence structure. The person is questioning why a specific group—women and nonwhites—are being targeted. That makes me think of doubt or confusion, but I have to map that to one of the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+Hmm, is there any indication of strong emotion like anger? Well, "why" can sometimes indicate frustration or anger, but it's more of a rhetorical question. The person might be annoyed or upset, which falls under anger.
+
+Alternatively, could this be disgust? Disgust includes disinterest or dislike. Maybe the speaker feels that targeting these groups is unfair or wrong, leading to a feeling of disgust. But I'm not sure if that's the primary emotion here.
+
+Another angle: fear. If someone is being targeted because of their gender or race, maybe there's an underlying fear of discrimination or persecution. That could make sense too.
+
+Wait, surprise? The tweet doesn't seem surprised; it's more of a pointed question. So probably not surprise.
+
+Sadness might come into play if the person feels saddened by the situation, but again, the question is more about why rather than expressing grief.
+
+Going back to anger: when someone questions why something is happening to a specific group, especially in a way that seems unjust, it can stem from frustration or anger. The use of "specifically" might imply that the person finds this targeting unfair or annoying, which points towards anger.
+
+So, putting it all together, I think the emotion here is anger because the tweet expresses frustration or annoyance at being singled out without clear justification.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify the emotion in this tweet: "Why are they asking women and nonwhites specifically?" Alright, let's break it down. The user is questioning why a certain group is being targeted—women and nonwhites. This sounds like frustration or maybe irritation. 
+
+Hmm, looking at the emotion categories: anger includes annoyance and rage. So if someone feels that they're being unfairly singled out or excluded, they might feel annoyed or frustrated. That fits into anger. Alternatively, could it be surprise? Well, surprise is more about something unexpected but not necessarily negative. Disgust is more about dislike, but the tweet doesn't express hate—it's more about questioning motives.
+
+So considering all that, I think the emotion here is likely anger because of the frustration implied in the question.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet's emotion. The tweet is: "Why are they asking women and nonwhites specifically?" 
+
+First, let me understand the content. The author is questioning why a group is specifically targeting women and nonwhite individuals. This could imply that the author feels targeted or excluded.
+
+Now, looking at the possible emotions:
+
+- Anger includes annoyance and rage.
+- Disgust involves disinterest or dislike.
+- Fear relates to apprehension or anxiety.
+- Joy is about serenity or ecstasy.
+- Sadness includes pensiveness or grief.
+- Surprise covers distraction or amazement.
+
+The tweet doesn't express any positive emotions like joy, so I can rule that out. It's not a surprise because the author is questioning something they probably expected or are aware of.
+
+Is there anger here? The author might feel upset about being singled out, which could relate to anger. Alternatively, maybe disgust if they dislike the targeting. But more likely, it's frustration or annoyance, which falls under anger.
+
+Could it be fear? Not really; the tweet doesn't express worry or anxiety. Sadness? There's no clear indication of grief or pensiveness.
+
+So, the emotion is probably **anger** because the author seems annoyed or upset about being specifically targeted.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

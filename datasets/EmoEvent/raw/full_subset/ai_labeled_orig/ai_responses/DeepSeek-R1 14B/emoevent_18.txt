@@ -1,0 +1,52 @@
+Record: "Theon, you're a good man. Thank you.  #GameOfThrones #TheLongNight #TheBattleOfWinterfell"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys using only the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+First, let's read the tweet carefully: "Theon, you're a good man. Thank you. #GameOfThrones #TheLongNight #TheBattleOfWinterfell"
+
+Hmm, Theon is being praised here. The author says he's a good man and thanks him. That sounds positive. So I'm thinking it's expressing joy or gratitude.
+
+Looking at the categories: joy includes serenity and ecstasy, which fit because the tweet is appreciative. There's no indication of anger, disgust, fear, sadness, or surprise here.
+
+So the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, or surprise. The tweet is "Theon, you're a good man. Thank you.  #GameOfThrones #TheLongNight #TheBattleOfWinterfell." 
+
+First, let me understand what the tweet is about. It's referencing Game of Thrones, specifically mentioning Theon and some major events like The Long Night and The Battle of Winterfell. The user is thanking Theon and calling him a good man. 
+
+Now, I should think about the emotion expressed here. The words "thank you" suggest gratitude or appreciation. Also, calling someone a good man usually indicates approval or positive feelings. There's no indication of any negative emotions like anger or disgust. No signs of fear or anxiety either. It doesn't seem to be surprising news since it's related to a show that's already ended. 
+
+So the emotion here is likely joy because it's expressing praise and thanks, which are positive sentiments. The use of hashtags also aligns with celebrating elements of the series, adding to the celebratory tone.
+</think>
+
+The tweet expresses gratitude and praise towards Theon, indicating a positive sentiment.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet based on the emotion conveyed. The tweet is: "Theon, you're a good man. Thank you. #GameOfThrones #TheLongNight #TheBattleOfWinterfell"
+
+First, let me understand the content of the tweet. The author is addressing Theon and calling him a good man, then thanking him. The hashtags are related to Game of Thrones and specific episodes or events.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I have to choose the one that best fits the intended emotion here.
+
+The tweet is expressing gratitude towards Theon. "You're a good man" and "Thank you" are positive statements. This sounds like appreciation or praise, which falls under the 'joy' category because it's a positive emotion. There's no indication of any negative emotions like anger or sadness. It doesn't seem to express surprise, fear, or disgust.
+
+So, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

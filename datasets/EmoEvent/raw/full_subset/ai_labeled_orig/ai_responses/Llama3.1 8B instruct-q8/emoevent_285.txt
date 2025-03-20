@@ -1,0 +1,41 @@
+Record: "Celebrate #TriviaTuesday with a pop quiz.  How many children are impacted each week by Right To Play programs around the world?  #Education #WorldBookDay"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is celebratory and inviting.
+* It mentions a positive event, World Book Day.
+* The tone seems upbeat and enthusiastic.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text is discussing World Book Day and promoting an event.
+* The tone of the message appears lighthearted and inviting, as indicated by the use of "#TriviaTuesday" and a pop quiz.
+* There is no negative language or criticism in the tweet.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's intention seems to be to create a positive and engaging atmosphere, which aligns with feelings of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is lighthearted and casual, indicated by the use of "#TriviaTuesday" and a pop quiz.
+* The language used is positive and celebratory, with no negative or critical undertones.
+* The tweet mentions "WorldBookDay", which suggests a festive and joyful atmosphere.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The tone of the tweet is upbeat and playful, suggesting that the author intended to convey joy and excitement.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "All hail the many faced God Arya Stark. She is forever that bitch! #GameOfThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the tweet's intended emotion, consider the following points:
+
+* The tone of the statement is negative and critical towards Arya Stark.
+* The use of the word "bitch" implies a strong negative sentiment.
+* The hashtag "#GameOfThrones" suggests that the author is discussing the show, but it doesn't necessarily reveal their emotional state.
+
+Given these points, the tweet's intended emotion appears to be **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses strong language ("bitch") which implies a negative sentiment.
+* The author's tone appears to be passionate and expressive, but the content of the sentence suggests a critical or disapproving attitude towards Arya Stark.
+* The use of all caps for "She is forever that bitch" emphasizes the author's emphasis on their opinion.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author's use of strong language and passionate tone suggests that they are expressing anger or annoyance towards Arya Stark.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses a derogatory term ("bitch") to refer to a character.
+* The tone of the tweet is negative and dismissive.
+* The use of all caps for "forever" emphasizes the strength of the author's sentiment.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

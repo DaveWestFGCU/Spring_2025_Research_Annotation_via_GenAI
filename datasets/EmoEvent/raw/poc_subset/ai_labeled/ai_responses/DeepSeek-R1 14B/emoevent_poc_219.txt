@@ -1,0 +1,54 @@
+Record: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this classification task step by step. The user has given a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!"
+
+Breaking it down, the author starts with positive impressions of a company. However, the sentiment shifts when they mention that the company made a mistake leading to someone being fired. The author expresses relief or approval that the person had support.
+
+The key emotions here are likely joy and surprise. Initially, there's a positive impression (joy), but then the situation turns negative with a mistake and firing. However, the ending shows gladness about backing, which is a positive outcome. The overall tone isn't overtly positive or negative but leans towards approval of how things turned out despite the initial mistake.
+
+Considering surprise might not be the main emotion because it's more about the outcome being unexpected in a positive way rather than being surprised. Joy seems more fitting as the author is glad about the positive resolution.
+
+So, the primary emotion conveyed is joy.
+</think>
+
+The tweet expresses relief and approval regarding the positive outcome despite the company's mistake. The author feels happy about the backing someone received.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out the emotion conveyed in this tweet: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!" The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let me break down the tweet. The author starts by saying they were impressed by the company initially, which sounds positive. Then they mention that the company tried to fire someone because of a mistake. That part seems negative—maybe frustration or anger towards the company's action.
+
+The last sentence says, "Glad you had some backing!" This shows support for the person who was fired, which is a positive sentiment but also implies that without backing, things might have been worse. So there's both a negative and a positive tone here.
+
+Looking at the emotion categories: anger includes annoyance and rage. The part about firing someone for a mistake could be seen as an angry action, maybe the author feels upset about it. Disgust is another option, but I don't see any explicit disgust expressed; more frustration perhaps.
+
+Fear might not fit because there's no indication of fear in the tweet. Joy is present in the last part but seems secondary to the negative feelings towards the company's actions. Sadness isn't clearly shown, and surprise doesn't seem applicable here.
+
+I'm leaning towards anger because the firing for a mistake could be seen as an unfair or frustrating action, which would elicit anger from the author. The positive part is more supportive than joyful in this context.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me break down this tweet and figure out the emotion behind it. The user starts by saying they were impressed by someone's company initially, which sounds positive. Then, they mention that the company made a mistake by trying to fire the person. That part has an element of surprise or maybe some concern because firing someone without good cause is unexpected.
+
+Next, the user expresses relief or happiness that the person had backing, implying support or backup. The word "Glad" clearly indicates positive emotions like joy or satisfaction. So putting it all together, even though there's a negative event mentioned (the attempted firing), the overall sentiment shifts to a positive one because of the supportive outcome.
+
+I need to choose from the given categories: anger, disgust, fear, joy, sadness, surprise. The user goes from impressed to expressing gladness about support, so "joy" fits best here.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

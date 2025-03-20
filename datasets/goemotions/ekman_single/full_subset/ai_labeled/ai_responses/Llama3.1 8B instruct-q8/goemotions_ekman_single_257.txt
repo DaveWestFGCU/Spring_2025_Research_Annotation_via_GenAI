@@ -1,0 +1,53 @@
+Record: "I wish AOC was old enough to run for president"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing a sentiment about Alexandria Ocasio-Cortez (AOC), but it's not a criticism or negative opinion.
+* The phrase "I wish" suggests a positive attitude towards AOC, implying that the speaker thinks she would make a good president.
+* The comment seems lighthearted and informal, with no apparent malice or strong emotions.
+
+Most relevant emotion label: **joy**
+The tone of the comment is optimistic and enthusiastic, suggesting that the speaker is happy about the prospect of AOC running for president.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement appears to be wistful and nostalgic.
+* The speaker expresses a desire for a specific outcome, but it is not accompanied by any negative language or emotion towards the current situation.
+* The statement implies that AOC's age is currently a limitation to her ability to run for president.
+
+Given these points, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing a sentiment about Alexandria Ocasio-Cortez (AOC), but it's not clear if they're stating a preference, making a neutral observation, or trying to be humorous.
+* The phrase "wish AOC was old enough" implies that the speaker thinks AOC is currently too young to run for president.
+* There is no apparent criticism of AOC herself, only her age.
+
+Given these points, I think the most relevant emotion label is:
+
+**Neutral**
+ 
+The speaker's comment seems more like a neutral observation about AOC's eligibility to run for president rather than an expression of strong emotions. The tone doesn't convey anger, disgust, fear, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The tone of the statement seems lighthearted and casual.
+* The speaker is making a comment about someone's age, implying that they are not yet eligible for a position (president).
+* There is no apparent criticism or negative sentiment towards AOC.
+
+Given these considerations, the emotion most people will feel the speaker may be feeling is:
+
+**joy**
+ 
+The tone of the statement seems to be playful and admiring of AOC's potential as a future leader. The speaker appears to be looking forward to her eligibility for the presidency in the future, which suggests a sense of excitement or enthusiasm (i.e., joy).
+------------------------------------------------------------------------------------------------------------------------
+

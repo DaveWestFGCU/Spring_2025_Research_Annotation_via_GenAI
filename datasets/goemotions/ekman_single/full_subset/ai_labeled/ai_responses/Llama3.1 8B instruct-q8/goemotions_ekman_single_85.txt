@@ -1,0 +1,42 @@
+Record: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The speaker is responding to a situation where their content was removed by moderators.
+* They imply that this action was taken because of the actions or behavior of another user ([NAME]).
+* The tone seems defensive and accusatory.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to an action taken by moderators on Reddit.
+* The speaker implies that the moderators are in favor of a particular user ([NAME]).
+* The tone of the response suggests a sense of being unfairly treated or having one's content censored.
+
+Given these points, the emotion most people will feel the speaker may be feeling is:
+
+**anger**
+ 
+The speaker's use of the phrase "that's what [NAME] do" implies a sense of accusation and resentment towards the moderators, which aligns with the definition of anger. The speaker also suggests that they were unfairly treated, which further supports this emotion label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to their content being deleted by moderators.
+* The tone of the speaker seems confrontational and accusatory towards someone or something (the moderators or a person referred to as "[NAME]").
+* The speaker appears to be making a general statement about what people in authority do, rather than expressing a personal opinion.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The tone of the speaker's response suggests they are upset and defensive about their content being deleted, which aligns with the definition of anger as "a strong feeling of displeasure or antagonism."
+------------------------------------------------------------------------------------------------------------------------
+

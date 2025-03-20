@@ -1,0 +1,58 @@
+Record: "Your work is amazing! Really like the Rugrat one. The melting style is so cool. Prices are very reasonable for the quality too"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their Reddit comment. Let's look at the text they provided. The comment says: "Your work is amazing! Really like the Rugrat one. The melting style is so cool. Prices are very reasonable for the quality too."
+
+First, I'll break down each part of this sentence to identify the emotions involved.
+
+The speaker starts with "Your work is amazing!" which clearly expresses positive feelings. Using words like "amazing" and "really like" shows enthusiasm and approval. The exclamation mark also adds emphasis, indicating a strong positive emotion.
+
+Next, they mention "the Rugrat one." I'm not entirely sure what that refers to, but given the context of talking about work being amazing, it might be a specific piece or project. Regardless, the speaker is pointing out something they particularly enjoy, which contributes to their positive sentiment.
+
+Then, they say "The melting style is so cool." Again, using words like "cool" shows admiration and approval. The melting style suggests some creativity or uniqueness that impresses them.
+
+Finally, the speaker comments on the prices being reasonable for the quality. This part not only praises the work but also adds a practical positive note about affordability, which likely enhances their overall favorable impression.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The speaker is clearly expressing positive emotions throughout their comment. Words like "amazing," "like," "cool," and "reasonable" all contribute to a feeling of joy. Joy includes feelings like admiration and approval, which are evident here.
+
+I don't see any signs of anger, disgust, fear, sadness, or surprise in the text. The speaker isn't expressing confusion or astonishment (which would be surprise) nor are they showing disapproval or revulsion (disgust). There's no indication of fear or sadness; instead, everything points to a positive experience.
+
+Therefore, the emotion that best fits this comment is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm trying to figure out what emotion this Reddit comment conveys. The speaker says, "Your work is amazing! Really like the Rugrat one. The melting style is so cool. Prices are very reasonable for the quality too." 
+
+First, let me break down each part of the sentence. They start with an exclamation, which often indicates excitement or positivity. Using words like "amazing," "like," "cool" all seem positive. They're complimenting someone's work and specifically mention a style (Rugrat one) and the quality-price ratio.
+
+Looking at the emotion categories: anger is out because there's no sign of displeasure. Disgust doesn't fit either since they're not expressing revulsion. Fear isn't present as there's no worry or anxiety. Sadness is unlikely because the tone is upbeat. Surprise might be possible if something unexpected happened, but here it's more of a genuine compliment.
+
+Joy seems to match best. They're expressing admiration and approval, which fall under joy. The enthusiasm in their words suggests they're genuinely happy with the work and want to show appreciation.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their Reddit comment. Let me read it again: "Your work is amazing! Really like the Rugrat one. The melting style is so cool. Prices are very reasonable for the quality too." 
+
+Hmm, the comment starts with "Your work is amazing!" That's clearly positive. They're complimenting someone's work, which usually indicates a positive emotion. Words like "amazing," "cool," and "reasonable" all sound enthusiastic. The exclamation mark after "amazing" adds to that feeling of excitement.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Joy is about pleasure and happiness, which fits here because they're expressing admiration and approval. There's no indication of any negative emotions like anger or disgust. They don't seem scared or worried, so fear isn't it. Surprise would be if something unexpected happened, but this seems more straightforward praise.
+
+So, the emotion here should be joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

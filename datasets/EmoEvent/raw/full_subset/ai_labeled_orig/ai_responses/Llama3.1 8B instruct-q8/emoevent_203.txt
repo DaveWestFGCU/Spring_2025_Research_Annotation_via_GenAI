@@ -1,0 +1,36 @@
+Record: "USER On Twitter. What I say on this #WorldBookDay ? Books are our never failing friends. Must Read &amp; Learn The Noble Qur'an presents by the Lord of Aalamin."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about World Book Day, an event that celebrates reading and books.
+* The author mentions "our never failing friends" in a positive light.
+* The tone seems reverent and appreciative.
+
+Given these points, the most relevant emotion label is **joy**, as the author appears to be expressing gratitude and enthusiasm for books and reading.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tone of the tweet is positive and enthusiastic.
+- The author mentions a specific book, "The Noble Qur'an", with reverence and appreciation.
+- The use of hashtags such as "#WorldBookDay" and phrases like "Must Read & Learn" indicate an emphasis on promoting reading.
+
+**joy**
+The author's intention appears to be celebratory and uplifting, which aligns with the emotion label of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a celebratory message for World Book Day.
+* The tone is positive and uplifting.
+* The author mentions "never failing friends", implying a sense of appreciation and gratitude.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The author's intention is to convey enthusiasm and delight on World Book Day, highlighting the importance of books as a source of knowledge and comfort.
+------------------------------------------------------------------------------------------------------------------------
+

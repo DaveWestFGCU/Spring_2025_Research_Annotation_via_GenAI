@@ -1,0 +1,72 @@
+Record: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out the emotion in this tweet: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+
+First, I'll break down each part of the sentence. The user starts with "Right?" which is a common way to express agreement or acknowledgment, but here it might show surprise because they're questioning something unexpected.
+
+Next, "That's news to me." This phrase indicates that the information was new and perhaps surprising to them. So that leans towards surprise.
+
+Then, "I'll be excited when that happens," expresses positive anticipation—excitement is part of joy or maybe even surprise because it's an unexpected event.
+
+Finally, "I wonder how that works" shows curiosity, which can also tie into surprise because they're reacting to something new and trying to understand it.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't show any negative emotions like anger or disgust. There's no fear or anxiety expressed. Joy is present with excitement but the primary emotion seems to be surprise because of the unexpected news and the reaction to it.
+
+So, putting it all together, the main emotion conveyed here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet: "Right? That's news to me. I'll be excited when that happens, I wonder how that works." into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the tweet. The author starts with "Right?" which is a bit questioning, but then says "That's news to me." That phrase usually indicates something unexpected or surprising because it's new information they weren't aware of before. 
+
+Next, the author mentions excitement: "I'll be excited when that happens." Excitement is definitely a positive emotion, leaning towards joy. However, I should consider if there's any other emotion at play here.
+
+Then, they add, "I wonder how that works." This part shows curiosity or maybe even surprise about something unexpected happening. 
+
+Looking at the emotion categories: excitement is under joy, but the initial reaction was to news being surprising. So, is it more about surprise or joy? The first part seems to convey surprise because it's new information, and then they express excitement about it, which ties into joy.
+
+But wait, surprise can sometimes be confused with fear or anger, but in this context, the author isn't expressing any negative feelings. Instead, they're looking forward to something new with excitement. So maybe the primary emotion is surprise because of the unexpected news, followed by excitement (joy) when that event occurs.
+
+However, I have to pick only one emotion from the list. Since "excited" is a strong indicator, it might lean more towards joy. But the initial reaction was surprise at the news. 
+
+I think the key here is that the main emotion being conveyed is surprise because of the new information, and then excitement as a subsequent feeling. But according to the instructions, I should pick the most relevant one.
+
+Wait, let me read the tweet again: "Right? That's news to me." So they're surprised by this information. Then they express excitement about it happening in the future. The primary emotion triggered by the tweet is surprise because of the new info, but the subsequent feeling is joy (excitement). 
+
+But the instructions say to pick only one emotion from the list. Hmm.
+
+I think the main emotion here is surprise because that's what's being emphasized by "news to me." The excitement comes after, as a reaction to something surprising. So maybe the primary emotion is surprise.
+
+Wait no, in their statement, they're expressing both surprise and excitement. But the question is which one is more prominent. Since they say "I'll be excited when that happens," it's focusing on the positive feeling they'll have, which might make it joy.
+
+But I'm a bit torn because the initial part is about being surprised by new information. Maybe the best fit is surprise.
+
+Alternatively, since they're expressing looking forward to something with excitement, maybe it's joy.
+
+I think I need to decide based on what emotion is most prominent. The first part is surprise at the news, then they express excitement (joy) about the event happening. Since both are present, but perhaps the overall sentiment leans more towards joy because that's their future reaction.
+
+Wait, no, the tweet starts with surprise and ends with a positive feeling. But the main point of the tweet might be to convey that it's news to them, hence surprise.
+
+Hmm, this is tricky. I think the most appropriate emotion here would be surprise, as the author is reacting to new information that they were unaware of before.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's take a look at this tweet: "Right? That's news to me. I'll be excited when that happens, I wonder how that works." Hmm, the author is responding to something they found surprising because it was new to them. They express excitement about the situation happening, which adds an element of enthusiasm. The phrase "I wonder how that works" suggests curiosity or amazement. So considering all these elements—surprise and excitement—I think the most fitting emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

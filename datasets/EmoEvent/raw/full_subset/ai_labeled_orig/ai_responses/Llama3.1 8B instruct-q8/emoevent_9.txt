@@ -1,0 +1,44 @@
+Record: "This story will make your day! 😊  Meet USER and share her empowering message for refugees and youth everywhere. https://t.co/fQXZhFnLcL   #WorldBookDay 📚 https://t.co/yjY4bkjiyT"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts with "This story will make your day!", which suggests a positive and uplifting tone.
+* The use of the smiling face emoji 😊 reinforces this interpretation.
+* The text invites the reader to meet USER and share her empowering message, implying that the content is inspiring and motivational.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet starts with a positive phrase "This story will make your day!"
+* The tone is upbeat and enthusiastic
+* The use of the smile emoji 😊 reinforces a joyful sentiment
+* The text mentions sharing an empowering message, which suggests a positive emotional connotation
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The tweet's focus on promoting a story that will uplift readers and its overall positive tone suggest that the author intended to convey joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet starts with "This story will make your day!", which is a positive and uplifting statement.
+* The use of the smiley face emoji 😊 reinforces the positive tone.
+* The word "empowering" suggests that the author finds the message inspiring and hopeful.
+* The hashtags #WorldBookDay and 📚, which represents books, further emphasize the celebratory nature of the event.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The tweet clearly conveys excitement and positivity, making joy the dominant emotion intended by the author.
+------------------------------------------------------------------------------------------------------------------------
+

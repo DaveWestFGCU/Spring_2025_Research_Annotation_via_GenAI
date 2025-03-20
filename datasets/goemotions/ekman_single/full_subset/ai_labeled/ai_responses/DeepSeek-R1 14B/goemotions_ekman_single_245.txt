@@ -1,0 +1,80 @@
+Record: "Is she worse than [NAME] though?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I'm trying to figure out what emotion the speaker might be feeling based on their comment. The comment is: "Is she worse than [NAME] though?" 
+
+First, let's break this down. The speaker is comparing two people, asking if one (she) is worse than another person named [NAME]. This suggests that the speaker has some sort of judgment about both individuals. The word "worse" implies a negative assessment, so maybe they're expressing disapproval or criticism.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger involves strong displeasure or antagonism. Disgust is revulsion or strong disapproval. So, in this case, the speaker seems to be evaluating who is worse, which could indicate either anger or disgust. 
+
+If it's about feeling annoyed or showing dislike, that leans towards anger. If it's more about finding something repulsive or offensive, that would be disgust. The comment doesn't have strong language like swear words or explicit criticism, so maybe it's not pure anger. It seems more like a comparison expressing disapproval, which could be disgust.
+
+Alternatively, if the speaker is trying to provoke or challenge someone else's opinion, that might be anger. But without more context, it's hard to say definitively. However, given the phrasing "Is she worse than...", it sounds more evaluative and critical rather than explosively angry. So perhaps disgust is a better fit because it involves strong disapproval.
+
+Wait, but sometimes comparisons can also indicate surprise if the speaker is unexpectedly stating that someone is worse. But in this case, the emotion isn't about astonishment but rather judgment. So maybe not surprise.
+
+Looking at examples for disgust: "Those floors with *that* paneling? Ugh!" which shows disapproval. Similarly, "That’s such a selfish mentality to have." The speaker here is making a negative comparison, which aligns more with disgust.
+
+So I think the emotion is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out what emotion the speaker might be feeling based on their comment. The comment says, "Is she worse than [NAME] though?" So, first off, I need to break this down.
+
+The speaker is comparing two people: "she" and "[NAME]." They're asking if one is worse than the other. Now, looking at the emotion categories provided—anger, disgust, fear, joy, sadness, surprise, neutral—I have to pick the most relevant one.
+
+Let's consider each emotion:
+
+1. **Anger**: This usually involves strong displeasure or antagonism. The comment doesn't explicitly show anger; it's more of a question comparing two people.
+   
+2. **Disgust**: This is revulsion or disapproval. Again, the speaker isn't expressing disgust but rather questioning someone's quality relative to another.
+
+3. **Fear**: Involves being afraid or worried. There's no indication of fear here; it's more about comparison.
+
+4. **Joy**: Feeling pleasure or happiness. The comment doesn't convey any positive emotions.
+
+5. **Sadness**: Emotional pain or sorrow. Not evident in the statement.
+
+6. **Surprise**: Astonishment or unexpected realization. The question is probing, but not necessarily surprised.
+
+7. **Neutral**: Lacking emotion. This seems to fit because the speaker is posing a neutral question without showing any strong emotion.
+
+So, the comment is more about seeking information rather than expressing an emotion. Therefore, the most appropriate emotion here would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Is she worse than [NAME] though?" Let me break this down.
+
+First, I'll look at the words used. The speaker is comparing two people: "she" and "[NAME]." They're asking if one is worse than the other. This kind of comparison often comes up when someone is evaluating or judging others' actions or behavior.
+
+Now, considering the emotion categories given—anger, disgust, fear, joy, sadness, surprise, neutral—I need to see which fits best. Let's go through them:
+
+- Anger: Usually involves strong displeasure. The comment doesn't explicitly show anger; it's more of a question.
+- Disgust: Involves revulsion or disapproval. Again, the speaker is questioning if she's worse, not expressing disgust directly.
+- Fear: Involves being afraid or worried. There's no indication of fear here.
+- Joy: A feeling of pleasure. The comment doesn't express happiness.
+- Sadness: Emotional pain. Not really present in this statement.
+- Surprise: Astonishment. Doesn't seem to fit because it's a straightforward question.
+- Neutral: Lacking emotion. But the comparison might imply some underlying sentiment.
+
+Wait, perhaps the speaker is trying to provoke or challenge someone else by suggesting that [NAME] isn't as bad as "she." This could be a sign of frustration or mild anger, but since it's phrased as a question, maybe it's more about being critical rather than expressing overt anger. Alternatively, it might just be a neutral observation without strong emotion.
+
+But on Reddit, when someone asks if one person is worse than another, they're often trying to stir the pot or express mild dissatisfaction. It could also be sarcastic. However, without more context, it's hard to tell. The comment itself doesn't show extreme emotions but is more of a probing question. So maybe the emotion here is neutral because the speaker isn't clearly expressing any strong emotion—they're just making an observation or comparison.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

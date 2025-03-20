@@ -1,0 +1,38 @@
+Record: "Who will win tonight? I have bet of $10,000. Help me win it. #BARLIV #BarcellonaLiverpool #Barcelona #Liverpool #LivBar USER USER #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is asking for help and seems uncertain about the outcome.
+* They are invested in the result, having bet a significant amount of money ($10,000).
+* The tone is somewhat informal and enthusiastic.
+
+Given these considerations, the most relevant emotion label is **joy**. The author appears to be excited and hopeful about winning their bet, which suggests that they are feeling joyful or ecstatic about the prospect of victory.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is asking for help or support in winning a bet.
+* The tone appears to be urgent and enthusiastic.
+* The use of hashtags suggests the author wants to engage with others who are interested in the match.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is asking for help and expressing a desire to win their bet.
+* There is no negative language or tone in the tweet.
+* The author is excited about the upcoming match, using hashtags related to the Champions League and the teams involved.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The author's enthusiasm and eagerness to win their bet suggest that they are experiencing joy, which includes emotions such as serenity, excitement, and happiness.
+------------------------------------------------------------------------------------------------------------------------
+

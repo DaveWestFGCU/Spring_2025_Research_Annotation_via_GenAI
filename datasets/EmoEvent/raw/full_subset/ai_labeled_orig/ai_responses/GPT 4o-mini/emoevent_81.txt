@@ -1,0 +1,32 @@
+Record: "USER USER USER USER USER A very happy #WorldBookDay, indeed! We're so excited to read USER' new book, "The Moment of Lift.""
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider given the text:
+- The use of "A very happy #WorldBookDay" indicates a positive sentiment.
+- The phrase "We're so excited to read" shows enthusiasm and joy about the occasion and the book mentioned.
+- Overall, the tone is upbeat and celebratory rather than negative or neutral.
+
+Based on these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider from the text:
+- The use of "very happy" indicates a positive sentiment.
+- The expression of excitement about reading a new book suggests enthusiasm and joy.
+- The hashtag #WorldBookDay implies a celebration of reading, which is typically associated with positive emotions.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider from the text:
+
+1. The phrase "A very happy #WorldBookDay" indicates a positive sentiment associated with the event.
+2. The use of "indeed!" adds an enthusiastic tone, further emphasizing joy.
+3. The excitement about reading a new book suggests anticipation and pleasure.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

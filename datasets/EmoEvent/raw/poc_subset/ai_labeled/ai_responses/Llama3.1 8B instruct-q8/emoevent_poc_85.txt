@@ -1,0 +1,38 @@
+Record: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is addressing a specific issue with a company ([NAME])
+* They claim that the problem was caused by the company's moderators
+* The tone is defensive and accusatory
+
+**anger**
+The author appears to be expressing anger towards the company for deleting their content, which they believe was unfair.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is addressing an issue with a moderator or moderation team.
+* They express frustration and blame the moderators for deleting their content.
+* There is no indication of negative emotions towards the person or service being moderated.
+
+Given these considerations, I would classify this tweet as:
+
+**anger**
+This classification fits because the author appears to be frustrated and upset about the action taken by the moderators.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions not deleting a tweet, which implies that their intention is to assert ownership and control over their content.
+* They mention a moderator or administrators (referred to as "[NAME]") being responsible for the action, which suggests a power imbalance and perceived injustice.
+* The tone seems defensive and slightly confrontational.
+
+Most relevant emotion label: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

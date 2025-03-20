@@ -1,0 +1,75 @@
+Record: "Mr. [NAME]! Nooooo!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "Mr. [NAME]! Nooooo!" 
+
+First, let me look at each emotion category and see how they fit.
+
+Anger involves strong displeasure or antagonism. The speaker's use of "Nooooo" could indicate frustration, but it seems more like an expression of distress rather than anger.
+
+Disgust is about revulsion or disapproval. There's no indication here that the speaker finds something offensive or unpleasant; instead, the tone sounds more emotional and reactive.
+
+Fear involves being afraid or worried. While "Nooooo" can sometimes express fear in a situation like this, it might also be an expression of sadness or surprise rather than fear specifically.
+
+Joy is about pleasure and happiness. Clearly not applicable here since the speaker's reaction seems negative.
+
+Sadness includes sorrow and disappointment. The elongated "Nooooo" sounds like a cry of distress or anguish, which fits more with sadness.
+
+Surprise involves astonishment or being startled by something unexpected. While an exclamation can show surprise, the tone here seems more about emotional pain than shock.
+
+Neutral is lacking emotion, but this statement definitely has emotion behind it.
+
+Putting it all together, "Mr. [NAME]! Nooooo!" sounds like a desperate or sorrowful cry, indicating sadness rather than other emotions.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "Mr. [NAME]! Nooooo!" The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, looking at the structure of the sentence. They're addressing someone by name and exclaiming "Nooooo!" That sounds like a strong emotional expression. Let me consider each emotion:
+
+- **Anger**: Usually involves words expressing frustration or dislike. Here, it's more of an outcry rather than direct anger.
+- **Disgust**: Typically involves expressions of revulsion, maybe using words like "gross" or "icky." Not present here.
+- **Fear**: Involves worry or nervousness. The speaker doesn't seem worried but is reacting to something.
+- **Joy**: Would likely have positive words and a happy tone. Doesn't fit the exclamation here.
+- **Sadness**: Could involve sorrow or disappointment, but again, the reaction seems more immediate.
+- **Surprise**: Often involves astonishment or realization. The speaker's reaction feels sudden and intense, like an outcry to someone they care about.
+- **Neutral**: No emotion, which isn't the case here.
+
+The exclamation "Nooooo!" is a loud, emotional response, often used when something unexpected happens, especially regarding someone close. So it's more of a surprised or startled reaction rather than anger or sadness.
+
+So, putting it all together, the speaker is likely feeling surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The text given is "Mr. [NAME]! Nooooo!" and I have to choose from anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, looking at the structure of the sentence. It starts with addressing someone by name, which might indicate they're speaking directly to them. Then there's an exclamation mark after "Mr. [NAME]", which suggests some strong emotion. The word "Nooooo" is repeated four times, which is a prolonged expression of refusal or distress.
+
+Now, let's consider the possible emotions:
+
+- Anger: This usually involves expressions like hate, dislike, frustration. Words might be harsh or aggressive, but here it's more about protest.
+- Disgust: This would involve words expressing aversion, maybe towards something offensive. The speaker isn't talking about anything unpleasant here.
+- Fear: This is about being afraid or worried. Maybe if they were scared of Mr. [NAME], but the exclamation seems more desperate.
+- Joy: Unlikely, as joy usually involves positive expressions, not protests.
+- Sadness: Could involve sorrow, maybe disappointment, but again, this seems more urgent.
+- Surprise: This is about being astonished or startled. The repeated "Nooooo" sounds like a reaction to something unexpected, possibly a sudden realization or an unforeseen event.
+
+The speaker's use of multiple "o"s in the exclamation suggests a high level of emotion. It's drawn out, which might indicate surprise or shock. They're reacting strongly, perhaps to something they didn't expect. The initial addressing also could mean they were caught off guard by whatever Mr. [NAME] did.
+
+So, putting it all together, the speaker seems to be expressing surprise, possibly because of an unexpected situation involving Mr. [NAME]. Therefore, the emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

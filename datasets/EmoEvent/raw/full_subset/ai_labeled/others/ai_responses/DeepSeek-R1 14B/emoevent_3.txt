@@ -1,0 +1,22 @@
+Record: "Liverpool score tomorrow and don’t lose by more than one goal and we’ll go through.  #lfc #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about Liverpool's Champions League match. The user is saying that if Liverpool scores tomorrow and doesn't lose by more than one goal, they'll advance. They've also included some hashtags related to their team and the competition.
+
+First, let me break down the content. The author is expressing hope or optimism because they're stating a condition for advancement—scoring and not losing by more than one goal. This suggests they believe there's a chance of success, which ties into positive emotions.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise, other. I need to map this to one of these. The tweet doesn't show any negative feelings like anger or fear; instead, it's more about hope and positivity.
+
+The mention of "we'll go through" indicates confidence or excitement about the possibility of moving forward in the competition. This aligns with joy because they're expressing happiness and optimism about a potential positive outcome.
+
+I don't see elements of surprise here since there's no unexpected news; it's more about anticipation. Sadness isn't present either, as the tone is hopeful rather than mournful.
+
+So, considering all this, the primary emotion seems to be joy because the author is expressing hope and positivity about their team's chances.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

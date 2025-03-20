@@ -1,0 +1,46 @@
+Record: "they sounds like autistic meltdowns triggered by an immense fear of vomiting, nothing much to do"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions "autistic meltdowns", which may imply a lack of understanding or sensitivity towards individuals with autism.
+* The phrase "immense fear of vomiting" suggests that the speaker is highlighting a perceived vulnerability or distress in others, rather than expressing empathy or concern.
+* The tone is dismissive and somewhat flippant, implying that the commenter's experiences are not taken seriously.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+The speaker's comment comes across as insensitive and judgmental, which aligns with the definition of disgust as a strong disapproval or revulsion towards something unpleasant. The tone is not one of concern or empathy, but rather a dismissive and somewhat mocking attitude towards individuals who may be experiencing distressing situations.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker describes someone as having a condition (autistic meltdown), implying a perceived vulnerability.
+* The speaker associates this condition with a specific bodily function (vomiting).
+* The tone seems dismissive and reducing.
+
+Given these points, the speaker's comment suggests a lack of empathy or understanding, which is not accompanied by any visible anger, disgust, fear, joy, or sadness. Instead, it appears to be a callous observation.
+
+**neutral**
+
+Note that this label may seem counterintuitive given the context, but it reflects the absence of an expressed emotion beyond a neutral or dismissive tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The speaker makes a diagnosis about another person's behavior ("autistic meltdowns") without any apparent medical expertise or evidence.
+* They imply that the other person is experiencing intense distress and anxiety related to vomiting ("fear of vomiting").
+* The tone is dismissive and mocking, suggesting a lack of empathy.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+The speaker's language and tone suggest a strong sense of disapproval and revulsion towards the other person's behavior, which aligns with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+

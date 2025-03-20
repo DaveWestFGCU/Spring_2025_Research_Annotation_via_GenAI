@@ -1,0 +1,64 @@
+Record: "Yeah for me it takes me weeks to get over s relapse"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out the emotion conveyed in this tweet: "Yeah for me it takes me weeks to get over a relapse." Let me break it down step by step.
+
+First, the user is talking about getting over a relapse, which usually refers to a setback in recovery from an addiction or similar issue. The phrase "takes me weeks" suggests that overcoming this situation takes a significant amount of time and effort. 
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise.
+
+I don't see any signs of anger here; it's more about dealing with emotions rather than expressing frustration. Disgust or dislike doesn't seem to fit either because they're talking about their own experience, not something that causes revulsion.
+
+Fear? Well, a relapse could be anxiety-inducing, but the tweet isn't focused on fear per se. It's more about the aftermath and duration of recovery.
+
+Joy is out of the question since it's clearly a negative situation. Sadness seems fitting because dealing with a relapse would naturally lead to feelings of sorrow or pensiveness. The person is expressing that it's a challenging and time-consuming process, which indicates emotional struggle—sadness fits here.
+
+Surprise doesn't apply because there's nothing unexpected mentioned; it's more about the ongoing experience rather than something surprising happening.
+
+So, considering all these points, sadness is the most appropriate emotion for this tweet.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I have this tweet: "Yeah for me it takes me weeks to get over s relapse." The task is to classify the emotion conveyed here into one of the six categories: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, let's break down the tweet. The author mentions taking weeks to recover from a relapse, which suggests they're dealing with some sort of setback or negative experience. The word "relapse" implies that maybe they were trying to overcome something—could be addiction, a health issue, or another kind of problem—and they've slipped back into it.
+
+The emotion here isn't explicitly stated, so I need to infer based on the context. When someone talks about struggling with overcoming something and it taking weeks, it often indicates frustration or disappointment. Frustration can fall under anger, as it's a form of mild irritation or annoyance. Alternatively, they might be feeling sad because dealing with relapse is tough and can lead to feelings of failure or sorrow.
+
+I don't see any signs of disgust, which usually involves dislike or aversion. Fear would imply anxiety about the future or something dangerous, but the tweet seems more reflective than anxious. There's no joy here; instead, it's a negative sentiment. Surprise would require some unexpected news or event, which isn't present.
+
+So between anger and sadness: relapse might cause disappointment (sadness) or frustration (anger). The phrase "Yeah for me" could indicate acceptance but also ongoing struggle, leaning towards sadness because dealing with such issues can be emotionally draining and lead to feelings of grief or pensiveness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to classify the emotion in this tweet: "Yeah for me it takes me weeks to get over s relapse." Let's break it down.
+
+First, the tweet mentions taking weeks to get over a relapse. Relapse implies some kind of setback or failure, probably related to something like addiction or bad habits. The person is expressing how long it's taking them, which suggests they're dealing with negative emotions about this situation.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one that best fits. 
+
+Anger might come into play if they're frustrated or annoyed, but the tweet doesn't explicitly show irritation. Disgust could be if they feel dislike towards themselves for relapsing, but it's more about time rather than a feeling of disgust.
+
+Fear isn't really present here; there's no indication of anxiety or apprehension. Joy and surprise are out of the question since the context is negative.
+
+Sadness seems to fit because dealing with a setback like a relapse can lead to feelings of sorrow, maybe regret or disappointment. The time aspect emphasizes that it's taking longer than expected, which could amplify those sad emotions.
+
+So, putting it all together, sadness is the most relevant emotion here.
+</think>
+
+The tweet expresses someone struggling with overcoming a relapse and the extended period it takes, indicating feelings of sorrow or disappointment.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

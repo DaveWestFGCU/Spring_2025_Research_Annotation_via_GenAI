@@ -1,0 +1,40 @@
+Record: "USER USER USER_comin USER Oh yes it will, disappointingly, as have all of the other injustices against the Catalan government and people. Nothing will happen until the EU practices what it preaches. Like  #GretaThunberg"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is referencing Greta Thunberg's movement "Fridays for Future", indicating a connection to climate change and social justice.
+* The tone of the tweet appears critical, mentioning "injustices" and expressing disappointment that no action has been taken.
+* The phrase "Nothing will happen until..." suggests frustration with the current state of affairs.
+
+Given these points, the most relevant emotion label is **anger**, as the author expresses frustration and criticism towards the EU's lack of action on climate change and social justice.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions "disappointingly", which implies a negative sentiment.
+* The author is expressing frustration towards the inaction of the EU.
+* They are referencing Greta Thunberg, who is known for her climate activism and criticism of governments' lack of action on climate change.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The tone of the tweet suggests that the author is frustrated and fed up with the inaction of the EU, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions "disappointingly", indicating a negative sentiment.
+* They express frustration with the lack of action from the EU regarding injustices against the Catalan government and people.
+* Greta Thunberg is mentioned in a positive light, suggesting that the author supports her efforts.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's tone is primarily one of disappointment and frustration, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+

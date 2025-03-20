@@ -1,0 +1,77 @@
+Record: "Don't worry, nobody expects much from you people anyways."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Don't worry, nobody expects much from you people anyways." Let me break this down.
+
+First, let's look at the words used. "Nobody expects much" seems negative. It implies that the speaker has low expectations of others. The word "people" being used in a general sense could be a sign of frustration or disappointment.
+
+The tone here doesn't sound positive. Words like "Don't worry" might seem reassuring, but given the context where this is likely a response to someone else's comment, it might actually be dismissive. It suggests that the speaker doesn't think much of others' capabilities or behavior.
+
+Looking at the emotion categories: anger involves displeasure or antagonism. Disgust is about revulsion or disapproval. Sadness relates to sorrow or disappointment. The speaker seems to have low regard for others, which could be sadness but might also lean towards disgust because it's a strong disapproval.
+
+Wait, but is this more about anger? If someone says that others aren't expected to do much, they might be annoyed or frustrated, which aligns with anger. Alternatively, the statement could express a sense of disdain, fitting disgust.
+
+The examples given for disgust include strong disapproval, like "That's such a selfish mentality." This comment seems similar because it's a judgment about others in a negative way without any positive spin.
+
+So, weighing between anger and disgust: the speaker isn't necessarily expressing immediate irritation (anger) but is making a general statement of disappointment or disdain. That points more towards disgust.
+
+I think the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Don't worry, nobody expects much from you people anyways." 
+
+First, let me break down the sentence. The speaker starts by saying not to worry, which might seem reassuring at first glance. But then they add that "nobody expects much from you people," which seems critical or negative.
+
+I'm considering the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Looking for signs of anger—words like hate, annoyed. The speaker isn't directly using those words but is being dismissive. Dismissiveness can sometimes indicate frustration or mild anger.
+
+Disgust usually involves something offensive or unpleasant. Here, the speaker seems to be expressing a negative opinion about others, which could be seen as disgust, but it's more of a critique rather than a reaction to something physically gross.
+
+Fear would involve anxiety or worry, but the speaker is dismissing concerns and doubting others, not showing fear themselves.
+
+Joy isn't present here; the tone is negative.
+
+Sadness might come from disappointment, but there's no clear indication of personal loss or sorrow in the comment.
+
+Surprise involves astonishment. The statement seems straightforward, so surprise doesn't fit.
+
+Neutral would be if there were no emotion, but the dismissive tone suggests some emotion.
+
+Between anger and disgust: Anger is more about displeasure or antagonism. The speaker's criticism and lack of expectation could stem from frustration or irritation, which are forms of anger. Disgust might involve finding others repulsive, but here it's more about dismissing their capabilities rather than finding them offensive.
+
+I think the emotion here is **anger** because the speaker is being critical and dismissive, showing a sense of displeasure towards others.
+</think>
+
+The speaker's tone is dismissive and critical, indicating frustration or irritation. This aligns with the emotion of anger as it reflects a strong feeling of disapproval.
+
+**emotion**
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Don't worry, nobody expects much from you people anyways." Let's break this down step by step.
+
+First, looking at the words used. "Don't worry" is a phrase that often conveys reassurance, which can be associated with joy or calmness. However, in this context, it might have a different tone because of what follows.
+
+Next, the speaker says, "nobody expects much from you people anyways." This part seems critical. The use of "you people" can sometimes be derogatory, indicating that the speaker has a negative view of the group being addressed. The phrase "expects much" suggests disappointment or low regard for their abilities or behavior.
+
+Putting it together, the speaker is dismissing the group and expressing that they don't hold them in high esteem. This sentiment aligns with feelings like anger or disgust because it's a strong negative emotion directed towards others. 
+
+Looking at the emotion categories: Anger involves displeasure or antagonism, which fits here since the speaker seems annoyed or disapproving. Disgust is about revulsion, but I think the primary emotion here is more frustration and criticism rather than something repulsive.
+
+So, considering all this, the most relevant emotion would be anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

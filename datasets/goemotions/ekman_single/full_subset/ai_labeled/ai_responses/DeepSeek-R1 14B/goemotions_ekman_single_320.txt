@@ -1,0 +1,68 @@
+Record: "[NAME] is honestly really badass and he has a great design I hope they give him something good to do in 11"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I'm trying to figure out what emotion the speaker might be feeling based on their comment. The comment says, "[NAME] is honestly really badass and he has a great design I hope they give him something good to do in 11." 
+
+First, let me break this down. The speaker is talking about [NAME], calling them "badass" and mentioning that they have a "great design." Then they express a hope that "[NAME] gets something good" in the future, specifically referring to "11." I'm assuming "11" might be a project or a role number.
+
+The emotion categories I can choose from are anger, disgust, fear, joy, sadness, surprise, or neutral. 
+
+Starting with anger: The speaker isn't showing any signs of anger. They're using positive terms like "badass" and "great design," so that doesn't fit.
+
+Disgust is about revulsion or disapproval. Again, the speaker is praising [NAME], not expressing anything negative, so disgust isn't it either.
+
+Fear involves being afraid or worried. The speaker expresses hope for the future but in a positive way, not out of fear. So probably not fear.
+
+Joy includes happiness and related feelings. The use of words like "badass" and "great design" suggests admiration and approval. They're happy about [NAME]'s abilities and hopeful for their future, which points towards joy.
+
+Sadness is emotional pain or sorrow. There's no indication of that here; the tone is positive.
+
+Surprise involves astonishment or unexpected feelings. The comment isn't surprising; it's a straightforward compliment with hope, so surprise doesn't fit.
+
+Neutral would be if there were no expressed emotion, but clearly, the speaker is expressing positive emotions.
+
+Putting it all together, the emotion most likely being felt by the speaker is joy because of the praise and hopeful tone.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment says, "[NAME] is honestly really badass and he has a great design I hope they give him something good to do in 11." 
+
+First, let me break down the words used here. "Badass" is a slang term that usually means someone is impressive or cool. Using "honestly" adds emphasis, showing genuine positive feelings. The speaker also mentions that "[NAME] has a great design," which is a compliment. Then they express a hope that he gets something good to do in 11, presumably referring to project 11.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. 
+
+The speaker is using positive language like "badass" and "great design," which indicates approval or admiration. This falls under joy because joy includes feelings like admiration and approval. There's no sign of any negative emotions; instead, the tone is supportive and hopeful.
+
+I don't see elements that suggest surprise, as there's nothing unexpected mentioned. Fear or disgust aren't present either. The speaker isn't neutral because they're clearly expressing positive feelings. So, joy seems to be the most fitting emotion here.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "[NAME] is honestly really badass and he has a great design I hope they give him something good to do in 11". 
+
+First, let me break down what this sentence is saying. The speaker starts by calling [NAME] "badass", which is a positive term that usually conveys respect or admiration. Then they mention that he has a "great design", again another positive statement. Finally, they express a hope that "[NAME] gets something good to do in 11". 
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger doesn't seem to fit because the speaker is using positive language. Disgust is about revulsion, which isn't present here. Fear involves being afraid or worried; the comment doesn't express any fears or anxieties. 
+
+Joy includes feelings like admiration and approval. The speaker clearly admires [NAME] and approves of his work, so joy seems to fit. Sadness involves sorrow or disappointment, which isn't evident here. Surprise is about astonishment, but there's no indication of something unexpected happening.
+
+Neutral would be if the speaker didn't show any emotion, but instead they're expressing positive feelings.
+
+So putting it all together, the speaker is expressing admiration and approval, which falls under joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

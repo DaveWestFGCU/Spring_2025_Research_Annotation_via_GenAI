@@ -1,0 +1,31 @@
+Record: "Can someone put it in slow mo"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Points to consider:
+
+* The author is requesting a specific action from another person, which implies they are seeking entertainment or amusement.
+* The phrase "slow mo" suggests the desire for a humorous or entertaining effect.
+
+Most relevant emotion label: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is requesting a specific action from someone else.
+* They are expressing a desire for something that is likely entertaining or amusing.
+
+The most relevant emotion label is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify the tweet, consider the following points:
+
+* The author is asking for a specific action to be taken on a video or clip, implying they want to review or analyze the content more closely.
+* The tone of the request is informal and conversational, suggesting a casual interaction with others.
+
+Given these points, the most relevant emotion label is **surprise**. The author likely wants to re-watch a surprising moment in the video that happened quickly, and is seeking help from someone else to achieve this.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "One was loyal to his Queen,One was loyal to her people. One died protecting his Queen,the other died protecting her people. RIP House Mormont   #GameofThrones #AryaStark #GOTS8E3  #GOT #TheonGreyjoy  #gotfever #GOT8 #GamefThrones  #NightKing #NotToday #BranStark #GreatWar https://t.co/cf61nWghol"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions death and loyalty, suggesting a somber tone.
+* The use of "RIP" is a common expression for mourning or condolences.
+* There is no language that suggests anger, fear, joy, or surprise.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text mentions the death of several characters, which suggests a emotional tone related to loss.
+* The tone is reflective and nostalgic ("RIP House Mormont"), indicating a sense of sadness or melancholy.
+* There are no words that indicate anger, disgust, fear, joy, or surprise.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The tweet is about a scene from Game of Thrones, specifically mentioning the loyalty of characters and their ultimate fate.
+* The tone of the tweet appears to be reflective and nostalgic rather than critical or negative.
+* The use of "RIP" suggests a sense of respect and remembrance for the deceased characters.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The author is mourning the loss of beloved characters and reflecting on their sacrifice.
+------------------------------------------------------------------------------------------------------------------------
+

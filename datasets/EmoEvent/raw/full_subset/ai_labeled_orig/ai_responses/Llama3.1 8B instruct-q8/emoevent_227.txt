@@ -1,0 +1,40 @@
+Record: "The speed of the wights caught me off guard. I truly wasn’t ready for that. #GameofThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions being caught off guard by the wights.
+* The tone is reflective and honest about their lack of preparedness.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+
+This classification fits because the author's tweet indicates that they were unexpectedly caught off guard by the wights, which suggests a feeling of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions being caught off guard by the speed of the wights.
+* The phrase "I truly wasn't ready for that" implies a sense of unexpectedness and perhaps a negative reaction.
+
+Most relevant emotion label: **surprise**. 
+
+The tweet expresses a sense of surprise at being caught off guard, which is the primary emotion conveyed in this context. While it may be possible to interpret this as a secondary experience of fear (e.g., fear of being attacked), the text primarily focuses on the element of unexpectedness or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions being "caught off guard" by the wights, implying a sense of unexpectedness.
+* There is no negative language or tone towards the show or its content.
+* The author expresses a personal reaction to an event in the series.
+
+Given these points, the most relevant emotion label is:
+ 
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

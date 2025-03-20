@@ -1,0 +1,36 @@
+Record: "Funny how it do"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a phrase that is grammatically incorrect or informal ("it do" instead of "it does").
+* The tone appears to be casual and playful.
+* The author uses the word "funny", which can imply amusement or irony.
+
+Given these considerations, the most relevant emotion label is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some points to consider:
+
+* The tweet contains a colloquial expression ("Funny how it do") that is often used in an ironic or humorous way.
+* The tone of the phrase is more playful than serious.
+* There's no indication of strong negative emotions like anger, disgust, fear, or sadness.
+
+Given these considerations, I would classify the tweet as:
+
+**joy**
+The author appears to be expressing amusement or playfulness, which aligns with the emotion of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains an informal expression of amusement ("Funny how")
+* The phrase is followed by a colloquial abbreviation or truncation ("it do")
+
+Given these considerations, the most relevant emotion label for this tweet is **joy**, as the author is expressing a playful and humorous sentiment.
+------------------------------------------------------------------------------------------------------------------------
+

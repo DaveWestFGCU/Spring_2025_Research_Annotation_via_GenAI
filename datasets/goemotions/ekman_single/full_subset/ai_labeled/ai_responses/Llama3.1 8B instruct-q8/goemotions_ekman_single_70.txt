@@ -1,0 +1,42 @@
+Record: "I dislike [NAME] more and more. Big ego and small feet."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions they dislike someone, indicating a negative sentiment.
+* They use the phrase "Big ego and small feet," which implies criticism and mocking.
+* The tone is sarcastic and condescending.
+
+Given these points, the most relevant emotion label is **anger**, as it appears the speaker is expressing annoyance or displeasure towards the person being criticized.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses a strong negative sentiment towards someone named "[NAME]".
+* The speaker mentions two specific characteristics they dislike about the person, suggesting a sense of distaste or disapproval ("big ego" and "small feet").
+* The tone is critical and mocking.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+The speaker's use of phrases like "I dislike [NAME] more and more" suggests a growing sense of revulsion or strong disapproval towards the person. The mention of specific, seemingly trivial characteristics ("small feet") adds to the sense of distaste, indicating that the speaker finds [NAME] unpleasant or off-putting.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker explicitly states they dislike someone
+* The use of superlatives ("more and more", "big ego")
+* A derogatory comment about the person's physical appearance ("small feet")
+
+Given these points, it appears that the speaker is expressing a strong negative sentiment towards the person. 
+
+**anger**
+
+The tone of the comment suggests annoyance or antagonism towards the person, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

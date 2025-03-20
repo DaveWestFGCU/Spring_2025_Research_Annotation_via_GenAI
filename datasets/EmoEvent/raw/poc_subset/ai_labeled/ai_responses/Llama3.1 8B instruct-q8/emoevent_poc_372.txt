@@ -1,0 +1,39 @@
+Record: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions people looking down on others (specifically, Chinese people)
+* The use of the phrase "like they've forgotten" suggests a sense of shame or ignorance
+* The author is highlighting a perceived flaw in the behavior of others
+* There is no mention of personal experience or emotional distress
+
+**anger**
+
+Note: While the tone is confrontational and critical, it's not necessarily an expression of intense rage. However, it does convey a strong sense of disapproval and resentment towards those who look down on Chinese people.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions people looking down on a specific group (中国人)
+* The phrase "look down on" implies a negative attitude or connotation
+* The reference to forgetting the reason for Singapore's existence suggests a sense of historical context and possible cultural pride
+
+The most relevant emotion label is: **anger**
+
+This classification is based on the author's apparent frustration and defensive tone towards people who are perceived as having a biased or ignorant attitude towards the Chinese community. The use of "look down on" implies a strong negative sentiment, which aligns with the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions people looking down on a particular group (中国人), implying a sense of disrespect or superiority.
+* The phrase "look down on" suggests a negative attitude towards this group.
+* The author also references the existence of Singapore, which implies a sense of pride and connection to their nation.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

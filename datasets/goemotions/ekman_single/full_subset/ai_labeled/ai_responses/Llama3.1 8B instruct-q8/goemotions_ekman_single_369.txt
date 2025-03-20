@@ -1,0 +1,43 @@
+Record: "I let my cat lick the leftover milk out of the bowl after I eat cereal, he loves it. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is sharing an anecdote about their cat enjoying leftover milk.
+* There is no criticism or complaint in the statement.
+* The tone appears to be casual and lighthearted.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**joy**
+
+The speaker's tone suggests that they are pleased and happy to see their cat enjoy something, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone is casual and conversational.
+* The speaker is sharing a personal habit with their cat.
+* There's no mention of conflict or negative emotions.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker seems to be expressing happiness and amusement at the idea that their cat enjoys licking leftover milk from their cereal bowl. This suggests a positive and lighthearted tone, characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be sharing a lighthearted and personal experience with their pet.
+* The tone is casual and conversational.
+* The speaker expresses affection for their cat.
+
+Most relevant emotion label: **joy**
+The speaker's tone and language suggest that they are happy and pleased to share this experience with others, indicating joy.
+------------------------------------------------------------------------------------------------------------------------
+

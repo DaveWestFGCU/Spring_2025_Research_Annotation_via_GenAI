@@ -1,0 +1,37 @@
+Record: "Congrats to USER on their successful defense of their #LaLiga title! Now let’s make it the double! #TeamMessi #Barça"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is congratulatory in nature.
+* The language used is positive and enthusiastic.
+* The author expresses a desire for the team to achieve an additional goal (making it a double title win).
+
+Given these considerations, the most relevant emotion label is **joy**, as the author's tone is celebratory and optimistic.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is congratulatory in nature.
+* It expresses enthusiasm and motivation for a future achievement.
+* The tone is upbeat and encouraging.
+
+Based on these considerations, the most relevant emotion label is:
+**joy**
+
+The tweet's positive language and expression of excitement and motivation suggest that the author intended to convey joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is congratulatory in nature.
+* The tone is optimistic and encouraging.
+* The author is expressing enthusiasm for a team's (Barça) potential success.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

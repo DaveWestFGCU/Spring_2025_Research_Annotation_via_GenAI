@@ -1,0 +1,34 @@
+Record: "Is it her turn this time?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The sentence is a question, which suggests that the speaker is seeking information or clarification.
+* The context of the conversation is unclear, but the tone appears to be casual and somewhat playful.
+* The speaker's use of "her turn" implies that there may be an expectation or routine being referenced.
+
+Given these points, it's likely that the speaker is feeling **surprise**. This emotion label fits because the speaker seems to be asking a question as if they are expecting something specific, but aren't entirely sure what the answer will be. The tone of the sentence also has a somewhat curious and playful quality to it, which aligns with the definition of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be addressing someone specifically with their question.
+* The phrase "her turn" implies that there may be a context or situation where someone's turn is being anticipated or discussed.
+* The tone of the comment appears to be somewhat informal and potentially sarcastic.
+
+Given these considerations, the most relevant emotion label for this comment is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement appears to be questioning or probing rather than expressing a strong emotion.
+* The language used is straightforward and lacks emotional intensity.
+* There is no apparent reference to a personal experience, memory, or event that could elicit an emotional response.
+
+Given these considerations, I would label this comment as **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

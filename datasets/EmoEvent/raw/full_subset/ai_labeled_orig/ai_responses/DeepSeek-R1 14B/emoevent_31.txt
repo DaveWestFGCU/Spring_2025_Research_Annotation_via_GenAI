@@ -1,0 +1,50 @@
+Record: "Well #GameofThrones was brilliant, having just watch the latest episode.  That's all I'm saying."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet about Game of Thrones into one of the emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again. It says, "Well #GameofThrones was brilliant, having just watch the latest episode. That's all I'm saying."
+
+Hmm, the word "brilliant" stands out here. Brilliant usually means something really good or impressive. So the author is expressing that they thought it was great. Now, looking at the emotion options, joy seems to fit because they're showing positive feelings about the show.
+
+I should make sure none of the other emotions apply. There's no sign of anger or disgust—those are negative. Fear and surprise don't seem right either; there's no indication of worry or astonishment. Sadness isn't present either since the tweet is positive.
+
+So yeah, joy is definitely the emotion here because they're praising the show.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The user provided a list of emotions: anger, disgust, fear, joy, sadness, and surprise. 
+
+First, let me read the tweet carefully. It says, "Well #GameofThrones was brilliant, having just watch the latest episode. That's all I'm saying." 
+
+The word "brilliant" stands out here. Brilliant typically conveys a positive emotion, probably joy or satisfaction. The user is expressing that they found it excellent. There's no indication of negative emotions like anger or disgust. They're not showing fear, surprise, or sadness either. It seems straightforwardly positive.
+
+I should make sure I'm only using the given categories and not any others. Since "brilliant" is a strong positive word, joy fits best here because it includes serenity and ecstasy as part of its spectrum. So the emotion intended is likely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the author of this tweet is conveying. The tweet says: "Well #GameofThrones was brilliant, having just watch the latest episode. That's all I'm saying." 
+
+First, let me analyze the words used. The word "brilliant" stands out because it's a positive term. It usually conveys that something is excellent or impressive. So right away, that makes me think of positive emotions.
+
+The tweet also mentions watching the latest episode and then just says, "That's all I'm saying." That could imply satisfaction or maybe they don't have much else to add because it was so good. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The most fitting here is probably joy since the author used a positive adjective and seems satisfied.
+
+I should make sure there's no other emotion that fits better. There's no indication of surprise or amazement beyond the positivity, so it's more about being happy with the show.
+</think>
+
+The tweet expresses **joy** because the author uses the word "brilliant," indicating a positive feeling after watching the episode.
+
+**Answer:** **joy**
+------------------------------------------------------------------------------------------------------------------------
+

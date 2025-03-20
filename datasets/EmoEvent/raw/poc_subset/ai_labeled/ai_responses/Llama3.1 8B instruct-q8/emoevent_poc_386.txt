@@ -1,0 +1,32 @@
+Record: "I feel retarded because i laughed"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is using the word "retarded" to describe themselves.
+* This suggests they may be making a self-deprecating comment rather than expressing genuine shame or offense.
+
+Given these considerations, **sadness** seems to be the most relevant emotion label, as the author appears to be expressing disappointment or embarrassment about their own behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Points to consider:
+
+* The word "retarded" is being used in a self-deprecating manner.
+* The author seems to be downplaying their own reaction (laughing) as something they shouldn't have done.
+
+Most relevant emotion label: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author says they "feel retarded" which could be interpreted as an insult or a negative self-view.
+* However, it is immediately followed by the phrase "because I laughed", implying that their feelings of being "retarded" are actually related to something positive happening (laughing).
+* Given this context, it seems unlikely that the author intended to convey anger, fear, sadness, or disgust.
+
+Most relevant emotion label: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+

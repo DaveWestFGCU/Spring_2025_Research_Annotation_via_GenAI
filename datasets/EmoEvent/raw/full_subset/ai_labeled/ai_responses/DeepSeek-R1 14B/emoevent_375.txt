@@ -1,0 +1,20 @@
+Record: "We don't want war in the world!  We don't want colonialism!  We don't want imperialism!  We Want Peace!  We Want Love!  We Want Brotherhood!  Do you understand?  #Venezuela"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about Venezuela's political crisis. The tweet says, "We don't want war in the world! We don't want colonialism! We don't want imperialism! We Want Peace! We Want Love! We Want Brotherhood! Do you understand? #Venezuela"
+
+First, I'll break down the content. The author is expressing strong desires against conflict and negative forces like colonialism and imperialism. They're emphasizing peace, love, and brotherhood. These are all positive emotions.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. I need to map this to one of these. The tweet isn't showing any signs of anger or frustration; instead, it's hopeful and longing for positive outcomes. So, it's not about secondary emotions like annoyance or rage.
+
+The author is advocating for peace and unity, which are associated with joy and serenity. They're expressing a desire for harmonious relationships and a better world, which aligns with the 'joy' category as per the guidelines. There's no indication of fear, sadness, or surprise here; it's more about positive aspirations.
+
+So, considering all this, the emotion is joy.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

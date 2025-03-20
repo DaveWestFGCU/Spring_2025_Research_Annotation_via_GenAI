@@ -1,0 +1,53 @@
+Record: "I'm so sorry that your partner doesn't understand that you no longer want to put hormones in your body."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion using only the given categories: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "I'm so sorry that your partner doesn't understand that you no longer want to put hormones in your body." 
+
+First, let me break down the content. The speaker is expressing sympathy with "I'm so sorry," which immediately points towards a negative emotion. They're addressing someone's partner not understanding their decision about hormones, probably related to medical or personal choices.
+
+The main emotions here are likely sadness and possibly fear. Sympathy often relates to sadness. But could there be an element of fear? The situation seems serious but more about empathy rather than fear. Disgust doesn't seem relevant because it's not a matter of dislike but understanding. Anger isn't evident unless frustration is implied, but the speaker is showing support, so probably not.
+
+So focusing on sadness makes sense because they're expressing condolences and concern for the person involved.
+</think>
+
+The tweet conveys **sadness** as the author expresses sympathy and concern for someone else's situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I've got this query where I need to classify a tweet's emotion into one of six categories: anger, disgust, fear, joy, sadness, or surprise. The tweet is, "I'm so sorry that your partner doesn't understand that you no longer want to put hormones in your body."
+
+First off, let me read through the tweet carefully. The author starts with an apology, which immediately makes me think of empathy or concern. They're expressing sympathy towards someone else's situation.
+
+The content mentions a partner not understanding another person's choice about hormone use. This seems like it's dealing with a sensitive topic, possibly related to health or personal choices. The tone here doesn't come across as angry; instead, it feels more supportive and empathetic.
+
+Looking at the emotion categories, I need to figure out which one fits best. Let's go through each option:
+
+- **Anger**: There's no indication of frustration or rage here. The author is expressing sorrow, not anger.
+- **Disgust**: Dislike or aversion isn't evident in the tweet; it's more about understanding and empathy.
+- **Fear**: There doesn't seem to be any anxiety or apprehension being conveyed.
+- **Joy**: The sentiment expressed isn't happy or ecstatic. It's more somber.
+- **Sadness**: The use of "I'm so sorry" clearly indicates sympathy, which falls under sadness.
+- **Surprise**: There's nothing unexpected in the tweet; it's a straightforward expression of empathy.
+
+So, the emotion here is definitely sadness because the author is expressing sorrow and understanding for someone else's situation. They're not happy, angry, or surprised—they're showing compassion, which aligns with sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet into one of the given emotions. The tweet says, "I'm so sorry that your partner doesn't understand that you no longer want to put hormones in your body." 
+
+First, let's break down the content. The speaker is expressing sympathy with "I'm so sorry," which usually indicates sadness or empathy. They're addressing someone whose partner isn't understanding of their choice not to take hormones anymore.
+
+The main emotion here seems to be sadness because they're empathizing with the situation and showing concern for the person involved. There's no indication of anger, disgust, fear, joy, or surprise in the tweet. The focus is on the difficult emotional state of the person being addressed, so sadness fits best.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

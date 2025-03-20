@@ -1,0 +1,56 @@
+Record: "Who wrote the IQ tests?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "Who wrote the IQ tests?" The options are anger, disgust, fear, joy, sadness, surprise, or neutral. Let me break this down step by step.
+
+First, the sentence itself is a question asking who wrote IQ tests. It doesn't explicitly state any emotion, but maybe the context in which it was said can help infer the emotion. Since the comment is on Reddit, possibly responding to another post or commenter, I should consider what kind of situation would lead someone to ask that.
+
+Looking at the definitions:
+
+- Anger: If they were angry, they might use strong language or express frustration.
+- Disgust: This could come through if they're expressing revulsion towards something.
+- Fear: They might show worry or anxiety.
+- Joy: Probably not here since it's a neutral question.
+- Sadness: Unlikely unless it's about disappointment.
+- Surprise: Maybe if the content was unexpected.
+- Neutral: If there's no emotion.
+
+The comment is pretty straightforward. It's asking about the origin of IQ tests, which could be out of curiosity or skepticism. Without more context, it's hard to tell. If the original post was discussing something controversial about IQ tests, maybe the speaker is surprised by that information. Alternatively, they might be skeptical and showing some anger or disgust.
+
+But since the question itself doesn't have strong emotional words, I'm leaning towards neutral. There's no clear indication of any specific emotion from just the sentence provided.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to figure out which emotion corresponds to the speaker's comment: "Who wrote the IQ tests?" The options are anger, disgust, fear, joy, sadness, surprise, or neutral. 
+
+First, let's look at the sentence itself. It seems like a rhetorical question asking about the origin of IQ tests. The speaker isn't expressing any obvious emotion through words like adjectives or exclamations. There's no indication of frustration (anger), dislike (disgust), worry (fear), happiness (joy), sorrow (sadness), astonishment (surprise), or neutrality.
+
+The tone is straightforward without any emotional cues. So, considering the emotion definitions, especially that neutral means lacking expressed emotion, this fits best. The speaker isn't showing any of the other emotions; it's more of a factual inquiry.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Who wrote the IQ tests?" Let me break this down step by step.
+
+First, I'll consider what emotions are being asked from the list: anger, disgust, fear, joy, sadness, surprise, neutral. The response should be just one of these within two asterisks.
+
+The speaker's comment is a question asking who wrote IQ tests. It sounds casual and curious. There's no obvious indication of strong emotion like anger or happiness here. They're not expressing any positive feelings (so probably not joy), nor are they upset or scared.
+
+Could it be surprise? Surprise often involves being astonished or realizing something unexpected. But the speaker isn't showing shock or astonishment; it's more of a straightforward question. Disgust would involve disapproval, which doesn't seem to be the case here either.
+
+So that leaves us with neutral. The comment is simply seeking information without any expressed emotion. They're not happy, sad, angry, etc., just asking a question. Therefore, the emotion is likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

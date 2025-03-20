@@ -1,0 +1,38 @@
+Record: "#Barcelona are champions of #Laliga Santader😎😎😎...congratulations💖💖💖 Only messi is real😎😎😎😎"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet expresses a celebratory tone, indicated by the use of "champions" and "congratulations".
+* The presence of multiple smiley faces (😎) suggests excitement or joy.
+* The mention of Messi in an exalted manner further reinforces the positive sentiment.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text expresses a celebratory tone, using phrases like "champions" and "congratulations".
+* The use of multiple smiley faces (😎) suggests excitement and enthusiasm.
+* The mention of Lionel Messi is made with reverence, suggesting admiration.
+
+Given these points, the author's intended emotion is clearly positive. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions that Barcelona is the champion, indicating a positive outcome.
+* The use of multiple smiley faces (😎) and heart symbols (💖) suggests excitement and enthusiasm.
+* The phrase "Only messi is real" implies admiration for Lionel Messi's exceptional skills.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

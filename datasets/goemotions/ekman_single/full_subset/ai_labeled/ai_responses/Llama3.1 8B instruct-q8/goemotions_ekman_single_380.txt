@@ -1,0 +1,44 @@
+Record: "Idk if I want [NAME] back but I agree with [NAME] ONLY if he keeps playing at this level by the end of he season."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is discussing whether they want someone ( likely an athlete, given the context) to return or stay.
+* They express a conditional agreement with another person's statement.
+* The tone seems uncertain and ambivalent.
+
+Given these considerations, the most relevant emotion label is: **neutral**
+
+The speaker's tone is more neutral than emotive, as they are simply stating their opinion and conditions rather than expressing strong emotions like anger, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is expressing uncertainty about whether they want someone back, which suggests a complex emotional state.
+* The tone is somewhat conditional, implying that the speaker has certain expectations or requirements for the person's return.
+* The phrase "at this level" implies a sense of high standards or performance.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's uncertainty about whether they want someone back suggests a sense of emotional pain or loss, which is characteristic of sadness. Additionally, the conditional nature of their agreement and the emphasis on high standards may imply that the speaker has been disappointed or hurt in the past, further supporting the sadness emotion label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is discussing their opinion on whether someone (likely a sports player or celebrity) should return, indicating some emotional investment in the topic.
+* The speaker mentions being uncertain about wanting the person back, which implies a mix of emotions.
+* However, the speaker also expresses a condition for agreeing with another commenter's statement, suggesting that they are trying to maintain a level head and not make an impulsive decision.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+
+The speaker's tone appears neutral because they express uncertainty and hesitation about their opinion, rather than strong emotions like anger or sadness. They also try to provide a rational condition for agreeing with another commenter, which suggests a lack of emotional attachment.
+------------------------------------------------------------------------------------------------------------------------
+

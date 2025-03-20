@@ -1,0 +1,37 @@
+Record: "Theon, you're a good man. Thank you.  #GameOfThrones #TheLongNight #TheBattleOfWinterfell"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text is a tweet about the TV series Game of Thrones.
+* It expresses appreciation and gratitude towards a character (Theon).
+* The tone appears sincere and heartfelt.
+
+Based on these considerations, the most relevant emotion label is **joy**. The text conveys a sense of happiness and appreciation for the show and its characters, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is positive and appreciative.
+* The author mentions that Theon is a "good man", which suggests admiration or respect.
+* There are no negative emotions expressed in the text.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+This is because the author's message is celebratory and expresses gratitude, indicating a positive emotional state.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a message of appreciation and gratitude.
+* It appears to be a response to a scene or plot point in the show, specifically involving Theon.
+* The tone is positive and uplifting.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

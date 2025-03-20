@@ -1,0 +1,37 @@
+Record: "This jokes a name changer"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a typo ("jokes" instead of "looks").
+* The phrase "a name changer" is likely a reference to someone or something that is pretending to be something else.
+* The tone of the tweet appears to be negative.
+
+Given these considerations, the most relevant emotion label is: 
+**anger**
+
+The author's use of a typo and a somewhat nonsensical statement suggests frustration or annoyance with the subject of the tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains an error or mistake ("jokes" instead of "job")
+* The error is corrected with a possible intention to convey frustration or annoyance
+* The tone seems informal and possibly sarcastic
+
+Based on these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet expresses a negative sentiment towards something referred to as a "joke".
+* The language used is concise and informal.
+* There's no indication of strong emotional intensity.
+
+The most relevant emotion label is **anger**, as the tone appears to be frustrated or annoyed at the perceived inadequacy or absurdity of the joke.
+------------------------------------------------------------------------------------------------------------------------
+

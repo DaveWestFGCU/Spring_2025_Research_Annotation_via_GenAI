@@ -1,0 +1,38 @@
+Record: "I love how dramatic it is. It's perfectly self aware"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "love", which can indicate a positive emotion.
+* The phrase "how dramatic it is" could suggest that the speaker appreciates the over-the-top nature of something, implying a sense of admiration or approval.
+* The use of "self aware" suggests that the speaker values or finds it impressive when someone recognizes their own dramatic tendencies.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The tone of the comment suggests that the speaker is enjoying or appreciating the drama and self-awareness of something or someone, which aligns with the definition of joy as a feeling of pleasure and happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The speaker uses the phrase "I love", which suggests a positive sentiment.
+- They describe something as "dramatic", but in an appreciative manner, implying that they find this quality appealing.
+- They also mention that it is "perfectly self aware", which suggests that they admire its consciousness of itself.
+
+Most relevant emotion label: **joy**
+The speaker's comment conveys a sense of approval and admiration for the dramatic nature of something, indicating that they are experiencing joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is commenting on something being "dramatic" and "self-aware", which suggests that they are acknowledging a quality or characteristic of the thing being discussed.
+* The tone of the comment is positive, as indicated by the use of the word "love".
+* There is no indication of strong emotions such as anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label is **joy**, as the speaker's comment conveys a sense of pleasure and happiness in response to something they find entertaining or amusing.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "The myth is about selling shirts. Signing [NAME] opens up much more money making opportunities like commercials."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a "myth", implying that something might not be as it seems.
+* The author presents this information in a factual or matter-of-fact tone, without expressing emotion.
+* The author's main point is about financial gain and opportunities.
+
+Given these considerations, the most relevant emotion label is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a "myth" which implies that they are correcting or debunking an incorrect idea.
+* The tone seems matter-of-fact and informative, rather than emotive.
+* The language is straightforward and lacks emotional language.
+
+Given these considerations, the most relevant emotion label is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet appears to be a response to someone signing with a certain brand.
+* The author mentions that this new partnership will open up more financial opportunities.
+
+Given the context, it seems likely that the author is reacting positively to the news. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

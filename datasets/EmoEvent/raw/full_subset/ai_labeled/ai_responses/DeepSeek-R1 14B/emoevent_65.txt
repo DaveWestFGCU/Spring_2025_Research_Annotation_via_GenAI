@@ -1,0 +1,16 @@
+Record: "Have been to the cathedral three times. Saw something new each time. Upsetting to hear about the #NotreDameCathedralFire."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet regarding the Notre Dame Cathedral fire. The user mentions they've been there three times and saw something new each time, which shows a personal connection or fondness for the place. Then they say it's "upsetting" to hear about the fire. 
+
+The word "upsetting" directly relates to sadness because it indicates that the person is feeling down or troubled by the news. They're expressing grief over the loss or damage to something they care about. There's no indication of anger, fear, or surprise; it's more about the emotional impact of hearing bad news related to a place they value.
+
+So, considering the guidelines, "upsetting" falls under sadness because it's similar to pensiveness or grief. The tweet doesn't express any other emotions like joy or fear, so sadness is the most appropriate label here.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

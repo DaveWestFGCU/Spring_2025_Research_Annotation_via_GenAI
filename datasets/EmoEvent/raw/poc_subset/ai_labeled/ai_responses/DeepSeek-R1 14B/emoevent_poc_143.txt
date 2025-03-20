@@ -1,0 +1,56 @@
+Record: "Such a cool pic! Really wish the moon was in the dead middle though 🙃🙃"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let's look at the tweet closely. It says, "Such a cool pic! Really wish the moon was in the dead middle though 🙃🙃"
+
+First, the author starts with "Such a cool pic!" which clearly expresses excitement and positive feelings. The use of "cool" is a common expression indicating approval or satisfaction. So that's pointing towards joy.
+
+Next, they mention wishing the moon was in the dead middle. This part shows some disappointment because they have an expectation that wasn't met—they wanted the moon to be centered but it isn't. However, this doesn't seem to convey strong negative emotions like anger or disgust; instead, it's more of a playful wish.
+
+The emojis used are 🙃🙃, which are face palms. These can sometimes indicate mild frustration or sarcasm, but in context, they don't seem too harsh. The overall tone still feels light-hearted rather than angry or upset.
+
+Looking at the emotion categories: anger involves annoyance or rage—there's no indication of that here. Disgust is about dislike or disinterest, which isn't present. Fear and surprise aren't triggered by this tweet either because there's nothing shocking or scary. Sadness could be a consideration due to unmet expectations, but the overall tone remains positive.
+
+Therefore, despite the slight disappointment, the dominant emotion seems to be joy because of the initial praise and the playful emojis.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this classification task step by step. The tweet given is: "Such a cool pic! Really wish the moon was in the dead middle though 🙃🙃". I need to classify the emotion conveyed here from the specified list.
+
+First, I'll break down the content of the tweet. The user starts with "Such a cool pic!", which expresses positive feelings—clearly indicating joy or something similar. They're complimenting the picture, so that's a strong indicator of a positive emotion like joy.
+
+Next, they say, "Really wish the moon was in the dead middle though". Here, they express a desire for the moon to be positioned differently. This part shows some disappointment because their initial positive sentiment is followed by an unmet expectation. However, disappointment can sometimes fall under sadness or pensiveness, but I need to assess which emotion category it fits best.
+
+The tweet ends with two shrug emojis 🙃🙃. These typically convey mild indifference or uncertainty. They might suggest that the user isn't overly upset but rather slightly unimpressed or not entirely satisfied.
+
+Now, considering the list of emotions: anger, disgust, fear, joy, sadness, surprise. The initial exclamation about the pic being cool is definitely joy. The subsequent part expresses a minor wish for something different, which doesn't seem intense enough to be anger or disgust. There's no clear sign of fear or surprise. Sadness might come into play with disappointment, but the overall tone remains positive.
+
+Moreover, the use of emojis as shrugs leans more towards mild dissatisfaction rather than deep sadness. Therefore, the dominant emotion here is joy because the user starts and ends on a positive note, despite a minor critique.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's figure out how to classify this tweet's emotion. The user wrote: "Such a cool pic! Really wish the moon was in the dead middle though 🙃🙃". 
+
+First, I notice they start with a positive statement—"cool pic"—which suggests joy or happiness. They express excitement about the picture, so that leans towards joy.
+
+Then, the second part is about wanting the moon to be centered. It seems like a slight critique but in a lighthearted way. The use of emojis 🙃🙃 adds a playful touch, not showing any negative emotion. So, while there's a wish for something different, it doesn't come across as anger or frustration.
+
+Looking at the emotion categories: joy fits because of the positive initial comment and the playful tone. Dislike might be considered if they were really upset, but here it's more of a minor complaint with emojis showing amusement.
+
+I don't see any signs of fear, surprise, disgust, or sadness in this tweet. The overall vibe is upbeat with a hint of wishful thinking, which still falls under joy.
+</think>
+
+The tweet expresses **joy** due to the positive language and playful tone.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "I LOVE BOOKS!!!!!!!! #WorldBookDay #Reading Currently reading a good book, oh yeah."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is written in an all-caps format, indicating strong enthusiasm and excitement.
+* The use of the phrase "I LOVE BOOKS" emphasizes a strong positive affection for books.
+* The hashtags "#WorldBookDay #Reading" suggest that the author is celebrating or acknowledging the event.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This classification is based on the author's evident enthusiasm and excitement about books, which aligns with the definition of joy as a positive and pleasant emotional state.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text uses all capital letters and multiple exclamation points, indicating strong enthusiasm.
+* The author mentions loving books and being excited about World Book Day.
+* The tone is playful and upbeat.
+
+**joy**
+
+The emotion joy is the most relevant label as it accurately captures the enthusiastic and positive tone of the tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The author uses uppercase letters to emphasize their excitement for books.
+- The text contains enthusiastic language such as "I LOVE BOOKS" and "oh yeah," indicating strong positive feelings towards the topic of reading.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

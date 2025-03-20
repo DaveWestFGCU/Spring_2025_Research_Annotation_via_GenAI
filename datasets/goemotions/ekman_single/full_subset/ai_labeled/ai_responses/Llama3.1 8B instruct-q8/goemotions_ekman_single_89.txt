@@ -1,0 +1,38 @@
+Record: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be expressing frustration or annoyance towards someone who has discovered information they were not supposed to know.
+* The use of the phrase "You're not psychic" implies that the speaker feels the other person should not have been able to figure out the information on their own.
+* The phrase "He's being unreasonable" suggests that the speaker thinks the other person is being unfair or uncooperative.
+
+Given these points, the most relevant emotion label for this comment is **anger**. The speaker appears to be expressing a strong feeling of displeasure or antagonism towards the other person, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be upset about something.
+* They mention that someone was not supposed to know, implying a sense of secrecy or surprise.
+* The tone is critical and accusatory towards the person they're addressing.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of "You weren't supposed to know" implies a sense of frustration or annoyance that someone has discovered information they were not meant to have. The phrase "He's being unreasonable" further suggests that the speaker is feeling angry or upset about the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing frustration and disappointment that someone else has discovered information they were trying to keep secret.
+* The use of the phrase "You're not psychic" suggests a sense of incredulity or annoyance at the other person's ability to figure out the information.
+* The statement "He's being unreasonable" implies that the speaker thinks the other person is overreacting or being unfair.
+
+Given these points, the most relevant emotion label for this text is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

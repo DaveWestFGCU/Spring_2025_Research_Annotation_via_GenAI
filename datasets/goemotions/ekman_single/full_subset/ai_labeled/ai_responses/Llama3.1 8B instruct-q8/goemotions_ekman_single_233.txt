@@ -1,0 +1,66 @@
+Record: "Really? I only remember the one in the movie (which did kinda weird me out)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "weirded out" by something, which suggests a negative reaction.
+* They mention a movie, which implies that their experience was related to entertainment or a fictional story.
+* Their tone is casual and conversational, with no apparent aggression or strong emotion.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**, but leaning towards **sadness** as it's possible the speaker found something in the movie unsettling or disturbing which caused them a negative emotional response. However, surprise seems more fitting given the speaker's casual tone and acknowledgment that their experience was "weird" rather than overtly unpleasant.
+
+Note: The speaker doesn't explicitly express anger, disgust, fear, joy, sadness, or neutral emotions strongly enough to confidently label it as such based on this short snippet alone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be discussing a specific event or scene, likely from a movie.
+* They mention that it "did kinda weird me out", which suggests a mild emotional reaction.
+* There is no indication of strong negative emotions like anger, disgust, or fear.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's use of "Really?" and their mention of being "weirded out" implies that they are surprised by what they're remembering. However, the tone is not one of shock or astonishment, but rather a mild curiosity.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions being "weirded out" by something related to a movie, indicating that they found it unsettling or disturbing.
+* The tone is not confrontational or aggressive, which suggests that the emotion is not anger or disgust.
+* There's no indication of fear or nervousness about an immediate threat or situation, so fear is unlikely.
+* The speaker seems to be reflecting on a past experience, and their reaction was negative, but they're not expressing any strong emotions like joy or sadness.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**, as the speaker's tone implies that they were unexpectedly unsettled by something in the movie. However, since "surprise" typically involves a positive aspect (e.g., being astonished), I would categorize this emotion as more closely related to **fear** or **disgust**, but given the context, it seems to be more related to feeling disturbed or uncomfortable (**sadness**) isn't fitting either.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker appears to be recalling a memory from a movie.
+* They mention that the experience "did kinda weird me out", which implies some level of unease or discomfort.
+
+Given these points, the most relevant emotion label is **surprise**. While the speaker's tone is more subdued than shocked, their admission that the scene in the movie "weirded" them out suggests a sense of mild astonishment or disorientation. This falls under the category of surprise, as they seem to be expressing a realization or unexpected feeling in response to what they saw in the movie.
+
+Alternatively, one could argue that **fear** is also a possible emotion label, given the speaker's admission that the scene "weirded" them out. However, their tone seems more neutral and observational than genuinely fearful or anxious.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 5:
+Important points to consider:
+
+* The speaker seems to be referencing something they saw in a movie, which suggests that their experience was mediated by entertainment rather than reality.
+* They mention that it "kinda weirded them out", implying that they were surprised or unsettled by the content.
+* However, the tone of the comment is casual and non-confrontational.
+
+Given these points, I would identify the emotion most people will feel the speaker may be feeling as **surprise**. The speaker's use of "kinda weirded me out" suggests that they were taken aback or surprised by something in the movie, which is consistent with the definition of surprise.
+------------------------------------------------------------------------------------------------------------------------
+

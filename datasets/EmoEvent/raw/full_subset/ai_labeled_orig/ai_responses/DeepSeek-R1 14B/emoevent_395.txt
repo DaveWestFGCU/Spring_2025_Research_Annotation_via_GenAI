@@ -1,0 +1,52 @@
+Record: "I’ve watched episode 3, the battle for winterfell 3 times today!! It is f**king epic!! #GameOfThrones #BattleForWinterfell #GOT"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query. The user has provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I need to read the tweet carefully. The author says they've watched episode 3 three times today and calls it "f**king epic." They also include hashtags related to Game of Thrones and the battle for Winterfell. 
+
+The exclamation marks and the word "epic" indicate excitement. The use of profanity here isn't expressing anger but rather enthusiasm or surprise, but in this context, it's more about excitement than shock.
+
+Looking at the emotion list, joy fits because they're expressing pleasure and satisfaction. They're clearly enjoying the episode a lot, watching it multiple times. There's no sign of anger or disgust; their words are positive. Fear and sadness don't apply here either since there's no indication of worry or sorrow. Surprise might be possible if something unexpected happened, but the tweet is more about excitement than being amazed by something new.
+
+So, the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet based on the emotion conveyed. Let's break it down.
+
+The tweet says: "I’ve watched episode 3, the battle for winterfell 3 times today!! It is f**king epic!! #GameOfThrones #BattleForWinterfell #GOT"
+
+First, looking at the words used. The user mentions watching the episode three times, which shows they really enjoyed it. They also use "f**king epic," which is a strong positive expression. The exclamation marks add to the enthusiasm.
+
+The hashtags are all related to Game of Thrones and the specific battle, so that's context but not emotion. The key emotions here are joy and maybe surprise, but more likely joy because they're expressing excitement and liking something a lot.
+
+So, considering the options: anger, disgust, fear, joy, sadness, surprise. The user is clearly expressing happiness and excitement, so it's joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I have to classify this tweet based on the emotion it conveys. The user provided a list of emotions: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet: "I’ve watched episode 3, the battle for winterfell 3 times today!! It is f**king epic!! #GameOfThrones #BattleForWinterfell #GOT"
+
+The key words here are "f**king epic" and "watched...3 times". The use of exclamation marks and strong language indicates enthusiasm. "Epic" is a positive term, so the emotion is likely joy.
+
+No negative words or signs of other emotions like anger or surprise. So, the most relevant emotion is joy.
+</think>
+
+The tweet expresses excitement and enthusiasm about an episode, which falls under joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

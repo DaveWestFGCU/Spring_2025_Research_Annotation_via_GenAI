@@ -1,0 +1,38 @@
+Record: "Thank goodness for that!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "thank goodness," which implies relief or gratitude.
+* There is no indication of strong emotions like anger, disgust, fear, or sadness.
+* The tone seems positive and relieved.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The use of the phrase "thank goodness" suggests that the speaker is feeling grateful or relieved about something, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an exclamation mark at the end of the sentence, indicating enthusiasm or excitement.
+* The phrase "Thank goodness" suggests relief or gratitude.
+
+Given these considerations, the most relevant emotion label is **joy**, as it matches with the examples provided for joy, which include feelings of pleasure and happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the phrase "Thank goodness," which typically expresses relief or gratitude.
+* There is no negative language, tone, or connotation in the statement.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+This label aligns with the definition of joy as a feeling of pleasure and happiness. The speaker's use of "thank goodness" suggests that they are relieved or grateful about something, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "98,299 watching this great game at the Nou Camp .... amazing.  #BARLIV #ChampionsLeague #BFCvLFC"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a football match in the UEFA Champions League.
+* The language used by the author is positive ("great game", "amazing").
+* The author is commenting on the attendance at the Nou Camp stadium.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+The author's use of positive adjectives and an enthusiastic tone suggests that they are excited or pleased about the match, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet mentions a large crowd of people ("98,299 watching") indicating excitement and enthusiasm.
+- The use of positive adjectives such as "great" and "amazing" suggests a favorable emotional tone.
+
+The most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a football match (UEFA Champions League) and the author seems enthusiastic about it.
+* The use of "amazing" suggests a positive sentiment.
+* The mention of a large crowd ("98,299 watching") adds to the excitement.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+The tweet conveys enthusiasm and excitement for the game, suggesting that the author is experiencing joy.
+------------------------------------------------------------------------------------------------------------------------
+

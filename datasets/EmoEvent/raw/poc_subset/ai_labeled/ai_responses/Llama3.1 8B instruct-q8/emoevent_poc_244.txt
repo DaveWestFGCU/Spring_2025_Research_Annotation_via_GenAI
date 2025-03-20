@@ -1,0 +1,31 @@
+Record: "Apparently we are tragedies!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author appears to be referencing a negative event or situation.
+* The use of the word "tragedies" implies something unfortunate or sad has occurred.
+
+Most relevant emotion label: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the word "tragedies", which typically has a negative connotation.
+* The tone is somewhat dramatic and attention-grabbing.
+
+Given these considerations, the most relevant emotion label is **sadness**. The author's use of the word "tragedies" suggests that they are expressing sadness or grief about something, rather than any other emotion on the list.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The phrase "tragedies" implies a negative outcome or state.
+* The word choice suggests that the author is expressing a strong emotional reaction.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

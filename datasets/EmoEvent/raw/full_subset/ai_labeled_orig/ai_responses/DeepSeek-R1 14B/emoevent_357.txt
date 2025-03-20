@@ -1,0 +1,50 @@
+Record: "Don't put your donation money in the hands of bad actors. Know these 5 tips so you don't get scammed. Information Security Magazine #NotreDameCathedralFire https://t.co/hAalXnSKbs https://t.co/hcClIGoGwU"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify the emotion of this tweet based on the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet is talking about not putting donation money into bad actors and providing tips to avoid scams related to the Notre Dame Cathedral fire. The user is sharing information about security with a link. 
+
+First, looking at the content, it's informative but doesn't express any strong emotion like anger or fear. There's no indication of joy or surprise either.
+
+The mention of scams might imply some concern, but that's more about caution rather than fear. It's more about being cautious and secure, which is helpful but not emotional in terms of the given categories.
+
+So, considering all options, the tweet isn't expressing any of the primary emotions listed. Therefore, the most appropriate classification would be 'sadness' because it relates to a significant event (the cathedral fire) that evokes collective grief or empathy.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise. Let me analyze the content.
+
+The tweet is about not putting donation money into bad actors and includes tips to avoid scams related to the Notre-Dame Cathedral Fire. The author is warning people and providing useful information. 
+
+Looking at the emotion options, there's no obvious sign of anger or disgust. It doesn't express fear either. Joy and surprise aren't applicable here. However, sadness could be inferred because the fire was a tragic event, so the tweet might be addressing the aftermath with empathy towards donors concerned about their contributions.
+
+I think the main emotion is sadness because it's related to a disaster and advising others shows concern.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm trying to figure out the emotion behind this tweet regarding the Notre Dame Cathedral fire. Let's break it down step by step.
+
+First, the tweet is advising people not to donate their money to "bad actors" and provides tips to avoid scams related to the fire. The author is clearly concerned about ensuring that donations go to legitimate causes rather than being exploited. 
+
+The use of words like "scammed" and "bad actors" suggests a cautious or wary tone, which might lean towards fear because they're warning others about potential dangers. However, it's not an overtly fearful message; instead, it's more informative and aimed at prevention.
+
+On the other hand, this could also be seen as a form of anger, especially if the author is frustrated with how some people are taking advantage of such a tragic event. The emphasis on not being scammed might indicate frustration or annoyance.
+
+But considering the primary emotion, I think fear is more fitting because the tweet is raising awareness about potential risks and advising caution, which aligns with feelings of apprehension or concern rather than anger or another emotion.
+</think>
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+

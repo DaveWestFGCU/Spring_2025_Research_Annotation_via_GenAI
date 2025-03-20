@@ -1,0 +1,33 @@
+Record: "Theon. You are a good man. Thank you.    #GameOfThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is positive and uplifting.
+* The author appears to be expressing gratitude or admiration towards Theon.
+* There is no indication of negative emotions such as anger, disgust, fear, sadness, or surprise.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The text is about the show Game of Thrones.
+- It mentions a character named Theon.
+- The tone appears positive.
+
+Given the context, it seems the author is expressing appreciation and fondness for Theon's character, which suggests a strong positive emotion. However, since "joy" encompasses more than just happiness, but also serenity and ecstasy, this category best suits the sentiment in the tweet. **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text is a positive statement about a character in Game of Thrones.
+* The tone is sentimental and appreciative.
+* The author is expressing gratitude.
+
+Given these considerations, the emotion label that best fits this tweet is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

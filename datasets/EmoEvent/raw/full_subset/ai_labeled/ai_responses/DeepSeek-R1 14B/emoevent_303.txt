@@ -1,0 +1,22 @@
+Record: "1-0 #Barcelona Could that be the goal that wins the #laliga title?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet. Let me read it again: "1-0 #Barcelona Could that be the goal that wins the #laliga title?" 
+
+Hmm, the user is talking about a 1-0 scoreline for Barcelona and wondering if that single goal could win them the La Liga title. I know that in football (soccer), especially in a league like La Liga, each point can make a big difference. So, if Barcelona is leading by just one goal, it's a close game. 
+
+The tweet seems to express hope or anticipation. The user is asking if this goal might be the deciding one for the championship. That makes me think they're hopeful and excited about the possibility of Barcelona winning the title with such a crucial goal.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. Which one fits here? Joy seems to fit because the user is expressing positive feelings about the potential outcome. They might be feeling happy or optimistic about their team's chances.
+
+I don't think it's surprise because they're not reacting to an unexpected event; instead, they're considering a possible positive outcome. It's more of a hopeful expectation rather than being surprised by something that happened.
+
+So, I'd classify this emotion as joy.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

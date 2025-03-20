@@ -1,0 +1,37 @@
+Record: "Will Fletcher ever run out of facts? It's like having the pub bore on commentary. #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is critical and negative.
+* The author appears to be expressing frustration with Will Fletcher's constant talking or commenting.
+* The comparison to a "pub bore" implies annoyance at being subjected to excessive conversation.
+
+**surprise**
+
+Note: While the text itself does not explicitly indicate surprise, the tone is more likely annoyance or anger rather than genuine surprise. However, the phrase "It's like having" suggests that the author is highlighting an unexpected or unwanted similarity, which could be interpreted as a mild form of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a specific person (Will Fletcher) and their behavior (running out of facts).
+* The comparison made is negative, equating Will Fletcher's comments to having "the pub bore" on commentary.
+* The tone seems dismissive and unimpressed.
+
+Given these considerations, the most relevant emotion label is:
+
+**disgust**
+(disinterest or dislike is also a strong contender, but disgust better captures the author's distaste for Will Fletcher's commentary)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet mentions a person (Fletcher) being repetitive and annoying.
+- The comparison is made with someone who dominates conversations in a social setting, implying frustration.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

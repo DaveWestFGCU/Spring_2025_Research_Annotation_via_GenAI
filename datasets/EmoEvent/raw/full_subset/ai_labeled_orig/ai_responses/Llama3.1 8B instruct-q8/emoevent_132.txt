@@ -1,0 +1,33 @@
+Record: ".USER branded 'almighty half wit' by West Yorkshire fire chief USER for this 'ludicrous' tweet #NotreDameCathedralFire https://t.co/ZktPthFtNw"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The context is about a serious news event, the Notre Dame Cathedral Fire.
+* The language used in the tweet appears to be critical and mocking.
+
+Given these considerations, the most relevant emotion label is **anger**. The tone of the tweet suggests that the author is annoyed or outraged by someone's comment on the fire, as evidenced by the use of the phrase "almighty half wit" and the description of the tweet as "ludicrous".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author of the tweet is responding to someone else's behavior or statement.
+* The response mentions a specific individual being branded with an insult by a fire chief.
+* The word "ludicrous" conveys a strong negative sentiment.
+
+Given these points, the most relevant emotion label is **anger**, as it seems the author is upset and annoyed by someone's actions or statements related to the Notre Dame Cathedral Fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The user is being called out for a tweet about the Notre Dame Cathedral Fire, implying that their comment was inappropriate or insensitive.
+* The fire chief uses strong language, calling the user an "almighty half wit" and labeling their tweet as "ludicrous".
+* The tone of the response suggests disapproval and criticism.
+
+Given these points, the most relevant emotion label is **anger**, as it appears that the author of the tweet is being criticized and called out for something they said or did, which has likely caused frustration and annoyance.
+------------------------------------------------------------------------------------------------------------------------
+

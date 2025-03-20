@@ -1,0 +1,45 @@
+Record: "That was a delightful, deliciously deserved drubbing #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is discussing the UEFA Champions League, indicating a positive tone.
+* The words used are "delightful", "deliciously deserved", and "drubbing" (in this context, likely meaning an impressive win).
+* There's no indication of criticism or negative emotions.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+
+The author appears to be expressing delight and happiness at the outcome of a Champions League match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the word "delightful" and "deserved", indicating a positive sentiment.
+* The author also uses the word "drubbing", which has a strong connotation of defeat, but in this context, it's used positively.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author intended to convey a sense of happiness and satisfaction at the team's win.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider given the text:
+
+* The author is talking about the UEFA Champions League, which suggests they have a positive view of the competition.
+* They describe it as a "delightful" and "deliciously deserved" drubbing, which implies that the outcome was pleasing to them.
+* The use of the word "drubbing", while implying a one-sided result, is often used in a lighthearted or celebratory manner.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author seems to be expressing enthusiasm and happiness about the outcome of the Champions League match.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "Have been to the cathedral three times. Saw something new each time. Upsetting to hear about the #NotreDameCathedralFire."
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider from the tweet:
+- The author expresses a personal connection to the Notre Dame Cathedral, mentioning having visited it multiple times and always finding something new.
+- The use of the word "upsetting" indicates an emotional response to the fire.
+- The context of a historical and cultural landmark being damaged evokes a sense of loss.
+
+Given these points, the most relevant emotion conveyed by the author is one of sorrow and distress regarding the fire and its impact on the cathedral.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider from the text:  
+- The author has a personal connection to Notre Dame Cathedral, mentioning they have visited multiple times and experienced new things during each visit.  
+- The use of the word "upsetting" indicates a negative emotional reaction to the news of the fire.  
+- The context suggests a fondness for the cathedral, which could lead to feelings of sadness about its damage.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider from the text:
+- The author expresses a personal connection to Notre-Dame Cathedral through previous visits.
+- There is an acknowledgment of new experiences each time, indicating a fondness or appreciation for the cathedral.
+- The word "upsetting" indicates a negative emotional reaction to the fire incident.
+- There is no indication of joy, anger, disgust, or fear; rather, the emotion is tied to a sense of loss or sorrow related to the cathedral's destruction.
+
+Based on these points, the most relevant emotion label would be **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

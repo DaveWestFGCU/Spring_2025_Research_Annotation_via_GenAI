@@ -1,0 +1,16 @@
+Record: "On #WorldBookDay, we're bringing back one of our all-time favorite images: "The power of one book." https://t.co/T5hZmg8hDX"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about World Book Day. The tweet says they're bringing back a favorite image called "The power of one book" and includes a link. Let me break it down.
+
+First, the context is World Book Day, which is all about promoting reading and books. That's positive right there. The tweet mentions bringing back an all-time favorite image, which suggests nostalgia or fondness. They're sharing something they love, so that probably conveys joy because they're excited to revisit this image.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. Since it's about celebrating books and a beloved image, joy seems right. There's no negative language here; everything is positive and uplifting.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

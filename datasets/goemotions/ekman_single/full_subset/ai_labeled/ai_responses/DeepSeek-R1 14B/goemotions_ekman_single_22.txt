@@ -1,0 +1,69 @@
+Record: "Thanks so much! I'll let you know how it goes when I get a chance to try it :)"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their comment. The sentence is: "Thanks so much! I'll let you know how it goes when I get a chance to try it :)".
+
+First, let me break down the components of this sentence. They start with an expression of gratitude—"Thanks so much!"—which immediately makes me think of positive emotions like joy or maybe excitement. Gratitude is often associated with happiness and satisfaction.
+
+Next, they mention that they'll keep the other person updated on how it goes. This shows willingness to share experiences, which can indicate enthusiasm or eagerness, both of which are linked to joy. The use of a smiley face emoji (:)) also adds to the positive tone, reinforcing the idea that they're feeling happy.
+
+Looking at the emotion categories, I need to choose between anger, disgust, fear, joy, sadness, surprise, and neutral. Given the gratitude and willingness to share, none of the negative emotions like anger or disgust fit here. There's no indication of fear or anxiety; instead, it seems optimistic. Sadness isn't present either—the tone is uplifting.
+
+The sentence doesn't express any astonishment or surprise; it's more about sharing a positive experience in the future. Therefore, surprise doesn't seem to apply. Neutral also doesn't fit because there's clear emotion expressed through gratitude and enthusiasm.
+
+So putting it all together, the speaker is expressing joy—happiness and eagerness to try something new and share their experience.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "Thanks so much! I'll let you know how it goes when I get a chance to try it :)" 
+
+First, looking at the structure of the sentence. They start with an expression of gratitude, using "Thanks so much!" That definitely sounds positive, which might indicate joy or maybe surprise. But since they're thanking someone, it's more likely joy because gratitude is part of that emotion.
+
+Next, they mention they'll let the person know how it goes when they get a chance to try whatever was mentioned. The tone here is optimistic and hopeful, which again points towards joy. There's also an emoji at the end, a smiley face, which typically conveys happiness or positivity.
+
+Looking through the emotion definitions:
+
+- Anger: Doesn't seem right as there's no sign of displeasure.
+- Disgust: No indication of revulsion or disapproval.
+- Fear: No signs of worry or nervousness.
+- Joy: Fits because of gratitude and positive anticipation.
+- Sadness: Not present; the speaker is expressing thanks and looking forward.
+- Surprise: Could be a contender, but the comment isn't about something unexpected. It's more about appreciation and looking ahead.
+- Neutral: Definitely not, as there's clear emotion expressed.
+
+So, considering all these points, the emotion here is joy because of the gratitude expressed and the positive outlook.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment. The comment says, "Thanks so much! I'll let you know how it goes when I get a chance to try it :)".
+
+First, I'll break down the sentence. They start with gratitude: "Thanks so much!" That clearly shows appreciation, which often relates to joy or happiness. Then they mention keeping the person updated about their experience, indicating excitement or anticipation. The use of a smiley face emoji also adds to the positive tone.
+
+Looking at the emotion categories provided:
+
+- Anger doesn't fit because there's no sign of frustration or displeasure.
+- Disgust is unlikely as there's nothing negative mentioned.
+- Fear isn't present; there's no indication of worry or anxiety.
+- Sadness is absent too, as the speaker sounds positive and hopeful.
+- Surprise could be considered if it was an unexpected event, but here it's more about excitement than surprise.
+- Neutral doesn't apply because they're expressing clear emotions.
+
+Joy seems to be the most fitting emotion. The gratitude and anticipation suggest a feeling of pleasure and happiness. So, I'm leaning towards joy as the primary emotion here.
+</think>
+
+The speaker is expressing gratitude and anticipation, which are indicators of joy. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

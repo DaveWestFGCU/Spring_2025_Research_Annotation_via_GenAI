@@ -1,0 +1,40 @@
+Record: "Heads up guys before you scrutinize me, Yes I know it's ED not ER apologies in advance :)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is anticipating criticism or scrutiny from others.
+* They are preparing themselves for potential judgment by acknowledging the possibility of being criticized.
+* They apologize "in advance" for something that may be perceived as negative.
+
+Given these considerations, the speaker appears to be showing a sense of **anticipation of disapproval**, which is most closely related to **sadness**. However, it's not exactly sadness, but rather a preemptive expression of regret or apology, which could also be seen as a way to diffuse potential criticism. 
+
+If we had to choose an emotion from the provided options, a more fitting label might be **neutral**, since the speaker is simply stating their intention to apologize ahead of time without expressing any strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker begins their response with a warning or heads-up to the audience.
+* They acknowledge that others may scrutinize them and apologize in advance for any issues related to their topic of discussion (ED vs. ER).
+* The tone appears defensive or preemptive.
+
+Given these considerations, the most relevant emotion label is **surprise** or anticipation of surprise from others, but more accurately it's an attempt to prepare others for a potentially negative reaction or criticism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is anticipating criticism or scrutiny from others.
+* They acknowledge that they may have made a mistake (using "ED" instead of "ER").
+* They are apologizing in advance for this potential error.
+
+Given these points, the most relevant emotion label is **apologetic and anticipatory self-awareness**, but it does not fit any category. However, considering the tone and context, the closest match is:
+
+**sadness**
+
+The speaker seems to be anticipating a negative reaction from others, which implies that they are prepared for some level of criticism or disappointment, hinting at a sense of sadness or regret.
+------------------------------------------------------------------------------------------------------------------------
+

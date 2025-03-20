@@ -1,0 +1,65 @@
+Record: "What a beautiful memory for you to have found. So sorry for your loss ❤️"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "What a beautiful memory for you to have found. So sorry for your loss ❤️"
+
+First, let's break down the components of the tweet. The first part says, "What a beautiful memory for you to have found." That sounds positive and heartfelt. The word "beautiful" indicates something pleasant or good.
+
+The second part is, "So sorry for your loss ❤️." This is expressing sympathy and condolences. The use of "sorry" conveys empathy and concern, which are usually associated with sadness.
+
+Looking at the emojis, there's a heart symbol, which often signifies love, care, or affection. That supports the idea of expressing condolences with warmth.
+
+Now, considering the emotion categories:
+
+- **Anger**: There's no indication of frustration or rage here.
+- **Disgust**: No signs of dislike or aversion.
+- **Fear**: The tweet doesn't convey any sense of worry or anxiety.
+- **Joy**: While there's a positive mention of a beautiful memory, the overall sentiment is more about sympathy and sadness rather than joy.
+- **Sadness**: This fits because the author is expressing condolences and empathy, which are typically associated with sadness.
+- **Surprise**: There's no element of unexpectedness here.
+
+Therefore, the most fitting emotion from the list is sadness. The tweet conveys sympathy and哀悼，which falls under the sadness category.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "What a beautiful memory for you to have found. So sorry for your loss ❤️."
+
+Let me break it down. First, the tweet starts with "What a beautiful memory..." which sounds positive, like someone is recalling something good from the past. That definitely feels like joy because it's expressing happiness about a nice memory.
+
+Then the second part says, "So sorry for your loss." Sorry usually conveys sadness or empathy. The mention of loss suggests that something bad has happened, which would naturally lead to feeling sad. Also, the heart emoji at the end adds an emotional touch, likely indicating sympathy or love, but the overall sentiment seems more on the somber side.
+
+Looking at the options again: anger doesn't fit because there's no sign of frustration. Disgust isn't present either; it's not about dislike or anything negative like that. Fear? No, there's nothing suggesting fear or anxiety. Joy is partially there with the memory part, but the main emotion conveyed is sadness due to the loss mentioned.
+
+So even though the first part is positive, the second part takes over and the overall emotion leans towards sadness because of expressing condolences.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let's break it down.
+
+The tweet says: "What a beautiful memory for you to have found. So sorry for your loss ❤️"
+
+First, let me understand each part. The first sentence is positive, talking about a beautiful memory. The second part expresses sympathy with "so sorry for your loss." The heart emoji adds an emotional touch, likely indicating care or empathy.
+
+So the tweet has two main parts: one expressing joy through positive memories and another showing sadness due to loss. Now, I need to figure out which emotion is dominant here.
+
+The first sentence might lean towards joy because it mentions a beautiful memory. However, the second part is about loss, which is clearly sad. The overall tone seems to be empathetic, offering condolences, so sadness makes more sense as the primary emotion. Joy is present but probably secondary because the main message is comforting someone in their loss.
+
+Also, considering the structure, the author is consoling the receiver, focusing on the loss and expressing sympathy. So even though there's a positive memory mentioned, the overall sentiment leans towards sadness because of the explicit expression of condolence.
+
+Therefore, I think the emotion here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

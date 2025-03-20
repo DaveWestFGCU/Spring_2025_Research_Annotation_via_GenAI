@@ -1,0 +1,35 @@
+Record: "Same here. And I really dislike strangers and groups, so groups of strangers are a next-level nightmare. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions their discomfort with strangers and groups.
+* They specifically mention that groups of strangers are a "nightmare", implying a high level of anxiety or distress.
+* There is no indication of anger, disgust, joy, surprise, or neutrality.
+
+Given these considerations, the most relevant emotion label for this speaker's statement is: **fear**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions groups of strangers as a source of discomfort.
+* The phrase "next-level nightmare" implies a strong negative emotion.
+* The tone is personal and reveals the speaker's preferences.
+
+Given these points, the most relevant emotion label for this comment is: **sadness**
+
+Reasoning: While the speaker's comment doesn't explicitly express sadness, their statement about groups of strangers being a "nightmare" suggests that they may be experiencing some level of emotional distress or discomfort. This can be associated with feelings of anxiety or unease, which are often related to sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a strong aversion to strangers and groups.
+* They label groups of strangers as a "nightmare", which implies a high level of discomfort or fear.
+
+Given these points, the most relevant emotion label is **fear**. The speaker's language suggests that they are not just mildly uneasy around strangers and groups, but actually experience a strong sense of anxiety or apprehension.
+------------------------------------------------------------------------------------------------------------------------
+

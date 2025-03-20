@@ -1,0 +1,42 @@
+Record: "Damn, I didn’t see any monkeys when I was there! What a ripoff."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses strong language ("Damn") and an exclamation mark to emphasize their disappointment.
+* They express surprise at not seeing something they expected (monkeys) in the location they visited.
+* Their tone is critical, implying that they feel cheated or misled.
+
+Given these points, the most relevant emotion label is **disappointment**. However, since disappointment is a subset of sadness, and given that the speaker's tone is more critical than sorrowful, I would categorize this comment as expressing **anger**, albeit in a more reactive form (being disappointed or let down).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses disappointment and frustration with their experience.
+* They mention not seeing something they expected to see ("monkeys").
+* The tone is critical and negative.
+
+Given these points, the most relevant emotion label for this comment is **disappointment**. However, since disappointment can sometimes be related to sadness, but in this case, it's more about a feeling of being misled or deceived, I would categorize it as **anger**, with a sense of injustice or frustration.
+
+So, my final answer is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses disappointment and frustration with their experience.
+* They mention not seeing something they expected to see ("monkeys").
+* The tone is critical and negative.
+
+Given these points, the most relevant emotion label is **disappointment**. However, since "disappointment" is a subset of sadness (emotional pain or sorrow), and the speaker's tone is more frustrated than sorrowful, I would categorize it as a form of anger, but specifically:
+
+**anger**
+
+However, given the options and considering the context, the closest match would be **sadness**, as disappointment is a key component of the speaker's emotional state.
+
+But upon closer review, the speaker seems to be more frustrated than sorrowful, so I'd say the most fitting emotion label is actually **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

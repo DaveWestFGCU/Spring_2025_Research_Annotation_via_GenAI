@@ -1,0 +1,41 @@
+Record: "Amazing there are homeless all over the world that get nothing yet an old building burns down 600 million raised in a day 🤔 #povity #Homeless #sleepingruff #NotreDameCathedralFire #Notre_dame_de_Paris"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions the Notre Dame Cathedral Fire, which is a somber and serious event.
+* However, the tone of the tweet seems critical and questioning rather than mournful or shocked.
+* The phrase "Amazing there are homeless all over the world" suggests that the author is highlighting an injustice rather than expressing admiration or awe.
+* The hashtag #povity implies a sense of irony and criticism.
+
+Given these points, the most relevant emotion label is **anger**. The tweet conveys a sense of outrage and frustration at the contrast between the large amount of money raised for the cathedral's restoration and the lack of support for homeless people worldwide.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The tweet mentions a serious and tragic event (the Notre Dame Cathedral fire) but does not express shock, horror, or concern about the disaster itself.
+* The tone of the tweet is critical and judgmental, highlighting the contrast between the massive fundraising efforts for the cathedral's reconstruction and the lack of resources for homeless people worldwide.
+* The use of the phrase "povity" (a play on "poverty") and hashtags related to homelessness suggest that the author is trying to raise awareness about social inequality.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's tone is critical and judgmental, implying a sense of outrage or indignation at the perceived disparity between how society responds to disasters like the Notre Dame fire versus the struggles faced by homeless people.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions the Notre Dame Cathedral fire, but the tone is not about mourning or expressing shock over the event.
+* The author seems to be more focused on social commentary rather than reacting to the fire itself.
+* The use of "amazing" and "#povity" (which could stand for "point of view") suggests that the author is highlighting a contrast between the public's reaction to the fire and other issues.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author appears to be annoyed or angry about the amount of attention and resources being devoted to restoring the cathedral while there are pressing social issues like homelessness.
+------------------------------------------------------------------------------------------------------------------------
+

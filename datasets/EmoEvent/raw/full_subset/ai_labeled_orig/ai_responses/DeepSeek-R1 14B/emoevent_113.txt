@@ -1,0 +1,62 @@
+Record: "Imagine how quickly #FlintMichigan would have water if USER donated the same $5M pledged to #NotreDameCathedralFire. Imagine what brilliant architects we’d inspire if we cared enough to give folks the resources they deserve; are OWED. #ChildrenAreChurches #defendthesacred"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm looking at this tweet and trying to figure out the emotion behind it. The user mentions imagining how quickly Flint Michigan would have had water if the same $5M was pledged there as was done for Notre-Dame. They also talk about inspiring architects by caring enough to give resources and mention that children are sacred.
+
+So, breaking this down, the tweet is comparing the attention and funding towards Notre-Dame with a lack of support for Flint. The use of "Imagine" suggests frustration or disappointment because the author feels there's a disparity in how resources are allocated. They're pointing out a social issue where more money goes to preserving historical structures than to basic needs like clean water in communities.
+
+The mention of architects and inspiring people might hint at a desire for better solutions or recognition, but the overall tone seems critical towards the current situation. Words like "pledged" and "cared enough" imply that there's a lack of empathy or action where it's needed most.
+
+Looking at the emotion categories: anger is about annoyance or rage. The tweet isn't explicitly angry but does show frustration with the system's priorities. Disgust involves dislike; the author dislikes the inequality in resource distribution. Fear would involve anxiety, which isn't present here. Joy and surprise are clearly not fitting. Sadness might come into play with grief over the situation, but the primary emotion seems to be pointing out a flaw, which aligns more with disgust or maybe anger.
+
+However, since the tweet is pointing out a moral failing rather than expressing personal loss, I think disgust fits better because it's about disliking the situation. But another angle could be that the author is frustrated or annoyed by the lack of action towards Flint, which would lean towards anger. 
+
+But considering the content emphasizes the unfairness and injustice, disgust seems more appropriate as it reflects a dislike for the current state of affairs.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+First, let me read the tweet carefully. It says:
+
+"Imagine how quickly #FlintMichigan would have water if USER donated the same $5M pledged to #NotreDameCathedralFire. Imagine what brilliant architects we’d inspire if we cared enough to give folks the resources they deserve; are OWED. #ChildrenAreChurches #defendthesacred"
+
+Hmm, the tweet is comparing the support for Notre-Dame Cathedral after the fire with the lack of support for Flint Michigan's water issue. The user is pointing out a disparity in donations or attention.
+
+The mention of $5M pledged suggests that there was significant funding promised to Notre-Dame, which contrasts sharply with Flint's situation where people are still without clean water. Using words like "imagine" and the hashtags #ChildrenAreChurches and #defendthesacred seems to be emphasizing a moral or ethical point.
+
+The tone here is critical of the lack of action towards Flint despite the support for Notre-Dame. The user might feel frustration or anger that resources are being directed towards a cathedral while children in Flint are suffering.
+
+I don't see any elements of joy, fear, surprise, or disgust here; it's more about the disparity and injustice, which points to anger. The use of strong words like "pledged," "cared enough," and "owed" also suggests a sense of irritation or indignation.
+</think>
+
+The tweet expresses frustration at the lack of support for Flint compared to Notre-Dame, indicating **anger**.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out how to approach this. So, I have a tweet that needs to be classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is about the Notre-Dame Cathedral fire and comparing it to Flint Michigan's water situation.
+
+First, I'll read the tweet carefully. It says, "Imagine how quickly #FlintMichigan would have water if USER donated the same $5M pledged to #NotreDameCathedralFire." Then it continues with questions about inspiring architects and caring enough to give resources people deserve, ending with hashtags like #ChildrenAreChurches and #defendthesacred.
+
+The author is clearly comparing the attention and funds given to Notre-Dame after the fire to the neglect of Flint's water crisis. They're pointing out a disparity where a historical building gets millions while a community faces severe issues without adequate help.
+
+Now, looking at the emotion categories: anger involves annoyance or rage. Disgust is about disinterest or dislike. Fear is more about apprehension or anxiety. Joy and serenity don't seem to fit here. Sadness includes grief or pensiveness, and surprise relates to amazement or distraction.
+
+The tweet seems critical of the situation in Flint being overlooked compared to Notre-Dame. The use of "Imagine" suggests frustration or anger because the author is highlighting a glaring disparity that's likely intended to provoke thought about inequality and neglect. They're pointing out that resources are being directed where they aren't needed as much, while others suffer.
+
+So, considering the options, anger fits best here because the tweet expresses frustration and possibly rage at the situation. The author isn't expressing disgust, fear, joy, sadness, or surprise; rather, they're conveying irritation at the lack of support for Flint compared to the cathedral.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

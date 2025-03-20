@@ -1,0 +1,42 @@
+Record: "Ok..I get it that #NotreDameCathedral has been around for over 800 years...but the Earth’s been around for  4.543 billion years. It’s scorched melting, and dying at an apocalyptic pace whilst no one seems to really give a shit! Maybe it needs a rebrand? #NotreDameCathedralFire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is commenting on the Notre Dame Cathedral fire, which implies a serious and unfortunate event.
+* The author mentions that the Earth is "scorched, melting, and dying" at an apocalyptic pace, indicating a sense of urgency and concern for the planet.
+* The author expresses frustration with people not taking action to address environmental issues, using phrases like "no one seems to really give a shit".
+* The tone of the tweet is critical and sarcastic.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's use of strong language and sarcasm suggests that they are angry about the state of the planet and the lack of action from others.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author mentions the historic Notre-Dame Cathedral but quickly shifts focus to the state of the Earth.
+* The author expresses frustration and disappointment with the lack of attention being paid to environmental issues.
+* The tone is critical and sarcastic, suggesting that the author is upset about a broader issue (environmental neglect) rather than just the fire itself.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author's criticism and sarcasm suggest that they are angry about the state of the world and the lack of attention being paid to environmental issues.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing frustration and disappointment with the fact that Notre-Dame Cathedral has been damaged in a fire.
+* The author is comparing the short lifespan of human-made structures like Notre-Dame to the vast, ongoing destruction of the Earth's environment.
+* The tone of the tweet is sarcastic and critical.
+
+Given these points, the most relevant emotion label is **anger**, as the author appears to be frustrated and upset with the situation, but also using sarcasm to convey a sense of disapproval and annoyance.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,59 @@
+Record: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. Let me look at what they said: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for ". Hmm, it's cut off at the end, but let's focus on the part before the ellipsis.
+
+The comment starts with "Oh", which could express surprise or maybe something else. The speaker is talking about having a boyfriend and being ashamed if he did something, but I'm not sure what exactly the action was that caused this feeling. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Let me consider each one:
+
+- **Anger**: The comment doesn't seem to show strong displeasure or antagonism. It's more about personal feelings rather than directed anger.
+- **Disgust**: There's a mention of being ashamed, which can relate to disgust, but the context isn't clear if it's due to something offensive or unpleasant.
+- **Fear**: The comment doesn't indicate worry or nervousness.
+- **Joy**: Doesn't seem applicable as there's no sign of happiness or approval.
+- **Sadness**: Ashamed could be a form of sadness, especially if reflecting on personal feelings or embarrassment. Disappointment might also fall here.
+- **Surprise**: The "Oh" at the beginning might suggest surprise, but it's followed by a statement about shame.
+
+I think "ashamed" is more closely related to sadness rather than surprise. The speaker is expressing a negative emotion about a hypothetical situation involving their boyfriend, which could be embarrassing or disappointing, fitting into sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let me try to figure out what emotion this comment might convey. The speaker says, "Oh [NAME], even if I had a bf I would be ashamed to have him do that for..." Hmm, so they're addressing someone and making a statement about being ashamed if their boyfriend did something.
+
+First, looking at the words used: "ashamed" is a strong word, indicating negative feelings. The speaker is expressing disapproval of whatever [NAME] did, implying it's something that would make them feel embarrassed even in a hypothetical situation with a boyfriend.
+
+Now, considering the emotion categories. Anger could be possible since they're disapproving, but "ashamed" leans more towards disgust because it's about feeling repulsion or strong disapproval. Disgust is when someone feels revulsion or strong dislike towards something offensive. Here, the speaker seems to have a strong negative reaction.
+
+I don't think it's fear because there's no indication of worry or anxiety. Sadness isn't present here; it's more about disapproval than sorrow. Surprise doesn't fit either since there's nothing unexpected mentioned. Joy is out of the question because the tone is clearly negative. Neutral isn't applicable as there's an expressed emotion.
+
+So, putting it all together, the speaker feels disgust towards [NAME]'s actions.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure this out. The user has given me a task where I need to identify the emotion someone is feeling based on their Reddit comment. They provided specific emotion categories and definitions, so I should stick closely to those.
+
+First, the speaker's comment is: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for ". The sentence ends abruptly, but I can analyze what's there.
+
+Looking at the words used, "ashamed" stands out. That word directly relates to feelings of embarrassment or disgrace. Now, checking the emotion definitions, sadness includes disappointment and embarrassment. Disgust is more about revulsion, which isn't exactly what's here. Anger could be a possibility if it's frustration, but "ashamed" points more towards sadness.
+
+I should also consider the context. The speaker is talking about being ashamed of someone else's actions, implying they're upset or disheartened. That fits better under sadness rather than anger or disgust.
+
+So, putting it all together, the emotion here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

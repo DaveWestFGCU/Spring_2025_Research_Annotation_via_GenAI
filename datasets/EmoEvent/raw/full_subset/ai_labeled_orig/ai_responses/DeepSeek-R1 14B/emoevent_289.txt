@@ -1,0 +1,54 @@
+Record: "USER Books are so much more - they are friends, companions, a refuge, a haven! Get lost in the world of books! Happy reading!   #WorldBookDay USER USER"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "Books are so much more - they are friends, companions, a refuge, a haven! Get lost in the world of books! Happy reading! #WorldBookDay"
+
+The author is talking about how books provide comfort and companionship. They use positive words like "friends," "companions," "refuge," "haven." The exclamation marks show enthusiasm. Also, phrases like "Get lost in the world of books" and "Happy reading!" are uplifting and encouraging.
+
+The hashtag #WorldBookDay adds context to a celebration, which is inherently joyous. There's no negative language or any signs of other emotions like anger or fear.
+
+So, putting it all together, the emotion here is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify the emotion of this tweet related to World Book Day. Let's see what the user is expressing here.
+
+The tweet says, "Books are so much more - they are friends, companions, a refuge, a haven! Get lost in the world of books! Happy reading!" The user is using exclamation marks and positive words like "friends," "companions," "refuge," "haven." They also mention getting lost in the world of books and wish others happy reading.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tone here is clearly positive and enthusiastic. Words like "happy" and the exclamation points indicate a feeling of joy and excitement about books.
+
+I don't see any signs of anger, disgust, fear, or sadness. There's no element of surprise either; it's more of a celebration. So the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify the emotion conveyed in this tweet. Let's break it down.
+
+The tweet says: "Books are so much more - they are friends, companions, a refuge, a haven! Get lost in the world of books! Happy reading!   #WorldBookDay"
+
+First, looking at the words used: "friends," "companions," "refuge," "haven" all suggest positive feelings. The author is celebrating books and encouraging others to read.
+
+The exclamation marks add excitement, which is a sign of joy. Phrases like "Get lost in the world of books!" are enthusiastic and uplifting.
+
+There's no indication of any negative emotions or worries here. It's all about promoting reading and the positive impact books have.
+
+Considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet fits into 'joy' because it's expressing happiness and excitement.
+</think>
+
+The author expresses enthusiasm and celebration towards books, which conveys **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

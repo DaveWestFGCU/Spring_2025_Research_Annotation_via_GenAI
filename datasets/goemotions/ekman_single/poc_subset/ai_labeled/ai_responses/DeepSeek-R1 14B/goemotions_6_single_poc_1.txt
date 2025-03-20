@@ -1,0 +1,64 @@
+Record: "Those are some interesting stats. I’m gonna save your answer so I can remember them for later discussions. Thanks for that."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out which emotion the speaker is feeling based on their comment. The sentence given is: "Those are some interesting stats. I’m gonna save your answer so I can remember them for later discussions. Thanks for that."
+
+First, I'll break down the words and phrases used. They start with "interesting," which generally has a positive connotation. Words like "interesting" often indicate curiosity or mild surprise, but in this context, it's more about finding something notable.
+
+Next, they mention saving the answer for later discussions. This suggests that the speaker finds the information valuable enough to keep and use in future conversations. Valuing someone's input can be a sign of approval or gratitude, which falls under joy or perhaps even admiration.
+
+Then, they say "Thanks for that." Clearly, this is an expression of gratitude. Gratitude is definitely part of the joy category because it shows appreciation and positive feelings towards the person who provided the information.
+
+Looking at the emotion categories:
+
+- Anger: No signs of irritation or displeasure.
+- Disgust: There's no indication of revulsion or disapproval.
+- Fear: No expressions of worry or anxiety mentioned.
+- Joy: Words like "interesting" and especially "Thanks for that" show a positive response, indicating joy or appreciation.
+- Sadness: Nothing in the comment suggests any form of sorrow or disappointment.
+- Surprise: While "interesting" can sometimes indicate surprise, it's more about finding something notable rather than being astonished. The overall tone is more appreciative.
+- Neutral: Definitely not neutral since there are clear positive emotions expressed.
+
+So, considering all this, the emotion here is joy because the speaker is expressing gratitude and appreciation for the provided information.
+</think>
+
+The speaker expresses gratitude and finds value in the information, indicating a positive emotion. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Those are some interesting stats. I'm gonna save your answer so I can remember them for later discussions. Thanks for that."
+
+First, let's break down the sentence. The speaker starts by saying the stats are "interesting." That word usually has a positive connotation, suggesting curiosity or appreciation. Then they mention saving the answer for future discussions and thanking the person who provided it.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that fits best.
+
+The speaker's tone is appreciative and thankful. They're not expressing any negative emotions like anger or disgust. There's no indication of fear or anxiety. The mention of saving the answer shows they found value in it, which relates to joy—specifically, approval or gratitude.
+
+So, I think the emotion here is joy because the speaker is showing appreciation and positive feelings towards the information shared.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let me try to figure out which emotion the speaker is feeling based on their comment. The comment says, "Those are some interesting stats. I'm gonna save your answer so I can remember them for later discussions. Thanks for that." 
+
+First, I'll break down each part of the sentence. They start by calling the stats "interesting," which suggests curiosity or perhaps a positive feeling about the information provided. Then they mention saving the answer for later discussions, indicating they found it valuable enough to revisit. Finally, they thank the speaker, showing appreciation.
+
+Looking at the emotion categories: anger doesn't fit because there's no sign of irritation or dislike. Disgust is unlikely since there's nothing negative said about the stats or the response. Fear isn't present either; there's no indication of worry or anxiety. Sadness isn't applicable here because the tone isn't somber or sorrowful.
+
+Joy seems like a possible fit because gratitude and appreciation are part of joy, especially when someone is thankful for useful information. The speaker is clearly acknowledging the value of what was shared, which can be seen as a positive emotion. Surprise doesn't quite apply unless there's an unexpected element, but the comment isn't about that.
+
+Neutral could be considered if there were no clear emotion, but since there's gratitude and interest expressed, it's more than neutral. Therefore, joy seems to be the most appropriate emotion here because the speaker is expressing thanks and finds the information useful, both of which align with joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

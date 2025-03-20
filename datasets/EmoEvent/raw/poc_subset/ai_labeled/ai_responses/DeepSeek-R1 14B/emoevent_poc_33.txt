@@ -1,0 +1,72 @@
+Record: "Pretty poor shots mostly. Couple of great saves from [NAME] though."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I have to figure out the emotion in this tweet: "Pretty poor shots mostly. Couple of great saves from [NAME] though." Let me break it down.
+
+First, the user is talking about "shots" being "pretty poor." That sounds negative, indicating they're not happy with how the shots were taken. So that part might suggest some sort of disappointment or dissatisfaction. But I need to check if that falls under one of the given categories.
+
+Then, they mention "[NAME] though," which implies a contrast. They say there are "couple of great saves." The word "great" is positive here. So it's like saying most shots were bad, but some saves by [NAME] were really good. This seems to balance out the negative with a positive.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. Let me think about each:
+
+- Anger: Is the author angry? They're criticizing the shots as poor, which could be frustration. But then they acknowledge some good saves. Not sure if it's pure anger.
+  
+- Disgust: That's more about feeling something is repulsive or讨厌。Maybe not here.
+
+- Fear: No signs of fear or anxiety in the tweet.
+
+- Joy: The mention of great saves might bring a positive emotion, but the overall tone isn't overly joyful; it's mixed.
+
+- Sadness: There's disappointment because most shots are poor. This could relate to sadness or pensiveness.
+
+- Surprise: No indication of surprise here; it's more about evaluation than unexpected events.
+
+So, weighing the two parts: "poor shots" and "great saves." The first part expresses dissatisfaction (which is linked with sadness), while the latter is positive but maybe not strong enough to change the overall emotion. Therefore, the dominant emotion might be sadness because of the disappointment in most shots.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion this tweet is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "Pretty poor shots mostly. Couple of great saves from [NAME] though." 
+
+First, breaking it down. "Pretty poor shots" seems critical but not necessarily angry. Maybe more on the disappointed side. Then, "Couple of great saves" is positive, showing appreciation for someone's performance.
+
+So the tweet has both negative and positive elements. The first part expresses some disappointment or disapproval about the shots being poor, while the second part praises the saves.
+
+Now, considering the emotion categories: anger involves irritation or rage; disgust includes dislike or disinterest; fear is more about anxiety; joy is happiness; sadness is sorrow or pensiveness; surprise is astonishment or distraction.
+
+The negative part could be seen as disappointment, which might fall under sadness. The positive part is praise, which relates to joy. But the overall sentiment seems mixed but with a focus on highlighting something positive amidst negativity.
+
+Wait, maybe the emphasis is more on the positive aspect because it ends with the saves, showing approval and highlighting that despite poor shots, there were good moments. So perhaps the main emotion intended is joy because of the praise towards [NAME]'s performance.
+
+Alternatively, maybe sadness if focusing on the poor shots leading to disappointment. But since the tweet acknowledges both, but ends on a positive note, I think joy might be more appropriate as the primary emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to classify the emotion in this tweet: "Pretty poor shots mostly. Couple of great saves from [NAME] though." Let me break it down.
+
+First, looking at the first part, "Pretty poor shots mostly." That sounds negative. The word "poor" is definitely a negative adjective, expressing disappointment or dissatisfaction. So that's leaning towards sadness or maybe disgust.
+
+Then the second part says, "Couple of great saves from [NAME] though." This seems positive because "great saves" implies something impressive and effective. The use of "though" softens the criticism, suggesting there were some good moments despite the overall poor performance.
+
+So putting it together, the tweet starts negative but ends on a positive note. The author is pointing out the negatives but also acknowledging some positives. This mixed sentiment might be tricky because we have to pick only one emotion from the list: anger, disgust, fear, joy, sadness, surprise.
+
+The primary emotion here seems to be criticism or disappointment, which falls under sadness. While there's a positive part, the overall tone is more about the negative experience. So I think sadness is the most fitting emotion.
+</think>
+
+**sadness**
+
+The tweet conveys a mix of disappointment and acknowledgment of some positives but predominantly expresses dissatisfaction with "poor shots," aligning with sadness.
+------------------------------------------------------------------------------------------------------------------------
+

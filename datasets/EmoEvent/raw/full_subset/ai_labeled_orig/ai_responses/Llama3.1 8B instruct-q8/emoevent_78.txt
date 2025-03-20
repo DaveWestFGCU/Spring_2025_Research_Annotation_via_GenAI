@@ -1,0 +1,43 @@
+Record: "What an atmosphere last night. It’s a shame the players didn’t use it. We were the 12th man last night. #COYS #ChampionsLeague https://t.co/LzXXsYklDJ"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a positive experience ("What an atmosphere last night"), suggesting a positive tone.
+* The author expresses disappointment in the team's performance, but frames it as a missed opportunity rather than a negative outcome.
+* The phrase "We were the 12th man" suggests pride and admiration for the fans' impact on the game.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The author's tone is enthusiastic and celebratory, despite expressing some disappointment in the team's performance. The use of the hashtag #COYS (a popular Spurs fan chant) and the mention of the Champions League also suggests a sense of pride and excitement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a "what an atmosphere" which suggests a positive sentiment
+* The author expresses disappointment that the players didn't utilize the atmosphere, implying they were expecting or hoping for something more
+* There is no indication of strong negative emotions such as anger or disgust
+
+Given these points, the emotion label that best fits the intended message is:
+
+**joy**
+The author's tone suggests a sense of excitement and enthusiasm, which aligns with joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a football match, and the author seems to be expressing a sense of admiration for the atmosphere.
+* The author mentions that "it's a shame" the players didn't use the atmosphere, implying a sense of disappointment.
+* The tone is generally positive, but with a hint of frustration.
+
+Given these points, I would classify the emotion as:
+
+**sadness**
+The author is expressing disappointment and sadness that the players didn't capitalize on the energy of the crowd.
+------------------------------------------------------------------------------------------------------------------------
+

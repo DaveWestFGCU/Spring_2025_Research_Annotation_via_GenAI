@@ -1,0 +1,33 @@
+Record: "Done it since I was a kid I was very edgy"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify this tweet, consider the following points:
+
+* The language used is casual and conversational.
+* The phrase "edgy" can have different connotations depending on context. It could imply a sense of being rebellious or trying to be cool.
+* There is no clear indication of negative emotions such as anger, disgust, fear, sadness, or surprise.
+
+Given these points, the tweet appears to convey a tone that is more casual and lighthearted than any of the listed emotions. However, since we are limited to the categories provided, the closest match would be **joy**, as it implies a sense of carefree attitude and positivity.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is short and informal.
+* It mentions a past experience ("since I was a kid").
+* It uses a casual tone with an adjective ("edgy").
+
+Given the context, the most relevant emotion label is **joy**, as the author seems to be reflecting on a fond memory or activity they enjoyed doing since childhood.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is reminiscing about their past behavior from when they were a child.
+* They use the word "edgy" which can imply that they acted in a bold or rebellious manner.
+
+Given these points, the most relevant emotion label is **joy**. The tone of the tweet suggests nostalgia and a sense of accomplishment or satisfaction with having done something bold since childhood, indicating a positive emotional state.
+------------------------------------------------------------------------------------------------------------------------
+

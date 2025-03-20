@@ -1,0 +1,34 @@
+Record: "Happy World Book Day... the international day of the humble book. #WorldBookDay #WritingCommnunity #KidLit #Books https://t.co/i28nCCGbds"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text uses the phrase "Happy", which is a clear indicator of a positive emotion.
+* The context is World Book Day, an event meant to promote reading and literature.
+* The tone is celebratory and enthusiastic.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet starts with a positive phrase, "Happy", indicating a celebratory tone.
+* It mentions an international day dedicated to books, which is being celebrated.
+* The hashtags suggest a community of writers and book enthusiasts.
+
+Given these points, the emotion label that best fits the intended tone of the author is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Given the text of the tweet, here are some important points to consider:
+
+* The tone of the tweet is celebratory and enthusiastic.
+* The author is expressing appreciation for books on World Book Day.
+* The use of "Happy" at the beginning of the tweet suggests a positive sentiment.
+
+Considering these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

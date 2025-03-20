@@ -1,0 +1,68 @@
+Record: "This video is so very Polish."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The sentence given is, "This video is so very Polish." 
+
+First, let me consider each emotion category one by one.
+
+Starting with anger: Does this statement convey any frustration or irritation? Not really. It's more of an observation than a direct expression of dislike or annoyance.
+
+Disgust involves revulsion or strong disapproval. The comment doesn't express anything negative about Polish culture or the video, so disgust seems unlikely.
+
+Fear is related to feeling afraid or worried. There's no indication of anxiety or fear here; it's just a descriptive statement.
+
+Joy encompasses positive emotions like happiness and approval. While "so very" adds emphasis, without context, I'm not sure if the speaker is expressing joy. It could be neutral observation.
+
+Sadness includes emotional pain or sorrow. Again, there's no negative emotion expressed in this comment.
+
+Surprise involves astonishment or realization. The statement is straightforward and doesn't suggest anything unexpected or astonishing.
+
+Neutral means lacking any strong emotion. Since the speaker is making an observational comment without expressing any particular feeling, it fits as neutral.
+
+I don't see any strong indicators of joy here; it's more about stating a fact rather than expressing happiness. So, the most appropriate emotion is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out which emotion the speaker might be feeling based on their comment. The comment is, "This video is so very Polish." Hmm, okay, first, I need to understand what this statement implies.
+
+The speaker is using Reddit, responding to a post or another commenter. So, they're reacting to something someone else said or did. The phrase "so very Polish" could be interpreted in different ways depending on context, but since there's no additional info, I'll go with the most straightforward interpretation.
+
+Polish can refer to something related to Poland or Polish people. If the speaker is saying the video is "so very Polish," they might be pointing out that it has distinct Polish characteristics. Now, I need to figure out what emotion this would convey.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Let's eliminate some options. It doesn't sound like they're expressing strong positive or negative emotions here. They're not obviously happy (joy), scared (fear), sad (sadness), angry (anger), or surprised (surprise). 
+
+Disgust is about revulsion. If the video was something offensive, maybe, but without context, it's hard to tell if they're disgusted. The comment seems more observational rather than expressing a strong emotion.
+
+Neutral is when there's no clear emotion expressed. Since the speaker is simply stating a fact or observation about the video being Polish, without any emotional language like "I love this" or "This upsets me," it leans towards neutral.
+
+So, putting it all together, the speaker isn't showing much emotion—they're just pointing out something about the video's origin or nature. Therefore, the most appropriate emotion category is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The sentence is "This video is so very Polish." 
+
+First, let me consider each emotion category. Anger would involve strong displeasure, but there's no indication of that here. Disgust is about revulsion or disapproval; the speaker doesn't seem disgusted.
+
+Fear relates to being afraid or worried, which isn't present either. Joy involves happiness or pleasure—maybe if they're praising something, but "Polish" might not necessarily be positive in this context.
+
+Sadness includes emotional pain or sorrow, which also doesn't fit here since there's no negative connotation implied.
+
+Surprise is about being astonished or confused. The comment seems straightforward without any shock or unexpectedness. Neutral means lacking emotion. 
+
+The phrase "so very Polish" might be a stereotype or a cultural reference that the speaker is pointing out in an observational tone without expressing strong feelings. They're making a statement rather than showing emotion, so it's likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

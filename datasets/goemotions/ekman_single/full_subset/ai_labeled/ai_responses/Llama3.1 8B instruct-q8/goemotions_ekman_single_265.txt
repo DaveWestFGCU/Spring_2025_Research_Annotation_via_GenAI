@@ -1,0 +1,44 @@
+Record: "I almost downvoted you, because “Boooooooo!”"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions almost downvoting the original poster, which suggests they were considering taking an action against the post.
+* The tone of the speaker's response is playful and teasing, using a dramatic phrase "Boooooooo!" that implies mock disapproval rather than genuine anger.
+
+Given these considerations, the most relevant emotion label for this text is:
+
+**surprise**
+ 
+However, I must note that while surprise isn't the only possible answer, it seems to be a strong contender. The playful tone and use of dramatic language ("Boooooooo!") might also suggest **joy**, but given the context, **surprise** seems more fitting as the speaker appears to be responding with mock indignation rather than genuine pleasure.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions they were about to downvote, which implies a negative reaction.
+* The use of the word "Boooooooo!" is an onomatopoeic expression often used to convey disapproval or mocking.
+* The tone appears to be playful and lighthearted.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+However, considering the speaker's tone seems more playful than genuinely angry, it could also be interpreted as a form of mock anger or teasing. Nevertheless, among the given options, **anger** is the closest match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions being close to downvoting the original poster.
+* The phrase "Boooooooo!" is used, which has an ominous and dismissive tone.
+
+Given these points, the speaker's reaction is more playful than genuinely angry. The use of "Boooooooo!" suggests a tongue-in-cheek approach, rather than a serious expression of displeasure.
+
+**joy**
+
+The speaker's intention appears to be lighthearted and amusing, rather than genuinely upset or annoyed.
+------------------------------------------------------------------------------------------------------------------------
+

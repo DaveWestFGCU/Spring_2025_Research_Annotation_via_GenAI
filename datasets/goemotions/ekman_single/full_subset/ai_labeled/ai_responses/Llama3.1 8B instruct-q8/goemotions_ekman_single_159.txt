@@ -1,0 +1,42 @@
+Record: "[NAME] fan here, He did trade [NAME], it was for a 2018 4th and 2019 7th."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment is calm and matter-of-fact.
+* The speaker appears to be providing information or setting the record straight about an event involving [NAME].
+* There is no indication of strong emotion, criticism, or negative reaction.
+
+Given these considerations, I would label the emotion as **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to a criticism or controversy surrounding a celebrity or sports figure ([NAME]).
+* The speaker mentions that the individual traded someone, which could imply a negative transaction or decision.
+* However, the speaker immediately clarifies that the trade was made for specific players (2018 4th and 2019 7th), which suggests a more nuanced explanation.
+
+Given these points, I would infer that the speaker is not expressing anger, disgust, fear, joy, or sadness. The tone appears to be defensive or explanatory rather than emotional. Therefore:
+
+**neutral**
+
+The speaker seems to be providing factual information in response to a question or criticism, without expressing any strong emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The speaker is responding to a previous comment that likely stated a negative opinion about the trade involving [NAME].
+* The speaker appears to be defending or justifying [NAME]'s actions.
+* The tone of the response seems informative and matter-of-fact, rather than emotional.
+
+Given these considerations, the most relevant emotion label for this response is:
+
+**neutral**
+
+The speaker's tone is neutral because they are simply providing information about the trade without expressing any strong emotions. They seem to be presenting a factual account of events, which suggests a lack of emotional involvement or investment in the topic.
+------------------------------------------------------------------------------------------------------------------------
+

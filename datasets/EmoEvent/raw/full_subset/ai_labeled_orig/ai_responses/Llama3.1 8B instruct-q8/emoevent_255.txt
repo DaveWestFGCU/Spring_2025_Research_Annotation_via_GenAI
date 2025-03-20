@@ -1,0 +1,38 @@
+Record: "Happy #WorldBookDay! We invite you to use our collection of books, journals and media 📚 To search ARCH's online Library Catalogue, go to https://t.co/chw28NC0a4 https://t.co/u9qyG3IoC2"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a greeting and invitation, using the phrase "Happy #WorldBookDay!"
+* The tone is enthusiastic and welcoming.
+* The language used is positive and encouraging.
+
+Given these points, the emotion label that best fits the author's intention is:
+
+**joy**
+
+The use of "Happy" at the beginning of the tweet and the enthusiastic language throughout suggests a celebratory and joyful tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is written in a celebratory tone
+* It includes a happy symbol and a hashtag indicating joy (#WorldBookDay)
+* The language used is inviting and positive
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet starts with "Happy", indicating a positive sentiment.
+* The use of the hashtag #WorldBookDay suggests a celebratory tone.
+* The language is inviting and informative, encouraging people to explore the collection.
+
+Given these points, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "Maybe you just enjoy the process of digging? Does it have to be somebody you’re attracted to or have you tried stalking a random person?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone is questioning and somewhat provocative, suggesting they are not entirely neutral.
+* They imply that the original poster (OP) may be motivated by a desire for excitement or thrills rather than genuine interest in getting to know someone.
+* The phrase "stalking a random person" implies a sense of caution or concern.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's comment has a somewhat tongue-in-cheek tone and suggests they are surprised that OP might be interested in digging (getting to know someone) for reasons other than attraction. The surprise is not necessarily positive or negative, but rather a matter of curiosity and skepticism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is making a sarcastic remark about someone's behavior, implying that they are invested in another person's personal life.
+* The language used is tongue-in-cheek and playful, but also slightly mocking.
+* The question "Does it have to be somebody you’re attracted to or have you tried stalking a random person?" implies that the speaker thinks the original commenter may have an unhealthy obsession.
+
+Most relevant emotion label: **surprise** (though it's more of a sarcastic tone, implying surprise at someone's behavior).
+
+However, given the tone and language used by the speaker, I would argue that the most fitting emotion is actually **anger**, but in a more subtle way. The speaker appears to be slightly annoyed or frustrated with the original commenter's behavior, which is why they're making a sarcastic remark.
+
+But if I had to choose from the given options without considering nuances, I'd say: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is confrontational and challenging, with a hint of sarcasm.
+* The speaker seems to be pushing back against an idea or assumption made by another commenter.
+* The language used is direct and provocative, with a dash of humor.
+
+Given these considerations, the most relevant emotion label is **surprise**, as the speaker appears to be poking fun at the idea that someone might enjoy stalking a random person, implying that it's an unusual or unexpected behavior. However, the tone also has a slightly sarcastic edge, which could suggest a hint of **anger** or frustration with the original comment. But overall, the surprise and challenge in the speaker's words seem to be the primary drivers of their message.
+------------------------------------------------------------------------------------------------------------------------
+

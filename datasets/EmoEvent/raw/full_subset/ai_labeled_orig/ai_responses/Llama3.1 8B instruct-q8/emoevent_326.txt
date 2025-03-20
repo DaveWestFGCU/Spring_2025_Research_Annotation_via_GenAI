@@ -1,0 +1,34 @@
+Record: "Liverpool players love a dive. Cheats! #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is directly attacking Liverpool's players by calling them "dive artists" and accusing them of cheating.
+* The tone is negative and accusatory.
+
+Given the context, the most relevant emotion label is **anger**. The author appears to be expressing annoyance or rage towards Liverpool's players, using strong language to convey their disapproval.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses derogatory language ("dive", "cheats") to describe Liverpool's actions.
+* The tone is confrontational and accusatory.
+* The hashtag "#ChampionsLeague" suggests the tweet is related to a specific event or topic.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses strong language ("dive", "Cheats") which suggests a negative emotional tone.
+* The context is a football competition (UEFA Champions League), but the focus is on the behavior of one team's players, rather than the competition itself.
+
+Most relevant emotion label: **anger**
+
+The author appears to be expressing anger and annoyance towards Liverpool players for their perceived cheating tactics.
+------------------------------------------------------------------------------------------------------------------------
+

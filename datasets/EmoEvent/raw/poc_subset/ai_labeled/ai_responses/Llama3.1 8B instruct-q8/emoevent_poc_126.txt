@@ -1,0 +1,36 @@
+Record: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is defending a person named "[NAME]" from criticism.
+* The author explicitly states that the criticism should be directed at the "Packers organization and Front Office".
+* The tone of the statement implies frustration with those who are criticizing "[NAME]".
+
+Given these points, the most relevant emotion label is **anger**. The author appears to be defending someone they care about and feels frustrated by the unfair treatment they're receiving.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is defending someone named [NAME] from criticism.
+* The author implies that the blame lies with the Packers organization's Front Office rather than the individual being defended.
+* The tone suggests a sense of frustration and justification.
+
+**anger**
+
+The author appears to be expressing anger towards those who are criticizing [NAME], as they feel it is misplaced and unfair.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is defending someone (likely a football player or coach) named "[NAME]".
+* They imply that the blame for a perceived issue lies with the organization's front office rather than the individual being defended.
+* The tone suggests a sense of frustration and injustice.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

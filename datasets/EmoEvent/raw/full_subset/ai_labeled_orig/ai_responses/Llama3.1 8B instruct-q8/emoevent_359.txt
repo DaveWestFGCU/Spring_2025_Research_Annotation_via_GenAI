@@ -1,0 +1,38 @@
+Record: "#NotreDameCathedralFire   'Like a bombing': Daylight reveals extent of Notre-Dame damage  https://t.co/XaoHhS0WWf"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions the "extent of Notre-Dame damage", implying a negative outcome.
+* The phrase "'Like a bombing'" is used to describe the fire, which suggests a strong reaction to the event.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are important points to consider given the text:
+
+* The tweet is a reaction to the devastating fire at the Notre Dame Cathedral.
+* The language used ("Like a bombing") suggests a strong emotional response.
+* The URL provided in the tweet links to an article about the extent of the damage, implying that the author wants to share information and elicit a reaction from their audience.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+The author's use of language and desire to share information about the damage suggests a sense of sadness and grief for the loss suffered by the cathedral and its community.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a structure fire that broke out beneath the roof of Notre-Dame Cathedral.
+* The text describes the fire as "NotreDameCathedralFire".
+* The tweet links to an article with images showing the extent of the damage, described as "daylight reveals extent of Notre-Dame damage".
+
+Given these points, the most relevant emotion label is: **sadness**
+
+This classification is based on the fact that the tweet appears to be reporting a tragic event and providing images that show significant damage to a historic building. The tone suggests a somber or mournful reaction to the news, which is consistent with sadness.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,48 @@
+Record: "We are #champion again. 👏👏👏👏👏👏👏👏   We have the USER   Cup once again.  USER are  CHAMPIONS 2018-2019!  8 leagues in 11 years.  Final score 1-0 USER scores in the 62nd minute. #barcelona #laliga https://t.co/88Aw8q69BC"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's take a look at this tweet to figure out the emotion behind it. The user is talking about being champions again and mentions winning the Cup multiple times. They're also celebrating 8 leagues in 11 years, which sounds like a significant achievement. There are a lot of emojis with clapping hands, which usually signifies excitement or happiness.
+
+The tweet includes hashtags like #barcelona and #laliga, showing pride in their team's success. The mention of the final score being 1-0 in their favor suggests they're thrilled about the victory. All these elements together—celebration, pride, repeated use of "champions," and positive emojis—point towards a feeling of joy.
+
+I don't see any signs of anger, disgust, fear, or surprise here. The focus is on celebrating an achievement, so the emotion is definitely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I have this tweet to classify into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let's look at the tweet closely.
+
+The user wrote, "We are #champion again. 👏👏👏👏👏👏👏 We have the USER Cup once again. USER are CHAMPIONS 2018-2019! 8 leagues in 11 years. Final score 1-0 USER scores in the 62nd minute. #barcelona #laliga https://t.co/88Aw8q69BC"
+
+First, I notice they're using a lot of emojis with clapping hands, which usually conveys excitement or approval. The words "champion" and "win" are repeated several times. They mention the User Cup again, which suggests they've won it before, so this is likely a recent achievement.
+
+The tweet also includes statistics: 8 leagues in 11 years. That sounds impressive and something to celebrate. Mentioning the final score, 1-0, indicates that the team scored at the 62nd minute, leading them to victory. The hashtags #barcelona and #laliga further suggest this is about a football league, probably La Liga as mentioned earlier.
+
+So putting it all together, the user is celebrating a win, using enthusiastic language and emojis. They're expressing pride in their team's success over time. There's no indication of any negative emotions like anger or disgust; instead, it's all positive reinforcement of a victory.
+
+Therefore, the emotion conveyed here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's take a look at this tweet and figure out what emotion it conveys. The user provided a link to a classification task where they need to determine the emotion from a list of options: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet says, "We are #champion again." There are multiple emojis of clapping hands, which usually express excitement or approval. Then it mentions having the USER Cup once again and calls them CHAMPIONS for the 2018-2019 season. It also notes that they've won 8 leagues in 11 years, which is a impressive achievement. The final score is mentioned as 1-0 with the user's team scoring in the 62nd minute.
+
+All these elements—celebration, pride, repetition of "champions," and sharing positive news—indicate joy. The clapping hands are a strong indicator of happiness or excitement. There's no sign of negative emotions like anger or sadness, nor any surprise beyond what would come from a positive outcome they were likely expecting.
+
+So, the emotion here is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

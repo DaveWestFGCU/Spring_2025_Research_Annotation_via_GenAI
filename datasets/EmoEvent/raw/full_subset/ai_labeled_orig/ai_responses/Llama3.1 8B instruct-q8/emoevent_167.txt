@@ -1,0 +1,41 @@
+Record: "Billionaires pledging tons of money to fix a church whilst they can easily donate funds to “things” that truly matter. #NotreDameCathedralFire #NotreDame https://t.co/JCgtECYWJQ"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is commenting on the Notre Dame Cathedral fire, but their tone suggests they are not lamenting the destruction of the cathedral itself.
+* The author mentions billionaires pledging money to fix the church while criticizing them for not donating funds to "things" that truly matter, implying a sense of disapproval or discontent.
+
+The most relevant emotion label is: **anger**
+
+This classification is based on the author's tone of criticism and disappointment towards the actions (or perceived lack thereof) of billionaires in response to the cathedral fire. The use of phrases like "truly matter" suggests that the author believes these individuals are not using their resources effectively, which is a characteristic of an angry tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is commenting on the response of billionaires donating money to fix Notre Dame Cathedral after a fire.
+* The tone appears to be critical and disapproving, implying that the donors' priorities may not be aligned with more pressing social or environmental issues.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+ 
+This label captures the author's critical and disapproving tone towards the billionaires' donations, which suggests a sense of frustration or annoyance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet expresses criticism towards billionaires who are donating money to fix the cathedral.
+* The tone is sarcastic and implies that the donors' priorities are misplaced.
+* The language used suggests a sense of frustration or disappointment.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+The author's tone and language convey a sense of annoyance and frustration towards the billionaires' actions.
+------------------------------------------------------------------------------------------------------------------------
+

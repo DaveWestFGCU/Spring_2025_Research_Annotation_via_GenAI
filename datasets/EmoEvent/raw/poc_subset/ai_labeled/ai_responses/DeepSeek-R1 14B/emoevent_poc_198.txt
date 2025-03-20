@@ -1,0 +1,78 @@
+Record: "You mean the millions of college grads living with their parents?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion in this tweet: "You mean the millions of college grads living with their parents?" So, first, I'll break down what's being said here. The author is addressing someone who presumably made a statement about something, and they're questioning it by pointing out that it applies to many college graduates still living at home.
+
+Hmm, so the tweet starts with "You mean," which suggests surprise or maybe disbelief. It could be that the person was talking about a general situation, and the author is highlighting a specific group affected—college grads living with parents. That adds context and perhaps some sarcasm or irony?
+
+I need to consider the emotion categories: anger, disgust, fear, joy, sadness, surprise. Let's go through them one by one.
+
+Anger might come into play if the tweet is expressing frustration, but I don't see clear signs of that here. It's more about a statement than an aggressive reaction.
+
+Disgust would involve dislike or disapproval. The tweet doesn't seem to express厌恶 or aversion; it's more questioning.
+
+Fear usually involves anxiety or apprehension. There's no indication of fear in this statement, so maybe not.
+
+Joy is about happiness or serenity. The context doesn't suggest any positive emotion here.
+
+Sadness could be pensiveness or grief, but the tweet doesn't seem to convey that. It's more of a rhetorical question than expressing personal sadness.
+
+Surprise fits because "You mean" often indicates surprise or disbelief. The author might be surprised by the other person's statement and is pointing out the reality in an unexpected way. It could also hint at irony, which falls under surprise.
+
+So, putting it all together, the emotion here seems to be surprise. The author is reacting with a sense of disbelief or astonishment to the previous statement, highlighting the situation of many college grads living with their parents as an example.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet: "You mean the millions of college grads living with their parents?" into one of the given emotions. The options are anger, disgust, fear, joy, sadness, or surprise. Let me think through this step by step.
+
+First, I'll read the tweet again. It's a rhetorical question asking about college graduates who live with their parents. This seems to be pointing out a situation where many young adults aren't able to live independently after graduation. That could imply some underlying sentiment.
+
+Now, looking at the emotion categories:
+
+1. **Anger**: This includes annoyance or rage. If the tweet is expressing frustration about this situation, maybe anger fits. But is it more about frustration or something else?
+
+2. **Disgust**: Disinterest or dislike. The speaker might be disgusted by the fact that so many graduates are still living with their parents, perhaps seeing it as a negative societal trend.
+
+3. **Fear**: Apprehension or anxiety. Maybe the tweet is expressing worry about the future or job prospects, but I'm not sure if fear is the primary emotion here.
+
+4. **Joy**: Serenity or ecstasy. Doesn't seem to fit; the situation described doesn't sound positive.
+
+5. **Sadness**: Pensiveness or grief. The speaker might be feeling sorry for these graduates, but again, it's a bit ambiguous.
+
+6. **Surprise**: Distraction or amazement. It could be a surprising fact, but surprise alone doesn't seem to capture the depth of emotion here.
+
+I think the tweet is more about pointing out an unfortunate reality rather than expressing personal sadness or fear. The use of "You mean" suggests that the speaker is highlighting something unexpected or perhaps disapproving. So, it might be closer to disgust because the speaker seems to dislike this situation, maybe seeing it as a problem.
+
+Alternatively, could it be anger? If the speaker is frustrated about the state of affairs, then yes, but I feel like disgust fits better here as the primary emotion.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet: "You mean the millions of college grads living with their parents?" The options are anger, disgust, fear, joy, sadness, or surprise. Let me break it down.
+
+First, the statement is a rhetorical question pointing out that many college graduates are still living with their parents. This situation often reflects economic challenges where people can't afford to live independently after graduation. 
+
+The emotion here might be frustration or disappointment. Frustration could fall under anger because it's an irritated feeling about not achieving independence. Alternatively, maybe the speaker is expressing disapproval or disgust towards this trend.
+
+Wait, but does that fit into 'disgust'? Disgust usually involves feelings of aversion or dislike towards something perceived as wrong or repulsive. If the speaker is disgusted by the idea of so many grads relying on their parents, that could make sense.
+
+Alternatively, it might express surprise because the situation is unexpected or shocking. But I think it's more about a negative emotion than surprise. The statement sounds more critical than amazed.
+
+So between anger and disgust. Since it's pointing out a problematic trend, perhaps it's more of a disgusted reaction—dislike towards this social issue.
+
+I think the emotion conveyed here is disgust because the speaker seems to express disapproval or aversion towards college graduates living with their parents, possibly seeing it as a negative societal trend.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

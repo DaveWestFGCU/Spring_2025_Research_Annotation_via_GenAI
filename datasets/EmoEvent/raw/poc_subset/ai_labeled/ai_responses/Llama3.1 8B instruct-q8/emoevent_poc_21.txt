@@ -1,0 +1,37 @@
+Record: "Exactly right about throwing $23M at Donaldson. I mean, are we going for it this year or not? Mixed signals..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is critical and questioning.
+* The author is expressing skepticism towards a decision made by someone else (likely a team or organization).
+* The language used implies frustration and confusion.
+
+**anger**
+The author's tone suggests annoyance and frustration, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is criticizing a decision made by an organization (the use of "$23M" suggests a large financial investment)
+* The language used is questioning and skeptical ("are we going for it this year or not?" implies uncertainty)
+* The phrase "Mixed signals..." implies that the decision may be confusing or unclear
+
+Based on these points, the most relevant emotion label is **anger**. The author's tone is critical and frustrated, suggesting that they are upset about the decision made by the organization.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a strong opinion on a sports-related decision.
+* They mention mixed signals from the team's management, implying confusion and frustration.
+* The tone is critical and questioning.
+
+**anger**
+ 
+The author's use of rhetorical questions ("are we going for it this year or not?") suggests frustration and annoyance with the team's decision-making process.
+------------------------------------------------------------------------------------------------------------------------
+

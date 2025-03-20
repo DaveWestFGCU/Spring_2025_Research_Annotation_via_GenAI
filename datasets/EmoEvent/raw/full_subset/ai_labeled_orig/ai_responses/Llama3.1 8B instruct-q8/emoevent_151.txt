@@ -1,0 +1,46 @@
+Record: "#NotreDameCathedralFire has deeply moved France &amp; other countries all around the 🌍. In these times when our empathy awakens our generosity, we must be careful. Disasters and humanitarian crisis are often subject to false appeals for donations. https://t.co/eIV0WGgUWk"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions that the fire "deeply moved" France and other countries, indicating a strong emotional response.
+* The author is warning people to be careful of false appeals for donations, which suggests a cautionary tone.
+* The overall message is one of concern and vigilance in the face of disaster.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The tweet conveys a sense of sadness or pensiveness about the devastating fire and its potential consequences. The author's cautionary tone is a response to the negative emotions evoked by the event, rather than expressing anger, disgust, fear, joy, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a "disaster" (the Notre Dame Cathedral fire)
+* The author is warning about the potential for "false appeals for donations"
+* The tone is cautionary and advisory, rather than celebratory or critical
+* The phrase "our empathy awakens our generosity" suggests a positive sentiment
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The tweet expresses sadness and concern for the impact of the disaster on people's emotions and potential charitable responses.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions that the fire has "deeply moved" people, which suggests a strong emotional response.
+* However, they also caution against false appeals for donations during humanitarian crises, which implies a sense of warning or concern rather than a purely positive or negative emotion.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's tone is reflective and cautious, acknowledging the emotional impact of the disaster while also expressing concerns about potential exploitation. This suggests a somber or melancholic mood, which aligns with the emotion category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

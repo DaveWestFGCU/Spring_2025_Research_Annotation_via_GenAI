@@ -1,0 +1,58 @@
+Record: "USER_Medieval loved your story on construction guys. People that mostly love what they do when a job well done. The best day is when the job is done and everyone has all there fingers and toes. Out of sight but not out of mind. #NotreDameCathedralFire"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user provided a tweet related to the Notre-Dame Cathedral fire and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I need to understand the content of the tweet. It mentions "Medieval loved your story on construction guys" which seems to be praising people who do their jobs well, especially when everything is done safely. Phrases like "Out of sight but not out of mind" suggest pride in a job well done and concern for everyone's safety.
+
+Now, looking at the emotion categories: anger doesn't fit because there's no indication of frustration or irritation. Disgust isn't present either; the tweet isn't expressing dislike or aversion. Fear is unlikely since there's no sense of anxiety or terror here.
+
+Joy seems possible because the tweet is positive and talks about a job well done, but it also has a deeper undertone. Sadness might be more appropriate considering the context of the fire, which was a tragic event. The author might be expressing sympathy or reflecting on the loss caused by the fire.
+
+Surprise doesn't apply here as there's no indication of astonishment or unexpectedness.
+
+Putting it all together, the tweet reflects empathy and concern regarding the cathedral's destruction, so sadness is the most fitting emotion.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's try to figure this one out. The tweet is about construction workers who are medieval in their approach or perhaps just a play on words, maybe "medieval" as an adjective. The user seems to be complimenting them for their story and mentions that people love what they do when the job is well done.
+
+The user also talks about the best day being when the job is completed safely, mentioning all fingers and toes, which implies concern for their safety. Then there's a line about being "out of sight but not out of mind," suggesting that even though they're not in view, they're still remembered or important.
+
+Looking at the hashtags used, #NotreDameCathedralFire is included, so this tweet might be related to that event. The overall tone seems positive towards the workers, highlighting their dedication and the importance of their work despite being behind the scenes.
+
+Now, considering the emotions: anger, disgust, fear, joy, sadness, surprise. The user's message is appreciative and highlights satisfaction with a job well done. There's no indication of any negative emotions like anger or fear; instead, it seems to convey happiness or approval. However, the mention of safety ("all there fingers and toes") adds a layer of cautious optimism but doesn't shift the emotion towards fear.
+
+Therefore, the primary emotion here is joy because the user is expressing satisfaction and positivity about the workers' job performance.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out the emotion in this tweet about the Notre Dame Cathedral fire. Let me read it carefully.
+
+The user starts by saying "Medieval loved your story on construction guys." That seems positive, maybe expressing admiration or approval. They mention people who love their jobs and do them well, which sounds like praise—so that's a hint towards joy or positivity.
+
+Next part: "The best day is when the job is done and everyone has all there fingers and toes." This phrase emphasizes safety and successful completion, which are positive outcomes. It also adds an element of relief because no one was harmed, but it's still framed positively.
+
+Then they say, "Out of sight but not out of mind," referring to the cathedral being out of sight now due to the fire but still in people's thoughts. This could imply that while the structure is gone, the memory or importance remains, which might evoke some sadness because of the loss.
+
+Looking at the hashtags, #NotreDameCathedralFire is included, which connects it to the event. The overall tone seems to mix admiration for the workers and their dedication with a sense of sorrow over the cathedral's destruction.
+
+Considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't express any negative emotions like anger or disgust towards anyone involved. There's no fear or anxiety expressed. It does show appreciation (joy) but also laments the loss (sadness). Since the main focus is on the positive aspects of the workers and their safety, there's a touch of joy, but the mention of the fire leads to sadness about the cathedral's fate.
+
+I think the primary emotion here is sadness because it's reflecting on the tragedy of losing such an iconic building. However, there's also some positivity in praising the construction workers. But between the two, the loss and the impact of the fire might be more prominent in the author's intended emotion.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

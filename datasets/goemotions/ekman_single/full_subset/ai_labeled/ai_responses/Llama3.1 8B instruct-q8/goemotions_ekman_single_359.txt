@@ -1,0 +1,44 @@
+Record: "I'm curious though, will they upvote it to own the ~~libs~~ [NAME]?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is making a joke or a humorous comment.
+* The use of ~~libs~~ indicates that the speaker is mocking or joking about the term "libs" (short for liberals).
+* The tone appears to be lighthearted and playful, rather than serious or confrontational.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's comment suggests that they are amused by the idea of someone upvoting a post as a way to "own" their political opponents, and are making light of the situation. The use of humor and mocking language suggests that the speaker is experiencing joy or amusement, rather than any other emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions "own the libs", which is a phrase often associated with conservative ideology and can be seen as mocking or sarcastic.
+* The speaker seems to be addressing someone who may have been critical of them or their views, using a phrase that implies a desire to prove a point.
+* The tone appears to be somewhat playful and tongue-in-cheek, rather than genuinely angry or upset.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is making a joke or poking fun at something.
+* The phrase "own the libs" is often used in a humorous or sarcastic way to imply that someone is trying to annoy or provoke liberals.
+* The use of ~~libs~~ with tildes (~) around it suggests that the word has been censored, which can be ironic or playful.
+
+Given these points, the speaker appears to be expressing amusement or playfulness towards the situation.
+
+**joy**
+
+Note: This emotion label is chosen because the tone of the comment seems lighthearted and humorous, which is consistent with feelings of joy or amusement.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "Yay, now we're only down by 7"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider given the text:
+
+1. The use of "Yay" indicates a positive exclamation typically associated with excitement or happiness.
+2. The phrase "only down by 7" suggests a context of competition or a game, which often elicits emotions tied to performance or overcoming challenges.
+3. The overall tone appears to be upbeat, showing optimism despite a challenging situation.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:  
+- The phrase "Yay" suggests a positive or enthusiastic reaction.  
+- The context of being "down by 7" indicates that the team is losing, which is generally not a joyful situation.  
+- However, the use of an exclamation ("Yay") implies a sense of optimism or relief despite the losing situation, reflecting a perspective that recognizes improvement or hope.  
+
+Taking these factors into account, the author is likely expressing a mix of positive emotion regarding the situation, leaning towards an overall feeling of joy or optimism about the prospects of the game. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Points to consider:
+
+1. The use of "Yay" suggests a positive or celebratory tone, indicating a sense of accomplishment or relief rather than negativity.
+2. The phrase "down by 7" implies a competitive context, likely in sports or games, where being "down" could invoke concern, but the exclamation suggests excitement or optimism.
+3. Overall, the tweet conveys a sense of positivity despite a challenging situation.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

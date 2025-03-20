@@ -1,0 +1,58 @@
+Record: "Haven't listened to today's podcast yet, who did [NAME] kill?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Haven't listened to today's podcast yet, who did [NAME] kill?" 
+
+First, let me break down the sentence. The speaker mentions they haven't listened to the podcast yet, which might indicate curiosity or anticipation about its content. Then they ask, "who did [NAME] kill?" This part is a bit more intense. Using "kill" suggests that the topic of the podcast is serious or perhaps violent.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that best fits this comment.
+
+The speaker's curiosity about who was killed could relate to surprise because they're probably expecting something unexpected or shocking from the podcast. Alternatively, it might show interest (joy) but more likely, given the use of "kill," it's a strong reaction, possibly surprise.
+
+I don't think it's anger because there's no indication of frustration or irritation. Disgust would involve finding something offensive, which isn't clear here. Fear is about being afraid, and while podcasts can be scary, the speaker seems more eager to find out than worried. Sadness doesn't fit as they're asking a question rather than expressing sorrow.
+
+So, considering all options, surprise seems most fitting because they're likely anticipating an unexpected or surprising event in the podcast.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "Haven't listened to today's podcast yet, who did [NAME] kill?" Alright, let's break this down step by step.
+
+First, the speaker mentions they haven't listened to today's podcast yet. That part seems neutral—they're just stating a fact about their current state of listening. But then comes the question: "who did [NAME] kill?" This is a bit more intriguing. The use of "kill" suggests that something happened in the podcast where [NAME] might have been involved in some negative event, possibly a fictional context since it's mentioned in a Reddit comment related to podcasts.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. I need to determine which emotion fits best here. The speaker is asking a question, so they might be curious or eager to know the details. Curiosity can sometimes fall under surprise because it's about being unexpectedly informed.
+
+Alternatively, could there be any anger or disgust? Well, if [NAME] did something wrong, maybe the speaker is upset, but without more context, it's hard to tell. Fear doesn't seem applicable here unless the podcast content is scary, but again, not clear from this sentence. Sadness would imply some negative outcome affecting them personally, which isn't indicated.
+
+Joy is unlikely because "kill" is a negative action. Surprise makes sense if they're asking about something unexpected that happened in the podcast. So, considering all options, surprise seems to be the best fit here—curiosity leading to surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out what emotion the speaker is feeling based on their comment. The comment says, "Haven't listened to today's podcast yet, who did [NAME] kill?" 
+
+First, let me break down the sentence. The speaker mentions they haven't listened to the podcast, which means they don't have all the information yet. Then they ask, "who did [NAME] kill?" This question seems abrupt and could indicate a few possibilities.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that fits best.
+
+The speaker is asking about who was killed by [NAME], which might suggest they're curious or perhaps concerned. However, without more context, it's hard to tell if they're expressing strong emotions like anger or fear. The statement doesn't show obvious signs of joy or sadness either.
+
+Wait, the fact that they haven't listened to the podcast yet but are asking this question could mean they heard something surprising from someone else and are reacting to that. Maybe they're surprised by the news, prompting them to ask who was killed. That would align with surprise because it's an unexpected piece of information.
+
+Alternatively, if [NAME] is known for killing people in a series or podcast, maybe the speaker is trying to remember details. But given the way the question is phrased, it seems more like they're reacting to new info rather than recalling.
+
+So considering all this, the emotion most likely here is surprise because of the unexpected nature of the question and the fact that they haven't listened yet but are curious or concerned about who was killed.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

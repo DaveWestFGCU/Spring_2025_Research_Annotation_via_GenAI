@@ -1,0 +1,52 @@
+Record: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user wants to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet in question is: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period."
+
+First, I'll break down the content of the tweet to understand the emotion conveyed. The author mentions being "amazed" and describes a period as "one of the worst." The word "stole" is used in a context that suggests taking something unfairly.
+
+The primary emotion here seems to be surprise because the author uses the word "amazed." They express shock about walking away with 2 points, which implies they didn't expect it. Additionally, describing the period as "one of the worst" adds a layer of negativity but doesn't necessarily indicate anger or disgust; instead, it's more about being surprised by how bad it was.
+
+Looking at the other emotions: there's no indication of fear or anxiety, so fear is out. There's no joy or serenity, so that's not applicable. Sadness isn't the primary emotion here either, even though the situation is negative—sadness usually involves grief or pensiveness, which isn't the focus.
+
+Disgust could be considered because they're talking about a bad period, but disgust typically involves feelings of dislike or aversion towards something. However, the main emotion expressed is more about surprise and disbelief rather than pure disgust.
+
+Considering all this, the most fitting emotion from the given list is surprise. The author is expressing astonishment and unexpectedness regarding the outcome and the quality of the period.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify the emotion in this tweet: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period." The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the tweet. The author says they're "amazed" and mentions it being one of the worst periods they've watched. Also, they mention someone stealing that period.
+
+The word "amazed" suggests surprise. But is there more to it? They describe the period as "one of the worst," which could imply disgust or maybe some frustration, but the primary emotion seems to be the astonishment at how they managed to get 2 points despite such a bad performance.
+
+Looking deeper, "stole that period" might indicate frustration or anger towards [NAME], but again, the main emotion expressed is the surprise of walking away with points when it was so bad. So, surprise seems most fitting.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet carefully.
+
+The tweet says: "I'm actually amazed we walked away with 2 points. That 2nd was one of the worst periods I've watched. [NAME] stole that period."
+
+First, the user mentions being "amazed" which directly relates to surprise. They talk about walking away with only 2 points, which seems like a positive outcome considering they might have expected something worse, but their focus is on how surprising it was.
+
+Then, they describe the second period as one of the worst they've ever watched and call out [NAME] for stealing that period. Here, "stealing" could imply that [NAME]'s actions were unexpected or remarkable in a negative way, contributing to their amazement.
+
+So the primary emotion here is surprise because the user starts by expressing that they're amazed. Even though there's some frustration or disappointment about the quality of the period, the key emotion being conveyed is the astonishment at the outcome and [NAME]'s actions.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

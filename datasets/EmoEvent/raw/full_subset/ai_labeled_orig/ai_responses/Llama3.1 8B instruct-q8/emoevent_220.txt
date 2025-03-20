@@ -1,0 +1,45 @@
+Record: "Messi.....what can you say? The man is a legend. That free kick....he’s taking the p*ss....jaw dropping... 😮 🐐#Messi #BARLIV #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts by expressing admiration for Messi, calling him a "legend".
+* The tone shifts when mentioning the free kick, with the phrase "he's taking the p*ss" implying that the author is impressed but also somewhat shocked or amazed.
+* The use of emojis such as 😮 and 🐐 suggests that the author is thrilled and in awe of Messi's skill.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author appears to be expressing admiration and excitement for Messi's skills, indicating a positive and joyful tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions Messi in a positive light, calling him a "legend" and expressing amazement at his skills.
+* The tone of the tweet is celebratory and admiring, with the use of enthusiastic language such as "jaw dropping".
+* The phrase "he's taking the p*ss" suggests that the author is surprised and impressed by Messi's skill, rather than being angry or annoyed.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The tweet conveys a sense of excitement, admiration, and wonder at Messi's abilities, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions Messi in a positive light, calling him "a legend".
+* The author is impressed by Messi's free kick.
+* The use of the phrase "taking the p*ss" is likely meant in an admiring way, suggesting that Messi's skill is impressive enough to be humorous or playful.
+* The presence of laughing face emojis (😮) and a horse emoji 🐐, often used to represent greatness or excellence.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's tone is one of admiration and delight in watching Messi's impressive performance.
+------------------------------------------------------------------------------------------------------------------------
+

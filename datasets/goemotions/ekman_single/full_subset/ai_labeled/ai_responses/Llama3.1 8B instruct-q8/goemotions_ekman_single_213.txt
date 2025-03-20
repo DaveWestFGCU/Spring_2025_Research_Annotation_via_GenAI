@@ -1,0 +1,40 @@
+Record: "Sign my name to it too lol it was so awful we deserve pain and suffering for that!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "awful" to describe their experience, which suggests a negative emotion.
+* They express a desire for "pain and suffering" as punishment, which implies they are seeking revenge or retribution.
+* The tone of the comment is somewhat tongue-in-cheek with the use of "lol", but the underlying sentiment is still one of negative feeling.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+This conclusion is based on the speaker's expression of strong disapproval and desire for revenge or retribution, which are characteristic of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "we deserve pain and suffering" which implies a sense of guilt or remorse.
+* The tone is playful, with the use of "lol" but also contains a hint of dark humor.
+* The speaker seems to be referencing a shared negative experience.
+
+Most relevant emotion label: **sadness**
+
+The speaker's comment suggests that they are reflecting on a painful or traumatic event and seem to be acknowledging that they and others deserve consequences for it. While the tone is playful, the sentiment expressed is one of remorse and regret, which is a key characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "awful", which suggests a strong negative emotion.
+* The phrase "we deserve pain and suffering" implies a sense of guilt or self-blame, but also a desire for punishment or retribution.
+* The tone is somewhat sarcastic, with the use of "lol" at the end.
+
+Given these points, the most relevant emotion label would be **anger**. The speaker's comment suggests that they are still upset about an experience and feel that they deserve to suffer as a result. While there may also be some element of sarcasm or irony in their tone, the overall sentiment is one of anger and frustration.
+------------------------------------------------------------------------------------------------------------------------
+

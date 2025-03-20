@@ -1,0 +1,54 @@
+Record: "In my few years playing I never knew this ... I feel so lost now"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, let's try to figure out the emotion in this tweet: "In my few years playing I never knew this ... I feel so lost now." 
+
+First, I'll break down the words and phrases used. The author mentions feeling "lost," which is a strong indicator of confusion or uncertainty. The ellipsis after "I never knew this" suggests that they're expressing surprise or shock about something new they've discovered.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. 
+
+Feeling lost can relate to several emotions. It might indicate sadness because feeling lost often brings grief or pensiveness. Alternatively, it could be surprise if the situation is unexpected and shocking.
+
+The phrase "I never knew this" implies that something surprising has come to light. The author didn't expect this new information, which adds an element of shock or amazement. 
+
+While "lost now" does have a tinge of sadness, the emphasis here seems more on the surprise aspect because they're reacting to discovering something unknown in their experience.
+
+So, considering both possibilities, I think the primary emotion conveyed is surprise rather than sadness.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's try to figure out what emotion is in this tweet: "In my few years playing I never knew this ... I feel so lost now". 
+
+First, the user mentions they've been playing for a few years but didn't know something. That suggests they might be surprised or confused about new information. The ellipsis after "I never knew this" adds to that sense of uncertainty.
+
+Then, they say, "I feel so lost now." Feeling lost typically indicates confusion, bewilderment, or a lack of direction. Looking at the emotion categories, surprise includes things like distraction and amazement, which can also encompass confusion when someone learns something unexpected.
+
+The other options don't fit as well. Sadness might come into play if they're feeling down about it, but the primary emotion here seems to be surprise because of the new information they've encountered.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify a tweet based on the emotion conveyed, choosing from anger, disgust, fear, joy, sadness, or surprise. 
+
+First, I'll read the tweet carefully: "In my few years playing I never knew this ... I feel so lost now." It seems the author is expressing a sense of confusion and bewilderment.
+
+Breaking down the sentence, they mention not knowing something despite having played for a few years, which indicates surprise or shock. The phrase "I feel so lost now" strongly suggests confusion, which aligns with surprise because being lost implies unexpectedness or an unfamiliar situation.
+
+Looking at the emotion categories: anger isn't present here; there's no indication of irritation or rage. Disgust also doesn't fit as there's no dislike or aversion mentioned. Fear? The tweet doesn't express anxiety or terror, so that's out. Joy is clearly not applicable since the tone isn't positive. Sadness might be a contender because feeling lost can be sad, but I think surprise is more fitting because it's about being suddenly aware of something new.
+
+So, weighing between sadness and surprise, "surprise" seems to capture the bewilderment better. The author is surprised by their lack of knowledge despite their experience, leading them to feel lost.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

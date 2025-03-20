@@ -1,0 +1,41 @@
+Record: "I know my pics of Notre Dame can't do its beauty justice, but I'm posting to mourn with the collective over an impossible loss. #NotreDameCathedralFire https://t.co/JKR7gu8Fa2"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider given the text:
+
+* The author is posting pictures of Notre Dame Cathedral after a fire broke out.
+* The author mentions "mourn" and an "impossible loss", indicating a sense of grieving or sadness.
+* The tone is reflective and somber, with no indication of strong emotions like anger, disgust, fear, joy, or surprise.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The tweet mentions a "loss" and mourning, indicating a negative emotional tone.
+* The author is expressing sadness about the event, specifically the fire at Notre Dame Cathedral.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+Note that while the author may also be surprised by the event, the primary tone of the tweet is one of mourning and loss, which aligns with sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions "mourn" and "impossible loss", indicating a sense of grief or sorrow.
+* The tone is reflective and somber, suggesting a emotional response to the event.
+* The author is sharing their own photos as a way to connect with others who are feeling similar emotions.
+
+**sadness**
+
+The text explicitly states that the author wants to "mourn" the loss, which aligns directly with feelings of sadness or grief.
+------------------------------------------------------------------------------------------------------------------------
+

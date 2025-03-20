@@ -1,0 +1,43 @@
+Record: "I rly like trench coats Not not in that combination tho"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker expresses a positive sentiment towards trench coats.
+* However, they express a negative opinion about the specific combination of items shown in the image or mentioned by another user.
+* The tone is casual and informal, as indicated by the use of "rly" (a colloquialism for "really").
+
+Given these points, it's likely that the speaker's tone is neutral towards the item being discussed, but they are expressing a negative opinion about its combination with other items. However, since they're not expressing anger or disgust specifically towards the item itself, their overall emotion can be categorized as:
+
+* **neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with a positive statement ("I really like trench coats"), indicating a favorable opinion.
+* They then express a reservation or criticism about the specific combination of items mentioned ("Not not in that combination tho").
+* The tone appears casual and conversational, with the use of colloquial language ("rly" instead of "really").
+
+Given these points, it seems that the speaker is expressing a nuanced opinion, which could be considered a neutral or mixed emotion. However, the negative aspect of their statement ("Not not in that combination tho") suggests a more critical tone than pure neutrality.
+
+The most relevant emotion label for this text is:
+
+**surprise**, as the speaker's unexpected turn from positivity to criticism might evoke a sense of surprise in the reader.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker starts with a positive statement about liking trench coats.
+* They then express a negative opinion about the specific combination being discussed.
+
+Given these points, it seems the speaker is expressing disapproval or dislike for something (the combination of clothes), but in a lighthearted and non-confrontational way. 
+
+**surprise**
+
+Note: Although this response may seem counterintuitive, given that the text doesn't contain any obvious signs of surprise like "Wait" or strong reactions, it's worth considering that the speaker's tone is casual and conversational, which might imply a sense of unexpectedness in their own opinion (i.e., they're not entirely sure why this combination doesn't work).
+------------------------------------------------------------------------------------------------------------------------
+

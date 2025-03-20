@@ -1,0 +1,41 @@
+Record: "Happy #WorldBookDay! If you are currently looking for something to read why not check out these 5 books that USER suggests every IT Professional should read.   https://t.co/F0tL0S1Kbb #professionaldevelopment #books #education"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a celebration of World Book Day.
+* The tone of the language used is positive and inviting.
+* The author suggests checking out a list of recommended books, which implies excitement about reading.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is promoting a positive event (World Book Day).
+* The tone of the language used is enthusiastic and encouraging.
+* The author is suggesting a resource (a list of book recommendations) to help people find something to read.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+The tweet is clearly meant to be uplifting and celebratory, indicating that the author is happy and excited about World Book Day and wants to share their enthusiasm with others.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet starts with "Happy", which is a clear indicator of a positive tone.
+* The language used is enthusiastic and encouraging, suggesting that the author wants to share something exciting with their audience.
+* The hashtags #WorldBookDay, #professionaldevelopment, #books, and #education reinforce the celebratory and educational nature of the tweet.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The tone of the tweet is cheerful and optimistic, making joy the primary emotion conveyed by the author.
+------------------------------------------------------------------------------------------------------------------------
+

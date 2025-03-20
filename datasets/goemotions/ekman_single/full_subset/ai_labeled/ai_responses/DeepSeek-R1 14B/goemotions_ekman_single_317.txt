@@ -1,0 +1,66 @@
+Record: "So good."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "So good." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. "So good" is a common expression that typically conveys approval or satisfaction. In many contexts, people use this phrase when they're happy about something, maybe after receiving positive news or experiencing a pleasant event.
+
+Looking at the emotion definitions:
+
+- Anger: Doesn't seem to fit because there's no indication of displeasure or antagonism.
+- Disgust: Usually involves revulsion, which isn't present here.
+- Fear: Not applicable as there’s no sign of worry or anxiety.
+- Joy: This seems relevant. "So good" is often used when someone is happy or pleased.
+- Sadness: Doesn't match since the speaker isn’t expressing sorrow or pain.
+- Surprise: While surprise can include positive elements, "so good" doesn't necessarily imply something unexpected unless context says otherwise. But in most cases, it's more about approval.
+- Neutral: Unlikely because the speaker is clearly expressing an emotion.
+
+Therefore, the emotion that best fits "So good." is joy. The speaker is likely expressing happiness or satisfaction.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out which emotion the speaker might be feeling based on their comment. The user provided the sentence "So good." and wants me to choose from the given emotions.
+
+First, I'll look at each emotion's definition to see which one fits best. 
+
+- **Anger**: This involves displeasure or antagonism. The phrase "so good" doesn't seem angry.
+- **Disgust**: Revulsion or disapproval. Again, "so good" sounds positive.
+- **Fear**: Involves being afraid or worried. Doesn't fit here as it's a positive statement.
+- **Joy**: Feeling pleasure or happiness. "So good" is clearly positive and shows approval.
+- **Sadness**: Emotional pain or sorrow. Not applicable since the comment is upbeat.
+- **Surprise**: Astonishment or unexpected feeling. While surprise can sometimes be mixed with positivity, "so good" seems more about approval than surprise.
+- **Neutral**: Lacking emotion. But here, the speaker is expressing a clear positive sentiment.
+
+Given that, "joy" makes the most sense because they're expressing something positive and approving. So I think the emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion "So good" conveys. The user has provided this short statement and wants an emotion label from the given list: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+First, I'll break down the sentence. "So good" is a common expression used when something positive happens. It's often associated with approval or satisfaction. Now, looking at the emotion categories:
+
+- Anger doesn't fit here because there's no sign of displeasure.
+- Disgust isn't applicable since it's about revulsion, not positivity.
+- Fear and surprise are related to negative emotions, so they don't match.
+- Sadness is about sorrow or pain, which isn't the case here.
+- Neutral might be a possibility if the speaker isn't showing any emotion, but "so good" suggests they do have an emotional response.
+
+Joy includes feelings like happiness and approval. Since "so good" indicates satisfaction and positivity, joy seems to be the best fit. There's no indication of surprise or any other emotion.
+
+So, I'm leaning towards **joy** as the emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

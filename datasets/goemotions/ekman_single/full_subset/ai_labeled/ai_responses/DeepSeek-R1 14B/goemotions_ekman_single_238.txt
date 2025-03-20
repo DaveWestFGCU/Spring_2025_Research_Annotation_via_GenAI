@@ -1,0 +1,76 @@
+Record: "That was glorious."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to figure out which emotion corresponds to the speaker's statement. The speaker said, "That was glorious." First, I'll consider each emotion category.
+
+Anger is about displeasure or antagonism. Glorious doesn't fit that; it sounds positive.
+
+Disgust relates to revulsion. Again, "glorious" isn't something disgusting, so probably not disgust.
+
+Fear involves being afraid or worried. The word glorious doesn't convey fear, so fear is out.
+
+Joy includes happiness and pleasure. "Glorious" definitely has a positive connotation, which aligns with joy.
+
+Sadness is about emotional pain or sorrow. Since the speaker used a positive term, sadness isn't applicable here.
+
+Surprise involves astonishment. While glorious could be surprising in some contexts, it's more about being impressed rather than surprised.
+
+Neutral is lacking emotion, but "glorious" clearly has an emotion—positive one at that.
+
+So, considering all options, "glorious" best fits joy because it expresses a positive feeling of pleasure or happiness.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment they made is "That was glorious." 
+
+First, I should understand what each emotion entails as per the definitions provided. Let's go through them one by one.
+
+Anger involves displeasure or antagonism. Examples include expressions of hate or frustration. Does "glorious" fit here? Probably not; anger would likely have more negative words.
+
+Disgust is about revulsion or disapproval. Again, "glorious" doesn't seem to convey that. It's a positive word.
+
+Fear involves being afraid or worried. Doesn't quite match with "glorious," which has a positive tone.
+
+Joy includes happiness and related feelings. "Glorious" definitely sounds joyful. It's an enthusiastic term often used to express admiration or approval.
+
+Sadness is about emotional pain or sorrow, so that's the opposite of what "glorious" suggests.
+
+Surprise is about being astonished. While "glorious" could be a reaction to something unexpected, it doesn't necessarily imply surprise; it's more about the positive evaluation.
+
+Neutral means no emotion is expressed, but clearly, "glorious" implies an emotion.
+
+Putting it all together, the speaker is expressing joy by calling something glorious.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure this out. So, the task is to identify the emotion someone is feeling based on their comment. The comment here is "That was glorious." and I need to choose from the given emotions: anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, I'll break down what "glorious" means. Glorious typically conveys a sense of something being very impressive or extremely good. It's often associated with positive feelings. So when someone says something was glorious, they're probably expressing approval or admiration.
+
+Looking at the emotion definitions provided:
+
+- Joy includes admiration and approval, which seems to fit here.
+- Anger is about displeasure, which doesn't match.
+- Disgust relates to revulsion, so no.
+- Fear is about being afraid, not applicable.
+- Sadness involves sorrow, which isn't the case.
+- Surprise is more about astonishment, but "glorious" is a positive statement, not necessarily surprising.
+- Neutral just means no emotion shown.
+
+So, given that "glorious" is a strong positive term, it aligns with joy. The person is likely expressing happiness or admiration.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

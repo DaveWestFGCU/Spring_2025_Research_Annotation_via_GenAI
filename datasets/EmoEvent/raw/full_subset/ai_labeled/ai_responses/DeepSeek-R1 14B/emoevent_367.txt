@@ -1,0 +1,20 @@
+Record: "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint. #NotreDameCathedralFire"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out the primary emotion conveyed in this tweet about the Notre Dame Cathedral fire. The user wrote: "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint." 
+
+First, I'll break down the content. The tweet starts with a sarcastic statement suggesting that homeless people would be relieved about the funds raised after the fire. Then it adds that this is especially true because the Catholic Church is "skint," which means broke or poor.
+
+The tone here seems critical and mocking towards the church's financial situation while highlighting the contrast between the money raised for Notre Dame and the needs of the homeless. The use of sarcasm indicates a negative emotion, likely frustration or irritation. 
+
+Looking at the mapping guidelines: if it's similar to annoyance or rage, classify as anger. Sarcasm can often be a sign of underlying anger, especially when directed towards an institution like the church. There's no clear expression of disgust (dislike), fear, joy, sadness, or surprise here. The focus is more on frustration with how resources are being allocated.
+
+So, considering all this, the emotion conveyed is likely anger.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

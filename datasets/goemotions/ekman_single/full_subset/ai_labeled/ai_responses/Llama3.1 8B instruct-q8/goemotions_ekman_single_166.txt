@@ -1,0 +1,37 @@
+Record: "It would be a crime to not invite him."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses strong language ("crime") to emphasize their opinion.
+* The tone of the sentence suggests that the speaker believes something important is at stake.
+* The word "not" is used, implying a sense of prohibition or opposition.
+
+Given these considerations, the most relevant emotion label is **joy**. The speaker's use of strong language and emphasis on the importance of inviting someone suggests that they are enthusiastic and optimistic about this particular scenario.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "crime", which implies a strong moral judgment.
+* The tone of the statement suggests a sense of urgency and importance, as if excluding this person from an invitation is a serious mistake.
+
+Given these considerations, the most relevant emotion label is **joy**. The speaker's statement conveys a positive sentiment, implying that including the person in question would bring happiness or satisfaction to others (or perhaps even to themselves). The use of "crime" to describe not inviting him reinforces this interpretation, suggesting that the speaker sees it as a missed opportunity for joy or celebration.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "crime", which typically implies strong disapproval or moral outrage.
+* The tone of the statement is assertive and emphatic, suggesting that the speaker believes strongly in their opinion.
+* There is no indication of fear, sadness, joy, surprise, or neutrality.
+
+Given these points, the most relevant emotion label for the speaker's comment is:
+
+**anger**
+
+The word "crime" suggests a strong sense of moral disapproval, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+

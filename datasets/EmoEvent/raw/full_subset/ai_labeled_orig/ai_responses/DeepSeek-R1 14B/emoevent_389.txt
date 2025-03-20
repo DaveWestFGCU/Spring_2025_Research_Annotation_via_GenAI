@@ -1,0 +1,52 @@
+Record: "[1/2]World Heritage Day is round the corner (April18) &amp; I look back at how well endowed we are as a nation with the most vibrant history.Taking the eg of swift action further to the #NotreDameCathedralFire,the time is ripe to rethink the preservation of our rich national heritage"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break down this query. The user provided a tweet about World Heritage Day and the Notre Dame Cathedral fire. They want me to classify the emotion from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+First, I'll read the tweet carefully. It mentions looking back at how well-endowed their nation is with history, then uses the Notre Dame fire as an example of swift action. The author seems to be reflecting on heritage preservation and suggesting it's time for rethinking. 
+
+I need to determine the emotion here. There's a sense of reflection but not necessarily sadness. They're more focused on taking action rather than mourning. The mention of swift action in the example might lean towards surprise or maybe even joy if they see an opportunity, but I don't think that's it.
+
+Looking at the options, surprise isn't the best fit because the tweet isn't highlighting something unexpected. Sadness could be possible since Notre Dame is a significant loss, but the author seems more focused on using this event as a lesson rather than expressing grief. 
+
+I'm leaning towards sadness because of the reference to the fire and heritage loss, but I'm not entirely sure. Maybe it's more about reflection without strong emotion. Alternatively, surprise could fit if they're drawing attention to something overlooked.
+
+Wait, the tweet is encouraging preservation after an event, which might show awareness rather than a direct emotional response. It's more about a call to action. So maybe sadness isn't the right choice because it's not purely reactive but proactive.
+
+Hmm, perhaps there's no strong emotion here, or maybe surprise fits as they're drawing attention to something important. But I think sadness is still closer because of the context of loss and heritage.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query. The user has provided a tweet about the Notre-Dame Cathedral fire and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I need to analyze the content of the tweet. The author is reflecting on World Heritage Day and how their nation's history is vibrant. They mention the swift action taken after the Notre-Dame fire as an example for rethinking heritage preservation.
+
+Breaking it down: The tweet isn't expressing anger, disgust, fear, or joy. There's no indication of surprise either. However, there's a tone of pensiveness and reflection about the importance of preserving national heritage. This aligns with sadness because the author is contemplating the loss and urging action to prevent future losses.
+
+So, the emotion here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the author intended to convey in this tweet. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: It starts by mentioning World Heritage Day is coming up on April 18th. The author reflects on how well-endowed their nation is with vibrant history. Then they bring up the example of swift action from the Notre-Dame Cathedral Fire and suggest it's time to rethink the preservation of national heritage.
+
+The tone seems reflective and concerned, especially when referencing a significant event like the fire at Notre-Dame. They're urging action towards preserving heritage, which might indicate a sense of loss or concern about current preservation efforts. That sounds more like sadness rather than other emotions like anger or surprise. It's not expressing joy or fear.
+
+So, I think the emotion here is sadness because they're highlighting the importance of heritage and implying that something was lost or needs to be protected, which aligns with feelings of loss or pensiveness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

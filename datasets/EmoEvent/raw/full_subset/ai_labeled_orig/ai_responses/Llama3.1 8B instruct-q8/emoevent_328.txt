@@ -1,0 +1,42 @@
+Record: "Photos: Inside Notre Dame After Devastating Fire #NotreDameCathedralFire  https://t.co/MZ5AcZCOBr https://t.co/AtOsxCwEA8"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a devastating fire at Notre-Dame Cathedral, which suggests a negative event.
+* The use of "devastating" implies that the author finds the situation severe and unfortunate.
+* There are no phrases or words indicating strong emotions like anger, fear, or disgust.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The tweet expresses sadness and concern for the loss caused by the devastating fire at Notre-Dame Cathedral.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet, consider the following points:
+
+* The tone of the tweet is neutral and informative.
+* The use of "devastating" to describe the fire implies a strong negative emotion, but it's not overtly expressed in the tweet itself.
+* The inclusion of photos suggests an attempt to provide a visual representation of the aftermath.
+
+Given these considerations, the most relevant emotion label for this tweet is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a "devastating fire", which implies a significant and potentially tragic event.
+* The author is sharing photos of the aftermath, suggesting they are showing support or solidarity with those affected.
+* There is no indication of outrage, criticism, or negative emotions towards any individuals or groups.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The tone of the tweet appears to be somber and reflective, likely in response to the tragic event of the fire at Notre Dame Cathedral. The author's focus on sharing photos of the aftermath suggests a desire to acknowledge and pay respects to the damage caused, rather than expressing anger or fear.
+------------------------------------------------------------------------------------------------------------------------
+

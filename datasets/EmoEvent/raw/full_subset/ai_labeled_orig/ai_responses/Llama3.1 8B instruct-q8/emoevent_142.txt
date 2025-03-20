@@ -1,0 +1,40 @@
+Record: "#Breaking 》 USER sending a special message to the  Cuban regime for meddling in #Venezuela accusing #Cuba of playing direct role in this man made crisis. https://t.co/KdFN8mrojk"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is criticizing the Cuban regime and accusing them of meddling in Venezuela's affairs.
+* The author uses the phrase "#Breaking" which suggests a sense of urgency and importance, but does not necessarily convey a specific emotion.
+* The tone of the tweet appears to be critical and accusatory.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's criticism and accusations towards Cuba suggest that they are angry about the situation in Venezuela.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions "meddling" and accuses Cuba of playing a "direct role" in the Venezuelan crisis, which suggests a negative tone.
+* The use of strong language like "meddling" implies a sense of blame or criticism.
+* The hashtag "#Venezuela" is mentioned in relation to a "man made crisis", implying that someone or something (in this case, Cuba) is responsible for the situation.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+This tweet appears to convey anger towards the Cuban regime for its alleged involvement in the Venezuelan crisis.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider given the text:
+
+* The tweet mentions a "man-made crisis", which suggests that the author has a negative opinion about the situation.
+* The tweet accuses Cuba of meddling in Venezuela, which implies a strong disapproval or annoyance towards Cuba's involvement.
+* The tone of the tweet is formal and serious, with a hint of accusation.
+
+Given these points, I would classify the emotion as **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

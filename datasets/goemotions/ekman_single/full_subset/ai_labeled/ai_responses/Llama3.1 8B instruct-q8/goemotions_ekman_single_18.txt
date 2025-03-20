@@ -1,0 +1,40 @@
+Record: "Everything in here I want but all we can do is pray to [NAME] for our wishes to come true"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The speaker mentions specific items they want, indicating a desire or craving.
+* However, they express frustration that these desires cannot be fulfilled.
+* They mention praying to someone named "[NAME]" as a means of achieving their wishes.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker's tone suggests disappointment and resignation, as if they are acknowledging that their desires may not be met. This feeling of longing or yearning for something unattainable is characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions wanting something ("I want...") which suggests a desire or longing.
+* However, they express frustration and helplessness by stating that their wishes may not be fulfilled ("all we can do is pray").
+* The phrase "pray to [NAME]" implies a sense of powerlessness and reliance on an external entity.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's tone conveys disappointment and frustration, which are key aspects of sadness. They express a desire for something that they may not be able to achieve, which can evoke feelings of sorrow and despair.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions specific things they want, indicating desire.
+* They express frustration and helplessness by stating that "all we can do" is pray, suggesting a lack of control or agency over their desires.
+* The use of the word "pray" implies a sense of resignation or hopelessness.
+
+Most relevant emotion label: **sadness**
+
+The speaker's tone conveys a sense of emotional pain, sorrow, and disappointment due to the inability to achieve their desires. This is characteristic of sadness, which includes feelings of grief, remorse, and longing.
+------------------------------------------------------------------------------------------------------------------------
+

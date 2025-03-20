@@ -1,0 +1,67 @@
+Record: "I got over 900 responses, so it is taking more time that I expected, hopefully will be done by this Sunday."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion best describes the tweet: "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday." The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. The author mentions getting a lot of responses—over 900—which they didn't expect. This seems like a positive outcome because more responses might mean more engagement or interest. However, the consequence is that it's taking longer than expected. So the author is expressing some concern or stress about the time it's taking but also sounds hopeful by saying they'll finish by Sunday.
+
+Looking at the emotion categories:
+
+- Anger: The tweet doesn't show any signs of anger or irritation.
+- Disgust: No indication of dislike or disinterest here.
+- Fear: There's a bit of anxiety because it's taking longer, which could relate to fear or apprehension about not meeting expectations.
+- Joy: While getting many responses is positive, the overall tone seems more about dealing with delays rather than pure joy.
+- Sadness: The author isn't expressing sadness; they're hopeful about finishing.
+- Surprise: They were surprised by the number of responses but that's a positive surprise. However, the main emotion conveyed seems to be concern about time.
+
+I'm leaning towards fear because the delay might cause anxiety or apprehension. But wait, maybe it's more about being stressed due to unexpected workload, which could fall under anger? No, anger is more about irritation. Fear is more about worry or dread of not meeting a deadline.
+
+Alternatively, maybe it's surprise but that would be the positive kind because of the high number of responses. However, the primary emotion isn't really surprise but rather concern about time management.
+
+So I think fear (apprehension) fits better here because they're worried it might take longer than expected, possibly leading to missing a deadline or causing stress.
+</think>
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's try to figure out what emotion the author is conveying in their tweet. The tweet says: "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday." 
+
+First, I'll break down the content. They received a large number of responses—over 900—which they didn't anticipate. Because of that, the task is taking longer than expected. Despite this delay, they express hope that it will be completed by Sunday.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise.
+
+The author mentions that things are taking more time than expected but ends with a hopeful note about completing it soon. There's no indication of negative emotions like anger or sadness. They don't seem surprised either; they're aware it's taking longer because of the high number of responses. 
+
+The key emotion here might be related to their hope. However, "hope" isn't directly one of the categories. The closest might be joy if they're feeling positive about getting everything done on time despite the delay, or surprise if they were taken aback by the number of responses.
+
+But wait, the tweet starts with a statement that things are taking longer than expected because of the high volume. This could indicate some frustration or stress, leaning towards anger or maybe fear (if it's causing anxiety). However, the ending is hopeful, which might not fit perfectly into these categories either.
+
+Alternatively, since they're expressing that it's taking more time but still optimistic about finishing by Sunday, perhaps the emotion is surprise because they didn't expect so many responses. But I'm not entirely sure if that's the best fit. Or maybe they're feeling overwhelmed (fear), but again, the hopeful tone suggests something else.
+
+Wait, another angle: when you get a positive outcome despite challenges, it can bring joy. They might be feeling relieved or happy that they'll manage to finish on time, which would fall under joy.
+</think>
+
+The author expresses relief and optimism about completing the task by Sunday, which aligns with **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query. The user wants me to classify a tweet based on the emotion conveyed, using specific categories: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, I'll read the tweet again: "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday." The author mentions that they received a lot of responses, which is positive, but then notes that it's taking longer than expected. They express hope about finishing by Sunday.
+
+Looking at the emotions, there's no indication of anger or disgust. There's also no fear or anxiety explicitly mentioned. However, the mention of something taking longer than expected might hint at some mild frustration, which falls under anger. On the other hand, the hopeful tone suggests a positive outlook, leaning towards joy.
+
+I need to decide between anger and joy. The primary emotion here seems to be relief or positivity because they're expressing hope despite the delay. So, joy is more fitting than mild frustration.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

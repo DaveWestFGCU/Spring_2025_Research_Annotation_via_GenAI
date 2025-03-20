@@ -1,0 +1,33 @@
+Record: "Done it since I was a kid I was very edgy"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "edgy" as a child, which could imply that they were considered rebellious or mischievous.
+* There is no apparent criticism or negative tone towards others in the comment.
+
+Given these points, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be making a lighthearted and casual statement about their past behavior.
+* They use the phrase "I was very edgy" which implies that they were once rebellious or unconventional, but now look back on it with amusement.
+* There is no apparent anger, disgust, fear, sadness, or surprise in the tone of the comment.
+
+Given these points, the most relevant emotion label for this speaker's statement is **joy**. The speaker appears to be sharing a lighthearted and nostalgic memory from their past, which is characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is reflecting on their past behavior and using the phrase "I was very edgy".
+* This phrase has connotations of being rebellious, bold, or nonconformist.
+* There is no apparent criticism or negativity directed towards others.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

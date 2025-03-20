@@ -1,0 +1,43 @@
+Record: "Oh fuck off. Soooo...... when is [NAME] and the gang going to un mask [NAME] as President [NAME]?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The language used by the speaker is aggressive ("Oh fuck off") and dismissive.
+* The tone of the comment is confrontational, with an air of hostility towards someone not mentioned in the post (implied to be a political figure).
+* The speaker seems to be frustrated or impatient that this person has not been exposed as a President.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of profanity and aggressive language suggests a strong feeling of displeasure or antagonism towards someone or something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language, specifically an expletive ("fuck off"), indicating a high level of emotional intensity.
+* The tone appears confrontational and dismissive, with the speaker seemingly urging someone else to leave or shut up.
+* The content of the comment focuses on criticizing others for not revealing information about President [NAME].
+* The use of "Soooo..." may be an attempt to emphasize the speaker's frustration or annoyance.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of strong language and confrontational tone suggests a strong feeling of displeasure or antagonism, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses profanity ("fuck off") which can indicate strong emotion.
+* The tone of the comment appears confrontational, with a sense of urgency and expectation.
+* The speaker is addressing another commenter or user directly, suggesting a personal connection or conflict.
+
+Given these factors, the most relevant emotion label is **anger**. The speaker's language and tone suggest a strong feeling of displeasure or antagonism towards someone (possibly [NAME] being referred to as President), and they are directing this emotion at the person in question.
+------------------------------------------------------------------------------------------------------------------------
+

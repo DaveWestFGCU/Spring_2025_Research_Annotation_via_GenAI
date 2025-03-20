@@ -1,0 +1,61 @@
+Record: "Well, quite. Now I’m all annoyed."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "Well, quite. Now I'm all annoyed." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker starts with "Well, quite," which might be a way to agree or acknowledge something. But then they say, "Now I'm all annoyed." The key word here is "annoyed."
+
+Looking at the emotion definitions, anger includes annoyance and disapproval. So if someone feels annoyed, that's part of anger. There are examples given where people express dislike or frustration, like calling someone a "dumbass" or expressing hate.
+
+Disgust is more about revulsion or strong disapproval towards something unpleasant. But here, the speaker isn't talking about something gross; they're expressing personal irritation.
+
+Fear involves being afraid or worried, which doesn't seem to fit because there's no indication of fear in this statement.
+
+Joy and surprise are clearly not applicable since the sentiment is negative.
+
+Sadness could include disappointment, but "annoyed" leans more towards anger rather than sadness.
+
+Surprise is about astonishment, which isn't present here. The comment seems straightforward.
+
+Neutral doesn't apply because the speaker does express an emotion—annoyance.
+
+So putting it all together, "annoyed" falls under anger. Therefore, the emotion should be **anger**.
+</think>
+
+The speaker expresses feeling annoyed, which is categorized under anger. 
+
+**emotion**
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment: "Well, quite. Now I'm all annoyed." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, looking at the sentence, the speaker says they're "annoyed." From the emotion definitions, anger includes annoyance and disapproval. So that seems like a direct match here. They're expressing frustration or irritation, which falls under anger.
+
+I don't think it's disgust because disgust is more about revulsion towards something unpleasant, but the speaker isn't describing anything gross; they're just annoyed. Fear would involve being afraid or worried, which doesn't apply here. Joy and surprise are clearly not present since the tone is negative. Sadness might be a possibility if there was a sense of sorrow, but "annoyed" leans more towards anger.
+
+So, putting it all together, the emotion most likely felt by the speaker is anger because they explicitly mention being annoyed, which falls under that category.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment: "Well, quite. Now I'm all annoyed." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker starts with "Well, quite," which seems like an acknowledgment or agreement. But then they say, "Now I'm all annoyed." The key word here is "annoyed."
+
+Looking at the emotion definitions, anger includes annoyance and disapproval. So when someone says they're annoyed, that directly relates to anger. Disgust is more about revulsion or strong disapproval, but it's not exactly the same as being annoyed.
+
+The sentence doesn't indicate any feelings of fear, joy, sadness, surprise, or neutrality. The focus is on the feeling of being annoyed, which falls under anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

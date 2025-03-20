@@ -1,0 +1,83 @@
+Record: "They're probably usually too fixated on how they look to even consider their surroundings"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion. The tweet says, "They're probably usually too fixated on how they look to even consider their surroundings." 
+
+First, let me read it carefully. It seems the author is making an observation about people who are so focused on their appearance that they don't notice their environment. 
+
+I should check each emotion category: anger, disgust, fear, joy, sadness, surprise.
+
+Is there any sign of anger? The tweet isn't expressing frustration or irritation; it's more of an observation than a direct criticism.
+
+Disgust involves dislike or disinterest. Maybe the author is implying that such people are self-absorbed, but I'm not sure if that translates to disgust.
+
+Fear would involve anxiety or apprehension. There's no indication of fear here.
+
+Joy is about positivity or serenity. The tweet doesn't seem positive; it's more of a critique.
+
+Sadness involves pensiveness or grief. Perhaps the author feels sorry for those people, but I don't see explicit sadness in the words used.
+
+Surprise is about amazement or distraction. The statement isn't particularly surprising; it's a straightforward observation.
+
+I think the closest emotion might be disgust because the author seems to disapprove of how self-focused these people are. They're not happy or sad, but they express a dislike towards this behavior.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify the tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise. The tweet is: "They're probably usually too fixated on how they look to even consider their surroundings."
+
+First, let me understand what this sentence is conveying. It talks about people being too focused on their appearance that they don't notice their surroundings. The author is pointing out a behavior where looks are prioritized over awareness of the environment.
+
+Now, considering the emotion categories:
+
+- Anger: This would involve strong feelings like annoyance or rage. The tweet doesn't express any direct anger; it's more observational.
+- Disgust: This includes dislike or disinterest. Maybe if the author dislikes this behavior, but I don't sense disgust in the wording.
+- Fear: Involves anxiety or apprehension. No fear here, just a statement about focus.
+- Joy: Includes serenity or happiness. The tweet isn't positive; it's more critical.
+- Sadness: Could be pensiveness or grief. Perhaps the author is concerned, but I'm not sure if sadness fits.
+- Surprise: Involves amazement or distraction. The statement isn't surprising; it's a critique.
+
+The tone seems more like criticism rather than any of these emotions. But since surprise isn't about criticism, maybe the closest is disgust because the author might be disapproving of this fixation on looks over surroundings. However, I'm not entirely sure if that's the right fit. Alternatively, perhaps it's neutral, but the options don't include that.
+
+Wait, maybe the intended emotion here is more about pointing out a flaw without strong negative emotions. But since I have to choose from the given list, and considering possible interpretations, I might lean towards surprise because it's an observation that people are so focused on their looks that they overlook other things. However, I'm not entirely confident.
+
+Alternatively, maybe sadness if there's a sense of pensiveness about how people are behaving. But again, it's unclear. Since the author is making an observational statement rather than expressing a direct emotion, perhaps the best fit is surprise as it's an unexpected observation.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "They're probably usually too fixated on how they look to even consider their surroundings." 
+
+First, let me read it carefully. It's talking about people being too focused on their appearance that they don't notice their surroundings. Hmm. So the author is pointing out a behavior where someone is so concerned with their looks that they ignore their environment.
+
+I need to figure out what emotion this conveys. Let's go through each category:
+
+1. Anger: Does this tweet express anger? It's more of an observation rather than expressing frustration or rage. So probably not anger.
+
+2. Disgust: Disgust involves feelings like dislike or aversion. The tweet seems critical, but is it disgust? Maybe a bit, but I'm not sure yet.
+
+3. Fear: Does this convey fear? It doesn't seem to express any anxiety or terror. It's more about behavior than fear.
+
+4. Joy: Definitely not joy. There's no positive emotion here.
+
+5. Sadness: Could it be sadness? The author might be pointing out a flaw, but I don't sense grief or pensiveness.
+
+6. Surprise: Does this show surprise? Maybe not, because it's more of an observation than something unexpected.
+
+So between disgust and maybe another category. Disgust can include disinterest or dislike. Here, the author seems to disapprove of people being self-obsessed to the point of ignoring their surroundings. That could be seen as a mild form of disgust or disapproval.
+
+Alternatively, it's possible that the emotion is more about criticism rather than pure emotion, but since we have to pick from the given list, I think disgust fits better here because it's expressing dislike for the behavior described.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

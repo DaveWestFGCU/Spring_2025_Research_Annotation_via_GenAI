@@ -1,0 +1,60 @@
+Record: "This jokes a name changer"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone appears dismissive and condescending.
+* The word "jokes" implies that the speaker finds something silly or ridiculous about the name changer.
+* The lack of enthusiasm or concern for the topic suggests a negative emotional response.
+
+Given these considerations, I would categorize the emotion as **disgust**. The speaker's tone and language suggest that they are strongly disapproving or repulsed by the name changer, which is similar to how someone might feel when expressing disgust towards something unpleasant or offensive.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to a situation where someone has changed their username.
+* The tone of the statement is brief and matter-of-fact, without any indication of enthusiasm, concern, or negativity.
+* There is no emotional language or emphasis used in the comment.
+
+Given these considerations, the most relevant emotion label for this text is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone is curt and dismissive.
+* The language used is straightforward and lacks emotional embellishment.
+* The statement seems to be addressing a specific issue, likely related to the original post or another commenter.
+
+Given these considerations, the most relevant emotion label for this text is:
+
+**surprise**
+ 
+This label may seem counterintuitive at first, but upon closer inspection, the speaker's brief and direct response suggests they are taken aback by the situation. The use of "a" instead of "an" before "name changer" might imply that the speaker was expecting a different type or form of name changer, which could be seen as surprising or unexpected.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The tone of the comment is brief and curt.
+* The language used is simple and lacks emotional nuance.
+* The phrase "jokes" is being used as a verb, which can imply annoyance or frustration.
+
+Given these considerations, the most relevant emotion label is **anger**. The speaker's response suggests that they are annoyed by the name changer and may be feeling frustrated with the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 5:
+Important points to consider:
+
+* The speaker appears to be expressing criticism or disapproval.
+* The tone of the comment seems abrupt and dismissive.
+* The word choice ("jokes") is informal and somewhat confrontational.
+
+Given these considerations, the most relevant emotion label is **anger**, as the speaker's tone suggests a strong feeling of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+

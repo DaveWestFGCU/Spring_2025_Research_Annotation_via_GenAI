@@ -1,0 +1,42 @@
+Record: "This is the same federal government that's been shut down for the last month?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be discussing a serious and potentially impactful event (a government shutdown).
+* Their tone seems to be one of frustration and incredulity.
+* They are questioning the competence or decision-making abilities of the federal government.
+
+Given these points, the most relevant emotion label is **anger**, as the speaker's tone suggests strong displeasure or antagonism towards the government's actions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be expressing skepticism or incredulity about the situation.
+* They are questioning the actions of the federal government, implying a negative perception.
+* The tone seems to be one of surprise and possibly frustration.
+
+Given these considerations, the most relevant emotion label is:
+
+**surprise**
+
+The speaker's comment suggests that they are surprised by the information presented (the fact that the same federal government has been shut down for a month), which leads them to question its validity or implications. This sense of surprise seems to be the primary emotion underlying their response.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be referencing a recent event or situation where the federal government has been shut down.
+* The tone of the comment appears to be one of incredulity and perhaps frustration.
+* The speaker is questioning how this situation could occur, implying that it's unacceptable.
+
+Given these points, the most relevant emotion label for the speaker's sentiment in this comment is:
+
+**anger**
+
+The speaker's incredulity and frustration suggest a strong negative emotional response, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

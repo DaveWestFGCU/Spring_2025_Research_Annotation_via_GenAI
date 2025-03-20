@@ -1,0 +1,45 @@
+Record: "#GameOfThrones lost many beloved characters during Sunday night’s episode, but one stood out from the rest. https://t.co/DAD8Lxmwzd #girlpower"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a significant event (many beloved characters being killed in an episode of Game of Thrones)
+* The tone is casual and neutral
+* The author is highlighting one character in particular
+* The hashtags suggest that the author is enthusiastic about the show
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's enthusiasm for the show and their use of the hashtag #girlpower suggests a positive emotional response to the event.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions that "many beloved characters" were lost during an episode of Game of Thrones.
+* This suggests a negative tone, as losing loved or familiar characters can be upsetting for fans.
+* However, the tweet also mentions "#girlpower", which is often associated with positivity and empowerment.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The use of "#girlpower" at the end of the tweet indicates that despite the negative events depicted in the episode (losing beloved characters), the author is focusing on a positive aspect, likely a strong female character. This suggests that the overall tone of the tweet is more joyful or celebratory than sad or angry.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a tragic event (loss of beloved characters) in Game of Thrones.
+* The tone is neutral and informative, with a hint of excitement or enthusiasm.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+The use of "#girlpower" suggests a sense of empowerment and celebration, which is consistent with joy.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,40 @@
+Record: "" Books to the ceiling, Books to the sky, My pile of books is a mile high.  How I love them! How I need them! I’ll have a long beard by the time I read them.”   – Arnold Lobel #WorldBookDay  #WorldBookDay2019  #worldBookandCopyrightDay"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is celebrating World Book Day and the joy of reading.
+* The text is quoting Arnold Lobel's poem, which expresses enthusiasm and love for books.
+* The hashtags #WorldBookDay, #WorldBookDay2019, and #worldBookandCopyrightDay suggest a positive and celebratory tone.
+
+Based on these points, I would classify the tweet as:
+
+**joy**
+
+The quote from Arnold Lobel's poem is an expression of delight and pleasure in having many books to read, which suggests that the author intended to convey joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is written in an enthusiastic and playful tone.
+* The author expresses affection for books using phrases like "How I love them! How I need them!".
+* The quote from Arnold Lobel adds a lighthearted and humorous touch.
+
+Given the text, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text is a quote from Arnold Lobel.
+* The tone of the quote appears to be enthusiastic and loving towards books.
+* The speaker expresses their passion for reading and has a large collection of books.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The speaker's use of phrases such as "How I love them! How I need them!" and their humorous exaggeration about having a long beard by the time they read all their books suggests a lighthearted and joyful tone.
+------------------------------------------------------------------------------------------------------------------------
+

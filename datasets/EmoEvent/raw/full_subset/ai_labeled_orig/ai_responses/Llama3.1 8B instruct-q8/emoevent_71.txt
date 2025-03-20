@@ -1,0 +1,36 @@
+Record: "PAYMENT AFTER WINNING games are available, if you can stake high DM now!!! #BARLIV #ChampionsLeague #messi"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is an advertisement for a betting opportunity.
+* It uses exclamation marks and capital letters to grab the reader's attention.
+* The tone is enthusiastic and encouraging.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The author intends to convey excitement and enthusiasm about the Champions League competition and the potential for winnings.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is promotional and inviting.
+* The language used is enthusiastic and encouraging ("PAYMENT AFTER WINNING", "high DM").
+* The mention of a specific football event (#ChampionsLeague) suggests a context of excitement and energy.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is promotional in nature, offering a payment option for staking high.
+* It contains an exclamation mark, indicating excitement or enthusiasm.
+* It mentions the Champions League and a famous player (Messi), which may suggest a positive tone.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,54 @@
+Record: "I skipped the Oilers game for a birthday party for a cat. I’m glad I did that instead."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment: "I skipped the Oilers game for a birthday party for a cat. I’m glad I did that instead." 
+
+First, I'll break down the sentence. The speaker mentions skipping an event (the Oilers game) to attend another event—a birthday party for a cat. They then express that they're glad about this decision with "I'm glad I did that instead."
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise, and neutral.
+
+Looking at the words, "glad" is a clear indicator of happiness or satisfaction. The speaker chose to go to a cat's birthday party over a hockey game and feels positive about that choice. There's no indication of any negative emotions like anger or disgust. No signs of fear, surprise, or sadness either.
+
+So, the emotion here is joy because they're expressing pleasure and approval in their decision.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I skipped the Oilers game for a birthday party for a cat. I'm glad I did that instead." 
+
+First, let me break down what they're saying. They mention skipping an event (the Oilers game) to attend another event—a birthday party for a cat. Then they express that they're glad they made that choice.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The key part here is "I'm glad I did that instead." The word "glad" indicates happiness or satisfaction with their decision. This fits into the category of joy because it shows a positive feeling and approval of their action. There's no indication of any negative emotions like anger or disgust, nor are there elements of fear, surprise, or sadness. They're simply expressing pleasure about their choice.
+
+So, considering all this, the emotion here is clearly joy.
+</think>
+
+The speaker expresses happiness about attending the cat's birthday party instead of the Oilers game, indicating joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment says, "I skipped the Oilers game for a birthday party for a cat. I’m glad I did that instead." 
+
+First, let's break down what they're saying. They mention skipping an event—the Oilers game—to attend another event: a birthday party for a cat. Then they express that they're glad they made that choice.
+
+The key emotion here seems to be the feeling of gladness or happiness about their decision. The speaker is expressing approval and satisfaction with choosing the cat's party over the Oilers game. This indicates a positive sentiment, which falls under the category of joy. Joy includes feelings like pleasure, happiness, and satisfaction, so this fits perfectly.
+
+I should also consider other emotion categories to make sure I'm not missing something. Anger doesn't seem relevant because there's no expression of frustration or displeasure. Disgust isn't present either; they didn't express revulsion towards anything. Fear isn't indicated as there's no worry or anxiety mentioned. Sadness isn't applicable since the speaker is expressing satisfaction, not sorrow. Surprise might be considered if something unexpected happened, but here it's a deliberate choice. Neutral is out because they are clearly expressing an emotion.
+
+So, putting it all together, the emotion here is joy because of the clear expression of gladness and satisfaction in their decision.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,31 @@
+Record: "That was glorious."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the word "glorious" which typically has a positive connotation.
+* There is no language or tone that suggests any negative emotions.
+
+Given these points, the tweet is most likely intended to convey **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet uses the word "glorious", which typically has a positive connotation.
+* There is no indication of any negative emotions or unpleasant experiences.
+
+Based on these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The word "glorious" is typically associated with a positive connotation.
+* The author uses the word "was", which suggests that the event or experience being referred to has already occurred.
+
+Based on these considerations, I would classify the tweet as: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

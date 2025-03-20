@@ -1,0 +1,40 @@
+Record: "You dont man mark Messi you cloud him, awesome job from USER cant wait for second half #CampNou #ChampionsLeague #liverpoolvsbarcelona #BarcellonaLiverpool"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is criticizing a team's strategy (not man-marking Messi) with a negative connotation ("awesome job" is sarcastic).
+* The tone is critical and mocking.
+* The use of "cant wait for second half" suggests that the author believes their criticism will lead to an improvement in the situation.
+
+Given these points, the emotion the author intended to convey is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author of the tweet appears to be a fan or supporter of Barcelona.
+* The tone of the tweet is positive and encouraging, with the use of phrases such as "awesome job" and "cant wait for second half".
+* The mention of Liverpool vs. Barcelona suggests that the author is commenting on a specific match in the UEFA Champions League.
+
+Given these points, it's clear that the author intends to convey a positive emotion towards the team they support (Barcelona) and the performance of one of their players (Messi). 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is informal and conversational, with a dash of sarcasm.
+* The author seems to be expressing criticism or disapproval towards an opposing team's strategy (man marking Messi).
+* The use of "awesome job" in a sarcastic tone implies that the author thinks the opposite of awesome happened.
+
+Based on these points, the most relevant emotion label is:
+
+**disgust**
+
+This classification is because the author is expressing strong dislike or disapproval towards the opposing team's strategy, which falls under the category of disgust.
+------------------------------------------------------------------------------------------------------------------------
+

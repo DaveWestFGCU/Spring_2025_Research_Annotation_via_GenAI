@@ -1,0 +1,42 @@
+Record: "Just doesn't really work if the DM doesn't want it to..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be responding to a situation where someone has tried something but it didn't work out.
+* The tone is matter-of-fact and lacks emotional language, such as exclamation marks or emotive words.
+* The sentence structure is straightforward and doesn't convey any strong emotions.
+
+Given these points, the most relevant emotion label for this speaker's comment is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be expressing a reservation or condition related to the effectiveness of something ("doesn't really work").
+* The phrase "if the DM doesn't want it to" suggests that there is an external factor (the DM's desire) that could impact the outcome.
+* The tone appears to be somewhat matter-of-fact and neutral, rather than expressing strong emotion.
+
+Based on these points, I would conclude that:
+
+**neutral**
+
+The speaker seems to be stating a fact or condition, without expressing any particular emotion. They are not criticizing, disagreeing, or reacting with surprise, fear, anger, disgust, or joy; they are simply providing context for why something may not work as intended.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone seems matter-of-fact and objective.
+* There is no emotional language used, such as exclamation marks, capital letters, or words with strong connotations.
+* The statement appears to be a straightforward observation or comment.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

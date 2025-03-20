@@ -1,0 +1,38 @@
+Record: "I, personally, am excited to have another agent to make the lab numbers look pretty while the patient dies. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that the patient will die.
+* The phrase "make the lab numbers look pretty" is sarcastic and implies that the new agent being introduced is unnecessary or even detrimental to the patient's well-being.
+* The tone of the comment is clearly negative and critical.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+This is because the speaker's comment expresses a sense of sorrow and emotional pain at the thought of the patient dying. The sarcastic tone also implies disappointment and frustration with the situation, which are all components of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be making a sarcastic comment.
+* The tone of the statement is critical and dismissive of the value of another agent in improving lab numbers for patients.
+* The phrase "while the patient dies" suggests that the speaker views the situation as dire or hopeless.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **sadness**, as the speaker's comment implies a sense of hopelessness and despair about the impact of another agent on patient care.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions that the patient will die.
+* The phrase "make the lab numbers look pretty" has a connotation of superficiality or insincerity.
+* The speaker expresses excitement about another agent, which is tied to the negative outcome for the patient.
+
+Given these points, it appears that the speaker's tone is one of **sadness**. While they express excitement about something, this excitement is tied to a harmful outcome (the patient dying), and there is no indication of genuine joy or happiness. Instead, their words are laced with irony and a sense of pessimism, which suggests sadness.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,20 @@
+Record: "USER This is an outrageous act by the Russian government. Maduro is evil. Some people in #Venezuela are near starvation. If true, this is cruel to the people of #Venezuela."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about Venezuela's crisis. The user says it's an outrageous act by the Russian government and calls Maduro evil. They also mention that some Venezuelans are near starvation, which they describe as cruel.
+
+First, let me break down the words used. "Outrageous" suggests strong anger or indignation. Calling someone "evil" is a harsh judgment, which definitely has negative connotations. The part about people being near starvation and it being "cruel" adds to the severity of the situation described.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet isn't expressing happiness or surprise; it's more about condemnation. Disgust usually involves feelings like dislike or revulsion, but here the focus is on outrage and harsh judgment towards Maduro and Russia.
+
+Fear would involve anxiety or dread, which doesn't seem to be the case here. Sadness might come into play if the tweet was focusing on the suffering of Venezuelans without blaming others, but instead, it's assigning blame, which points more towards anger.
+
+So, considering all this, the primary emotion is likely anger because of the strong negative language and condemnation directed at specific actors.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

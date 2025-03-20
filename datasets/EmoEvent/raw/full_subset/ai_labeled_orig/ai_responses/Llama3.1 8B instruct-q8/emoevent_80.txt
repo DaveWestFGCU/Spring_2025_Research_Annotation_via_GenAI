@@ -1,0 +1,42 @@
+Record: "My God, (no pun intended) seeing this beautiful building on fire and the steeple collapse causes serious pain deep within my heart, gut, and mind.  #NotreDameCathedralFire  #History  #Paris"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a "beautiful building" being on fire, indicating a sense of loss or damage to something they value.
+* They express a physical response ("pain deep within my heart, gut, and mind"), suggesting a strong emotional reaction.
+* The use of phrases like "My God" and "causes serious pain" implies a sense of shock, dismay, and reverence.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's use of words like "pain", "heart", and "gut" suggests a strong emotional response to the destruction of a historic building, which aligns with feelings of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses that seeing the building on fire causes "serious pain" in multiple areas of their being (heart, gut, and mind).
+* The use of phrases such as "beautiful building", "my God" suggests a sense of reverence and attachment to the cathedral.
+* The author mentions the steeple collapse specifically, implying a sense of loss or destruction.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's expression of pain and distress in response to the fire and damage to the cathedral indicates that they are experiencing sadness, rather than any other emotion on the list.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses phrases such as "serious pain" to describe their emotional response.
+* They mention a sense of loss related to the fire and collapse of the steeple.
+* There is no indication of anger, disgust, or fear in the language used.
+
+Given these points, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

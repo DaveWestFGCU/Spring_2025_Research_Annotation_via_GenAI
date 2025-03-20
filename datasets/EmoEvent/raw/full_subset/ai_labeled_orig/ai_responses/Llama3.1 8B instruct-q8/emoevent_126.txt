@@ -1,0 +1,42 @@
+Record: "I'm generally really against spoilers - I can't hear a tiny detail without my brain immediately extrapolating everything around it - but still, the race to catch up on stuff before someone well-meaning 'thinks' they're not spoiling something is REALLY STRESSFUL... #GameofThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The author expresses frustration and stress related to spoilers
+* They mention a specific behavior (hearing tiny details leading to overthinking) that exacerbates their distress
+* The tone is one of exasperation, emphasizing how stressful the situation has become
+
+Given these considerations, the most relevant emotion label is: **frustration/anger**. However, since "anger" is the closest match among the options, I will choose:
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions being "really against spoilers", indicating a strong sentiment.
+* They express frustration with the situation, using the phrase "REALLY STRESSFUL".
+* However, they also mention that despite their opposition to spoilers, they can't help but be stressed about catching up on content.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+Note: The author's tone suggests a sense of frustration and annoyance rather than outright anger, but since "anger" includes "annoyance", it is the most fitting category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author expresses a negative sentiment towards spoilers and the pressure of keeping up with them.
+* The use of "STRESSFUL" in all capital letters emphasizes the intensity of their feeling.
+* The tone is cautionary, warning others about the consequences of hearing even small details.
+
+Based on these considerations, the most relevant emotion label is:
+
+**frustration/sadness are not explicitly listed but I chose to select a broader category that encompasses it. Given the options, the closest match would be **sadness**, as it encompasses pensiveness and grief (although frustration is more fitting), however since frustration isn't an option, sadness is the chosen one here)
+------------------------------------------------------------------------------------------------------------------------
+

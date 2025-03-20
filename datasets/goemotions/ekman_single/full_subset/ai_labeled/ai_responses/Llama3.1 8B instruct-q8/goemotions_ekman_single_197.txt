@@ -1,0 +1,40 @@
+Record: "That woman is on the fast track to being ostracized from that group real quick."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's statement suggests a negative outcome for the mentioned individual.
+* The use of the phrase "ostracized" implies a social exclusion or rejection.
+* The tone of the statement is somewhat detached, but it still conveys a sense that something undesirable will happen.
+
+Given these considerations, the emotion label most relevant to this sentence is:
+
+**anger**
+
+The speaker's statement implies a disapproval or dissatisfaction with the individual's actions or behavior, and the use of the word "ostracized" suggests a desire for them to be excluded from the group. This tone is consistent with anger, which often includes annoyance and disapproval.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is commenting on someone else's behavior, implying they are judging or criticizing it.
+* The language used is somewhat prophetic and cautionary, suggesting a sense of warning or alarm.
+* The tone seems informal and conversational, typical of online discourse.
+
+Most relevant emotion label: **anger** 
+
+The speaker appears to be expressing a negative sentiment towards the woman's behavior, implying that they disapprove of her actions and predict consequences. This aligns with the definition of anger as "a strong feeling of displeasure or antagonism."
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is commenting on someone else's behavior
+* The speaker uses a phrase suggesting swift and severe social consequences (being "ostracized")
+* There is no apparent emotional connection between the speaker and the person being ostracized
+
+Given these points, the most relevant emotion label is **anger**. The speaker seems to be disapproving of the woman's actions, but there is a sense of confidence in their prediction that she will face consequences, which implies anger rather than fear or sadness. Disgust could also be considered, but it seems less likely given the lack of explicit description of something unpleasant or offensive.
+------------------------------------------------------------------------------------------------------------------------
+

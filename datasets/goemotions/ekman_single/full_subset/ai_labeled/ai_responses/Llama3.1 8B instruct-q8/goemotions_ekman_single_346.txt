@@ -1,0 +1,36 @@
+Record: "I'm so sorry that your partner doesn't understand that you no longer want to put hormones in your body."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is addressing someone who has experienced a negative situation (partner not understanding their decision).
+* The tone of the response is apologetic and sympathetic.
+* The language used is empathetic, with phrases like "I'm so sorry".
+
+Given these points, the most relevant emotion label is **sadness**. The speaker's apology and expression of sympathy suggest that they are acknowledging the other person's emotional pain or distress, which is a key characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider given the text:
+
+* The speaker is addressing someone who has shared their personal situation and emotions.
+* The speaker acknowledges the other person's emotional pain by saying "I'm so sorry".
+* The speaker is expressing empathy towards the other person.
+
+Based on these considerations, the most relevant emotion label is **sadness**. This is because the speaker is expressing sympathy and compassion for the person who is experiencing emotional pain (sadness) due to their partner not understanding their decision to stop using hormones.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing sympathy and understanding towards someone else's situation.
+* The tone of the comment is empathetic and supportive, indicating a positive emotional tone.
+* The speaker is acknowledging another person's feelings and experiences.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The reason for this is that while the original post likely expresses sadness or frustration about their partner's lack of understanding, the commenter is responding with kindness and empathy, which is a joyful response.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+Record: "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion this tweet conveys. The tweet is: "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol". 
+
+First, let's break down the content. The author mentions being part of a team and refers to someone winning an axe toss competition after a draft. They also use "lol" at the end. 
+
+The emotion categories I can choose from are anger, disgust, fear, joy, sadness, surprise. I need to pick only one.
+
+Looking at the tweet, there's a mention of something entertaining—axe toss competition—and the use of "lol," which is a common way to express amusement or laughter. The author seems to be sharing a light-hearted moment, possibly finding it funny that this person won such a competition after the draft. 
+
+I don't see any signs of anger, disgust, fear, or sadness here. Surprise could be considered if the event was unexpected, but the positive tone and the "lol" make me think it's more about joy. The author is probably feeling happy or amused by the situation.
+
+So, putting it together, the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let's see.
+
+The tweet says, "I've been on team [NAME] since he won the axe toss competition after the draft, lol." The user is mentioning they've supported someone from a specific time, and ends with "lol," which stands for laugh out loud. 
+
+First, I recognize that "lol" typically indicates humor or something amusing. So the author is expressing something positive through laughter. Now, looking at the emotion categories: joy includes serenity and ecstasy, which are related to happiness. The tweet doesn't show any negative emotions like anger or disgust. There's no indication of fear or sadness either. Surprise could be a possibility if something unexpected happened, but in this case, it seems more about support and humor.
+
+So, putting it together, the emotion conveyed here is likely joy because the user is sharing a positive experience with humor.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this tweet: "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol". The author is mentioning they've supported someone for a specific reason and ends with "lol", which usually indicates something funny or lighthearted. So, the emotion here seems to be joy because they're expressing positive feelings towards their support.
+</think>
+
+The tweet expresses positive support and humor, fitting under **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

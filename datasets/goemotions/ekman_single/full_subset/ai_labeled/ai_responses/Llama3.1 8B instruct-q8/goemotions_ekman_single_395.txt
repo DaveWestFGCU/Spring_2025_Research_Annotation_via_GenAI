@@ -1,0 +1,37 @@
+Record: "I did this with tuna salad. I already ate tuna a lot (at the time) and it’s a decently blank slate."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that they used tuna salad for their experiment, which suggests a neutral or factual tone.
+* The phrase "decently blank slate" implies that the speaker is describing the characteristics of tuna salad in a matter-of-fact way.
+* There is no indication of strong emotions such as anger, disgust, fear, joy, or sadness.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is sharing their personal experience of eating tuna salad.
+* They mention that they were consuming a lot of tuna at the time, suggesting familiarity with the ingredient.
+* The phrase "blank slate" implies a neutral or even positive association with tuna.
+
+Given these points, the most relevant emotion label is **neutral**. The speaker's tone appears to be matter-of-fact and lacking in emotional expression, as if they're simply sharing information without feeling strongly about it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions using tuna salad, which was already a staple in their diet.
+* They describe it as a "decently blank slate", suggesting they were experimenting or making something new with it.
+
+Given the context and tone of the comment, it appears that the speaker is expressing a neutral sentiment. There is no indication of strong emotions such as anger, disgust, fear, joy, sadness, or surprise. The speaker is simply sharing their experience and describing their process in an objective manner.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

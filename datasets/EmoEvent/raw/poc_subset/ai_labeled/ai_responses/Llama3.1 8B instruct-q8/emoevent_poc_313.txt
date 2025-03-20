@@ -1,0 +1,35 @@
+Record: "I'm more than sure we [NAME] lovers feel the same way, her outfits are awful"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a strong opinion about someone's fashion sense.
+* The use of "awful" implies a negative sentiment.
+* The tone appears to be dismissive and critical.
+
+**disgust**
+
+Note: The author's language suggests they find the person's outfits unappealing, which aligns with the disgust emotion category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify this tweet, consider the following points:
+
+* The author uses strong language ("awful") to express their opinion about someone's outfits.
+* The tone is negative and critical.
+* There is no indication of fear, joy, or surprise in the tweet.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used is strong and critical, indicating a negative opinion.
+* The phrase "her outfits are awful" is direct and blunt, expressing a clear dislike.
+
+Given these points, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

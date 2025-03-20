@@ -1,0 +1,37 @@
+Record: "Remind me! 6 months"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is asking someone to remind them of something that happened or needs to be done.
+* The tone is informal and casual, with a sense of lightheartedness.
+* There's no indication of strong negative emotions like anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a request for reminder of an event or task that occurred 6 months prior.
+* There is no negative language or tone.
+* The author seems frustrated or exasperated by their lack of memory.
+
+**anger**
+
+(Note: While the tone can be interpreted as slightly annoyed, it's more accurately described as frustration or exasperation, which leans towards anger.)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The author is asking someone to remind them of a specific date or event.
+- They are seemingly unaware of the time that has passed since then.
+
+**sadness**
+The author's tone and language suggest a sense of disappointment, frustration, or regret for not remembering something important, which falls under the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

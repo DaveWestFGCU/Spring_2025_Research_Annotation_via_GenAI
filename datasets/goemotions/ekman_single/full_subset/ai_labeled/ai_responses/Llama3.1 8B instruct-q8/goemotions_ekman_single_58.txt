@@ -1,0 +1,42 @@
+Record: "I am sure that whatever happens in the end, [NAME] will fuck it up."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The language used by the speaker includes strong and explicit profanity ("fuck").
+* The tone of the comment is negative and critical towards the person being referred to as "[NAME]".
+* The speaker expresses a high level of certainty that "[NAME]" will fail or make things worse.
+
+Given these points, the emotion most people will feel the speaker may be feeling is:
+
+**anger**
+
+The use of profanity and strong criticism suggests a high level of anger towards "[NAME]".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used by the speaker contains strong profanity ("fuck").
+* The tone of the statement is critical and accusatory towards a specific person ([NAME]).
+* The phrase "will fuck it up" suggests a high degree of certainty that [NAME] will make mistakes or poor decisions.
+
+Given these considerations, the most relevant emotion label for this comment is:
+
+**anger**
+
+The speaker's use of strong language and their accusatory tone suggest a strong feeling of displeasure or antagonism towards [NAME].
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a profanity ("fuck") to express their sentiment.
+* The tone of the statement is negative and critical towards someone (identified as "[NAME]").
+* The phrase "will fuck it up" implies a high likelihood of failure or poor outcome.
+
+Given these considerations, the most relevant emotion label is **anger**. The speaker's use of profanity and critical language suggests a strong feeling of displeasure or antagonism towards [NAME], which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

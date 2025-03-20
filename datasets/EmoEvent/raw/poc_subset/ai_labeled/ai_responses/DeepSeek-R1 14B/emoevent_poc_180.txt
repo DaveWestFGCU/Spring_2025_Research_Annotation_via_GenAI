@@ -1,0 +1,55 @@
+Record: "i still remember by my first dodger game in 2001"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion. The tweet is: "i still remember by my first dodger game in 2001". First, I should consider the context. Dodgers games are usually exciting and associated with positive memories. The user mentions remembering it from over a decade ago, which suggests it was a significant and happy event.
+
+Looking at the emotion categories provided:
+
+- **anger**: Doesn't fit here; there's no indication of frustration or irritation.
+- **disgust**: Unlikely, as the tweet doesn't express dislike or aversion.
+- **fear**: Not applicable; there's no sense of fear or anxiety mentioned.
+- **joy**: This seems fitting. The memory is positive and likely brings happiness.
+- **sadness**: There's no sad tone; it's a happy recollection.
+- **surprise**: While memories can be surprising, the primary emotion here is more about nostalgia and positivity.
+
+So, the emotion conveyed is joy because recalling such an event probably evokes feelings of happiness and nostalgia.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify the emotion of this tweet: "i still remember by my first dodger game in 2001". The options are anger, disgust, fear, joy, sadness, surprise. 
+
+First, let me understand what the tweet is saying. It's about remembering a specific event—the user's first Dodger game back in 2001. Remembering something usually evokes an emotion tied to that memory.
+
+The word "still" here might indicate that the memory is vivid or lasting, but it doesn't necessarily point to any negative emotion like anger or sadness. The mention of a "first Dodger game" suggests excitement or joy because attending one's first big event, especially a sports game, can be a memorable and happy experience.
+
+I don't see any signs of disgust, fear, or surprise in the tweet. It's more about recalling a positive past experience, which aligns with joy. So, I think the emotion here is joy.
+</think>
+
+The tweet reflects on a cherished memory, likely bringing feelings of happiness and nostalgia. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I'm trying to figure out the emotion behind this tweet: "i still remember by my first dodger game in 2001". The user wants me to classify it into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, let's break down the tweet. The person is talking about remembering their first Dodger game from 2001. That seems like a positive experience because going to a baseball game can be exciting and memorable, especially for someone who might be a fan. The mention of "still remember" suggests that the memory is vivid and possibly holds a lot of positive emotions.
+
+I don't see any negative words here. There's no indication of anger or disgust. Fear doesn't seem relevant either since there's nothing indicating worry or anxiety. Surprise isn't really applicable unless something unexpected happened, but the tweet just talks about remembering an event without highlighting anything unusual.
+
+That leaves joy and sadness. Joy is associated with happiness, serenity, or ecstasy. Since the person is recalling a positive experience from their past, it likely brings up happy feelings. Sadness would involve grief or pensiveness, which doesn't seem to fit here because they're talking about something enjoyable.
+
+So, putting it all together, the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

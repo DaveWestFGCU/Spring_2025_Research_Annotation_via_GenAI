@@ -1,0 +1,40 @@
+Record: "My god the latest USER episode was literally everything! I think that is the best thing I’ve seen on TV ever!!! 😱😁😱😁 #GameofThrones https://t.co/QECMYl4zJh"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains enthusiastic language, such as "literally everything" and "the best thing I've seen on TV ever."
+* The author uses multiple exclamation marks to convey excitement.
+* The author includes laughing face emojis (😁) and shocked face emojis (😱), which are often used to express joy or amazement.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This classification suggests that the author is extremely pleased with the latest episode of Game of Thrones and wants to share their enthusiasm with others.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet, consider the following points:
+
+* The author uses enthusiastic language such as "literally everything" and "best thing I've seen on TV ever," indicating a strong positive reaction.
+* The use of multiple exclamation marks further emphasizes the author's excitement.
+* Emojis 😱 and 😁 are also used to convey joy or surprise.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses enthusiastic language, such as "literally everything" and "best thing I've seen on TV ever".
+* They include multiple exclamation marks (!!!!) which convey excitement.
+* The presence of smiley faces (😁) suggests a happy or joyful tone.
+
+Based on these considerations, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

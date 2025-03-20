@@ -1,0 +1,42 @@
+Record: "Maybe you should try watching it before commenting on it, otherwise your just posting from a position of ignorance. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone is instructive and corrective.
+* They are criticizing the commenter for not having enough information about the subject.
+* The phrase "position of ignorance" implies that the commenter is lacking in knowledge or understanding.
+
+Given these points, the most relevant emotion label is **anger**, as the speaker appears to be expressing a strong sense of frustration or annoyance with the commenter's behavior. The tone is sharp and critical, suggesting that the speaker is displeased with the commenter's lack of preparation or thoughtfulness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone appears to be corrective and advisory.
+* The speaker suggests that the person they are addressing has made a comment without sufficient knowledge or understanding.
+* The speaker implies that the person is likely to be misinformed or uninformed.
+
+Given these points, the most relevant emotion label is **anger**. The speaker's words convey a sense of frustration and annoyance at the other person's behavior, particularly their willingness to comment on something they have not taken the time to understand. This tone is characteristic of anger, which includes feelings of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is addressing someone who has commented on something without apparently having watched or understood it.
+* The tone is cautionary and instructive, rather than aggressive or dismissive.
+* The speaker's goal appears to be to encourage the commenter to educate themselves before speaking.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+However, upon closer examination, the language used by the speaker suggests more of a sense of frustration or annoyance at the commenter's lack of understanding, rather than outright anger. Nevertheless, given the options provided and considering the tone of the comment, **anger** remains the most fitting label.
+
+A more nuanced interpretation might lean towards **disgust**, as the speaker seems to be expressing disapproval of the commenter's uninformed opinion, but this emotion category is not a perfect fit either.
+
+In retrospect, a better choice would be **neutral** with a tone of **advice** or **concern**, but since that option is not available, I'll stick with the original answer.
+------------------------------------------------------------------------------------------------------------------------
+

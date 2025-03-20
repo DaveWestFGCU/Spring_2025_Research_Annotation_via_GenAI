@@ -1,0 +1,38 @@
+Record: "Heads up guys before you scrutinize me, Yes I know it's ED not ER apologies in advance :)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is preemptively addressing criticism or scrutiny from others.
+* The use of the phrase "heads up" implies a warning or notification that something might be perceived as negative.
+* The apology and acknowledgement of ED (erectile dysfunction) being a sensitive topic suggests self-awareness and humility.
+* The tone appears lighthearted and casual, with a wink (";)") at the end.
+
+Based on these points, the most relevant emotion label is:
+
+**surprise**
+The author is anticipating that their response to a question might be met with surprise or skepticism, and they're trying to prepare others for it in advance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is acknowledging potential criticism or scrutiny from others.
+* They are preemptively apologizing for something that might be perceived as a mistake (ED vs ER).
+* The tone seems lighthearted and self-aware.
+
+Given the context, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is addressing an implied audience and warning them against scrutiny.
+* They acknowledge a potential mistake (ED instead of ER).
+* The tone is casual and lighthearted.
+
+Considering these points, the author is attempting to diffuse any potential criticism or negative reaction with a self-deprecating tone and a playful apology. This suggests that the intended emotion is **joy**, as they are using humor and a lighthearted approach to address what could be a potentially sensitive topic.
+------------------------------------------------------------------------------------------------------------------------
+

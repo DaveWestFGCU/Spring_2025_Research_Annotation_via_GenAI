@@ -1,0 +1,91 @@
+Record: "I got over 900 responses, so it is taking more time that I expected, hopefully will be done by this Sunday."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, let's try to figure out what emotion the speaker is feeling based on their comment. The sentence given is: "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday."
+
+First, I need to understand the context. It sounds like the speaker has received a lot of replies—over 900—which means they probably sent out some kind of message or survey and got a huge response. Now, because there are so many responses, it's taking longer than they initially thought. They express hope that it will be finished by Sunday.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one that best fits the speaker's sentiment here.
+
+Let me break down the sentence. The first part mentions getting over 900 responses, which is positive and might indicate some excitement or satisfaction. But then they say it's taking more time than expected, which introduces a slight problem or delay. However, the overall tone seems to be hopeful because they end with "hopefully will be done by this Sunday." 
+
+So, there are mixed feelings here—happiness about the success (many responses) but also a bit of concern or mild frustration about the delay. But does that translate into one of the specific emotions listed?
+
+Looking at the emotion definitions:
+
+- **Joy** includes happiness and satisfaction. The speaker is happy to have so many responses, which could lean towards joy.
+- **Sadness** involves emotional pain or disappointment. While there's a slight inconvenience with the delay, it doesn't seem intense enough for sadness.
+- **Surprise** is about astonishment. The number of responses might be surprising, but the emotion expressed isn't necessarily one of surprise; it's more about handling it.
+- **Neutral** is when there's no clear emotion, but here there are positive and slightly negative elements.
+
+I think the key emotion here is joy because they're happy with the success (900+ responses) even though there's a downside. The overall sentiment seems positive because they express hope about completing it soon.
+</think>
+
+The speaker expresses satisfaction and happiness due to receiving many responses, which aligns with **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let me try to figure out what emotion the speaker might be feeling based on their comment. The comment says, "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday." 
+
+First, I'll break down the sentence. They received a large number of responses—over 900. That's a lot! Processing that many might take longer than anticipated. The speaker mentions that it's taking more time than they expected and expresses hope that it will finish by Sunday.
+
+I need to determine the emotion here. Let's consider each option:
+
+- Anger: There doesn't seem to be any frustration or irritation expressed.
+- Disgust: No indication of revulsion or strong disapproval.
+- Fear: No signs of being afraid or worried, unless they're anxious about meeting a deadline, but it's not explicitly stated.
+- Joy: The tone isn't positive; there's no happiness or excitement mentioned.
+- Sadness: They don't express sorrow or disappointment. It seems more like a situation report than an emotional expression.
+- Surprise: There's no astonishment or realization here.
+- Neutral: The statement is factual, explaining the delay without any strong emotion.
+
+So, the speaker is giving information about the number of responses and the time it's taking. They're hoping to finish by Sunday. It doesn't show any particular emotion; it's more of a neutral update on progress.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their Reddit comment. The comment says, "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday."
+
+First, I'll break down the sentence. They received a lot of responses—over 900—which is impressive but also means they have more work to do. The speaker mentions that it's taking longer than expected, which might indicate some stress or perhaps mild frustration. However, they end on a positive note by saying they hope to finish by Sunday.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, and neutral. Anger usually involves strong dislike or antagonism. The speaker isn't expressing hate or irritation here, more like a realization of extra work. Disgust is about revulsion; there's no indication of that. Fear would involve being afraid or worried, but the speaker seems matter-of-fact, not anxious.
+
+Joy is associated with pleasure and happiness. While they're hopeful about finishing, it doesn't seem to be pure joy. Sadness involves pain or sorrow; there's no sadness here. Surprise implies astonishment, which isn't the case either. The comment is more informative than surprising. Neutral is lacking emotion, but the speaker does express a bit of concern about time.
+
+So, considering all this, the speaker might be feeling some mild frustration because things are taking longer than expected. Frustration can fall under anger since it's a form of displeasure or irritation. They aren't seething with anger, but there's an element of annoyance at the delay.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+<think>
+Okay, let me try to figure out what emotion the speaker might be feeling based on their comment. The sentence is, "I got over 900 responses, so it is taking more time than I expected, hopefully will be done by this Sunday."
+
+First, I need to break down the key elements in the statement. The person mentions receiving a large number of responses—over 900—which suggests that they were expecting fewer and are now dealing with more work than anticipated. They also mention it's taking longer than expected and express hope that it will be completed by Sunday.
+
+Looking at the emotion categories, I should consider each one:
+
+1. **Anger**: The speaker doesn't seem angry; there's no indication of frustration or irritation in their words.
+2. **Disgust**: There's no mention of anything unpleasant or offensive, so disgust isn't likely.
+3. **Fear**: While dealing with a lot of responses could be stressful, the tone here is more about managing expectations rather than fear or anxiety.
+4. **Joy**: The speaker doesn't express any happiness or excitement; instead, they're talking about unexpected delays.
+5. **Sadness**: There's no clear expression of sorrow or disappointment, just an acknowledgment that things are taking longer.
+6. **Surprise**: They might be surprised by the number of responses, but it's not a strong emotion expressed here.
+7. **Neutral**: The statement is factual and lacks any overt emotional expression. It's more about conveying information than emotion.
+
+The speaker is providing an update on their situation without showing much emotion—just stating facts and hoping for completion soon. Therefore, the emotion seems to be neutral because there’s no clear indication of any other emotion like anger, fear, or joy.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,78 @@
+Record: "[NAME] also tends to out vote [NAME] in polls in my experience"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their Reddit comment. The sentence given is: "[NAME] also tends to out vote [NAME] in polls in my experience." 
+
+First, let's break down the sentence. It seems like the speaker is talking about two people (or maybe two groups) where one person or group usually outvotes the other in polls. The phrase "in my experience" suggests that this is based on their personal observation over time.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick the most relevant one here.
+
+Anger would involve strong displeasure or antagonism, but the statement doesn't express any negative feelings towards either party—it's more of an observational fact.
+
+Disgust involves revulsion or disapproval. Again, there's no indication that the speaker finds this situation unpleasant or offensive.
+
+Fear relates to being afraid or worried. The comment is neutral; there's no expression of fear here.
+
+Joy includes happiness and positive emotions. There's no sign of joy in the statement—it's more factual than emotional.
+
+Sadness involves sorrow or disappointment. The speaker isn't expressing any sadness about this voting pattern.
+
+Surprise implies astonishment or unexpectedness. Unless the speaker is surprised by this trend, which isn't indicated, it might not be surprise either.
+
+That leaves neutral. The comment is an informative statement without any expressed emotion. It's simply stating an observation without any positive or negative language attached.
+
+So, considering all options, the most fitting emotion here is neutral because the speaker is presenting a factual observation without any emotional undertone.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker might be feeling based on their comment. The comment is: "[NAME] also tends to out vote [NAME] in polls in my experience." Hmm.
+
+First, let me break down what this sentence is saying. It mentions that [NAME] often outvotes another [NAME] in polls according to the speaker's experience. So it's about voting behavior between two people, possibly in a group or community setting.
+
+Now, I need to consider the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. The comment itself doesn't express any overt emotion through words like "angry," "disgusted," etc. It's more of an observation or statement of fact.
+
+Looking at the definitions, "neutral" is when there's no expressed emotion, just a factual statement. The speaker isn't showing any strong feelings like anger or joy; they're simply stating an observation about voting habits.
+
+There's no indication of surprise because it's phrased as something based on experience, not an unexpected revelation. No fear or sadness comes through either. Disgust would require some negative judgment about the action, which isn't present here. Similarly, there's no sign of joy or excitement.
+
+So, putting it all together, the speaker is making a neutral statement without any emotional language. Therefore, the emotion is likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker might be feeling based on their comment. The comment is: "[NAME] also tends to out vote [NAME] in polls in my experience." 
+
+Let me start by reading through the definitions of each emotion category to understand better what each one entails.
+
+Anger is when someone feels strong displeasure or antagonism, maybe including annoyance or disapproval. So if the speaker was angry, they might be expressing dislike or frustration towards someone.
+
+Disgust involves revulsion or strong disapproval because of something unpleasant. This could come across as finding something offensive or repulsive.
+
+Fear is about being afraid or worried, which includes nervousness and anxiety. If the speaker felt fear, they might be talking about something that scares them.
+
+Joy is happiness or pleasure, including feelings like amusement or approval. A joyful tone would probably have positive words and a cheerful attitude.
+
+Sadness involves emotional pain or sorrow, such as disappointment or grief. The comment might show sadness if it's expressing regret or unhappiness.
+
+Surprise is when someone feels astonished or startled by something unexpected. This could also include confusion or realization.
+
+Neutral means there's no strong emotion expressed; the speaker is just stating a fact without any particular feeling.
+
+Looking at the comment: "[NAME] tends to out vote [NAME] in polls." It seems like an observation about voting behavior, possibly noting that one person often gets more votes than another. The use of "in my experience" suggests it's based on personal observation but doesn't carry strong emotion.
+
+I don't detect any positive or negative feelings here. There's no indication of anger (no harsh words), disgust (nothing offensive is mentioned), fear (no mention of worry), joy (no positive language), sadness (no sorrow expressed), or surprise (no astonishment). It's more of a factual statement, so the emotion is likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

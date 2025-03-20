@@ -1,0 +1,31 @@
+Record: "You’re an inspiration"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a statement of admiration
+* It implies that the author holds the subject in high esteem
+* There is no negative language or tone used
+
+Based on these points, the most relevant emotion label is **joy**. This is because the tweet expresses a positive sentiment and admiration for someone, which is typically associated with feelings of joy or happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+* The tweet contains a positive statement.
+* The language used is complimentary and uplifting.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a short and simple statement of admiration.
+* It does not contain any negative language or tone.
+
+Most relevant emotion label: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

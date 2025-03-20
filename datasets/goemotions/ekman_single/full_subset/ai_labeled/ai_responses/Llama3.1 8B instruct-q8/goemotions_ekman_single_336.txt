@@ -1,0 +1,40 @@
+Record: "Yikes hope hes ok"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "Yikes", which can be an expression of alarm or shock.
+* The phrase "hope he's okay" implies concern for someone's well-being.
+
+Given these considerations, the emotion label that fits best is: **concern** -> however, I will choose from the provided options and select sadness as it most closely relates to a negative emotional state associated with concern or worry. 
+
+However, another more fitting option may be surprise (given the use of "Yikes" which can imply shock or alarm) but since that was not my first choice here is an alternative selection:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an interjection ("Yikes") which can indicate strong emotions.
+* The tone of the sentence is one of concern, as indicated by the phrase "hope he's okay".
+* There is no indication of anger, disgust, or joy in the sentence.
+
+Given these points, the most relevant emotion label is **sadness**. The speaker appears to be expressing worry or concern for someone's well-being, which aligns with the definition of sadness as emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a colloquial expression ("Yikes") that often indicates alarm or concern.
+* The phrase "hope he's ok" is an expression of sympathy and concern for someone's well-being.
+
+Given these points, the emotion most likely felt by the speaker is **concern** or worry about the person being referred to. However, this option is not available in the provided list of emotions.
+
+The closest match from the given options is **sadness**, as it includes emotional pain and sorrow, which can be inferred in a situation where someone expresses concern for another person's well-being. Therefore, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

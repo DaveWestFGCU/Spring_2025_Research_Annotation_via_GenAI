@@ -1,0 +1,36 @@
+Record: "Damn, I didn’t see any monkeys when I was there! What a ripoff."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author expresses disappointment and frustration with their experience.
+* They mention not seeing something they expected to see ("monkeys"), which implies a sense of expectation or anticipation.
+* The use of the word "ripoff" suggests that the author feels deceived or taken advantage of.
+
+Given these points, the most relevant emotion label is: **anger**. The author's tone conveys frustration and disappointment with their experience, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses disappointment and frustration with not seeing monkeys.
+* The use of strong language ("Damn") implies a negative emotion.
+
+Given the context, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author expresses disappointment and frustration with their experience.
+* They use strong language ("Damn") to convey their negative emotions.
+* They mention that they expected to see something specific (monkeys), but it didn't happen.
+
+Based on these points, the most relevant emotion label is:
+**anger**
+
+Note: While the author's tone is also somewhat disappointed and frustrated, the strong language and sense of betrayal suggest a stronger emotional response, which aligns more closely with anger.
+------------------------------------------------------------------------------------------------------------------------
+

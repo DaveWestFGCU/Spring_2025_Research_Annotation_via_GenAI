@@ -1,0 +1,50 @@
+Record: "Happy #WorldBookDay! In our latest blog post, Woven Teaching staff members share some of their favorite books about human rights. Did your favorite book make the list? https://t.co/F9ZaN20QS4 https://t.co/p6yhRCFZVZ"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet says "Happy #WorldBookDay!" which immediately suggests a positive tone. It mentions sharing favorite books about human rights and invites others to check if their favorites are listed. The language is cheerful and encouraging, using words like "Happy" and "favorite." There's also a sense of community with mentioning staff members and inviting interaction.
+
+Looking at the emotion categories, joy seems to fit because the tweet expresses happiness and excitement. It's promoting reading in a celebratory way, which aligns with joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me figure out how to approach this. The user has provided a query where they want a tweet classified based on emotion from a specific list: anger, disgust, fear, joy, sadness, surprise.
+
+First, I need to read the tweet carefully. It says, "Happy #WorldBookDay! In our latest blog post, Woven Teaching staff members share some of their favorite books about human rights. Did your favorite book make the list? https://t.co/F9ZaN20QS4 https://t.co/p6yhRCFZVZ"
+
+The tweet starts with "Happy," which immediately signals a positive emotion. They're celebrating World Book Day, promoting a blog post about favorite books related to human rights, and inviting others to check if their favorites are included.
+
+Looking at the emotions given: anger, disgust, fear, joy, sadness, surprise. The word "Happy" points directly to joy. The use of exclamation marks also adds to the celebratory tone. There's no indication of any negative or neutral feelings here.
+
+I should make sure I'm not missing anything. Sometimes tweets can have mixed emotions, but in this case, it's clear and positive. No fear, surprise, or other emotions are evident.
+
+So, the emotion conveyed is definitely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify the emotion in this tweet related to World Book Day. Let me read it again.
+
+The tweet says: "Happy #WorldBookDay! In our latest blog post, Woven Teaching staff members share some of their favorite books about human rights. Did your favorite book make the list? [links]"
+
+Hmm, starting with "Happy" right there in the beginning. That's a strong indicator. The use of "Happy" as an exclamation suggests joy or excitement. Then it mentions sharing favorite books and asks if the reader's favorite made the list, which is inviting and positive.
+
+The emojis used are stars and a book emoji, both of which are celebratory and enthusiastic. There's no negative language here; everything seems upbeat and meant to engage positively.
+
+So considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. "Happy" clearly points to joy. The other emotions don't fit at all—no signs of anger or frustration, nothing disgusting, no fear elements, no sadness, and while there's an element of surprise in asking if favorites are on the list, the primary emotion is definitely happiness.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

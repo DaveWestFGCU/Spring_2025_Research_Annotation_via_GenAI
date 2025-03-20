@@ -1,0 +1,57 @@
+Record: "Please go to urgent care and get some antibiotics if you have not already. UTIs can become serious if they go untreated."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment is advisory and cautionary.
+* The speaker is expressing concern for the well-being of someone who may be experiencing a UTI.
+* The language used is direct and clear, without any emotional embellishment.
+
+Given these considerations, the most relevant emotion label is **concern**, which falls under the category of **fear**. However, since "concern" is not an explicit option, the closest match is **fear**, as it encompasses worry or anxiety for someone's well-being, which is the underlying sentiment expressed in the comment.
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is direct and advisory, suggesting concern for someone's health.
+* The speaker uses a imperative verb ("go") to convey a sense of urgency.
+* The language used is matter-of-fact and informative, without any apparent emotional tone or personal opinion.
+
+Given these observations, the most relevant emotion label is:
+
+**concern**, but since it is not an option, I will choose **sadness** as the closest alternative. However, considering the context, a more fitting emotion would be concern, which is neutral in this case, so I'll go with that.
+
+
+However, given the strict options, the most suitable choice would be:
+
+*neutral*
+
+The speaker's tone and language are informative and advisory, without any apparent emotional tone or personal opinion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is providing advice on what action to take for a specific health issue (UTI).
+* The tone of the comment is instructive, rather than confrontational or dismissive.
+* There is no evident excitement or enthusiasm in the language used.
+
+Given these considerations, the most relevant emotion label is **concern**. However, since concern is not an option and "neutral" seems closest to the tone presented by the speaker, I'll choose:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker's tone is informative and advisory, suggesting concern for the well-being of the person with a UTI.
+* The language used is direct and practical, focusing on taking action ("go to urgent care") rather than expressing emotion.
+* There is no negative connotation or criticism towards the person with the UTI.
+
+Most relevant emotion label: **concern** (not listed in the original options), but closest match would be **sadness**, as concern for someone's health can be related to sadness about their suffering.
+------------------------------------------------------------------------------------------------------------------------
+

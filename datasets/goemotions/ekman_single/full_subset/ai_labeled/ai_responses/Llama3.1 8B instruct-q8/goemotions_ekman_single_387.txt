@@ -1,0 +1,37 @@
+Record: "> You first. Really. I have. I reject both, but I can do it separately because they're not necessarily correlated beliefs."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be responding to a challenge or request from someone else.
+* They mention rejecting two options, but imply that these options are distinct and can be evaluated independently.
+* There is no obvious emotional language or tone in the statement.
+
+Given these considerations, I would categorize the emotion as **neutral**. The speaker appears to be stating their position calmly and matter-of-factly, without expressing any strong emotions such as anger, disgust, fear, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be addressing someone directly, using the phrase "You first"
+* They mention rejecting two things (implied by "I reject both"), but don't specify what those things are
+* The tone is somewhat direct and assertive, with a hint of annoyance or exasperation
+
+Given these points, I would categorize the emotion as **anger**. The speaker's use of the phrase "You first" comes across as slightly confrontational, and their rejection of two unspecified things implies a sense of frustration or annoyance at being put on the spot.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to someone who said "You first" which implies the person wants the speaker to take action or provide something before they will reciprocate.
+* The speaker mentions that they have already done what was asked of them, implying a sense of frustration or annoyance at being told to do so again.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone and language suggest that they are feeling frustrated and annoyed by the other person's request.
+------------------------------------------------------------------------------------------------------------------------
+

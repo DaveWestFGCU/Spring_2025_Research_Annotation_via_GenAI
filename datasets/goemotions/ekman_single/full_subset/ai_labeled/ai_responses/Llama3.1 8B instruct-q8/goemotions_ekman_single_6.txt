@@ -1,0 +1,35 @@
+Record: "She got me into it so not wrong lol"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "not wrong" which implies that they are acknowledging a past decision or action taken by the person in question.
+* The tone of the comment seems lighthearted and non-confrontational, with the use of "lol" at the end.
+* There is no apparent anger, disgust, fear, sadness, or surprise expressed in the comment.
+
+Given these points, the most relevant emotion label is **joy**, as the speaker's tone appears to be playful and positive. The comment suggests that the speaker has a good relationship with the person they're referring to, which is consistent with feelings of joy and amusement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a casual tone and includes a colloquial expression ("lol") at the end.
+* The phrase "not wrong" suggests that the speaker is acknowledging or validating someone's actions or perspective.
+* There is no clear indication of strong emotions such as anger, disgust, fear, or sadness in the text.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The tone and language used by the speaker suggest a lighthearted and positive sentiment. The inclusion of "lol" at the end reinforces this interpretation. While the speaker is acknowledging someone's actions, they are doing so in a way that suggests acceptance or even amusement, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a casual tone and humor ("lol") which suggests a lighthearted attitude.
+* The phrase "not wrong" implies that the person being referred to did something acceptable or even helpful.
+
+Given these considerations, the most relevant emotion label is **joy**. The speaker seems to be expressing approval and amusement at the situation, suggesting that they are feeling a positive emotion towards the person who got them into the activity.
+------------------------------------------------------------------------------------------------------------------------
+

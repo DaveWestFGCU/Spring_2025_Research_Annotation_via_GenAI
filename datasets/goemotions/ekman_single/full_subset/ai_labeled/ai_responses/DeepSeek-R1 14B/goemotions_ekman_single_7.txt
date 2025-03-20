@@ -1,0 +1,68 @@
+Record: "You can't be serious."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The sentence is "You can't be serious." Let me break this down step by step.
+
+First, let's consider the words used. "You can't be serious" is a common phrase that often expresses disbelief or shock when someone says something unexpected or unbelievable. It's usually said when someone is surprised because they didn't expect what was just stated.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, and neutral. The speaker isn't expressing any of the other emotions here. They aren't showing happiness (joy), feeling sad, or angry. There's no sign of fear or disgust either.
+
+The key part is "You can't be serious." This phrase typically conveys that the speaker finds what was said hard to believe, which points towards surprise. It's a direct reaction to something unexpected, so the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "You can't be serious." Let me break this down step by step.
+
+First, I'll consider each of the given emotions and see how they might apply. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Looking at the emotion definitions:
+
+- **Anger** involves displeasure or antagonism. The comment doesn't explicitly show irritation or hostility; it's more about disbelief.
+- **Disgust** is about revulsion or disapproval. Again, "You can't be serious" sounds more like astonishment than disgust.
+- **Fear** includes worry or nervousness. There's no indication of fear here; the speaker seems surprised rather than afraid.
+- **Joy** involves happiness or pleasure. The tone doesn't match that at all—it's more disbelief than joy.
+- **Sadness** is about emotional pain or sorrow. This comment isn't expressing sadness but rather shock.
+- **Surprise** includes astonishment and realization. "You can't be serious" directly expresses disbelief, which fits perfectly with surprise.
+- **Neutral** implies no emotion. Since the speaker is reacting, it's not neutral.
+
+So, putting this together: The speaker's comment shows that they find what was said unbelievable or unexpected. This matches the definition of surprise because it's an expression of being astonished or startled by something unexpected.
+
+I think the most fitting emotion here is **surprise**.
+</think>
+
+The speaker uses "You can't be serious," which conveys disbelief and astonishment, fitting the emotion of surprise.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker might be feeling based on their comment: "You can't be serious." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. "You can't be serious" is often used when someone is responding to something unexpected or unbelievable. It's a common expression that shows the speaker's reaction to news or a statement they find hard to believe.
+
+Looking at the emotion definitions:
+
+- Anger: Usually involves dislike or irritation, like frustration.
+- Disgust: Related to finding something unpleasant or offensive.
+- Fear: Involves being afraid or worried.
+- Joy: Happiness or pleasure.
+- Sadness: Emotional pain or sorrow.
+- Surprise: Astonishment or unexpected reaction.
+- Neutral: No emotion shown.
+
+The phrase "You can't be serious" doesn't express anger, disgust, fear, joy, or sadness directly. It's more about reacting to something unexpected, which aligns with surprise. The speaker is likely shocked or amazed by what was said or happened.
+
+So, the emotion here is surprise because it captures the astonishment and disbelief conveyed by the comment.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,66 @@
+Record: "I’m gonna need a couple more checks before I trade down for a retarded kid."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break this down step by step. The user has provided a query where they want me to identify an emotion from a given Reddit comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, looking at the sentence: "I’m gonna need a couple more checks before I trade down for a retarded kid." 
+
+The word "retarded" is a strong term often used derogatorily towards people with intellectual disabilities. Using such language usually conveys a negative emotion. Anger could be a possibility because it's a strong feeling, but sometimes words like this can express disgust as well.
+
+Looking at the definitions provided, anger involves displeasure or antagonism, while disgust is about revulsion or disapproval. In this context, "retarded" isn't just expressing dislike but seems to be used in a derogatory way, which might lean more towards disgust rather than anger.
+
+Also, considering the structure of the sentence, the person is making a decision based on needing more checks before trading down for someone they're referring to as retarded. This could imply that they have strong negative feelings about this individual, possibly due to their behavior or something else.
+
+I should also think about whether surprise fits here, but there's no indication of unexpectedness. Fear doesn't seem applicable either because the speaker isn't expressing worry. Sadness is about emotional pain, which doesn't quite fit. Joy and neutral are clearly out of place here.
+
+So, between anger and disgust, I'm leaning towards disgust because the term used is more about strong disapproval or revulsion towards someone else.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion this person is feeling based on their comment. The comment is: "I’m gonna need a couple more checks before I trade down for a retarded kid." 
+
+First off, the phrase "trade down" makes me think of trading something, probably in a gaming context since they mentioned getting a check or a kid. But the part that stands out is "retarded kid." The word "retarded" here seems to be used as an insult, referring to someone being slow or stupid. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one.
+
+When someone uses a derogatory term like "retarded," it often conveys strong negative feelings. Anger is possible because they might be annoyed or upset. Disgust could also fit because they're expressing strong disapproval of the kid. 
+
+But let me think about examples given for each emotion. For anger, the examples were more direct expressions of displeasure or irritation. Disgust was when something was offensive or unpleasant. The example given for disgust includes phrases like "Ugh!" or describing someone as having a selfish mentality.
+
+In this comment, the speaker is clearly disapproving of the kid in a harsh way. They're not just annoyed but expressing strong dislike. So it seems more like disgust because they're reacting to something offensive (the kid's behavior) with revulsion.
+
+I don't think it's fear because there's no indication of being afraid. Joy and sadness are clearly out since the tone is negative. Surprise isn't here either; it's a direct insult, not something unexpected.
+
+So between anger and disgust, I'm leaning towards disgust because they're showing strong disapproval towards the kid using a harsh term.
+</think>
+
+The speaker uses a derogatory term to describe someone, indicating strong disapproval. This fits best with **disgust** as it reflects their revulsion or offensive reaction.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I'm trying to figure out what emotion the speaker is feeling based on their comment. The sentence is: "I’m gonna need a couple more checks before I trade down for a retarded kid." 
+
+First, let me break it down. The phrase "trade down" suggests they're considering making a change or decision, maybe about something like a job or position. They mention needing "a couple more checks," which probably means they want to verify some information before finalizing the decision.
+
+Now, looking at the part where they say "for a retarded kid." "Retarded" is an outdated and offensive term for someone with intellectual disabilities. Using this word shows a lack of respect or understanding. The speaker seems to be dismissing the idea of trading down for someone perceived as lesser because of their disability. 
+
+The emotion here isn't immediately obvious, but I can consider each option. Anger might come into play if they're frustrated, but the statement doesn't show overt anger. Disgust is more about revulsion or disapproval. The use of an offensive term could indicate disgust towards the situation or person. Fear and surprise don't seem to fit because there's no indication of worry or astonishment.
+
+Joy and sadness are also unlikely since the tone isn't positive or mournful. Neutral is possible if the speaker is just stating facts, but given the strong language, it seems more emotional than neutral. So disgust makes sense here because they're expressing strong disapproval or revulsion towards the idea of associating with someone labeled as retarded.
+
+I think the emotion is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

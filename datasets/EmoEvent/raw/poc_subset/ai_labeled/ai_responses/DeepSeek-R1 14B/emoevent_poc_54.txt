@@ -1,0 +1,58 @@
+Record: "To distinguish it from regular, every day, healthy, non-harmful, non-toxic masculinity of course."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify the emotion in this tweet: "To distinguish it from regular, every day, healthy, non-harmful, non-toxic masculinity of course." Let's break it down.
+
+First, the tweet is comparing something against a standard. It's talking about distinguishing one thing from regular, healthy, and non-toxic masculinity. The use of words like "of course" suggests agreement or approval with what's being described as normal.
+
+The tone seems positive because it's highlighting that something is non-harmful and non-toxic, which are good traits. Words like "healthy" and "non-toxic" have positive connotations, indicating support or approval.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't show any signs of anger or frustration; it's not critical. There's no expression of dislike (disgust) or fear. It's also not expressing extreme happiness or serenity beyond a positive statement, and there's no sadness or surprise.
+
+The closest emotion is joy because the speaker is affirming something as positive and healthy, which conveys approval and satisfaction.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion this tweet is conveying. The tweet says: "To distinguish it from regular, every day, healthy, non-harmful, non-toxic masculinity of course." 
+
+First, let's break down the content. The author is talking about distinguishing something from "regular" and "healthy" masculinity, which implies they're comparing it to a standard that's considered positive or normal. By using terms like "non-harmful" and "non-toxic," the author seems to be highlighting a contrast between what might not be so positive and what is.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one that best fits the intended feeling here. 
+
+Looking at the language, the author isn't expressing any overtly happy or joyful emotions. There's no indication of serenity or ecstasy. Similarly, there's no clear sign of fear or anxiety; it doesn't seem like they're talking about a threatening situation. Surprise also doesn't quite fit because the statement is more reflective than amazed.
+
+That leaves us with anger or disgust. Anger often includes annoyance or rage, which could be inferred if the author is frustrated with something. Disgust involves disinterest or dislike, so maybe the author is showing disdain for certain types of masculinity.
+
+The way the tweet is phrased seems critical but not necessarily angry. It's more about pointing out a problem rather than expressing intense anger. So, "disgust" might be a better fit because it can encompass disapproval or dislike towards something they perceive as negative or toxic.
+
+I should make sure I'm not missing any nuances. The use of words like "toxic" does carry a negative connotation, which aligns with disgust or maybe even anger. But since the author is setting up a contrast to highlight what's non-toxic, it might be more about showing disdain for the alternative rather than being outright angry.
+
+So, after considering all this, I think the emotion here is disgust because the author seems to disapprove of something they're contrasting against.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify a specific tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet in question is: "To distinguish it from regular, every day, healthy, non-harmful, non-toxic masculinity of course."
+
+First, I'll read the tweet carefully. It seems to be making a distinction between two types of masculinity—one that's described as "healthy, non-harmful, non-toxic" and another that's presumably negative. The use of words like "toxic" suggests that the author is critical or disapproving of one form over the other.
+
+Next, I'll consider each emotion category to see which fits best. Anger often involves frustration or irritation, but the tweet doesn't explicitly express strong anger. Disgust relates to feelings of dislike or aversion. The mention of "toxic" could imply disgust because that term carries a negative connotation, suggesting something harmful or repulsive.
+
+Looking at fear, the tweet doesn't seem to convey any sense of worry or anxiety. Joy is about positive emotions, which isn't present here. Sadness involves grief or pensiveness, but again, the tweet's tone doesn't reflect sadness. Surprise would involve being amazed or distracted, which also doesn't fit.
+
+So, the most fitting emotion seems to be disgust. The author is expressing a dislike for what they perceive as harmful or toxic masculinity by contrasting it with a healthier version. This contrast indicates a negative sentiment aligned with disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

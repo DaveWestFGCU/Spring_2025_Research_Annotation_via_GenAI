@@ -1,0 +1,69 @@
+Record: "This is pretty bad advice. Do not use dreams own encryption. And do not use things such as igolder"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given list: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet says: "This is pretty bad advice. Do not use dreams own encryption. And do not use things such as igolder"
+
+First, looking at the words used. The author calls the advice "pretty bad," which shows dissatisfaction. They're advising others not to use certain things, which suggests they have a strong negative opinion.
+
+I don't see any elements of fear or anxiety here; it's more about disapproval. Sadness doesn't fit because there's no indication of grief or loss. Surprise would be if something unexpected happened, but that's not the case here.
+
+Disgust involves dislike or aversion. The author is clearly against using certain encryption methods and another thing called igolder. Their strong recommendation to avoid them indicates a feeling of disgust towards those choices.
+
+Anger could also fit because they're upset about the advice, but the primary emotion seems more like disgust at the suggestion itself rather than being enraged.
+
+So, putting it together, the emotion is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "This is pretty bad advice. Do not use dreams own encryption. And do not use things such as igolder." 
+
+First, let me break down the content of the tweet. The author starts by calling the advice "pretty bad," which immediately suggests a negative emotion. Words like "bad" and "do not use" indicate that they're advising others to avoid something, possibly because it's harmful or ineffective.
+
+Looking at the情绪 categories:
+
+- Anger: This would involve expressions of irritation or rage.
+- Disgust: Includes dislike, disinterest, loathing.
+- Fear: Might be about anxiety or terror.
+- Joy: Positive emotions.
+- Sadness: Involves grief or pensiveness.
+- Surprise: Could be amazement or distraction.
+
+The tweet doesn't express fear or surprise; it's a direct critique. It's not sadness either because there's no indication of personal loss or哀愁. The author is clearly advising against something, which points more towards dislike or disapproval rather than anger, although those can sometimes overlap.
+
+"Disgust" in this context could mean the author has a strong negative feeling about the advice mentioned. They're not just disagreeing but expressing that it's bad enough to warn others. So "disgust" seems fitting because they're conveying dislike and disapproval of the advice given.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I have this tweet to classify into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "This is pretty bad advice. Do not use dreams own encryption. And do not use things such as igolder." Let me break this down.
+
+First, the author starts with "This is pretty bad advice." That phrase immediately tells me they're expressing a negative opinion about something someone else advised. They're calling it "bad," which is a strong word indicating dissatisfaction or disapproval.
+
+Next, the tweet continues by advising others not to use specific encryption methods and another term, igolder. This seems like a warning based on their own experience or knowledge. The use of "Do not" is firm and direct, showing that they feel strongly about this advice.
+
+Now, looking at the emotion categories: anger involves annoyance or rage, disgust includes disinterest or dislike, fear relates to apprehension, joy is positive, sadness involves grief, and surprise is about amazement or distraction. 
+
+The tweet isn't expressing fear or anxiety, so I can rule out fear. There's no indication of happiness or serenity here, so joy is out too. Sadness might be if they were mourning something, but this seems more critical rather than sad.
+
+That leaves anger and disgust. Anger is about irritation or rage, while disgust is about disliking something. The author is clearly dissatisfied with the advice, which could fall under either category. However, when someone gives specific warnings like "do not use," it's often a sign of strong dislike rather than outright anger.
+
+But wait, sometimes critical statements can also be angry. Here, though, the focus isn't on the person who gave the advice but on the advice itself. The author is advising others based on their own experience, which might stem more from disgust or disapproval rather than personal anger towards someone else.
+
+So, putting it all together: the primary emotion seems to be disgust because they're expressing dislike for the advice given and warning others against it.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

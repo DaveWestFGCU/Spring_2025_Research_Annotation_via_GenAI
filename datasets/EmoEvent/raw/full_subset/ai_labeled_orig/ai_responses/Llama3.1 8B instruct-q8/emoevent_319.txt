@@ -1,0 +1,44 @@
+Record: "Not a bad turn out of a mid-week match USER_kopites! Come on USER, let’s get some goals second half! Up the Reds!! #lfcusa #socalkopites #olsccarlsbad #lovelfc #welivelfc #standred #liverpoolfc #lfcfamily #lfcfans #welivefootball #lfc #thismeansmore #championsleague https://t.co/hMjZclAmpG"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a mid-week match, which might be considered less exciting than a regular weekend match.
+* The author uses enthusiastic language such as "Come on" and "Up the Reds!!", indicating excitement and encouragement for their team.
+* The tweet includes several hashtags related to Liverpool FC, suggesting a strong team loyalty.
+* There is no negative or critical tone in the tweet.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's use of enthusiastic language and encouraging tone suggests that they are excited and happy about the match, which indicates joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is discussing a football match, specifically mentioning "mid-week match" and "Come on USER", indicating enthusiasm and support for their team.
+* The tone of the message is encouraging and motivational, with phrases like "let's get some goals second half!" and "Up the Reds!!".
+* The hashtags suggest a strong sense of community and fandom, such as "#lfcfamily #lfcfans".
+
+Given these points, the author intends to convey enthusiasm and excitement for their team's performance in the UEFA Champions League. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing enthusiasm and support for their team, Liverpool FC.
+* The tone is encouraging and optimistic, urging the team to score more goals in the second half.
+* The language used is colloquial and informal, with phrases like "Come on" and "Up the Reds!!".
+* The hashtags suggest a sense of community and belonging among Liverpool fans.
+
+Given these points, the emotion that best captures the author's intended meaning is:
+
+**joy**
+The author's use of enthusiastic language, encouraging tone, and celebratory phrases all point to a joyful attitude.
+------------------------------------------------------------------------------------------------------------------------
+

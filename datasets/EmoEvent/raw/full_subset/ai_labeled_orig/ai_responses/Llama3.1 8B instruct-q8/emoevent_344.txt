@@ -1,0 +1,41 @@
+Record: "The Notre Dame Cathedral will be a well-funded restoration, but here’s some historically black churches destroyed by hate-motivated arson that could really benefit from our donations!  https://t.co/87jAKyWS2w #NotreDameCathedralFire #churchfire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is comparing the Notre Dame Cathedral restoration funding to historical black churches destroyed by hate-motivated arson.
+* The tone of the tweet seems critical and confrontational.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+This classification is based on the author's apparent frustration and criticism towards those who donated to the Notre Dame Cathedral restoration while neglecting historically black churches that have been victims of hate-motivated arson.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is comparing the restoration of Notre Dame Cathedral to historically black churches destroyed by hate-motivated arson.
+* The author mentions that these other churches "could really benefit from our donations."
+* The tone appears to be critical or judgmental.
+
+Given these points, the emotion label that best fits is:
+
+**anger**
+
+The author's use of words like "hate-motivated" and their emphasis on redirecting attention and resources to historically black churches destroyed by arson suggests a sense of anger or annoyance towards the current situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions the Notre Dame Cathedral fire, but does not express shock or horror.
+* It shifts focus to historically black churches destroyed by hate-motivated arson, implying a sense of prioritization over the Notre Dame restoration.
+* The tone is critical and highlighting injustices rather than emotional lamentation.
+
+**anger**
+The author's intention appears to be conveying anger towards the destructive acts on black churches and what they perceive as misplaced priorities.
+------------------------------------------------------------------------------------------------------------------------
+

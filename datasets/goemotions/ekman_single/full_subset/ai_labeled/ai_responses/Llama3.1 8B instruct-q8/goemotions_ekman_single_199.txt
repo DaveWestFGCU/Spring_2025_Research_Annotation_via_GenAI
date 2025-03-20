@@ -1,0 +1,37 @@
+Record: "Ooh I might try that"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be responding to something they've just seen or heard.
+* Their tone is casual and informal, using colloquial language ("Ooh").
+* They express curiosity or interest in trying something.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence seems casual and lighthearted.
+* The phrase "I might try that" suggests a sense of curiosity or openness to an idea, rather than a strong emotion.
+* There is no apparent criticism, complaint, or negative sentiment.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding with a casual and enthusiastic tone.
+* They use an exclamation mark, which suggests excitement or eagerness.
+* Their statement implies a sense of anticipation or curiosity.
+
+Most relevant emotion label:
+**joy**
+
+The speaker's response conveys a feeling of pleasure and happiness at the prospect of trying something new. The use of "Ooh" and the enthusiastic tone suggest that they are looking forward to it, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+

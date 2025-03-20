@@ -1,0 +1,35 @@
+Record: "We don't want war in the world!  We don't want colonialism!  We don't want imperialism!  We Want Peace!  We Want Love!  We Want Brotherhood!  Do you understand?  #Venezuela"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet uses emotive language such as "We Want" and emphasizes peace, love, and brotherhood.
+* The tone is pleading and assertive at the same time.
+* The use of hashtags like "#Venezuela" suggests a sense of urgency and specificity to the issue.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+**joy**
+
+The author's use of emotive language and emphasis on positive values like peace, love, and brotherhood suggests that they are trying to spread a message of hope and unity, which is often associated with feelings of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet emphasizes a desire for peaceful solutions and rejects various forms of conflict or external influence.
+- The language used is emotive, focusing on positive values like love, brotherhood, and peace.
+
+The most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet expresses strong opposition to certain ideologies (war, colonialism, imperialism) and emphasizes a desire for peaceful coexistence.
+* The language is emotive and inclusive, using words like "we" and phrases that convey unity (peace, love, brotherhood).
+* There is no mention of the specific presidential crisis in Venezuela.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

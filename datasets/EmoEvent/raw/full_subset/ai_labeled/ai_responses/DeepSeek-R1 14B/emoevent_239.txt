@@ -1,0 +1,20 @@
+Record: "#WorldBookDay  The path to living is to keep the book in the house. Its reading and execution will be happy in both the people and the world. Avoid sins, the quarrel of the house will end. Must watch the Appana TV channel from 7:30 PM to 8:30 PM https://t.co/xCAxFXr9Hs"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this tweet classification task. The user has provided a specific instruction to identify the primary emotion in a given tweet and classify it into one of six categories: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read through the tweet carefully. It mentions "#WorldBookDay" and talks about keeping books in the house, reading, execution (though that might be a typo), happiness for people and the world, avoiding sins, ending quarrels, watching a TV channel, and a link to a video.
+
+The key words here are "happy," "happiness," which directly indicate positive emotions. The tweet is encouraging reading and promoting joy through books. There's no indication of any negative emotions like anger or sadness. The overall tone seems uplifting and celebratory, fitting within the context of World Book Day, which is meant to promote reading and culture.
+
+Considering the mapping guidelines, joy is associated with serenity or ecstasy, but in this case, it's more about the happiness brought by books and reading. There's no secondary emotion like surprise or fear; it's straightforward positive sentiment.
+
+So, after analyzing the content and the emotional cues, the primary emotion conveyed here is joy.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

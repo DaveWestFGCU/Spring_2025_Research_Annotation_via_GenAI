@@ -1,0 +1,52 @@
+Record: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I'm trying to figure out what emotion is behind this Reddit comment: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!" 
+
+First, let me break down the sentence. The speaker starts by saying they were impressed, which sounds positive—maybe that's joy or approval. But then they mention the company tried to fire someone because of a mistake. That part seems negative, maybe involving anger or surprise.
+
+The second part is "Glad you had some backing!" So the person is happy that this individual had support despite the company's action. This sounds like approval and positive feelings, leaning towards joy.
+
+Looking at the emotion definitions: Joy includes admiration, approval, gratitude, etc. The speaker admires the person for handling the situation well with support. There's no clear sign of anger (like strong disapproval) or surprise (unexpected event). Fear isn't indicated either; it's more about positive emotions and approval. Disgust is unlikely as there's nothing offensive mentioned. Sadness doesn't fit because the speaker seems happy about the outcome.
+
+So putting it all together, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The comment says, "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!" 
+
+First, I'll break down the sentence. They start by saying they were impressed by the company initially, which sounds positive. Then they mention that the company tried to fire someone for a mistake, which is negative, but they're glad that person had support.
+
+The key part here is "Glad you had some backing!" The word "glad" clearly indicates happiness or approval. They're happy about the outcome where the person was supported despite the company's mistake. There are no signs of anger, disgust, fear, sadness, surprise, or neutrality in this statement. It's straightforward joy because they're expressing satisfaction and approval.
+
+So, considering all the emotion categories provided, joy fits best because of the positive sentiment expressed.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's try to figure out what emotion this speaker is conveying. The comment is, "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!" 
+
+First, I'll break down each part. Starting with "I was impressed by your company," that sounds positive, so maybe joy or approval here. Then, "but now I see they tried to fire you for their mistake." This part seems negative, indicating some form of disapproval. The speaker is pointing out the company's error in trying to fire someone. 
+
+Finally, "Glad you had some backing!" This shows support and relief that things worked out for the person being fired. So overall, the comment combines both positive feelings towards the individual and negative feelings towards the company's actions.
+
+Looking at the emotion categories: anger is possible if it's directed against the company's mistake. Disgust might fit if there's strong disapproval. However, the speaker seems more supportive towards the person who was fired rather than expressing intense dislike towards the company. 
+
+Joy comes into play because the speaker is glad that the individual had backing, which is a positive emotion. While there's criticism of the company, the main focus is on supporting the person, hence joy might be the dominant emotion here.
+
+I think the key words are "impressed" and "Glad," which are clearly positive. Even though there's criticism, the overall tone leans towards approval and happiness for the outcome. So, I'll go with joy as the primary emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

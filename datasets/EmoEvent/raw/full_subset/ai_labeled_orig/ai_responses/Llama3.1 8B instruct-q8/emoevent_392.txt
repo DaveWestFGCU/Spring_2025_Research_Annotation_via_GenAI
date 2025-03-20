@@ -1,0 +1,40 @@
+Record: "more than 5 years ago. I'm so sorry for your loss Paris. #NotreDameCathedralFire https://t.co/FNwDLMg9rx"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a condolence message
+* The phrase "I'm so sorry for your loss" implies sympathy and regret
+* The context of the fire at Notre-Dame Cathedral suggests a recent event, but the author mentions it happened more than 5 years ago, which indicates they are not referring to the original incident
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The tweet expresses sorrow and regret for the loss experienced by Paris due to the fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a response to the Notre-Dame Cathedral fire, which occurred on April 15, 2019.
+* The author mentions "your loss," indicating that they are acknowledging and sympathizing with the emotional impact of the event on Paris.
+* The tone is apologetic and conciliatory.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+The author's apology for someone else's loss and their use of a sympathetic phrase ("I'm so sorry") indicate that they are expressing sadness or empathy towards those affected by the fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a condolence message expressing regret over an event.
+* The author uses the phrase "I'm so sorry" which is a common expression of sympathy and remorse.
+
+Given these points, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

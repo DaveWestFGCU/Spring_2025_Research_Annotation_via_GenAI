@@ -1,0 +1,38 @@
+Record: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "even if I had a boyfriend", implying that they don't currently have one, and is responding in a way that suggests disappointment or disapproval.
+* The speaker mentions being "ashamed" to associate with someone who has done something undesirable, which implies a negative emotional response.
+* The tone of the sentence is critical and judgmental towards the person mentioned.
+
+Given these points, the most relevant emotion label is **sadness**, as it seems the speaker is disappointed or disapproving of something that has happened, and is expressing a sense of shame or remorse.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions being "ashamed" which implies a negative emotion.
+* The speaker is criticizing the behavior of someone's boyfriend, indicating disapproval.
+* The tone is somewhat critical and dismissive.
+
+Given these points, the most relevant emotion label is **sadness**. This is because the speaker's use of "ashamed" suggests emotional pain or sorrow, which is a key characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker addresses someone by name, suggesting they know this person and may have a personal connection.
+* The tone of the sentence is negative, with the use of "ashamed" indicating disapproval or disappointment.
+* The context implies that the behavior or action referred to in the sentence is undesirable.
+
+Most relevant emotion label: **sadness**
+
+Reasoning:
+
+The speaker's use of "ashamed" suggests a sense of emotional pain or sorrow associated with the person's actions. This implies a negative emotional state, which aligns with the definition of sadness as "emotional pain, sorrow." The tone and context suggest that the speaker is disappointed or disapproving of the person's behavior, rather than feeling angry or disgusted. While surprise is possible given the unexpected nature of the situation, the primary emotion expressed in this sentence appears to be sadness.
+------------------------------------------------------------------------------------------------------------------------
+

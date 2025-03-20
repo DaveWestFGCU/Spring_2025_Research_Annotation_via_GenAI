@@ -1,0 +1,57 @@
+Record: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me break this down. The user has given me a query where they need to identify the emotion someone is feeling based on their comment. They've specified seven emotions and want only one label in two asterisks.
+
+First, I'll read the provided Reddit comment: "Right? That's news to me. I'll be excited when that happens, I wonder how that works." 
+
+Looking at the words, "excited" is a strong indicator of joy. The other parts are expressing surprise but more about curiosity than fear or anger.
+
+Comparing with emotion definitions, joy includes excitement and amusement. So, despite the surprise element, the main emotion here seems to be joy because they're looking forward to it being exciting.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+
+First, let me break down the sentence. The speaker starts with "Right?" which sounds like they're agreeing or acknowledging something. Then they say, "That's news to me," meaning they didn't know about it before. Next, they express excitement: "I'll be excited when that happens." Finally, they add curiosity by asking, "I wonder how that works."
+
+Looking at the emotion categories provided, I need to match these feelings to one of anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The speaker mentions being "excited," which is a form of joy. They also show curiosity, but according to the definitions, curiosity falls under surprise. However, since the primary emotion here seems to be excitement and positive anticipation, joy might be more fitting than surprise.
+
+Wait, let me double-check. The example for joy includes expressions like excitement, so that fits. On the other hand, surprise is more about being astonished or startled by something unexpected. While curiosity is part of surprise, the main emotion expressed here seems to be looking forward to something with excitement rather than being surprised by it.
+
+So, putting it all together, the speaker is expressing positive feelings and anticipation, which aligns with joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion behind this Reddit comment: "Right? That's news to me. I'll be excited when that happens, I wonder how that works." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let me break down the sentence. The speaker starts with "Right?" which is a common expression of agreement or acknowledgment. Then they say, "That's news to me," indicating something new and unexpected. Next, they express excitement about it happening in the future: "I'll be excited when that happens." Finally, they add curiosity by asking how it works.
+
+Looking at the emotion categories:
+
+- Anger doesn't seem present because there's no sign of displeasure or antagonism.
+- Disgust isn't here either; the speaker isn't showing revulsion.
+- Fear is unlikely unless there's worry, but the words "excited" and "wonder" don't indicate fear.
+- Joy seems possible because they mention excitement. Excitement falls under joy as per the definitions provided.
+- Sadness isn't present since there's no sorrow or disappointment.
+- Surprise could be considered because something is new to them, but the main emotion here is more about looking forward to it with excitement rather than astonishment.
+
+So, focusing on "excited" and "wonder," which are positive feelings. The speaker seems genuinely happy about this news and curious about how it will happen. Therefore, the emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

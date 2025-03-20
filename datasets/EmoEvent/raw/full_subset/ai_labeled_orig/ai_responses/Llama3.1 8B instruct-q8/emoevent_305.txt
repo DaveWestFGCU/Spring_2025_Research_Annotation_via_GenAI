@@ -1,0 +1,36 @@
+Record: "Hands down the best bit of tv I’ve ever watched #GameofThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses a superlative phrase ("best") which suggests strong praise.
+* The tone is enthusiastic and celebratory.
+* There is no negative language or criticism.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet, consider the following points:
+
+* The tone is overwhelmingly positive
+* The language used is enthusiastic and praising ("best bit of tv")
+* The hashtags (#GameOfThrones) suggest a sense of excitement and engagement with the subject matter
+
+Given these points, the emotion that best describes the author's intention is joy. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a strong positive opinion about Game of Thrones.
+* They are comparing it to their personal experience as the "best" TV they've watched.
+* There is no indication of criticism or negativity.
+
+Given these considerations, the most relevant emotion label is **joy**, as the author is clearly expressing enthusiasm and delight with their use of superlatives ("best") and enthusiastic language.
+------------------------------------------------------------------------------------------------------------------------
+

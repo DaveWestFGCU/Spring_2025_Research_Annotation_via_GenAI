@@ -1,0 +1,44 @@
+Record: "Now that you live alone you don't have money left to buy a dishwasher"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is making a statement about someone else's financial situation.
+* The statement implies that the person can no longer afford something they previously could, implying a change in circumstances.
+* The tone of the comment seems to be judgmental or critical.
+
+Most relevant emotion label: **anger**
+ 
+The speaker's tone and wording suggest annoyance and disapproval towards the other person's situation, indicating anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is making a statement about someone else's financial situation.
+* The tone of the statement implies a criticism or judgment, rather than a neutral or supportive comment.
+* The statement suggests that the person in question has made some kind of decision (living alone) that has led to financial difficulties.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's comment has an accusatory tone and implies that the person has somehow failed or made a poor decision. This is consistent with anger, which involves feeling displeasure or antagonism towards someone or something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is making a comment on someone else's living situation.
+* They are implying that the person's financial situation has changed since they moved out of their previous living arrangement (likely with family or roommates).
+* The tone of the comment is critical and judgmental, suggesting that the speaker believes the person should be able to afford basic household appliances.
+
+Given these points, it appears that the speaker is expressing a negative emotion towards the person's financial situation. The most relevant emotion label for this comment is:
+
+**anger**
+
+Note: While disgust could also be a possibility, given the speaker's critical tone, anger seems more likely as they are directly criticizing the person's financial decision-making rather than simply expressing distaste or revulsion.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,60 @@
+Record: "I tried at a joke that relates to the post..."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I have this tweet to classify into an emotion from the given list: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "I tried at a joke that relates to the post..."
+
+First, I need to understand what the author is conveying. Let's break down the sentence. They mention trying a joke related to the post, but it doesn't specify how they feel about it. The phrase "tried at a joke" could imply several things: maybe the joke was attempted but didn't land well, or perhaps the act of attempting it itself. 
+
+I should consider possible emotions here. If the joke fell flat, the author might feel sad or disappointed. Alternatively, trying to make someone laugh might show joy if successful, but since there's no indication of success, I'm leaning towards a different emotion.
+
+Wait, maybe the tweet is just stating an action without expressing any emotion. But the task is to infer the intended emotion from the list provided. So perhaps the attempt was made despite some hesitation or fear? Or maybe it's more about the effort itself without emotional weight.
+
+Looking at the options again: anger would imply frustration, which isn't evident here. Disgust or dislike also doesn't fit unless they disliked their own joke, but that's not clear. Fear could relate to being apprehensive about telling a joke, especially if it relates to a sensitive post. Joy might be if they were happy to share, but without context, I'm unsure.
+
+Sadness would come into play if the attempt was unsuccessful or led to negative feelings. Alternatively, surprise isn't directly indicated here unless the reaction was unexpected.
+
+Considering all this, the most plausible emotion is sadness because trying a joke that relates to a post could imply it didn't go well, leading to disappointment or pensiveness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet's emotion. The tweet is: "I tried at a joke that relates to the post..." Hmm, let me break it down.
+
+First, the user attempted a joke related to a previous post. Now, the response here is just stating what they did—maybe they didn't get any reaction or maybe the joke fell flat. But looking at the emotion list: anger, disgust, fear, joy, sadness, surprise.
+
+I don't see any explicit positive emotions like joy from this statement. The user isn't expressing happiness or excitement. They might be a bit disappointed if the joke didn't land well, but disappointment is more under sadness. Alternatively, maybe they're indifferent, which could relate to disgust, but that's usually for dislike.
+
+Wait, but "tried at a joke" doesn't inherently show emotion—it's just an action. Maybe the lack of reaction implies something, but without more context, it's hard to tell. The primary emotion here is neutral; perhaps the user isn't conveying any specific emotion beyond stating their action. So maybe the closest category would be joy if they thought it was funny, but since there's no indication, I'm leaning towards not assigning any strong emotion.
+
+Alternatively, could it be surprise? If the joke was unexpected, maybe. But again, without context, it's unclear. Since the tweet is factual and doesn't express a clear emotion, perhaps none of the categories perfectly fit. But the instruction says to pick one from the list, so I might have to choose the closest possible.
+
+Wait, the user wrote "I tried at a joke that relates to the post..." Maybe they're sharing something light-hearted, which could be joy. If they were trying to make someone laugh, their intention was joy. But it's not clear if they succeeded or felt any emotion about it.
+
+Alternatively, maybe there's no strong emotion here—just an informative statement. But since I have to pick one, perhaps the closest is joy because jokes are meant to elicit positive feelings.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm looking at this tweet: "I tried at a joke that relates to the post..." The user is sharing something they attempted—a joke related to a previous post. 
+
+First, I need to determine the emotion here. The list includes anger, disgust, fear, joy, sadness, surprise. Let's break it down.
+
+The tweet isn't expressing any negative emotions like anger or disgust. There's no indication of frustration or dislike. It also doesn't seem fearful or anxious. On the flip side, it's not filled with joy or serenity either. The mention of a joke might hint at happiness, but since they're just stating what they did, not how they feel about the outcome.
+
+Could it be surprise? Well, surprise often comes from unexpected events. But here, the user is simply sharing their action, not an event that's surprising. It feels more neutral or informative rather than expressing a strong emotion.
+
+So, considering all options, the most fitting emotion is probably joy. Maybe they're happy to share a joke or found it amusing. Alternatively, if there's no clear emotion, but since the user wants one from the list, I think joy makes sense here as a positive intent.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

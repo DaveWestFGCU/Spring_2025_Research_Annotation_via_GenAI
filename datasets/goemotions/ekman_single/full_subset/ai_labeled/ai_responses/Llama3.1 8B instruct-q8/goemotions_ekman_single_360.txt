@@ -1,0 +1,44 @@
+Record: "No lights are a problem for the people in front of you. Not the offender."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider given the text:
+
+* The speaker is responding to a situation where someone has committed an offense, presumably by driving with their headlights off.
+* The speaker's tone is critical and dismissive towards those who would be inconvenienced by this action.
+* The phrase "Not the offender" suggests that the speaker believes the person who drove without headlights is at fault, rather than anyone else affected by their actions.
+
+Given these points, it seems that the speaker is expressing a strong negative emotion towards the person who drove without headlights, as well as possibly annoyance or frustration with those who would be inconvenienced. 
+
+**anger**
+
+The reason I chose anger over other options like disgust (which might imply revulsion at the act of driving without headlights) or fear (which wouldn't make sense in this context) is that the speaker's tone and language are more aggressive and confrontational, suggesting a strong emotional response rather than mere disapproval.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to a situation where someone has committed a minor infraction, likely related to driving or parking.
+* The tone of the response is matter-of-fact and emphasizes the consequences of the action rather than taking a personal stance against the offender.
+
+Given these points, the speaker's comment suggests a neutral or detached attitude towards the situation. There is no indication of strong emotion such as anger, disgust, fear, joy, or sadness. The focus is on stating a fact about how the lack of lights affects others, without emotional investment.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to a situation involving "no lights" and an "offender"
+* The tone seems stern and judgmental
+* The phrase "the people in front of you" implies that the issue affects others, but not necessarily the speaker themselves
+* The statement is blunt and matter-of-fact, without any emotional embellishment
+
+Based on these points, the most relevant emotion label for this comment is:
+
+**anger**
+
+This emotion category fits because the speaker's tone seems stern and judgmental, implying a sense of displeasure or disapproval towards the situation.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "NUSCR sends their thoughts and prayers to the people of #Paris. #NotreDame #NotreDameCathedralFire  Unfortunately, all of our students are home for the Easter Break so we are unable to organise ringing at All Saints' tomorrow."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing sympathy and concern for the people affected by the fire.
+* They mention sending "thoughts and prayers", which is a common phrase used in times of crisis or tragedy.
+* The tone seems to be one of condolence rather than shock, outrage, or celebration.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's message conveys a sense of sorrow and empathy for those affected by the fire, which aligns with the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a message of condolence and support from NUSCR (likely a student organization) to the people of Paris.
+* The tweet mentions a specific event, the Notre-Dame Cathedral Fire, which is a tragic and unfortunate occurrence.
+* The tone of the tweet appears to be somber and sympathetic.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+This classification is based on the fact that the tweet expresses sympathy and support for those affected by the fire, indicating a sense of sadness or loss.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet expresses sympathy and support for the people of Paris.
+* The tone is somber and reflective, as indicated by the mention of "thoughts and prayers".
+* The mention of an inability to organize a specific event suggests a sense of disappointment or inconvenience.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

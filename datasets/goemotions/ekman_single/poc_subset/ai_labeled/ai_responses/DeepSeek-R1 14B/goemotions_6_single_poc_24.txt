@@ -1,0 +1,85 @@
+Record: "Sorry but why does it matter that you're "from /r/All"? "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker might be feeling based on their Reddit comment. The comment is: "Sorry but why does it matter that you're 'from /r/All'?" 
+
+First, let's break down what this sentence is conveying. The speaker starts with an apology, which often softens the message. Then they question why someone's origin from a specific subreddit matters. This could be indicating skepticism or maybe confusion.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one that best fits the speaker's feelings here.
+
+Let me consider each option:
+
+- **Anger**: The speaker doesn't seem angry; they're questioning something politely.
+- **Disgust**: There's no indication of revulsion or strong disapproval.
+- **Fear**: No signs of worry or nervousness in the comment.
+- **Joy**: The tone isn't positive or happy.
+- **Sadness**: There's no sorrow or disappointment expressed.
+- **Surprise**: Maybe, but the comment is more of a question than an astonished reaction.
+- **Neutral**: This seems possible because the speaker is asking a straightforward question without showing strong emotion.
+
+The use of "Sorry" might make someone think it's neutral, as it softens the inquiry. The question itself doesn't show much emotion; it's more about seeking clarification or possibly being indifferent.
+
+So, after considering all options, I think the most fitting emotion here is **neutral**.
+</think>
+
+**Neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "Sorry but why does it matter that you're 'from /r/All'?" Let me break this down.
+
+First, I look at the words used. They start with "Sorry," which might indicate they don't want to come off as confrontational or rude. But then there's a question expressing confusion or disbelief about why someone's subreddit origin matters. The phrase "why does it matter" suggests that the speaker doesn't understand the relevance, which could imply surprise.
+
+I should consider each emotion category:
+
+- **Anger**: There's no obvious sign of anger here. No harsh words or expressions of dislike.
+- **Disgust**: No indication of revulsion or disapproval towards something unpleasant.
+- **Fear**: The comment doesn't express worry or nervousness about anything.
+- **Joy**: There's no happiness or positive emotion expressed.
+- **Sadness**: No signs of sorrow or disappointment.
+- **Surprise**: The question seems to be asking for clarification, which fits with surprise. They're taken aback by the relevance of the information.
+- **Neutral**: It's not completely neutral since they are questioning something.
+
+So, putting it all together, the speaker is likely expressing surprise because they're reacting to something unexpected or unclear about why someone's subreddit origin matters.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment says, "Sorry but why does it matter that you're 'from /r/All'?" 
+
+First, let's break down what this sentence is conveying. The speaker starts with an apology, which might indicate they don't want to come off as rude. But then they question the relevance of someone being from "/r/All." 
+
+I know that in Reddit, "/r/All" refers to a multireddit where users can view posts from various subreddits. So when someone says they're "from /r/All," it might imply they don't have a specific community or are just browsing widely.
+
+The emotion categories given are anger, disgust, fear, joy, sadness, surprise, and neutral. I need to choose one that best fits the speaker's sentiment here.
+
+Looking at the comment again: "Sorry but why does it matter..." The word "sorry" can sometimes be a way to soften criticism or questioning. They're challenging the other person's statement about being from "/r/All," suggesting doubt about its importance.
+
+Considering the emotion definitions:
+
+- Anger might involve strong displeasure, but here the speaker is questioning rather than expressing intense anger.
+- Disgust would be if they found something repulsive, which doesn't seem to fit.
+- Fear isn't indicated here; there's no sign of worry or anxiety.
+- Joy and surprise are also not present in this context.
+- Sadness might involve emotional pain, but the comment is more about skepticism than sadness.
+- Neutral is just a lack of emotion. However, the speaker seems to be questioning the other person's point, which implies some level of engagement beyond neutrality.
+
+So, considering all these points, the speaker doesn't seem neutral because they're actively questioning and challenging the other person's statement. But none of the other emotions like anger or surprise fit perfectly either. The closest might be surprise if there's an element of astonishment, but it's more about doubt.
+
+Wait, maybe I'm overcomplicating this. Let me think again. The comment is phrased as a question, showing confusion or skepticism. In the emotion definitions, surprise includes curiosity and realization. So perhaps the speaker is expressing surprise that someone would mention their origin from "/r/All" as if it's significant.
+
+Alternatively, they might not have any strong emotion, making it neutral. But since they're questioning the relevance, it suggests some engagement beyond neutrality.
+
+Hmm, I'm torn between surprise (because of curiosity) and neutral. However, since they're asking "why does it matter," it shows that they find it unexpected or don't understand the importance, which aligns with surprise. So maybe the emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

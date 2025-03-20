@@ -1,0 +1,42 @@
+Record: "I love how dramatic it is. It's perfectly self aware"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the word "love" which is a strong indicator of positive sentiment.
+* They describe something as "dramatic", but in a way that suggests they find it appealing, rather than overwhelming or negative.
+* The phrase "perfectly self aware" implies a sense of admiration for the thing being described.
+
+**joy**
+
+The author's tone and language suggest that they are enthusiastically appreciative of whatever is being described.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the phrase "I love", which is a strong indicator of positive sentiment.
+* The word "dramatic" has a generally positive connotation in this context, suggesting that the author appreciates something attention-grabbing and exciting.
+* The phrase "self aware" implies a sense of cleverness or wit.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This classification suggests that the author is pleased and entertained by whatever it is they're commenting on, and is expressing their enthusiasm in a lighthearted and appreciative way.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider:
+
+* The author uses the word "love", which typically indicates a positive sentiment.
+* The author describes something as "dramatic" and "self-aware", which suggests they find it impressive or enjoyable.
+* There is no language that implies criticism, dislike, or negativity.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

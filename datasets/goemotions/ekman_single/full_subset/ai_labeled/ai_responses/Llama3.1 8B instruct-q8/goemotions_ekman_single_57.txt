@@ -1,0 +1,40 @@
+Record: "It's not *literally* the same investigation."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to someone who may have made a similar comment or comparison.
+* The phrase "*literally*" suggests that the previous statement was taken too far or misinterpreted by the speaker.
+* The tone of the response seems to be correcting or clarifying the previous statement, rather than expressing a strong emotion.
+
+Most relevant emotion label: **neutral**
+The speaker's response appears to be neutral and matter-of-fact, aiming to clarify the distinction between their original comment and the comparison made by someone else.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an asterisk to emphasize their point, indicating that they are making a distinction.
+* They use the word "literally", which is often used to convey that someone has misinterpreted or taken something too far.
+
+Given these points, it appears that the speaker is reacting to someone else's misunderstanding or misinterpretation of their words. The tone is more matter-of-fact than aggressive or emotive.
+
+**surprise**
+ 
+The speaker seems to be surprised by someone's incorrect interpretation of their statement and is clarifying it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to something that might be perceived as an inaccurate comparison.
+* The phrase "*literally*" is being used by the speaker to emphasize that there are differences between two investigations, implying that someone else may have made a misleading or false equivalence.
+* There's no apparent emotional language like "I'm so angry" or "I feel sad", but rather a corrective statement.
+
+Based on these points, it seems the speaker is responding to an inaccurate claim in a matter-of-fact way, without expressing strong emotions. However, considering that they are correcting someone else, there might be a hint of *neutral* (as they're not showing explicit emotion), but also **surprise** because the speaker might be surprised by the original commenter's mistake or the need to clarify the difference.
+
+Given the context and tone, I'd lean towards **neutral**, as the speaker appears to be simply clarifying a point without expressing strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "As much as I love the dodgers, I can’t see them in the World Series 3 times in a row... so yeah, backwards."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker expresses a preference for the Dodgers
+* The speaker mentions a limitation or condition ("can't see") that affects their enthusiasm
+* The phrase "backwards" implies a negative connotation
+
+Given these points, the speaker's tone is more focused on disappointment or frustration rather than expressing outright anger. The use of "backwards" suggests that the speaker feels the Dodgers' performance is going in an undesirable direction.
+
+**sadness**
+
+The speaker's sentiment seems to stem from disappointment and sadness about their team's performance, which aligns with the definition of sadness as emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions a specific team (the Dodgers) and a sporting event (the World Series).
+* They express a sentiment about the team's performance, specifically that they can't see them winning three years in a row.
+* The tone is slightly informal, with a casual use of "yeah" at the end.
+
+Given these points, the speaker's comment suggests a sense of disappointment or dissatisfaction with the team's performance. This aligns most closely with the emotion category of **sadness**, as it implies a feeling of emotional pain or sorrow due to the team's success not meeting the speaker's expectations.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing a sentiment about the Dodgers.
+* They mention that they "can't see" the Dodgers winning three World Series titles in a row, which implies a negative feeling.
+* The tone is casual and conversational, but the language used suggests a disappointment or dissatisfaction with the team's performance.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's comment implies a sense of disappointment or sadness about the Dodgers' repeated success, suggesting that they were hoping for a different outcome.
+------------------------------------------------------------------------------------------------------------------------
+

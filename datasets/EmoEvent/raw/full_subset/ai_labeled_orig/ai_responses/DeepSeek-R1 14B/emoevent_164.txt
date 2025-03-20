@@ -1,0 +1,57 @@
+Record: "#WorldBookDay We all have special corner at home, where we relish reading.  '#RT’ if you agree! https://t.co/0erA1YOBZt"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user has provided a tweet related to World Book Day and wants it classified into one of the specified emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "#WorldBookDay We all have special corner at home, where we relish reading. #RT’ if you agree! https://t.co/0erA1YOBZt". The tone here is positive because they're talking about enjoying reading and having a special place for it. 
+
+The use of "relish" indicates that the author is expressing pleasure or satisfaction in reading. Additionally, the call to action "#RT’ if you agree!" suggests an invitation for others to share their agreement, which is a form of social engagement aimed at spreading positive sentiment.
+
+Looking at the possible emotions:
+- Anger: Doesn't fit because there's no indication of irritation or rage.
+- Disgust: Also doesn't apply; there's nothing negative mentioned.
+- Fear: No elements of worry or anxiety present.
+- Sadness: The tweet is uplifting, not sad.
+- Surprise: There's no unexpected element here.
+
+Joy seems to be the most fitting emotion. The author is celebrating reading and sharing a positive message about having a special spot for it, which conveys happiness and satisfaction.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's take a look at this query. The user wants me to classify a tweet based on the emotion conveyed, using only specific categories: anger, disgust, fear, joy, sadness, surprise. 
+
+First, I'll read the tweet carefully. It says, "#WorldBookDay We all have special corner at home where we relish reading. #RT if you agree! [link]". The hashtags suggest it's promoting World Book Day and asking for retweets.
+
+The emotion here is about celebrating reading and inviting others to share in that joy. The words "relish" and "special corner" indicate a positive, happy feeling. Relishing something means taking great pleasure in it, which points towards joy.
+
+I need to make sure there's no other emotion present. There's no sign of anger or disgust; it's all about sharing a pleasant activity. No fear, sadness, or surprise elements are there either. The primary emotion is definitely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break this down. The user provided a query about classifying the emotion in a tweet regarding World Book Day. First, I need to understand what exactly they're asking for.
+
+So, the tweet says: "#WorldBookDay We all have special corner at home, where we relish reading. '#RT’ if you agree! https://t.co/0erA1YOBZt"
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise. I need to pick one.
+
+Looking at the tweet, it's talking about having a special corner for reading and encouraging others to retweet if they agree. The words "relish" and "special corner" suggest a positive feeling towards reading. Relish means to take great pleasure in, so that's definitely a happy emotion.
+
+I should consider each category. Anger doesn't fit because there's no indication of frustration or rage. Disgust is about dislike, but the tweet is about enjoying reading. Fear isn't present here; it's more about enjoyment. Sadness is also not applicable since the tone is positive. Surprise could be a contender if something unexpected were mentioned, but the tweet is straightforward and celebratory.
+
+So, joy seems to be the most appropriate emotion because it's expressing pleasure and agreement with the sentiment.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,32 @@
+Record: "USER Wouldn’t be surprised if eventually investigation revel’s Islamic terrorists involvement. Such a loss, such a shame #NotreDameCathedralFire"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The user expresses a belief that the fire might be linked to Islamic terrorists, suggesting an underlying fear about potential threats and violence.
+- The phrase "such a loss, such a shame" indicates feelings of grief and sorrow regarding the damage to the cathedral, which is a cultural landmark.
+- The overall tone conveys a sense of worry about implications beyond the immediate event, including potential terrorism, reflecting concern and anxiety.
+
+Given these points, the most relevant emotion label is **fear**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider from the tweet:
+
+1. The author expresses a sense of predictability regarding the involvement of Islamic terrorists, suggesting a level of concern about security and potential threats.
+2. The phrase "such a loss, such a shame" indicates a deep sense of regret and sorrow regarding the damage to Notre Dame Cathedral.
+3. There is an underlying tone of apprehension implied by the mention of terrorism, which evokes fear about possible future events.
+
+Based on these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet expresses a reaction to the fire at Notre-Dame Cathedral, describing it as a "loss" and "a shame," which indicates a sense of sorrow over the event.
+- The mention of "investigation" and the possibility of "Islamic terrorists involvement" suggests a feeling of apprehension or concern about the implications of the fire, but the predominant sentiment is negative.
+- The phrase "such a loss" implies deep sadness, reflecting on the cultural and historical significance of the cathedral and the impact of its damage.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

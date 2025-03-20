@@ -1,0 +1,44 @@
+Record: "“Uh, Miss Stark.... I don’t feel so good....”  #AryaStark #GameofThrones  #FightLikeAGirl https://t.co/MY1vmr0XQW"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a character's illness or discomfort ("I don't feel so good")
+* There are no obvious indicators of strong emotions such as anger, fear, or joy
+* The tone seems more neutral and concerned rather than happy or excited
+* The hashtags suggest the author is discussing Game of Thrones in a casual manner
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The tweet's tone is more somber and concerned for Arya Stark's well-being, which aligns with sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is referencing a scene from the TV show Game of Thrones.
+* The quote suggests that someone (likely a character) is experiencing physical discomfort or illness.
+* The hashtags are related to the show and its characters, indicating a fan engagement.
+
+Given these points, the most relevant emotion label is: **sadness**
+
+This classification is based on the fact that the tweet appears to be referencing a dramatic or intense moment in the show, which might elicit an emotional response from fans. The use of a quote and hashtags suggests that the author is reacting to the scene with a sense of empathy or concern for the character's well-being, which aligns with the emotion of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The text appears to be a quote from a scene in Game of Thrones.
+* The tone is likely informal and conversational, as it's written in a casual style (e.g. "Uh" at the beginning).
+* There is no apparent criticism or negative commentary about the show.
+
+Given these considerations, the most relevant emotion label is:
+
+**surprise**
+The quote suggests that something unexpected is happening, and Arya Stark seems to be reacting with surprise or alarm. The use of an exclamation mark after "Uh" also implies a sense of suddenness or unexpectedness.
+------------------------------------------------------------------------------------------------------------------------
+

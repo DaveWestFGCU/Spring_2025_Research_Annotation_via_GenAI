@@ -1,0 +1,52 @@
+Record: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again.
+
+The tweet says: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists." 
+
+First, the author is talking about people who look down on Chinese people and have forgotten why Singapore exists. Looking down on someone implies a feeling of superiority or contempt, which relates to disgust or maybe anger.
+
+The emotions given are categories, so I need to choose the most relevant one. Disgust includes disinterest or dislike, so if the author feels annoyed or dislikes how these people behave, that might fit. Alternatively, if it's more about frustration or irritation, it could be anger.
+
+But the tweet doesn't explicitly show strong anger words like "hate" or "rage." Instead, it describes a behavior of looking down and forgetting the reason Singapore exists. This seems more like a feeling of disdain or dislike towards those people's attitude.
+
+So, I think disgust is the most appropriate emotion here because it captures the disapproval and dislike towards others' actions.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists." 
+
+The author is talking about people from a certain group who look down on Chinese people and have forgotten why Singapore exists. The phrase "look down on" suggests a negative attitude towards the Chinese, which might indicate disgust or perhaps anger. However, looking at the context, it's more about disapproval rather than intense anger. 
+
+Disgust often involves feelings of dislike or aversion, so describing others as looking down on another group fits into that category. There’s no indication of fear, joy, sadness, or surprise here; the focus is on the negative judgment towards a specific group. So I think the most relevant emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise. The tweet says, "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists."
+
+First, breaking it down. The author is talking about people looking down on Chinese individuals and implying that these people have forgotten why Singapore exists. Looking down on others often indicates a feeling of superiority or disdain, which ties into emotions like disgust or anger.
+
+The word "look down on" suggests contempt, which aligns with disgust as it can include dislike or disinterest. However, it could also be interpreted as frustration or anger because the author is pointing out an attitude they find offensive. 
+
+Now, considering the context, Singapore's existence is tied to its history and relationship with China, so implying that some people have forgotten this reason might convey a sense of betrayal or irritation. This leans more towards disgust because it's about disliking how others are treating Chinese people.
+
+I should check if there's any element of fear or surprise, but the tweet doesn't express anxiety or amazement. Sadness isn't really present either; it's more about the attitude of others. Joy is clearly not applicable here as the tone is negative.
+
+Between anger and disgust: "look down on" is more about feeling disgusted by the behavior rather than being angry. So, I think disgust is the most fitting emotion.
+</think>
+
+The tweet expresses **disgust** towards people's attitude towards Chinese individuals.
+------------------------------------------------------------------------------------------------------------------------
+

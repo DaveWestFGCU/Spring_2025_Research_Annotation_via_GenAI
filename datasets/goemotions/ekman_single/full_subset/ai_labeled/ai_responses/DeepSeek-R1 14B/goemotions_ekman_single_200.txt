@@ -1,0 +1,72 @@
+Record: "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their comment. The comment is, "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol." Let me break this down.
+
+First, I notice they mention being on a team supporting NAME because of an event where NAME won an axe toss competition. They add "lol" at the end, which usually signifies laughter or amusement. The exclamation "lol" suggests they're finding something funny or entertaining.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one that fits best.
+
+The comment expresses support and mentions a competition win, which sounds positive. The use of "lol" indicates humor. Positive feelings and amusement fall under joy because joy includes happiness, amusement, and approval.
+
+They're not expressing anger or disgust; there's no negative language. There's no mention of fear or anxiety. Sadness isn't present either. Surprise would involve something unexpected, but here they're recounting an event with a light-hearted tone.
+
+So, the emotion here is joy because they're showing support and finding the situation amusing.
+</think>
+
+The speaker expresses amusement and positive feelings towards NAME's success in the axe toss competition, indicating joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's figure out the emotion here. The speaker says they've been on Team [NAME] since he won an axe toss competition after the draft and adds "lol." 
+
+Looking at the emotion categories:
+
+- **Anger**: Doesn't seem to fit. There's no indication of displeasure or antagonism.
+- **Disgust**: No signs of revulsion or disapproval.
+- **Fear**: Not present; there's no fear or worry mentioned.
+- **Joy**: The "lol" suggests amusement, which is part of joy.
+- **Sadness**: Doesn't apply here as there's no sorrow or disappointment.
+- **Surprise**: There's an element of surprise in the excitement but it's more about positive surprise tied to joy.
+- **Neutral**: Definitely not neutral since there's a clear emotion.
+
+So, the speaker is expressing amusement and approval through their laughter. That points to joy.
+</think>
+
+The speaker expresses amusement with "lol," indicating joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol"
+
+First, let's break down the sentence. They mention being on a team supporting someone ("team [NAME]") because of an event where they won an axe toss competition after the draft. The use of "lol" at the end is important.
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise, and neutral. I need to pick the most relevant one.
+
+Looking at the example definitions:
+
+- Anger: Shows displeasure or antagonism.
+- Disgust: Revulsion or disapproval.
+- Fear: Related to being afraid or worried.
+- Joy: Pleasure, happiness, includes admiration, amusement.
+- Sadness: Emotional pain, sorrow.
+- Surprise: Astonishment, unexpected events.
+- Neutral: No emotion shown.
+
+The speaker is expressing support and excitement about someone winning a competition. The "lol" indicates they're finding this amusing or are happy about the situation. They sound positive and maybe even proud of their team choice.
+
+So, the emotion here seems to be joy because it's about supporting someone who succeeded and adding humor with "lol." There's no sign of anger, disgust, fear, sadness, or surprise. It's definitely not neutral since they're expressing a clear emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

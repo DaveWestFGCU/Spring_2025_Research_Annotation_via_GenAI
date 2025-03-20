@@ -1,0 +1,36 @@
+Record: "Damn he has a kid with evan rachel wood too. He gets all the honies."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses strong language ("Damn") to express their sentiment.
+* They mention having a child with Evan Rachel Wood, which implies a negative reaction to this information.
+* The phrase "all the honies" is a colloquialism that can be interpreted as objectifying or reducing women to their physical appearance.
+
+Given these points, the author's tone appears to be one of **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses profanity ("Damn") which can indicate strong emotions.
+* The tone is somewhat sarcastic and mocking, as evidenced by the phrase "he gets all the honies".
+* The author appears to be critical of someone's romantic conquests or reputation.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used is informal and contains profanity ("Damn").
+* The tone seems to be objectifying women.
+* The author appears to be making a judgment about someone's personal life.
+
+Based on these considerations, the most relevant emotion label is **anger**, as the author's tone suggests annoyance or frustration with the person who has been able to attract multiple partners.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,36 @@
+Record: "I mean, [NAME] really is downplaying the guys’ friendship. That’s suspect to me."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider given the text:
+
+* The author is expressing skepticism about someone's behavior (downplaying a friendship)
+* The use of "suspect" implies that the author has doubts or questions about the situation
+* There is no indication of strong emotional language, such as yelling or profanity
+
+Given these points, the most relevant emotion label is **anger**. The author appears to be annoyed or upset by someone's behavior, but the tone is more concerned than raging.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the phrase "downplaying" which implies that they believe someone is not being truthful or authentic about their relationship with someone else.
+* The use of the word "suspect" suggests that the author has a negative perception of the situation and thinks something is off.
+* The tone is critical and questioning, indicating that the author is expressing disapproval or skepticism.
+
+Most relevant emotion label: **anger**. 
+
+The author's tone is confrontational and critical, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author expresses a negative opinion about someone's behavior (downplaying).
+* They use words like "suspect", which implies that they don't believe what they're being told.
+* Their tone is critical and questioning.
+
+Given these points, I would classify the tweet as **anger**, as the author appears to be expressing annoyance or indignation at the person's actions.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Record: "I’m tired from working hard and I want someone to snuggle me to sleep"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "tired" which suggests they are fatigued, possibly emotionally as well.
+* They express a desire for physical comfort and affection ("snuggle me to sleep").
+* There is no indication of anger, disgust, fear, or surprise in their statement.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The speaker's expression of tiredness and desire for physical comfort suggests they are feeling emotionally drained, which can be a hallmark of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses physical and emotional exhaustion ("tired").
+* They express a desire for comfort and affection ("snuggle").
+* There is no apparent negative emotion or critical tone.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's comment conveys a sense of vulnerability and need for comfort, which is characteristic of sadness. The use of "I'm tired" implies emotional pain and exhaustion, rather than just physical fatigue, which suggests that the speaker may be feeling down or distressed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions being tired from working hard, indicating physical and mental exhaustion.
+* They express a desire for physical comfort and companionship in the form of snuggling.
+* The tone is somewhat vulnerable and intimate.
+
+Given these points, the most relevant emotion label is: **sadness**
+
+Explanation: The speaker's statement conveys a sense of emotional pain or sorrow due to their physical and mental exhaustion. Their desire for snuggling suggests a longing for comfort and connection, which can be associated with feelings of sadness or melancholy.
+------------------------------------------------------------------------------------------------------------------------
+

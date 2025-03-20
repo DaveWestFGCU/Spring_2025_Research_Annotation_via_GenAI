@@ -1,0 +1,35 @@
+Record: "Amazing how good game research is! #game #gamedev #research #NotreDameCathedralFire https://t.co/h9u8L8YhSR"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet seems to be unrelated to the Notre Dame Cathedral Fire, as it mentions "good game research".
+* There is no mention of emotions or personal feelings about the fire.
+* The tone appears to be lighthearted and casual.
+
+Given these considerations, the most relevant emotion label is **surprise**, likely due to the juxtaposition of a seemingly unrelated topic (game research) with the reference to the Notre Dame Cathedral Fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The tweet mentions a serious event (the Notre Dame Cathedral fire), but it does not express concern or criticism about the event itself.
+* The author appears to be making a connection between the cathedral fire and game research, which suggests a positive interpretation.
+* There is no mention of negative emotions such as anger, disgust, fear, sadness.
+
+Given these points, the most relevant emotion label for this tweet is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+**Important points to consider:**
+
+* The tweet mentions the Notre Dame Cathedral Fire, a devastating event.
+* However, the author's tone seems to be focused on game research rather than expressing emotions about the fire.
+* The word "amazing" suggests a positive sentiment.
+
+**Surprise**
+The author appears to be surprised or distracted by the relevance of good game research to their current situation, likely due to being reminded of it by the hashtag #NotreDameCathedralFire.
+------------------------------------------------------------------------------------------------------------------------
+

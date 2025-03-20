@@ -1,0 +1,33 @@
+Record: "Please look at this beauty 😱😭♥️ https://t.co/F7wL80clrz #WorldBookDay"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet includes an enthusiastic and excited tone.
+- It contains several emotive expressions (😱 and ♥️) that are typically associated with strong positive emotions.
+- The use of the word "beauty" emphasizes a sense of admiration.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet mentions World Book Day.
+- It contains emotive language ("beauty") and emoticons (🤯, 💔).
+- There is a link shared with no context.
+
+Given the text, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains a link to an article about World Book Day.
+* The author uses the emojis 😱 and ♥️, which are often associated with excitement or joy.
+* The text "Please look at this beauty" is a positive statement that suggests admiration.
+
+Given these points, the most relevant emotion label is:
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

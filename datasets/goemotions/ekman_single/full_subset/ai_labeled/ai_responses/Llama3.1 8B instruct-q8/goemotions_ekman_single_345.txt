@@ -1,0 +1,60 @@
+Record: "This is the most scary [NAME] can ever be to me, cause it’s also the most real he could ever be 😂"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "scary", which suggests a strong emotional reaction.
+* However, they immediately follow this with the phrase "😂", which is an emoji indicating laughter and sarcasm.
+* The overall tone of the comment appears to be tongue-in-cheek rather than genuinely fearful.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's use of the word "scary" in a humorous way suggests that they are surprised by [NAME]'s behavior or appearance, and are reacting with a lighthearted and playful tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "scary" which typically implies fear.
+* However, the context of the sentence suggests that the speaker is expressing a form of admiration or respect for [NAME], rather than genuine fear. 
+* The tone of the sentence is lighthearted and playful, as indicated by the 😂 emoticon.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of "scary" to describe a situation that they find impressive or admiring suggests that they are experiencing joy or excitement. The lighthearted tone and playful use of language further support this interpretation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "scary" which suggests a strong emotional response.
+* The context of the post seems to be about someone's (likely an individual or group) behavior being perceived as intense or unsettling.
+* The speaker also adds a smiling face emoji at the end, which could indicate that they are making a tongue-in-cheek comment.
+
+Given these points, it appears that the speaker is using irony and humor to downplay their actual emotional response. Despite using the word "scary", they seem to be implying that this person's behavior can actually be frightening, but in an exaggerated or absurd way.
+
+**Surprise**
+ 
+The most relevant emotion label for this comment is **surprise**, as the speaker seems to be making a humorous comment about someone's behavior being scary. However, it could also be argued that they are expressing **fear**, given their use of the word "scary".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker uses the word "scary" which typically indicates a negative emotion.
+* However, the tone of the sentence suggests that the speaker is using "scary" in an ironic or humorous way.
+* The phrase "😂" at the end of the sentence indicates that the speaker is likely joking or teasing.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of irony and humor suggests that they are feeling playful or amused by the situation, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,65 @@
+Record: "Liberal circlejerk “ o ya those conservatives suck” 10,000 upvotes"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify this tweet's emotion. The tweet is: "Liberal circlejerk “ o ya those conservatives suck” 10,000 upvotes". 
+
+First, let me break it down. The user mentions "circlejerk", which I know is often used in online contexts to describe a group of people engaging in behavior that others find ridiculous or self-indulgent. It has a negative connotation.
+
+Then they say "those conservatives suck". That's clearly expressing dislike or contempt towards conservatives. So, there's definitely an element of disgust or dislike here.
+
+The mention of 10,000 upvotes suggests the tweet is getting a lot of attention, which might indicate strong reactions from others—either agreement or outrage. But focusing on the author's intended emotion, it seems they're expressing their own feelings rather than just stating a fact about the engagement.
+
+Looking at the emotion categories: anger includes annoyance and rage, disgust includes dislike and disinterest, fear is more about anxiety or terror, joy is positive so probably not here, sadness is about grief or pensiveness, and surprise is about amazement or distraction. 
+
+The author's use of "suck" shows they have a negative opinion towards conservatives, which aligns with disgust or dislike. They're expressing their disdain for what they perceive as the behavior of liberals in this context.
+
+So, considering all that, the emotion conveyed here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's break down this tweet: "Liberal circlejerk 'o ya those conservatives suck' 10,000 upvotes". The user is pointing out what they perceive as liberals mocking conservatives. 
+
+First, the word "circlejerk" suggests a group engaging in something perceived as foolish or self-indulgent, which could indicate mockery or disdain. Adding that conservatives "suck" reinforces negative feelings towards them.
+
+The mention of 10,000 upvotes indicates significant engagement, possibly approval from the user's perspective. The overall tone seems to be critical of liberals' behavior towards conservatives, showing dislike or disgust.
+
+Looking at the emotion categories: anger is a possibility, but the tweet isn't explicitly expressing rage. Disgust fits better because it's about disliking an action or attitude. There's no fear, joy, sadness, or surprise evident here.
+
+So, the emotion conveyed is **disgust**.
+</think>
+
+The tweet expresses disgust towards liberals' behavior towards conservatives, using strong language and indicating dislike.
+
+**emotion**: **disgust**
+
+**Answer:**  
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "Liberal circlejerk “ o ya those conservatives suck” 10,000 upvotes". 
+
+First, let me break down what's happening here. The user mentions a "liberal circlejerk," which seems like they're referring to liberals engaging in some sort of groupthink or closed-minded behavior. Then they say, "o ya those conservatives suck." That's clearly a negative statement about conservatives. 
+
+I notice that the tweet includes a lot of quotation marks and exclamation points, which might indicate sarcasm or strong emotion. The user also mentions 10,000 upvotes, suggesting this sentiment is popular or has traction.
+
+Now, considering the emotions: anger would involve frustration or irritation, disgust is more about dislike or revulsion, fear involves anxiety or dread, joy is happiness, sadness is sorrow, and surprise is astonishment or unexpectedness.
+
+The tweet expresses a negative view towards both liberals and conservatives. The phrase "suck" is derogatory, which leans towards disgust because it's an expression of dislike. Also, the term "circlejerk" implies a judgmental or disgusted perspective on the behavior of one group. 
+
+While anger might also be possible due to the strong language, I think disgust fits better here because the user is expressing disdain for both groups without necessarily showing personal frustration towards them directly. It's more about disapproving of their actions or beliefs.
+
+So, putting it all together, the emotion conveyed seems to be disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,36 @@
+Record: "It’s pretty cringe"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a colloquial expression "cringe" which implies discomfort or distaste.
+* The tone of the statement is brief and informal, suggesting a casual disapproval rather than strong emotion.
+
+Given these considerations, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "cringe", which implies a strong negative emotional reaction.
+* The context of the comment is likely responding to something posted or said by someone else, which suggests that the speaker is reacting to an external stimulus.
+* The tone of the comment is brief and informal, with no apparent attempt to hide or downplay the speaker's feelings.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+This label fits because "cringe" often implies a feeling of revulsion or strong disapproval, which are key components of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "cringe", which typically implies that something is embarrassing or awkward.
+* There is no indication of strong emotion, criticism, or disdain in the language used.
+
+Given these points, I would categorize the emotion as **disgust**, but since disgust usually involves a stronger reaction to something unpleasant or offensive, this response seems more fitting.
+------------------------------------------------------------------------------------------------------------------------
+

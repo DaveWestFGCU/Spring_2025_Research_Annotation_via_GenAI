@@ -1,0 +1,35 @@
+Record: "Aaaaaand he will be feeling that in the morning"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The use of an exaggerated tone ("Aaaaaand") suggests a playful or mocking intent.
+* The phrase "feeling that" is left vague, implying that something unpleasant or undesirable will happen.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains a dramatic pause ("Aaaaaand") which can indicate anticipation or excitement.
+* The phrase "he will be feeling" suggests a consequence or aftermath of an event, implying a sense of causality or agency.
+* The word "morning" implies a passage of time and potentially a recovery or resolution.
+
+Given these points, the most relevant emotion label is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The use of an ellipsis (...) suggests a pause or suspense.
+* The inclusion of "Aaaaaand" is a playful expression often used to convey excitement or anticipation.
+* The phrase "he will be feeling that in the morning" implies some kind of consequence or outcome.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

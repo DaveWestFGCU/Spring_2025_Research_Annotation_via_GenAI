@@ -1,0 +1,38 @@
+Record: "I'd be a lot more excited to see [NAME] flash the leather at 3b."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is comparing their excitement level for two different events.
+* The tone of the comment seems lighthearted and enthusiastic, using words like "excited".
+* There is no indication of negative emotions or strong criticism.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone appears enthusiastic and anticipatory.
+* They mention being "a lot more excited" about an event or spectacle involving someone named [NAME].
+* The reference to "flash the leather" suggests a potentially risqué or provocative act.
+
+Given these points, the most relevant emotion label is **joy**, as the speaker's language conveys excitement and anticipation for something they are clearly looking forward to.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be referencing a specific event or activity, possibly a wrestling match, as indicated by the mention of "flash the leather" and "3b".
+* The tone is somewhat sarcastic, with the use of "I'd be a lot more excited" which suggests that the speaker is not genuinely enthusiastic about the event.
+* There is no apparent emotional investment or passion in the comment.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**neutral**
+ 
+The speaker's tone is neutral and lacks strong emotional expression. They seem to be making a somewhat sarcastic comment rather than expressing genuine excitement or any other strong emotion.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,41 @@
+Record: "Don’t say his name!!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The use of double exclamation marks suggests strong emotional emphasis.
+* The phrase "don't say his name" is often associated with a sense of taboo or aversion.
+* There's no indication of joy, fear, surprise, or sadness in the language used.
+
+Based on these considerations, the most relevant emotion label is:
+
+**anger**
+
+The use of double exclamation marks and the tone of "don't say his name!!" suggests that the author is expressing annoyance or anger towards something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a strong reaction with an imperative tone ("don't say")
+* They are warning against mentioning someone's name
+* There is no indication of happiness or positivity
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is instructing others not to mention a specific person's name.
+* The use of an exclamation mark suggests strong emotional intensity.
+* The imperative tone implies a sense of urgency or importance.
+
+Given these considerations, the most relevant emotion label is:
+
+**fear**
+The author may be trying to avoid drawing attention to someone they find intimidating, threatening, or simply unpleasant.
+------------------------------------------------------------------------------------------------------------------------
+

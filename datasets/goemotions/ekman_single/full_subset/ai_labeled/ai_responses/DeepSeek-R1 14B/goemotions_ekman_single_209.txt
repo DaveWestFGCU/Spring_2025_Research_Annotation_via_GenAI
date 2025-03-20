@@ -1,0 +1,78 @@
+Record: "Was Netflix ever $7.99 for HD streaming?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Was Netflix ever $7.99 for HD streaming?" The possible emotions are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's look at the sentence itself. It's a question asking if Netflix has ever offered HD streaming for $7.99. On its own, it doesn't seem to express any strong emotion; it's more of an inquiry. The tone is straightforward and factual without any obvious indicators like exclamation points or strong language.
+
+Now, considering the emotion categories:
+
+- Anger: Usually involves frustration or displeasure. There's no indication here that the speaker is angry.
+- Disgust: Often shows revulsion towards something unpleasant. Doesn't seem relevant here.
+- Fear: Involves worry or anxiety. The comment isn't about a fear-related topic.
+- Joy: Happiness or pleasure. No positive emotions are expressed.
+- Sadness: Sorrow or disappointment. There's no sad context in the question.
+- Surprise: Astonishment at something unexpected. Again, it's more of an inquiry without surprise elements.
+- Neutral: Lacking emotion, which fits since it's a factual question.
+
+The speaker might be curious about past pricing, maybe because they're considering subscribing or comparing prices. Since there's no emotional language or context suggesting otherwise, the most fitting emotion is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out what emotion the speaker might be feeling based on their comment: "Was Netflix ever $7.99 for HD streaming?" Let me break this down.
+
+First, looking at the words used, they're asking a question about the price of Netflix in the past. The specific mention of "$7.99" and "HD streaming" suggests they might be comparing current prices with what they remember or heard before. 
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Is there any sign of anger? Well, anger often involves strong language or frustration. This comment is more factual, so maybe not anger.
+
+Disgust would involve something offensive or unpleasant, which isn't evident here. They're just asking a question, not expressing revulsion.
+
+Fear implies worry or anxiety. There's no indication of that in the statement; it's purely an inquiry about pricing.
+
+Joy would be happiness or excitement. Again, this doesn't seem to fit since they're making an informative comment rather than expressing positive emotions.
+
+Sadness involves sorrow or disappointment. I don't detect any negative emotion here—just a straightforward question.
+
+Surprise is when something unexpected happens. The speaker might be surprised if the answer is different from what they expect, but as it stands, their statement doesn't show surprise yet.
+
+Neutral would mean no strong emotion is conveyed. This comment seems informative and neutral, seeking information without expressing any feelings.
+
+So, putting it all together, the speaker isn't showing any of the specific emotions listed except for a neutral tone. They're asking for information rather than expressing an emotion.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Was Netflix ever $7.99 for HD streaming?" Let me break this down step by step.
+
+First, I'll look at the sentence itself. The speaker is asking a question about whether Netflix's HD streaming plan was ever priced at $7.99. That sounds like they're seeking information or maybe verifying something they heard before. There are no obvious emotional words here—no strong adjectives or exclamation points.
+
+I should consider the context of Reddit comments. Often, people ask questions to clarify facts or share opinions. In this case, it's a straightforward inquiry about pricing history. The speaker isn't expressing any personal feelings, excitement, or frustration; they're just looking for information.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that best fits based on the definitions.
+
+- Anger would imply frustration or annoyance. There's no indication of that here.
+- Disgust involves revulsion or disapproval. Again, not present in this statement.
+- Fear is about being afraid or worried. No signs of anxiety or worry.
+- Joy suggests happiness or pleasure. The speaker isn't expressing any positive emotions.
+- Sadness implies sorrow or disappointment. There's no sadness evident.
+- Surprise is about astonishment or realization. The question doesn't suggest anything unexpected.
+- Neutral means lacking emotion, which fits because the comment is purely informational without any emotional tone.
+
+So, putting it all together, the speaker isn't expressing any of the other emotions—they're simply asking a factual question. Therefore, the emotion here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

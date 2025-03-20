@@ -1,0 +1,52 @@
+Record: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion from the given list. The tweet is: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]." 
+
+First, I'll break down the content. The author is correcting others who are blaming [NAME], directing them instead towards the Packers' management. They mention that the front office "stopped trying," which implies a sense of disappointment or frustration with the organization's lack of effort.
+
+Looking at the emotion categories: anger includes annoyance and rage, disgust includes dislike and disinterest, fear is about anxiety, joy is positive feelings, sadness includes grief and pensiveness, and surprise is about amazement.
+
+The tweet doesn't express happiness, fear, or surprise. It's more about frustration with a decision-making body, so it points towards anger. The author is annoyed that others are blaming the wrong person and is upset with the front office's inaction.
+
+Therefore, the emotion conveyed here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I have this tweet to classify into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]." 
+
+First, I need to understand what emotion is being conveyed here. Let's break it down. The author is talking about people holding something against [NAME], but argues that it should actually be directed at the Packers' organization and front office. They mention that "their Front Office stopped trying, not [NAME]." This suggests that the author believes the front office is responsible for whatever issue is being discussed.
+
+The key words here are "should hold," which implies frustration or不满 about how people are assigning blame. The tweet is correcting others' perception, pointing out where the real problem lies. The author is defending [NAME] and批评ing the organization instead.
+
+So, what emotion does that convey? Frustration can be part of anger. The tone seems to challenge or confront, which aligns with a sense of irritation or maybe even annoyance. There's also a call to correct others' misunderstanding, which adds to the feeling of exasperation.
+
+Looking at other options: Disgust is more about disliking something, but here it's about correcting blame rather than expressing dislike. Fear isn't present; there's no indication of anxiety or terror. Joy and surprise are clearly not applicable as the tone isn't positive or amazed. Sadness might involve grief or pensiveness, which doesn't fit here either.
+
+Therefore, the emotion is likely anger because the author is frustrated with others' misplaced blame and is correcting them.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this tweet. The user is talking about holding something against a person named [NAME], but then clarifies it should be against the Packers' organization and front office instead. They mention that the front office "stopped trying," while implying [NAME] is not at fault.
+
+So, the emotion here seems to be frustration or maybe annoyance because the user feels others are blaming the wrong person. But since frustration isn't one of the primary options, I should map it closest. Frustration often falls under anger, as per the given categories.
+
+Looking at the other emotions: There's no clear sign of disgust, fear, joy, sadness, or surprise in the tweet. The focus is on assigning blame correctly due to a lack of effort from the front office. That's more about frustration and possibly defending someone else, which ties into anger.
+</think>
+
+The author seems frustrated with others for blaming [NAME] instead of the Packers' management. Frustration falls under **anger**.
+
+**emotion:** **anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Record: "Another beautiful Sunday evening to kick fascism butts💜 ...#SpainElection #votadhermanas  #EleccionesGenerales28A #28A  #FelizDomingo"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is discussing the upcoming Spanish general election.
+* They use a playful, enthusiastic tone with an exclamation mark and a heart symbol (💜).
+* The language used is positive, with words like "beautiful", "kick fascism butts", and "Feliz Domingo" (which means "Happy Sunday").
+* The hashtags suggest a sense of community and solidarity.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's tone is overwhelmingly positive and celebratory, indicating that they are excited about the election and eager to see fascism defeated.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text mentions a Sunday election, which may have been the source of confusion in the original statement.
+* The correct date for the 2019 Spanish general election is April 28, not April 2018. However, this information is not relevant to classifying the emotion intended by the author.
+* The phrase "kick fascism butts" implies a strong negative sentiment towards a particular ideology or system.
+* The use of an affection symbol (💜) and positive phrases ("Another beautiful Sunday evening", "Feliz Domingo") suggests a celebratory tone.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author appears to be expressing enthusiasm and positivity about the upcoming election and the opportunity to challenge fascism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The tweet mentions a positive aspect ("beautiful Sunday evening") and a negative one ("kick fascism butts"), which might suggest a mix of emotions.
+* The phrase "kick fascism butts" is strong language that could indicate a sense of urgency or defiance.
+* The use of 💜, a heart symbol often associated with love and affection, might soften the tone of the message.
+
+Given these points, I would classify the emotion as **joy**. The overall tone of the tweet seems to be celebratory and encouraging, with a focus on kicking out fascism rather than expressing anger or fear. The use of positive language and emojis reinforces this interpretation.
+------------------------------------------------------------------------------------------------------------------------
+

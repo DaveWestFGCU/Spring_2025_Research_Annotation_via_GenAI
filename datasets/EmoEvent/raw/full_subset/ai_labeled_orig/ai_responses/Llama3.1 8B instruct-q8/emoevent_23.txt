@@ -1,0 +1,39 @@
+Record: "Struggling #Madrid held to goalless draw by Getafe - Gulf Times #GetafeCF 🇪🇸 #LaLiga  https://t.co/8Td299jwFP"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet reports a disappointing event for one of the teams, Madrid.
+* The tone is neutral and informative, with no clear emotional language used.
+* The hashtags suggest that the author is discussing a sports event.
+
+Given these points, the most relevant emotion label is: **sadness**.
+
+The author appears to be reporting on an expected loss or disappointment for Madrid's team, which suggests a sense of sadness. However, it's worth noting that the tone is still neutral and objective, rather than expressing strong emotions like anger or joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet reports a negative outcome for the team "Madrid", which is likely to be disappointing for their fans.
+* The use of the word "struggling" suggests that Madrid is not performing well, which could evoke a negative emotion from the author.
+* There is no language in the tweet that explicitly expresses any emotion.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's tone appears to be neutral and informative, but the report of a goalless draw for Madrid suggests that they are experiencing disappointment or sadness, which is the intended emotion conveyed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The text mentions a goalless draw, which might suggest a negative outcome for one of the teams.
+* The tone is neutral and factual, as it reports on the match without expressing an opinion or emotion.
+
+Given these points, the most relevant emotion label is **sadness**, as the tweet seems to convey disappointment or dissatisfaction with the result, but in a subdued and objective manner.
+------------------------------------------------------------------------------------------------------------------------
+

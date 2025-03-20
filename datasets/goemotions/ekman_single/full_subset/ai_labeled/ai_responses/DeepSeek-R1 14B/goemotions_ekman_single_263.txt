@@ -1,0 +1,60 @@
+Record: "Trade up for Haskins. If that doesn't happen give me Greedy."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "Trade up for Haskins. If that doesn't happen give me Greedy." Let's break this down.
+
+First, the speaker is making a request or maybe giving advice. They mention trading up for Haskins and if that doesn't work, they ask for Greedy. I'm not familiar with who Haskins or Greedy are, but from context, it seems like they're referring to something specific, perhaps sports players since the user mentioned Reddit comments related to trades.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one.
+
+The comment doesn't show strong emotions through words like angry terms or expressions of worry. It's more about making a conditional request. So it's not expressing anger (no frustration), disgust (nothing offensive), fear (no worry mentioned), joy (no positive feelings), sadness (no sorrow), surprise (nothing unexpected). 
+
+Therefore, the emotion is likely neutral because they're stating facts without showing any particular feeling.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's figure out what emotion the speaker might be feeling based on their comment. The comment says, "Trade up for Haskins. If that doesn't happen give me Greedy." 
+
+First, I need to understand the context. It seems like a sports-related trade discussion, given the mention of Haskins and Greedy. Maybe they're talking about players or teams. The speaker is expressing a preference: if Haskins isn't available for a trade, then they want Greedy.
+
+Looking at the emotion categories:
+
+1. **Anger**: Is there any sign of anger? The comment is direct but not filled with harsh words or threats.
+2. **Disgust**: Disgust usually involves finding something unpleasant. There's no indication here that the speaker is disgusted.
+3. **Fear**: Fear would involve worry or anxiety, which isn't evident in this statement.
+4. **Joy**: Joy implies happiness or excitement. The comment doesn't express enthusiasm.
+5. **Sadness**: Sadness would be about emotional pain. No sad elements here.
+6. **Surprise**: Surprise involves astonishment. The comment is straightforward, not surprising.
+7. **Neutral**: If none of the above emotions are present, it's neutral.
+
+The speaker is stating their preference clearly but without any strong emotion. They're making a request, not expressing feelings like anger or joy. So, the emotion here seems to be neutral because there's no clear display of any specific emotion beyond a factual statement.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out the emotion the speaker is feeling based on their comment. The comment says, "Trade up for Haskins. If that doesn't happen give me Greedy." 
+
+First, let's break down what this means. It seems like they're talking about a trade-up in some context, possibly related to sports or fantasy leagues since those often involve trading players. They mention two names: Haskins and Greedy. Maybe these are player names.
+
+The structure of the sentence suggests they have preferences. They want to trade up for Haskins first. If that doesn't work out, they're willing to settle for Greedy. So, the speaker is expressing a desire or a wish regarding a potential trade.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to determine which emotion fits best here.
+
+If someone is making a request or expressing a preference in a calm manner without any strong language, it might lean towards being neutral. There's no obvious sign of anger, as there are no expletives or expressions of frustration. Disgust doesn't seem applicable because the speaker isn't showing revulsion towards something. Fear is about anxiety or worry; nothing here indicates that. Joy would be if they were expressing happiness or excitement, but this seems more like a straightforward request. Sadness involves pain or sorrow, which I don't detect here. Surprise is about astonishment, which also doesn't fit.
+
+Therefore, the emotion is likely neutral because it's a factual statement without any strong emotional language.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

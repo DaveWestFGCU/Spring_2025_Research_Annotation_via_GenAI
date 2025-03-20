@@ -1,0 +1,64 @@
+Record: "well guys it was fun. [NAME] passed up the open three ffs"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment: "well guys it was fun. [NAME] passed up the open three ffs". The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let me break down the sentence. They start by saying "well guys it was fun." That sounds like they're ending something on a positive note, but it's not extremely enthusiastic. Then they mention "[NAME] passed up the open three ffs". The phrase "passed up" suggests that [NAME] missed an opportunity or made a mistake, and the use of "ffs" is slang for frustration or emphasis.
+
+So, the first part of the sentence is neutral or slightly positive, but the second part seems critical or disappointed. Maybe they're pointing out someone's mistake in a game or situation where an open three (like in basketball) would be an easy score. The speaker might be frustrated that [NAME] didn't take advantage of that opportunity.
+
+Looking at the emotion definitions, anger includes annoyance and disapproval. Here, the speaker is showing disappointment because of the missed chance, which can come off as frustration or mild anger. There's no strong indication of other emotions like fear, joy, surprise, etc. The tone isn't extremely happy (joy) nor is it expressing sadness or worry (fear). Disgust usually involves revulsion, which doesn't seem applicable here.
+
+Therefore, the emotion most likely being felt by the speaker is anger because they're showing disapproval of [NAME]'s action.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion this Reddit comment might be conveying. The comment says, "well guys it was fun. [NAME] passed up the open three ffs". Let me break this down step by step.
+
+First, looking at the sentence structure. The speaker starts with "well guys it was fun." That sounds like they're ending something on a positive note, maybe a game or an activity. The word "fun" is associated with joy, so that's a hint towards a positive emotion.
+
+Then, in the second part, "[NAME] passed up the open three ffs". I'm not exactly sure what "open three ffs" means here without context, but it sounds like a situation where someone missed an opportunity. Maybe it's gaming-related, where passing up an open three refers to a move or a play that was available but wasn't taken.
+
+Putting these together, the speaker seems to be pointing out that [NAME] missed something, perhaps a chance to score or win. The first part was positive, ending with fun, but then this critique comes in. So there's a mix here—ending on a good note but also highlighting someone else's mistake.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one that best fits the speaker's feelings based on the text.
+
+The first part of the comment is clearly expressing joy because they say "it was fun." Even though there's a critique afterward, the overall tone doesn't seem angry or upset. It's more of an observation than a complaint. The word "ffs" (which I think stands for "for fuck's sake") might indicate some frustration, but it's not directed at others; it's just a mild exclamation.
+
+I don't detect any signs of fear, disgust, sadness, or surprise here. It doesn't seem like the speaker is worried, revolted, sad, or astonished. Instead, they're recounting an event that ended on a fun note but also pointing out a missed opportunity without strong negative emotion.
+
+So, despite the mild frustration implied by "ffs," the primary emotion seems to be joy because of the initial positive statement about it being fun. The critique doesn't override that initial feeling.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "well guys it was fun. [NAME] passed up the open three ffs". 
+
+First, let's break down what this might mean. The phrase "[NAME] passed up the open three ffs" sounds like a critique or maybe a complaint about someone not taking an opportunity. "Passed up" suggests they missed something, possibly important or advantageous. The use of "ffs" at the end is internet slang for "for fuck's sake," which often conveys frustration.
+
+Looking at the emotion categories:
+
+1. **Anger**: This usually involves strong displeasure or antagonism. If someone is frustrated about a missed opportunity, they might be angry.
+2. **Disgust**: This is more about revulsion towards something unpleasant. The comment doesn't seem to describe something gross but rather an action that's disappointing.
+3. **Fear**: There's no indication of fear or worry here; it's more about the action taken.
+4. **Joy**: Definitely not, as there's a negative tone.
+5. **Sadness**: While disappointment could be sadness, the frustration and use of "ffs" leans more towards anger.
+6. **Surprise**: There's no element of astonishment or unexpectedness in the comment.
+7. **Neutral**: The speaker is expressing an emotion, so it's not neutral.
+
+The key indicators are the frustration implied by "ffs" and the critique about missing an opportunity. These point towards anger rather than just disappointment, which might be sadness. Therefore, the emotion here is likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

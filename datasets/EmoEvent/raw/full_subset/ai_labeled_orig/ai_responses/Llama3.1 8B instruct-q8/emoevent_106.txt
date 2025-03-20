@@ -1,0 +1,35 @@
+Record: "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The author mentions a negative experience while watching Game of Thrones.
+- They express frustration with their viewing conditions.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is complaining about an issue with the TV brightness while watching Game of Thrones.
+* They are expressing frustration and annoyance with the situation.
+* There's no indication of strong emotions like fear, disgust, or sadness.
+
+Given these points, the most relevant emotion label is:
+**anger**
+
+Note that while "anger" is a broad category, it encompasses the specific sentiment of annoyance and frustration expressed in the tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a negative sentiment about their viewing experience of Game of Thrones.
+* They mention struggling to see what's on the screen, implying frustration with the visuals.
+* The tone is informal and humorous.
+
+Given these considerations, the most relevant emotion label is: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+

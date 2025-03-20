@@ -1,0 +1,72 @@
+Record: "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment is: "Im not in a hurried, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey." 
+
+First, let's break down the sentence. The user mentions they're "not in a hurry," which might indicate patience or calmness. They set their goal as playing Brawlhalla and are committed to it. However, upon realizing how much time others have spent, they express that it's going to be a long journey.
+
+The key part here is the reaction after hearing about the hours people have invested. The word "but" suggests a shift in tone. They start positive but end with a realization of the effort required. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. 
+
+- Anger doesn't fit because there's no expression of irritation or hostility.
+- Disgust isn't present; they're not reacting to something unpleasant.
+- Fear might be considered if they're worried about the journey, but the statement is more about acceptance than fear.
+- Joy isn't evident; while setting a goal can be positive, the overall tone isn't joyful.
+- Sadness could be possible if they feel down about the long effort, but it's more of an acknowledgment rather than sadness.
+- Surprise doesn't seem right as there's no astonishment expressed.
+- Neutral is when there's no emotion, but here the speaker is reflecting on their commitment and the work ahead.
+
+Wait, maybe I should consider if "sadness" fits. They're aware that achieving this goal will take a lot of time and effort, which might lead to feeling a bit discouraged or disappointed. But another angle is that they're showing determination despite knowing it's tough—maybe not sadness but more neutral.
+
+But looking at the examples for each emotion, joy includes things like excitement and optimism. The speaker seems determined rather than excited. Sadness involves emotional pain or sorrow; their comment is more about acceptance of a challenge. Fear includes nervousness or anxiety, which might apply if they're worried about the time commitment. 
+
+Hmm, perhaps fear isn't the right fit either because it's not clear they're feeling anxious but rather realistic about the effort required.
+
+Wait, maybe neutral is the best fit because they're stating facts without expressing a strong emotion—commitment and acknowledgment of the challenge without overt emotion.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion the speaker is feeling based on their comment. Let me break it down.
+
+The speaker says, "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey." 
+
+First, I notice they mention that it's not a rush but their goal. That sounds positive and determined. Then, when they realize others have spent many hours, they acknowledge that the journey will be long. It doesn't seem negative; instead, it shows awareness of the challenge ahead.
+
+Looking at the emotion categories: anger would involve frustration or dislike, which isn't here. Disgust is about revulsion, not applicable. Fear involves worry or anxiety—maybe, but the tone seems more reflective than anxious. Joy is happiness, but this isn't exactly joy either. Sadness is emotional pain; again, it's more of an acknowledgment rather than sadness.
+
+Surprise would be if something unexpected happened, which isn't the case here. Neutral means no emotion, but I think there's a hint of determination or realization that leans into another category.
+
+Wait, maybe "surprise" because they're realizing how long it'll take? But actually, the speaker seems to have anticipated this and is accepting it. So maybe not surprise. It feels more like neutral because while they're expressing a goal, there's no strong emotion attached—just stating facts.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The comment says: "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey."
+
+First, I'll break down the sentence. The speaker mentions they're not in a hurry and that it's their goal for Brawlhalla. This part seems positive or at least determined. Then, they mention hearing about how many hours others have put in, which makes them realize it's going to be a long journey.
+
+So, the first part sounds like determination (maybe joy or something positive), but then after realizing the effort required, they might feel a bit down. The phrase "gonna be a long journey" suggests some level of discouragement or acknowledgment that achieving their goal will take time and effort. This could relate to sadness because it's about facing a tough challenge that might cause disappointment or maybe even a sense of weight.
+
+Alternatively, maybe fear because it's daunting to think about the hours needed, but I think more along the lines of sadness. They're expressing that they have a goal, but understanding the effort required might lead them to feel sad about the journey ahead, perhaps feeling overwhelmed or disappointed.
+
+I don't see any signs of anger, disgust, or surprise here. It's not an intense reaction like fear; it's more of a reflective statement on realizing the challenge, which aligns with sadness.
+</think>
+
+The speaker expresses determination in setting their goal but also acknowledges the significant effort required, leading to a sense of discouragement.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

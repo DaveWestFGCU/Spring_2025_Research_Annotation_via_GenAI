@@ -1,0 +1,52 @@
+Record: "I'm not really interested in collecting them but I do enjoy watching videos of people who restore old hotwheels."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "I'm not really interested in collecting them but I do enjoy watching videos of people who restore old hotwheels." 
+
+The author is talking about not being interested in collecting something but finding enjoyment in watching others restore old Hot Wheels. The key word here is "enjoy," which suggests a positive emotion.
+
+Looking at the options, joy includes serenity and ecstasy, so it's the best fit here because the author expresses clear enjoyment from watching the videos. There's no indication of anger, disgust, fear, sadness, or surprise in the tweet. It's purely about deriving pleasure from someone else's activity.
+
+I should make sure not to overcomplicate this. The tone is straightforward and positive without any hints of other emotions. So, classifying it as joy seems accurate.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again carefully.
+
+The tweet says, "I'm not really interested in collecting them but I do enjoy watching videos of people who restore old hotwheels." 
+
+Hmm, breaking it down: The author starts by stating they're not interested in collecting something. That part might imply a lack of interest or maybe even some mild dislike, which could relate to disgust or disinterest. But then the second part says they enjoy watching videos about restoring old Hot Wheels. So, that's an expression of enjoyment.
+
+I should focus on the stronger emotion here. While there's a negative point about not being interested in collecting, the positive aspect is about enjoying something else. Enjoyment falls under joy or serenity. Since "enjoy" is a positive feeling, it leans more towards joy.
+
+Disinterest could relate to disgust, but the overall sentiment isn't negative; it's mixed with a positive experience. The key emotion conveyed here is the enjoyment from watching the videos, which points clearly to joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion is being conveyed in this tweet: "I'm not really interested in collecting them but I do enjoy watching videos of people who restore old hotwheels." The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the sentence. The author starts by saying they're not really interested in collecting something. That part might imply a lack of interest or maybe even a bit of disinterest. But then they switch gears and mention that they enjoy watching videos of people restoring old Hotwheels. 
+
+So, the first part is about not being into collecting, which could lean towards disgust or disinterest. However, the second part talks about enjoyment from watching something else. Enjoyment is definitely a positive emotion, so joy comes to mind.
+
+I need to decide between disgust and joy here. The tweet starts with disinterest but ends with a positive statement. Since emotions can be mixed, but I have to choose the most relevant one. The key word here is "enjoy," which strongly indicates joy. Even though there's a bit of disinterest at the beginning, the predominant emotion seems to be joy because they're expressing that they do enjoy something.
+
+So, considering all this, the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

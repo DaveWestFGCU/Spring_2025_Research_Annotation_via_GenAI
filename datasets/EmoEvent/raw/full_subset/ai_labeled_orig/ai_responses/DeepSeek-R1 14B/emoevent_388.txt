@@ -1,0 +1,50 @@
+Record: "USER #BarcaLiverpool Barca are just better today. Thats it. #Messi #goaloftheweek #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet based on the emotion the author intended to convey. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "USER #BarcaLiverpool Barca are just better today. Thats it. #Messi #goaloftheweek #ChampionsLeague"
+
+The user is talking about Barcelona being better in this game against Liverpool. They mention Messi and a goal of the week, which sounds positive. The hashtags also include Champions League, so it's related to that competition.
+
+The phrase "Barca are just better today" has a confident tone. The author seems proud or happy with how Barcelona is performing. There's no indication of negative emotions like anger or disgust. They're not expressing fear or sadness either. It doesn't seem like they're surprised because they're stating it as a fact.
+
+So, the emotion here is likely joy because they're celebrating their team's performance and the success in the competition.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm looking at this tweet from the user: "#BarcaLiverpool Barca are just better today. That's it. #Messi #goaloftheweek #ChampionsLeague." They're talking about Barcelona being better in a game against Liverpool, highlighting Messi and mentioning a goal of the week in the Champions League.
+
+First, I need to classify the emotion here using the given categories: anger, disgust, fear, joy, sadness, surprise. The user is expressing that Barcelona is superior today, which seems positive. They're probably happy about their team's performance.
+
+Looking at the hashtags like #Messi and #ChampionsLeague, they seem enthusiastic. The phrase "That's it" could indicate satisfaction or finality in their statement, adding to the sense of joy. There's no indication of negative emotions like anger or sadness; instead, it feels uplifting.
+
+So, the emotion here is clearly joy because the user is expressing pride and happiness about their team's success.
+</think>
+
+The tweet expresses joy as the author celebrates Barcelona's superior performance in the match against Liverpool, highlighting Messi's contribution and a notable goal in the Champions League context. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+First, looking at the tweet: "Barca are just better today." The user is talking about Barcelona and Liverpool in a Champions League context. They mention Messi and highlight a goal of the week.
+
+The tone seems positive because they're stating that Barca is better and using hashtags like #Messi and #ChampionsLeague which are usually associated with pride or excitement. There's no negative language here, so I can eliminate anger, disgust, fear, and sadness.
+
+Now, between joy, surprise, and maybe others. The tweet doesn't express shock or unexpectedness, so probably not surprise. It's more about affirmation of their team's quality. So, joy fits best as the emotion conveyed is satisfaction and pride in Barca's performance.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

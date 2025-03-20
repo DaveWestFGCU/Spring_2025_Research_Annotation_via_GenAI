@@ -1,0 +1,67 @@
+Record: "English Premier League = best League in the World. Righto!! 🙄 #barcalfc #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I have to classify this tweet's emotion from a list of six options: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet carefully.
+
+The tweet says: "English Premier League = best League in the World. Righto!! 🙄 #barcalfc #ChampionsLeague"
+
+First, breaking down the content. The author is stating that the English Premier League is the best league in the world. They follow this with "Righto!!" which seems enthusiastic or affirmative. Then there's a raised eyebrow emoji (🤨), and some hashtags related to Barcelona FC and the Champions League.
+
+Looking at their statement, they're clearly expressing pride or approval about the EPL. The use of "best" is strong praise. The "Righto!!" adds to that enthusiasm, suggesting agreement or satisfaction. The raised eyebrow emoji could indicate a slight smirk or confidence—maybe playful but still positive.
+
+Considering the emotion categories:
+
+- Anger: Doesn't seem relevant as there's no sign of irritation or rage.
+- Disgust: No indication of dislike or disinterest here; instead, it's praise.
+- Fear: No anxiety or apprehension in the tweet.
+- Joy/Serenity/Ecstasy: Fits because the author is expressing satisfaction and pride. The enthusiasm aligns with joy.
+- Sadness/Grief/Pensiveness: Not present; the tone is positive.
+- Surprise: There's no unexpected element here, just a confident statement.
+
+The raised eyebrow emoji might be a bit confusing since it can sometimes imply skepticism, but in this context, paired with the praise and enthusiastic exclamation, it likely adds to the confidence rather than any negative emotion. The hashtags are about their favorite team (Barcelona) and the Champions League, so they're probably happy about their teams' success.
+
+So overall, the emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm trying to figure out the emotion behind this tweet: "English Premier League = best League in the World. Righto!! 🙄 #barcalfc #ChampionsLeague". Let me break it down step by step.
+
+First, the user is stating that the English Premier League is the best league in the world. That's a strong claim, so they're expressing their opinion confidently. The word "best" is definitive and shows enthusiasm.
+
+Next, there's an exclamation: "Righto!!". Exclamations often indicate strong emotions like excitement or agreement. Here, it seems to emphasize their conviction about the league's superiority.
+
+The emoji used is a raised eyebrow, 🙄. This can convey several things, but in this context, it might be a playful or slightly sarcastic way of expressing doubt or disbelief towards those who disagree. However, combined with the confident tone of the message, it could also add a layer of emphasis rather than indicating sarcasm.
+
+Looking at the hashtags, #barcalfc refers to Barcelona FC, and #ChampionsLeague is about the UEFA competition. This might indicate that the user has a particular interest in these teams or competitions but isn't necessarily showing direct emotion towards them.
+
+Considering the possible emotions: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't express any negative feelings like anger or disgust. There's no fear or anxiety here. Sadness is also not present. Surprise might come into play if something unexpected was mentioned, but in this case, it's a statement of belief.
+
+Joy seems to fit best because the user is expressing strong approval and confidence about the English Premier League being the best. The exclamation and the raised eyebrow emoji add to the enthusiastic tone, which aligns with joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion this tweet is conveying. The user says, "English Premier League = best League in the World. Righto!! 🙄 #barcalfc #ChampionsLeague." 
+
+First, the statement is expressing a strong opinion that the EPL is the best league, with an enthusiastic exclamation and a raised eyebrow emoji. The emojis often indicate emotions, and the 😂 (which might be a typo for 🙄) suggests amusement or maybe sarcasm.
+
+The hashtags include #barcalfc (Barcelona FC) and #ChampionsLeague. Since Barcelona is in La Liga, not EPL, and the UCL is mentioned, perhaps the author is highlighting EPL's superiority over other leagues, including those that compete in the Champions League.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The exclamation and smiley emoji suggest positive emotions. "Righto!!" is affirmative and enthusiastic, indicating joy or maybe pride. The raised eyebrow could add a touch of sarcasm but still within a positive or amused context.
+
+No signs of anger, disgust, fear, or surprise. Sadness doesn't fit either. So the emotion here is likely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

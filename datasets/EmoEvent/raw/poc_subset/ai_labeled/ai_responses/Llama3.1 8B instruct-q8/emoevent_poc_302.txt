@@ -1,0 +1,31 @@
+Record: "Yay, now we're only down by 7"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains the word "Yay", which is a positive expression often associated with excitement or happiness.
+* The tone of the message seems lighthearted and casual, suggesting that the author is trying to find a silver lining in an otherwise negative situation.
+
+Given these considerations, **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text uses a positive phrase ("Yay") which indicates a celebratory tone.
+* The context appears to be a sports game or competition where the team is trailing.
+
+Given these considerations, the author likely intended to convey a sense of **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses a positive phrase ("Yay") which is typically associated with excitement or happiness.
+* The context of being "down by 7" suggests a competitive situation where the outcome is uncertain.
+
+Most relevant emotion label: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

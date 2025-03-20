@@ -1,0 +1,39 @@
+Record: "We save Notre Dame From the ravages of fire But the world still burns. #NotreDameCathedralFire  #ClimateChange"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The tweet mentions saving Notre Dame from a devastating fire.
+* It then shifts its focus to "the world still burning", which suggests referencing global environmental issues like climate change.
+
+Given these points, it appears that the author is mourning the loss and damage caused by the fire, but also lamenting the larger issue of climate change affecting the planet. The tone seems melancholic and critical.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions saving Notre Dame from a fire, which is a positive outcome.
+* However, the tone shifts with the phrase "But the world still burns", implying that while one catastrophe has been avoided, others persist or continue to be relevant.
+* The hashtags #ClimateChange suggest a broader concern beyond just the cathedral fire.
+
+Given these points, the emotion label that best captures the author's intended tone is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a tragic event (the fire at Notre Dame Cathedral) and a broader, ongoing issue (climate change)
+* The tone appears to be reflective and poignant rather than celebratory
+* The use of the word "ravages" suggests destruction or devastation
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The tweet expresses a sense of sadness and loss over the fire at Notre Dame Cathedral, as well as a broader concern for the state of the world due to climate change.
+------------------------------------------------------------------------------------------------------------------------
+

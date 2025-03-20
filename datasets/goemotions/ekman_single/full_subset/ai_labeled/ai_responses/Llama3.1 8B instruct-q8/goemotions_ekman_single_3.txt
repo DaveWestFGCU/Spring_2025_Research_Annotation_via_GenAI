@@ -1,0 +1,65 @@
+Record: "I love the guy who is like "the analogy is daft. Cheese would sink", like that isn't the point."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are some important points to consider given the text:
+
+* The speaker seems to be expressing frustration or annoyance with someone's comment.
+* They mention a specific example of an analogy being dismissed, implying that they think it's meaningful and others don't understand its value.
+* The tone is somewhat playful and tongue-in-cheek, but still conveys a sense of exasperation.
+
+Given these points, the most relevant emotion label is: **disgust**.
+
+This may seem counterintuitive, as disgust is typically associated with strong moral or aesthetic revulsion. However, in this case, the speaker's tone suggests that they're not just annoyed, but also slightly repelled by the other person's dismissive attitude towards the analogy. The use of "daft" to describe the analogy also implies a sense of incredulity and mild disgust at the idea that someone wouldn't see its value.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be defending an idea or concept
+* They are responding to someone else's criticism or dismissal of that idea
+* Their tone is dismissive and slightly exasperated, but not aggressive
+* They're not expressing a strong negative emotion towards the person they're addressing
+
+Most relevant emotion label: **surprise** (or possibly **neutral**, as their response doesn't seem particularly emotional). However, given the context of defending an idea from someone else's criticism, I lean more towards **surprise**. The speaker seems to be surprised that the other person would dismiss the analogy so bluntly, and is responding with a lighthearted but firm defense.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be responding to someone else's argument or opinion.
+* They mention something being "daft," which implies a sense of annoyance or frustration with the other person's idea.
+* However, the tone seems more playful and tongue-in-cheek than aggressive.
+
+Given these points, the emotion most likely felt by the speaker is:
+
+**amusement/joy**, but since amusement isn't in our list, I'll choose the closest category which is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker is responding to someone's argument, specifically an analogy made by another user.
+* They express a sentiment of disagreement or disapproval towards this analogy.
+* The tone seems to be one of annoyance or frustration with the other person's perspective.
+
+Most relevant emotion label: **anger** (displeasure or antagonism towards the analogy and possibly the person who made it)
+
+Note that while the speaker is expressing strong emotions, it's more focused on disagreement and frustration rather than outright hostility.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 5:
+Important points to consider:
+
+* The speaker is responding to someone else's opinion, suggesting a defensive tone.
+* The speaker uses the phrase "love the guy" which implies affection or approval towards someone who holds a different viewpoint.
+* The speaker explicitly states that the opposing view ("the analogy is daft") is not relevant to their point, which may indicate frustration.
+
+Given these points, the most likely emotion the speaker is feeling is:
+
+**joy**
+ 
+The speaker's tone and language suggest they are amused or delighted by someone's comment, and are expressing appreciation for that person's perspective.
+------------------------------------------------------------------------------------------------------------------------
+

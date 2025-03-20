@@ -1,0 +1,38 @@
+Record: "Yeah for me it takes me weeks to get over s relapse"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a "relapse", which implies a setback or failure.
+* The use of the word "weeks" suggests a significant amount of time and effort spent recovering from this setback.
+* The tone is neutral and matter-of-fact, with no apparent excitement or enthusiasm.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a "relapse", which suggests something negative has happened.
+* The use of the word "weeks" indicates that the setback had a significant impact on the author's well-being.
+* The overall tone is introspective and resigned, rather than confrontational or enthusiastic.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a "relapse", which implies that something negative has happened.
+* The use of the word "weeks" suggests a significant and prolonged impact on their life.
+* The tone is reflective, with the author stating a fact about themselves rather than expressing excitement or enthusiasm.
+
+**sadness**
+ 
+The mention of a relapse and the time it takes to recover from it implies that the author is experiencing emotional pain or difficulty, which aligns with feelings of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

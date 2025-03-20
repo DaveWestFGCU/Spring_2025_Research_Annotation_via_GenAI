@@ -1,0 +1,33 @@
+Record: "#Barcelona #Champions of #Laliga ⚽️ again. 8 trophies in 11 years. Well done #Barca. Congratulations #Barcelona and congratulations #Barca fans. Special congratulations #LionelMessi10"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet is about Barcelona winning the La Liga championship, indicating a positive outcome.
+- The use of words such as "Well done", "Congratulations", and a specific mention of Lionel Messi's achievements convey admiration and praise.
+
+**joy**
+The overall tone of the tweet suggests that the author is pleased with Barcelona's victory, making joy the most relevant emotion label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a congratulatory message.
+* It mentions the team's success (winning Laliga).
+* The tone is positive.
+
+Given these points, the emotion label that best fits the author's intent is **joy**. The use of words like "Well done", "Congratulations", and the enthusiastic tone convey a sense of happiness and celebration.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify the tweet, consider the following points:
+
+* The tone of the tweet is positive, using phrases such as "Champions", "Well done", and "Congratulations".
+* The use of emojis (e.g. ⚽️) suggests a celebratory or triumphant mood.
+* The language used to address #Barcelona, #LionelMessi10, and their fans is admiring and appreciative.
+
+Given these points, the most relevant emotion label for the tweet is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

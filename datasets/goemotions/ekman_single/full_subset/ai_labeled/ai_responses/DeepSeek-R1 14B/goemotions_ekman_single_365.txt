@@ -1,0 +1,54 @@
+Record: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out what emotion the speaker is feeling based on their comment. The comment is: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend."
+
+First, I'll break down each part of the sentence. The first part says, "this sort of creativity is awesome to see." The word "awesome" here clearly indicates a positive emotion, likely joy because it's expressing approval and enthusiasm.
+
+Next, they mention "play calling done right," which again shows agreement and approval. This reinforces the idea that the speaker is happy or impressed.
+
+Finally, they predict that the Chargers will "stomp the pats this weekend." Using "stomp" suggests confidence and excitement about the outcome. Words like "stomp" are strong and convey a sense of eagerness and positive anticipation, which aligns with joy.
+
+Looking at the emotion categories: anger is not present because there's no frustration or irritation. Disgust isn't there either; the speaker isn't showing revulsion. Fear? No signs of worry or anxiety. Sadness or surprise? Neither seems to fit here. Neutral is out because they're clearly expressing a strong emotion.
+
+Putting it all together, the consistent theme throughout their comment is positive reinforcement and excitement, which points directly to joy as the emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down what they're saying. They mention that a certain kind of creativity is "awesome" and praise the play calling as being done correctly. Then, they express confidence in the Chargers defeating the Pats. 
+
+Looking at the emotion definitions: Joy includes admiration, approval, excitement. The speaker is clearly impressed ("awesome") and positive about the creativity and strategy. They also show excitement about the upcoming game's outcome.
+
+I don't see any signs of anger or disgust here; their tone is positive. Fear isn't indicated either—they seem confident rather than worried. Surprise would involve something unexpected, but the comment seems more about approval and anticipation. Sadness isn't present either.
+
+So, putting it together, the speaker is expressing joy through their praise and excitement.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their Reddit comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The comment says: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend."
+
+Breaking it down, the first part expresses admiration for creativity and play calling being done correctly. The word "awesome" clearly indicates positive feelings, so that's joy or maybe excitement. 
+
+The second part predicts a team (Chargers) defeating another (Patriots). Using words like "stomp" suggests confidence but not necessarily emotion. However, the overall tone is upbeat and approving.
+
+Looking at the emotion categories, joy fits because of the praise and positive outlook. No signs of anger, disgust, fear, sadness, or surprise here. So the most relevant emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

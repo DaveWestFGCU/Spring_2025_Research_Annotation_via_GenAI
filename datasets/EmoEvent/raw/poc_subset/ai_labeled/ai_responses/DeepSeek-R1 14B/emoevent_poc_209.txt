@@ -1,0 +1,62 @@
+Record: "Was Netflix ever $7.99 for HD streaming?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out how to classify this tweet's emotion. The tweet is asking, "Was Netflix ever $7.99 for HD streaming?" Hmm, okay, so the user is questioning a past price point of Netflix.
+
+First, I need to understand what emotion they're conveying. Let's break it down. They're asking if Netflix was ever at that specific price for HD streaming. It doesn't seem like an angry statement because there's no explicit frustration or ranting. No exclamation marks or strong words, just a straightforward question.
+
+Could it be disgust? I don't think so. Disgust usually involves dislike or aversion, but the tweet is more about seeking information rather than expressing distaste.
+
+Fear? Doesn't seem like it either. There's no indication of anxiety or apprehension here. The user isn't worried about something; they're just curious about a past price.
+
+Joy? Well, asking a question doesn't necessarily mean they're happy. Unless they're hoping for a positive answer, but I don't think that's the case here.
+
+Sadness? Maybe if they're upset about the price increase, but again, it's more of an inquiry than expressing sadness.
+
+That leaves surprise. Now, could this be a surprised tone? If someone is asking whether Netflix was ever cheaper in the past, maybe they're surprised that prices have gone up or are different now. Alternatively, they might be recalling a time when it was cheaper and are surprised by the current price. So, "surprise" fits here because they're questioning something that might not align with their expectations.
+
+Wait, but surprise can also include distraction or amazement. In this case, maybe the user is distracted by thinking about past pricing or amazed that prices have changed so much. Alternatively, perhaps they just want to confirm a memory and aren't necessarily expressing strong emotion. But since it's an emotional classification from a predefined list, "surprise" seems like the closest fit because they're bringing up something unexpected in their mind.
+
+I don't think it's any of the other emotions strongly enough. So yeah, surprise is probably the intended emotion here.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion is behind this tweet: "Was Netflix ever $7.99 for HD streaming?" The user is asking if Netflix's HD streaming was ever priced at $7.99. Let me break it down.
+
+First, the tweet is a question about pricing history. It doesn't express any strong emotions like anger or joy. There are no exclamation points or words that show excitement or frustration. It seems more like someone is seeking information rather than expressing an emotion.
+
+Looking at the possible emotions: anger, disgust, fear, joy, sadness, surprise. I need to pick one. The tweet doesn't indicate any negative feelings towards Netflix, so probably not anger or disgust. There's no sense of fear or anxiety here either. It's not joyful because it's a neutral question. Sadness isn't present either.
+
+Could it be surprise? Well, sometimes asking about past prices might come from being surprised by current prices, but the tweet itself doesn't show shock or amazement. It's more of a factual inquiry without any emotional undertone.
+
+So, considering all options, the emotion that fits best is probably surprise because maybe the user is wondering if it was ever cheaper than they thought. But I'm not entirely sure. Alternatively, since it's just a question seeking info, maybe there's no strong emotion intended. However, from the given list, surprise seems the closest fit as it could imply being surprised by past pricing.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion is behind this tweet: "Was Netflix ever $7.99 for HD streaming?" The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the tweet. The person is asking if Netflix has ever offered HD streaming at $7.99. That seems like a question about pricing history. I don't immediately notice any strong emotion words here—it's pretty straightforward.
+
+Hmm, maybe they're recalling past prices and are surprised or confused because they thought it was cheaper before. Or perhaps they're annoyed if the price increased. Let me think about possible emotions tied to this.
+
+If they're asking out of curiosity, that could relate to surprise—maybe they didn't know the old pricing and find it surprising. Alternatively, if they're thinking about higher prices now, maybe it's frustration or anger, but those aren't in "surprise."
+
+Wait, another angle: maybe they remember a time when it was cheaper and are comparing it to now, which could evoke sadness or nostalgia. But the tweet itself doesn't express any negative emotion; it's just an inquiry.
+
+I think the most likely emotion here is surprise because the user seems to be questioning something they might not know about. They're seeking information, which often comes from a place of curiosity—so that fits under surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

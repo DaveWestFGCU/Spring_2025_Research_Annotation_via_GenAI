@@ -1,0 +1,42 @@
+Record: "I don’t get it. Does r/sardonicast actually believe that BP is highly overrated?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone appears to be one of confusion and inquiry, rather than strong emotions.
+* The language used is neutral and inquiring, with no apparent anger or aggression.
+* The speaker is expressing a lack of understanding about another community's views on BP.
+
+Given these considerations, the most relevant emotion label for this comment is:
+
+**surprise**
+ 
+This is because the speaker seems to be astonished by the fact that r/sardonicast might believe BP is overrated, and is seeking clarification or an explanation for this view. The tone of surprise and inquiry suggests that the speaker is curious and unsure about what others think, rather than expressing strong emotions like anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement is questioning and puzzled, rather than aggressive or confrontational.
+* The speaker seems to be genuinely curious about the opinions expressed in r/sardonicast.
+* There is no hint of negative emotion towards the people or topic being discussed.
+
+Given these considerations, the most relevant emotion label is: **surprise**
+
+The speaker's use of "I don't get it" suggests a sense of confusion and bewilderment, which aligns with surprise. The tone is not angry, disgusted, fearful, joyful, sad, or neutral; rather, it's a questioning and curious expression that implies surprise at the opinions being expressed in r/sardonicast.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing confusion or lack of understanding about something.
+* They are asking for clarification from the community (r/sardonicast).
+* There is no apparent aggression, offense, or emotional negativity in their tone.
+
+Most relevant emotion label: **surprise** 
+
+The speaker's comment implies that they are astonished or startled by the idea that r/sardonicast might think BP is highly overrated. They seem to be seeking clarification and understanding, which aligns with a surprised or puzzled tone.
+------------------------------------------------------------------------------------------------------------------------
+

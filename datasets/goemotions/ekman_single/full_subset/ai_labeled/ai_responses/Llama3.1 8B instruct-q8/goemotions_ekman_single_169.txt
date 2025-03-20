@@ -1,0 +1,55 @@
+Record: "I tried at a joke that relates to the post..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions trying to make a joke, which implies they are attempting to be humorous.
+* There is no indication of strong negative emotions such as anger, disgust, fear, or sadness in the comment.
+* The tone appears lighthearted and casual.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions trying to make a joke.
+* The tone of the sentence suggests self-deprecation and perhaps a hint of embarrassment.
+
+Given these considerations, the most relevant emotion label is **surprise**, as it implies that the speaker was attempting to be humorous but may not have been successful or was unsure how their attempt at humor would be received. However, surprise could also imply the speaker was trying to make others laugh with an unexpected twist in a joke, which is why I selected this category.
+
+Alternatively, **sadness** might also be considered if the speaker felt embarrassed about their failed joke attempt and was expressing disappointment or self-pity.
+
+But overall, I lean towards **surprise**, given that the sentence doesn't have an explicitly negative connotation (like anger) or a strong reaction to something unpleasant (like disgust).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions trying to make a joke, which suggests they were attempting to be humorous.
+* The tone is apologetic and somewhat self-deprecating, as indicated by the phrase "I tried".
+* There's no indication of strong emotions such as anger, disgust, fear, or sadness.
+
+Given these points, it appears that the speaker is expressing a lack of emotional investment in their failed joke attempt. They're not upset or frustrated, but rather acknowledging that their attempt at humor didn't work out.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker mentions trying to make a joke.
+* The tone of the sentence is casual and lighthearted.
+* There's no indication of strong emotions like anger, disgust, or fear.
+
+Based on these points, I think the most relevant emotion label for this comment is:
+
+**neutral**
+
+The reason is that there's no explicit expression of joy, sadness, surprise, or any other strong emotion. The tone seems to be neutral and matter-of-fact, indicating that the speaker is simply stating a fact about trying to make a joke without expressing any particular feeling.
+------------------------------------------------------------------------------------------------------------------------
+

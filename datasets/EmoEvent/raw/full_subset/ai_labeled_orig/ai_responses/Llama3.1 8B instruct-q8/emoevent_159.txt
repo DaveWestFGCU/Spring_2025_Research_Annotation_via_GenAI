@@ -1,0 +1,36 @@
+Record: "#GameofThrones wow just wow, great battle and really feels like a movie and you just couldnt predict who was going to do and how it was going to end but the way the end it, wow #GamesOfThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses enthusiastic language such as "wow" multiple times.
+* They express excitement about the show's engaging plot twists and cinematic quality.
+* There is no mention of negative emotions or critical comments.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+The author's use of excited language and positive commentary suggests that they are expressing joy and enthusiasm for the show.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet contains enthusiastic language ("wow", "great battle").
+- The author expresses surprise at the unpredictable plot twists.
+- The text describes a positive emotional experience.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about Game of Thrones, a popular TV series.
+* The author uses words such as "wow" and "great", indicating a positive tone.
+* The author mentions being surprised by the ending.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

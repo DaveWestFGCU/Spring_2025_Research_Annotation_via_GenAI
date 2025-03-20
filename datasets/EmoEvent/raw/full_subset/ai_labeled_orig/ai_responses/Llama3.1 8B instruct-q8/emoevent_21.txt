@@ -1,0 +1,42 @@
+Record: "Happy #WorldBookDay! #DidYouKnow that over 1 million books have been borrowed from #QNL in the past year? We challenge you to read a book every month! Which books do you plan on adding to your list? Special thanks to USER for the awesome images! https://t.co/HTZtJiryGI"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts with "Happy #WorldBookDay!", indicating a positive tone.
+* The use of hashtags and enthusiastic language ("We challenge you to read a book every month!") suggests excitement and encouragement.
+* The mention of borrowing over 1 million books in the past year implies a sense of achievement or accomplishment.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The tweet conveys a sense of happiness and enthusiasm for World Book Day, encouraging readers to engage with books and promoting a positive tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet starts with "Happy", which is a positive greeting.
+* The text mentions borrowing over 1 million books, indicating success and achievement.
+* The author encourages readers to read a book every month, which suggests enthusiasm for reading.
+* The tone is light-hearted and inviting, with a call to action.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider given the text:
+
+* The tone of the tweet is overall positive and celebratory, as indicated by the use of "#WorldBookDay" and "Happy".
+* The language used is enthusiastic and encouraging, with a challenge to read a book every month.
+* There is no negative or critical language in the tweet.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+This is because the tone of the tweet is positive and celebratory, indicating that the author intended to convey joy and enthusiasm for World Book Day.
+------------------------------------------------------------------------------------------------------------------------
+

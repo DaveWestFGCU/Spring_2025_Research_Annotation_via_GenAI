@@ -1,0 +1,18 @@
+Record: "What an atmosphere last night. It’s a shame the players didn’t use it. We were the 12th man last night. #COYS #ChampionsLeague https://t.co/LzXXsYklDJ"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about the UEFA Champions League. The user is talking about the atmosphere being great, but the players didn't use it. They mention feeling like the 12th man, which usually refers to a strong home crowd support.
+
+Hmm, the tone here seems a bit disappointed or maybe frustrated. They were hoping the team would perform well with all that support, but it didn't happen. So I'm thinking about the emotions listed: anger, disgust, fear, joy, sadness, surprise.
+
+Disappointment could fall under sadness because it's a feeling of letdown or sorrow over unmet expectations. Alternatively, frustration might lean towards anger, but in this case, it's more about the situation not going as hoped rather than intense rage.
+
+Looking at the guidelines, if it's a secondary emotion similar to pensiveness or grief, that's sadness. The user is reflecting on what could have been, which feels like a sad sentiment.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

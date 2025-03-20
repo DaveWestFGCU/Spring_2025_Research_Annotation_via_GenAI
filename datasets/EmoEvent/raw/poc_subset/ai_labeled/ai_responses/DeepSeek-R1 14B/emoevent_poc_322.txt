@@ -1,0 +1,68 @@
+Record: "Who wrote the IQ tests?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet: "Who wrote the IQ tests?" based on the emotion it conveys. The possible emotions are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let me understand the content of the tweet. The person is asking who wrote IQ tests, which might imply they're questioning something about intelligence assessments. They could be expressing curiosity, confusion, or possibly frustration.
+
+Looking at each emotion category:
+- Anger: This would involve strong feelings like annoyance or rage. The tweet doesn't seem to express irritation but rather a question.
+- Disgust: Includes dislike or disinterest. There's no clear indication of dislike here; it's more about puzzlement.
+- Fear: Involves anxiety or terror. Again, the tweet isn't expressing fear but perhaps surprise.
+- Joy: Serenity or ecstasy. Doesn't fit as the tweet doesn't show happiness.
+- Sadness: Grief or pensiveness. The tweet isn't sad; it's more of a query.
+- Surprise: Distraction or amazement. Since they're asking who wrote IQ tests, maybe they find it surprising that someone created them.
+
+I think the emotion here is surprise because the person is questioning something, possibly amazed or curious about the origin of IQ tests. It doesn't show anger or disgust; instead, it's more about wonderment.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the author is conveying in this tweet: "Who wrote the IQ tests?" The options are anger, disgust, fear, joy, sadness, or surprise. Let me break this down.
+
+First, the tweet is a question about who created IQ tests. It doesn't seem to express any overt emotion at first glance. But I should consider the context and possible implications. Maybe the author is frustrated with IQ tests? If so, that could point towards anger. Alternatively, they might be expressing disgust if they find IQ tests repulsive or dislike them.
+
+Wait, but "Who wrote..." sounds more like curiosity or surprise. Could it be that the person is surprised about something related to IQ tests? Maybe they're amazed at how such tests were created or perhaps found it surprising who was responsible. Alternatively, maybe they're expressing frustration (anger) because they think IQ tests are flawed or unfair.
+
+I'm a bit torn between anger and surprise here. The question doesn't show strong positive emotions like joy or serenity, so I can eliminate that category. It's not sadness or fear either. So it's probably either anger or surprise. 
+
+If the author is asking out of curiosity about the origin, maybe surprise fits better because they might be amazed at who came up with IQ tests. On the other hand, if they're questioning the validity or fairness of IQ tests, that could lean towards anger or frustration.
+
+Given that it's a short question without strong emotional language, I think surprise is more likely. The author seems to be expressing bewilderment or astonishment about who created IQ tests rather than being angry.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion is behind the tweet: "Who wrote the IQ tests?" The user wants me to classify it into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me break this down step by step.
+
+First, let's look at the tweet itself. It's a question asking who wrote IQ tests. On the surface, it seems straightforward—maybe someone is curious about the origin of IQ tests. But I should consider the possible underlying emotions that could be driving this question.
+
+The options given are pretty broad categories, so I need to think about which emotion fits best. Let me go through each one:
+
+1. **Anger**: This includes annoyance or rage. If someone is angry, they might be expressing frustration. The tweet doesn't explicitly show anger, but maybe the person is annoyed with IQ tests in general.
+
+2. **Disgust**: Includes disinterest or dislike. If someone feels disgust towards IQ tests, perhaps they find them outdated or biased. The question could be a way of criticizing the concept.
+
+3. **Fear**: Involves apprehension or anxiety. Maybe the person is worried about taking an IQ test and is questioning who would create such a stressful thing.
+
+4. **Joy**: Serenity or ecstasy. It's less likely, but maybe someone is pleasantly surprised by something related to IQ tests.
+
+5. **Sadness**: Includes pensiveness or grief. Perhaps the person feels sad because they didn't perform well on an IQ test and is questioning its validity.
+
+6. **Surprise**: Amazement or distraction. This could be if someone finds the idea of IQ tests surprising or is amazed by them.
+
+Now, considering all these, I think the most fitting emotion here might be surprise. The tweet seems more like a rhetorical question or an expression of astonishment rather than any negative emotion like anger or disgust. Alternatively, it could be frustration (anger), but without more context, surprise feels like a good fit.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,52 @@
+Record: "What a way to bring up your 600th career goal 🙌 Welcome to the 600th club 👏👏  #UCL  #ChampionsLeague  #BarcellonaLiverpool https://t.co/EbEKmIWZQ7"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out what emotion is in this tweet. The user provided a sample classification and explanation, so I should follow that approach.
+
+First, looking at the tweet: "What a way to bring up your 600th career goal 🙌 Welcome to the 600th club 👏👏 #UCL #ChampionsLeague #BarcellonaLiverpool https://t.co/EbEKmIWZQ7"
+
+The user's sample response was **joy**, so I need to see why that makes sense.
+
+Breaking down the tweet: The author is talking about a player reaching their 600th career goal. They use emojis like 🙌 and 👏👏, which are typically associated with celebration or praise. Words like "way" and "welcome" sound positive and congratulatory. The hashtags are related to the Champions League, so it's likely about a football match or achievement.
+
+Considering the emotion categories: Joy includes serenity, ecstasy, etc., which fits here because the tweet is expressing excitement and congratulations. There's no sign of anger, disgust, fear, sadness, or surprise. It's purely celebratory.
+
+So, I agree with the sample response. The emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's see. I need to classify this tweet based on the emotion the author is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "What a way to bring up your 600th career goal 🙌 Welcome to the 600th club 👏👏 #UCL #ChampionsLeague #BarcellonaLiverpool". Hmm, first off, the use of emojis like 🙌 and 👏 seems positive. The words "Welcome to the 600th club" sound congratulatory.
+
+The hashtags are related to UCL (which is the Champions League) and mention a specific match between Barcelona and Liverpool. The tweet is celebrating someone reaching their 600th goal, which is a significant milestone.
+
+So the emotion here seems to be joy because it's expressing congratulations and excitement about an achievement. There’s no sign of anger, disgust, fear, sadness, or surprise—just pure happiness.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query. The user provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It says, "What a way to bring up your 600th career goal 🙌 Welcome to the 600th club 👏👏 #UCL #ChampionsLeague #BarcellonaLiverpool". The user used emojis like 🙌 and 👏👏 which are celebratory.
+
+The tweet is about reaching the 600th career goal, which sounds like a significant milestone. Words like "way to go," "welcome," and the use of clapping hands indicate positive emotions. It's likely expressing joy or pride in this achievement.
+
+Looking at the emotion categories: anger doesn't fit because there's no frustration. Disgust isn't here either; it's not negative. Fear is absent since there's nothing scary. Sadness is also not present—it’s a happy moment. Surprise could be possible, but it seems more about celebration rather than being surprised.
+
+So the main emotion conveyed is joy. The user is celebrating someone's achievement, which aligns with the "joy" category.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

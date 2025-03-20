@@ -1,0 +1,38 @@
+Record: "Happy #WorldBookDay from me &amp; mine to you &amp; yours ❤️📚❤️ Thank you to all the readers, writers, booksellers, editors, proofreaders, publicists, designers, publishers, distributors, sales teams, &amp; book-loving people! #WeOughtaKnow #BuffyBio https://t.co/VKCnuD9LE3"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet uses heart emojis (❤️), which is a common symbol for affection and happiness.
+* The tone of the message is formal, yet enthusiastic and celebratory.
+* The language used expresses gratitude and appreciation for various individuals involved in the book industry.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text includes a smiling emoticon (❤️) which is often associated with happiness and positivity.
+* The language used is formal and celebratory, with phrases such as "Happy #WorldBookDay" and "Thank you".
+* There is no negative or critical tone in the text.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a greeting and thanks to various groups of people on World Book Day.
+* It uses positive language and emoticons (❤️).
+* The tone appears celebratory and grateful.
+
+**joy**
+
+The author's intention is to convey happiness and appreciation for the people involved in the book industry, making joy the most relevant emotion label.
+------------------------------------------------------------------------------------------------------------------------
+

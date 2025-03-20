@@ -1,0 +1,40 @@
+Record: "He really do be like that."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is casual and informal.
+* The sentence is a statement of fact about someone's behavior, rather than an expression of emotion.
+* The language used is colloquial and idiomatic.
+
+Given these points, it appears that the speaker is simply stating something about someone's behavior without expressing any strong emotions. This suggests a neutral tone.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is informal and casual.
+* The language used is colloquial ("do be like that" is a non-standard way of saying "he behaves in that way").
+* The speaker seems to be referencing someone's behavior, but doesn't explicitly express any emotion.
+
+Given these points, I would analyze the comment as:
+
+The sentence appears to be a matter-of-fact statement about someone's behavior, without any emotional tone or investment. It could be interpreted as a neutral observation.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement is casual and informal.
+* The language used is conversational and lacks any strong emotional vocabulary.
+* The speaker seems to be commenting on someone's behavior, but doesn't express a clear opinion or emotion about it.
+
+Given these points, the most relevant emotion label for this comment is **neutral**. The speaker appears to be stating an observation about someone's behavior without expressing any strong emotion or opinion about it.
+------------------------------------------------------------------------------------------------------------------------
+

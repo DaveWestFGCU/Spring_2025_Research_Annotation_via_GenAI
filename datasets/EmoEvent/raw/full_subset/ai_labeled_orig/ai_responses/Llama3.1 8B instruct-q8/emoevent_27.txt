@@ -1,0 +1,39 @@
+Record: "#Venezuela Correcting manipulation. Armoured car RUN OVER helpless citizens. https://t.co/HtDxCuK8Wm"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The tweet mentions an armoured car running over helpless citizens.
+* This suggests a violent and disturbing event.
+* The use of the word "RUN" in all caps may convey a sense of urgency or shock.
+
+Given these considerations, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet appears to be a reaction to an incident involving an armoured car and citizens in Venezuela.
+* The language used is critical, with the author "Correcting" what they perceive as manipulation.
+* The link provided suggests that the author is sharing evidence or more information about the incident.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The tone of the tweet suggests a strong negative reaction to the situation, which is consistent with anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet criticizes or corrects something called "manipulation" related to Venezuela.
+* It mentions an armored car running over citizens, which implies harm and distress caused by those in power.
+* The tone is critical and accusatory.
+
+Given these points, the author's intended emotion appears to be a strong negative reaction to a situation involving harm and manipulation. 
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

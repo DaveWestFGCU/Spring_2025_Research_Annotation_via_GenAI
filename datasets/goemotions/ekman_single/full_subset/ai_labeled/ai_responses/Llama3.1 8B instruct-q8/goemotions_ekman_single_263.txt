@@ -1,0 +1,42 @@
+Record: "Trade up for Haskins. If that doesn't happen give me Greedy."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions a desire to trade up for a player named Haskins.
+* The tone of the comment is imperative, with a sense of urgency and expectation ("If that doesn't happen").
+* The use of "give me" suggests a strong preference or demand.
+
+Given these points, it appears that the speaker is feeling:
+
+**anger**
+
+The speaker's language and tone suggest frustration and annoyance with a current situation (possibly related to their team's roster or game plan), which aligns with the definition of anger as a strong feeling of displeasure.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be offering advice or making a suggestion.
+* They are advocating for a specific trade, which implies some level of investment or attachment to the outcome.
+* The tone is straightforward and lacks any obvious emotional language.
+
+Given these considerations, the most relevant emotion label for this comment is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be making a statement about what they think should be done regarding football player trades.
+* The tone is direct and matter-of-fact, without any apparent emotional emphasis or inflection.
+* There is no explicit expression of negative emotions such as anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label is:
+
+**Neutral**
+
+The speaker's statement appears to be a straightforward recommendation or suggestion, without any evident emotional tone or emphasis.
+------------------------------------------------------------------------------------------------------------------------
+

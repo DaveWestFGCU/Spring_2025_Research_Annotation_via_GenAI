@@ -1,0 +1,46 @@
+Record: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The speaker appears to be enthusiastic and positive about the Chargers' upcoming game.
+* They use words like "awesome" and "stomp", which suggest a strong sense of excitement and confidence in the team's abilities.
+* The tone is supportive and encouraging, rather than critical or negative.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's enthusiasm and positive attitude towards the Chargers' creativity and potential victory suggest that they are feeling joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses positive language, such as "awesome" and "done right", indicating a favorable tone.
+* The speaker expresses excitement or enthusiasm for the Chargers' play calling and their predicted victory over the Pats.
+* There is no criticism, complaint, or negative comment made in the text.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of positive language and enthusiastic tone suggests that they are feeling joy or happiness about the Chargers' prospects.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions something they like ("awesome to see") and appreciates ("play calling done right").
+* They express enthusiasm for a sports team's performance.
+* The tone appears upbeat and positive.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's words convey admiration, excitement, and approval, which are all characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+

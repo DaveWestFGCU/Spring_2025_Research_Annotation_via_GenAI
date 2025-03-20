@@ -1,0 +1,18 @@
+Record: "When we played soccer as teens, the free kick that’s firmly placed at the corner of the net was called  a mitre. #Messi is the king and the greatest of all time. Stunning free kick. #GOAT #BARLIV #UCL #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about Messi's free kick. Let me read it again: "When we played soccer as teens, the free kick that’s firmly placed at the corner of the net was called a mitre. #Messi is the king and the greatest of all time. Stunning free kick. #GOAT #BARLIV #UCL #ChampionsLeague"
+
+Hmm, the tweet starts with a nostalgic memory about playing soccer as teens, mentioning something called a "mitre." Then it shifts to praise Messi, calling him the king and the greatest of all time. The key part is "Stunning free kick," which clearly expresses admiration or amazement.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. I need to map this to one of these. The word "stunning" suggests something impressive and surprising. Also, using hashtags like #GOAT (Greatest Of All Time) and #UCL shows excitement about Messi's skill.
+
+So the emotion here is likely surprise because it's highlighting an amazing moment that's unexpected or extraordinary in a positive way.
+</think>
+
+surprise
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+Record: "I was surprised it took almost 24 hours for some anti-Islamic news to show up on my feed regarding #NotreDameCathedralFire https://t.co/ysTBJ4j4yx"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm looking at this query where the user wants me to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet in question is about someone being surprised that it took almost 24 hours for anti-Islamic news regarding the Notre-Dame Cathedral fire to appear on their feed.
+
+First, I need to analyze the tweet's content and the emotion it conveys. The author mentions being "surprised" that it took so long for specific news to surface. They're pointing out a delay in the appearance of certain types of news, which suggests they expected it sooner but didn't get it until later.
+
+The key word here is "surprised." According to the emotion categories provided, surprise includes things like distraction and amazement. In this context, the author isn't expressing anger, disgust, fear, joy, or sadness. They're reacting to something unexpected happening—specifically, the timing of news coverage related to the fire.
+
+I should consider if any other emotions might fit, but "surprised" directly points to surprise. There's no indication of frustration (which could be anger), dislike (disgust), anxiety (fear), happiness (joy), or sadness. The focus is on the unexpected delay in news coverage.
+
+So, the emotion here is clearly surprise. It's about their reaction to a situation that didn't meet their expectations regarding when certain information would be shared.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify the emotion in this tweet about the Notre Dame Cathedral fire. The user wrote: "I was surprised it took almost 24 hours for some anti-Islamic news to show up on my feed regarding #NotreDameCathedralFire". 
+
+First, let's break down what they're saying. They mention being surprised that it took so long for anti-Islamic news to appear after the fire. The key word here is "surprised," which directly points to surprise as the emotion. 
+
+Looking at the options: anger, disgust, fear, joy, sadness, surprise. Since they explicitly state their surprise, that's the primary emotion. There might be underlying emotions like frustration or skepticism, but according to the instructions, I should pick only the most relevant one from the given list.
+
+So, the emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I'm looking at this tweet and trying to figure out the emotion behind it. The user says they were surprised that it took almost 24 hours for some anti-Islamic news regarding the Notre-Dame Cathedral fire to show up on their feed.
+
+First, let's break down the words used. "Surprised" is a direct indicator of surprise. The author explicitly mentions feeling this emotion. They're pointing out something unexpected happened—news taking time to appear—and express that it caught them off guard.
+
+Now, considering the list of emotions: anger, disgust, fear, joy, sadness, surprise. Here, "surprise" fits perfectly because the word is used directly. Even though there's a mention of anti-Islamic news, which might hint at other emotions like anger or disgust, the primary emotion expressed is surprise.
+
+I don't think it's fear because there's no indication of worry or terror. It's not sadness either; the focus isn't on grief but rather on the unexpected delay of the news. The mention of anti-Islamic content could imply some underlying frustration, but again, the key word here is "surprised."
+
+So, despite other possible interpretations, the emotion conveyed is primarily surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

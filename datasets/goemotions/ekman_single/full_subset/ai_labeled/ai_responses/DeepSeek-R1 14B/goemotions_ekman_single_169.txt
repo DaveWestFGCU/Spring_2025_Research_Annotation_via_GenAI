@@ -1,0 +1,76 @@
+Record: "I tried at a joke that relates to the post..."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The comment is, "I tried at a joke that relates to the post..." Let me break this down.
+
+First, the sentence structure seems off. It should probably be "I tried making a joke..." or "I attempted a joke...". Maybe the speaker made a typo or was typing quickly. They might have intended to say they tried to tell a joke related to the post.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+If someone tried to make a joke, what emotion could that convey? Well, if it's about sharing something light-hearted, it might be joy. But let me think deeper.
+
+The speaker is responding to a post or another commenter. Maybe they were trying to contribute humorously but perhaps the joke fell flat. However, without context on how the joke was received, it's hard to tell if there's frustration (anger) or disappointment (sadness).
+
+Wait, the emotion here might not be explicitly stated in their words. They're simply stating what they did—trying a joke. There's no clear indication of emotion in the statement itself. So it could be neutral because they're just informing without showing any feelings.
+
+Alternatively, if the speaker is sharing something they think is funny, maybe joy is involved. But since it's a comment on Reddit, which can be dry or neutral, I'm leaning towards neutral as the emotion unless there are more indicators.
+
+Looking at examples of each emotion: Neutral includes statements that lack expressed feeling, like "Keep us updated." This speaker isn't expressing any strong emotion; they're just stating an action. Therefore, it's likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "I tried at a joke that relates to the post..." Hmm, let me break this down.
+
+First, the sentence seems incomplete or maybe it's part of a larger conversation. But focusing on the content, the person is talking about trying a joke related to the post. Now, thinking about possible emotions here—anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The speaker mentions they "tried" at a joke. The word "tried" could imply effort but doesn't inherently show emotion. However, considering the context of Reddit comments, when someone shares a joke, it's often to elicit a positive reaction like joy or laughter. So maybe the speaker is expressing that they made an attempt to add humor.
+
+But wait, I should look at the emotion definitions again. Joy includes actions like sharing happiness or trying to make others happy. Since the speaker tried a joke related to the post, it might be an effort to contribute positively, which aligns with joy.
+
+Alternatively, could it be neutral? The comment is factual but doesn't express strong emotion. However, given that the action (telling a joke) is meant to evoke happiness, I think joy is more fitting than neutral here.
+
+No signs of anger, disgust, fear, sadness, or surprise in this statement. So, putting it all together, the emotion most likely conveyed is joy.
+</think>
+
+The speaker's attempt at sharing a joke suggests an intention to bring positivity, aligning with joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion the speaker might be feeling based on their comment. The comment is: "I tried at a joke that relates to the post..." Hmm, okay. So first, I need to understand the context here. This is a Reddit comment, probably in response to another post or a previous commenter.
+
+The phrase "I tried at a joke" suggests that the speaker attempted to make a joke related to the original post. Now, considering the possible emotions: anger, disgust, fear, joy, sadness, surprise, neutral. I have to choose one from these categories based on the definitions provided.
+
+Looking at the emotion definitions:
+
+- Anger is about displeasure or antagonism.
+- Disgust is revulsion towards something unpleasant.
+- Fear is about being afraid or worried.
+- Joy includes happiness and related feelings.
+- Sadness involves emotional pain.
+- Surprise is about astonishment or unexpected events.
+- Neutral means no expressed emotion.
+
+Now, analyzing the comment: The speaker says they tried a joke. It doesn't explicitly show any strong emotion like anger or joy. They might be sharing an experience, but there's no indication of how they felt about it succeeding or failing.
+
+If I think about Reddit interactions, making a joke can sometimes lead to different reactions. But without context on whether the joke was well-received or not, it's hard to gauge their emotion. It could have gone either way—maybe they were happy if it worked, but if it didn't, maybe they felt尴尬 (embarrassment), which isn't listed here.
+
+Looking at the emotion categories, none of them explicitly cover embarrassment, so I need to see what fits closest. The comment doesn't show anger or frustration, so probably not anger. It's not expressing disgust either. Fear? Unlikely unless they were scared to make the joke, but that's not suggested.
+
+Joy would be if they were happy their joke was good, but without knowing the outcome, it's speculative. Sadness isn't indicated here because there's no sign of sorrow or disappointment. Surprise could come into play if the reaction was unexpected, but again, we don't know.
+
+So, considering all this, the comment seems neutral. The speaker is stating a fact about their action without expressing any emotion. Therefore, the most appropriate label would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

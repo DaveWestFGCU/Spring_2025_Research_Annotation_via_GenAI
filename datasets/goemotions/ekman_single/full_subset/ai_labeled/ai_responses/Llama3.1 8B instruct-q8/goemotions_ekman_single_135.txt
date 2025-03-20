@@ -1,0 +1,37 @@
+Record: "Man I wish they wouldn’t"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing a negative sentiment with the phrase "I wish they wouldn't".
+* The tone is casual and informal, indicating a personal opinion rather than a formal statement.
+* There is no apparent anger or aggression in the language used.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker's comment suggests that something is happening that they would prefer not to occur, implying a sense of disappointment or sadness about the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a colloquial expression ("Man") and a phrase indicating a desire for something not to happen.
+* The tone is informal and conversational, suggesting a personal opinion rather than a formal statement.
+
+Given these considerations, the speaker's comment appears to convey a sense of disappointment or frustration with a situation. However, it lacks the intensity and explicit language associated with anger.
+
+**sadness**
+
+This choice makes sense because the speaker expresses a desire for something not to happen, which implies a negative emotional response to the current state of affairs. The tone is more melancholic than confrontational, aligning with sadness rather than anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The speaker uses a phrase that implies a negative desire or expectation.
+* They use the word "wish", which is often associated with disappointment or frustration.
+* There's no indication of strong emotion, but rather a subtle expression of discontent.
+
+Given these considerations, I would identify the most likely emotion as **sadness**. The speaker appears to be expressing a sense of resignation or disappointment, which aligns with the definition of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

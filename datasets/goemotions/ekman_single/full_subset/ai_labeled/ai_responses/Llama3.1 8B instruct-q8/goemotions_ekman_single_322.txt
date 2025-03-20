@@ -1,0 +1,38 @@
+Record: "Who wrote the IQ tests?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be questioning or expressing skepticism about the origin of IQ tests.
+* There is no apparent emotional language or tone that suggests strong feelings, such as anger, disgust, fear, joy, or sadness.
+* The comment does not contain any words or phrases that typically convey surprise or excitement.
+
+Given these points, I would categorize the speaker's emotion as:
+
+**neutral**
+
+The speaker appears to be stating a factual question or expressing curiosity about the origin of IQ tests without any strong emotional attachment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement is brief and direct.
+* There is no apparent excitement, enthusiasm, or positive emotion expressed.
+* The language used is simple and lacks emotional intensity.
+
+Given these considerations, the most relevant emotion label for this speaker's comment is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement is curt and lacks elaboration.
+* There is no indication of pleasure, happiness, or approval.
+* The language used is direct and to-the-point.
+
+Given these considerations, I believe the speaker may be feeling **neutral**. The statement appears to be a straightforward question without any emotional attachment, and it does not contain any language that suggests anger, disgust, fear, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+

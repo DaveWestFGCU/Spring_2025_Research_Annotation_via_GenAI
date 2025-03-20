@@ -1,0 +1,18 @@
+Record: "The inside of Notre-Dame Cathedral before and after the devastating fire #NotreDameCathedralFire https://t.co/TYruhk0f5u"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about the Notre-Dame Cathedral fire. The tweet includes a link with before and after images of the fire. First, I should consider the context: the fire was a significant event that caused a lot of destruction and emotional response globally.
+
+The tweet itself is factual, just stating that it's showing the inside before and after the fire, with a relevant hashtag. There are no explicit words expressing emotion, like "sad" or "terrible." However, given the subject matter—such a tragic event—it's likely that the author wants to convey some emotion.
+
+Looking at the mapping guidelines: if the tweet is about something devastating, it might fall under sadness because of the loss and destruction. Alternatively, surprise could be considered if the focus is on the shocking nature of the event. But since the tweet isn't expressing excitement or amazement, but rather showing the aftermath, I think sadness makes more sense.
+
+I should also remember that neutrality isn't an option, so even if the tweet seems neutral, I have to pick one of the six emotions. In this case, the context is inherently sad because it's about a destroyed cathedral, which many people care about. So the emotion here is likely sadness.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

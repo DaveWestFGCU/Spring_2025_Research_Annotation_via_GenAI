@@ -1,0 +1,61 @@
+Record: "Never heard of the artist or the song. But it sounds really great! Thank you for sharing!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I have to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again: "Never heard of the artist or the song. But it sounds really great! Thank you for sharing!"
+
+Hmm, first part says they haven't heard of the artist or song. That might sound a bit negative at first glance, but then the next part is positive. They say it sounds really great and thank the person for sharing. So overall, despite not knowing the artist beforehand, their reaction is positive.
+
+Looking at the emotion categories: anger would involve frustration or rage, which doesn't seem to be here. Disgust is more about dislike, but they actually like the song. Fear isn't present; there's no indication of anxiety or terror. Sadness is also not there—no signs of grief or pensiveness.
+
+That leaves joy and surprise. The tweet expresses positive feelings, so joy seems likely. But could it be surprise? They didn't know the artist, which might be a surprise, but the main emotion expressed after that is appreciation for the song being great. So it's more about the pleasant experience rather than being surprised.
+
+Therefore, the emotion here should be joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again carefully.
+
+The tweet says, "Never heard of the artist or the song. But it sounds really great! Thank you for sharing!" 
+
+Breaking it down, the author starts by saying they haven't heard of the artist or song. That might come across as neutral or perhaps a bit indifferent, but that's not necessarily an emotion listed here. Then they switch to expressing positive feelings: "But it sounds really great!" followed by gratitude.
+
+The key part is the second sentence where they express enthusiasm about the song and thank the person for sharing. The words "sounds really great" are clearly positive, and "thank you" indicates appreciation. So this seems to convey a sense of joy or happiness.
+
+Looking at the emotion categories:
+
+- Anger: Doesn't seem applicable here as there's no sign of irritation or rage.
+- Disgust: No negative feelings towards the song or artist mentioned.
+- Fear: There's no indication of worry or anxiety.
+- Joy: Fits well because the author is expressing that they like the song and are grateful for it being shared.
+- Sadness: Not present; the tone isn't sad or pensive.
+- Surprise: Maybe a bit, but since they didn't know about the artist before, but the overall sentiment is positive, joy is more fitting.
+
+I think "joy" is the most appropriate emotion here because of the positive feedback and gratitude expressed.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again: "Never heard of the artist or the song. But it sounds really great! Thank you for sharing!"
+
+Alright, breaking it down. The first part says they've never heard of the artist or the song. That could be a bit neutral or maybe a slight negative reaction if someone shares something and the receiver doesn't know about it, but here, the response is positive.
+
+Then they say, "But it sounds really great!" So that's clearly positive. The use of words like "great" conveys joy or satisfaction. They're thankful as well, which is another positive emotion.
+
+Looking at the options: anger isn't present; there's no sign of annoyance or rage. Disgust? No, they didn't express dislike or disinterest. Fear? There’s nothing indicating fear or anxiety here. Sadness? Nope, it's all positive vibes. Surprise might be a contender because maybe they were expecting something different, but the main emotion seems to be appreciation and happiness.
+
+So, the author is expressing joy by saying it sounds great and thanking the person. Therefore, the most relevant emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

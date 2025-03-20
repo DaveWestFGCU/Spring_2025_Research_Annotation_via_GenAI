@@ -1,0 +1,54 @@
+Record: "more than 5 years ago. I'm so sorry for your loss Paris. #NotreDameCathedralFire https://t.co/FNwDLMg9rx"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise. Let me read the tweet carefully.
+
+The tweet says: "more than 5 years ago. I'm so sorry for your loss Paris. #NotreDameCathedralFire https://t.co/FNwDLMg9rx". 
+
+First, the user mentions something happened more than five years ago, which refers to the Notre-Dame Cathedral fire in April 2019. They express sympathy by saying "I'm so sorry for your loss Paris." The use of "sorry" and "loss" indicates a feeling of empathy or condolence.
+
+Looking at the emotion categories: anger is about irritation or rage; disgust involves dislike or aversion; fear includes apprehension or terror; joy is happiness or serenity; sadness relates to grief or pensiveness; surprise is about astonishment or distraction.
+
+In this case, "sorry" and expressing condolences clearly point towards sadness. The author is conveying sympathy for the event that caused loss, which falls under the emotion of sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's try to figure out the emotion behind this tweet. The user wrote, "more than 5 years ago. I'm so sorry for your loss Paris. #NotreDameCathedralFire." 
+
+First, I notice the mention of "more than 5 years ago," which might indicate that they're referring back to an event from the past, specifically the Notre Dame Cathedral fire in April 2019. The user expresses sympathy by saying, "I'm so sorry for your loss Paris."
+
+So, breaking it down: The key emotion here is clearly sadness. They are conveying empathy and condolence towards Paris regarding a significant loss, which was the destruction of the cathedral. There's no indication of anger or fear; instead, it's about expressing sorrow.
+
+Looking at the options provided—anger, disgust, fear, joy, sadness, surprise—the most fitting emotion here is sadness because they're mourning the loss and showing compassion.
+</think>
+
+The tweet expresses sympathy towards Paris due to the Notre Dame Cathedral fire. The author conveys deep regret and mourning, which falls under sadness.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let's try to figure out what emotion is behind this tweet about the Notre Dame Cathedral fire. The tweet says, "more than 5 years ago. I'm so sorry for your loss Paris." So first, I need to analyze the content and context.
+
+The user mentions the event happened more than five years ago, which refers back to the April 15, 2019, fire at Notre-Dame. They express sympathy by saying "I'm so sorry for your loss." The use of words like "sorry" and "loss" indicates a feeling related to empathy or condolence.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. Which one fits best? 
+
+The tweet isn't expressing anger or any frustration; it's more about condolences. Disgust doesn't seem applicable here because there's no indication of dislike or aversion. Fear is also not present since the user isn't showing anxiety or terror.
+
+Joy and serenity don't fit because the context is a tragic event, so those emotions are unlikely. That leaves sadness or surprise. The user expresses sorrow, which directly relates to sadness. While "sorry" can sometimes be used in surprising situations, here it's more about empathy towards a loss, which aligns with sadness.
+
+So, I think the emotion conveyed here is sadness because of the expression of sympathy and condolence regarding the Notre-Dame fire.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,66 @@
+Record: "Maybe unpopular but I never eat pancakes with syrup. Way too damn sweet."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Maybe unpopular but I never eat pancakes with syrup. Way too damn sweet." Let me break this down step by step.
+
+First, I'll look at the sentence structure and the words used. The speaker starts with "Maybe unpopular," which suggests they know their opinion might not be widely shared. Then they state that they don't eat pancakes with syrup because it's "way too damn sweet."
+
+The phrase "way too damn sweet" is a strong statement. Using "damn" adds emphasis, indicating frustration or dislike. The word "never" shows a strong aversion—they're stating this as a definitive choice, not just a temporary preference.
+
+Now, considering the emotion categories: anger involves displeasure or antagonism, disgust is about revulsion, fear is about being afraid, joy is positive feelings, sadness is sorrow, surprise is astonishment, and neutral is without emotion.
+
+The speaker's words express dislike for something (pancakes with syrup) because of its sweetness. This fits more into the category of disgust, which involves strong disapproval or revulsion. They're not expressing anger directly at someone but rather their distaste for a food item.
+
+So, putting it all together, the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment is: "Maybe unpopular but I never eat pancakes with syrup. Way too damn sweet." 
+
+First, I'll break down the sentence. The speaker starts by saying it's an unpopular opinion, which might indicate they're about to express something that goes against common sentiment. Then they state that they never eat pancakes with syrup because it's "way too damn sweet."
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+I should consider each emotion in turn.
+
+1. **Anger**: The comment doesn't express frustration or irritation towards someone or something; instead, it's about personal preference regarding food.
+2. **Disgust**: This could be a possibility because the speaker is expressing distaste for something (syrup on pancakes). They use "way too damn sweet," which implies they find it repulsive.
+3. **Fear**: There's no indication of fear or worry in the comment.
+4. **Joy**: The tone isn't positive or happy; instead, it's critical.
+5. **Sadness**: No elements of sorrow or disappointment are present here.
+6. **Surprise**: The speaker isn't expressing astonishment or realization.
+7. **Neutral**: While they're stating a preference, the use of "damn" and "too sweet" adds some emotion, so neutral might not be the best fit.
+
+So, considering all this, the most fitting emotion is disgust because the speaker is clearly expressing distaste for syrup on pancakes, using strong language to convey their aversion.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this query. The user wants me to identify the emotion someone might be feeling based on their comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Looking at the sentence: "Maybe unpopular but I never eat pancakes with syrup. Way too damn sweet." 
+
+First, the phrase "way too damn sweet" stands out. Using "dammit" is a strong way to express dislike. It's definitely not neutral because there's clear emotion here.
+
+Is it anger? Maybe, but often when people talk about taste, they're more expressing disgust rather than anger. Anger tends to be directed at someone or something, while this seems more personal preference.
+
+Disgust fits well because the speaker is showing strong dislike for syrup on pancakes, calling it overly sweet. They're not happy with it, which aligns with disgust rather than anger.
+
+Fear doesn't seem right; there's no indication of being scared. Joy and surprise are clearly out since they're positive emotions. Sadness might be possible if someone feels bad about their preference, but I don't think that's the case here.
+
+So, putting it all together, disgust is the most fitting emotion because they're expressing strong disapproval of something sweet.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

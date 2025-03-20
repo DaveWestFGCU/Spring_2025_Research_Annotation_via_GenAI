@@ -1,0 +1,70 @@
+Record: "Huh. Similar things happen to me. Just my big brother believe that I got the wrong diagnoses and Dad think I am "cured"."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of the given emotion categories: anger, disgust, fear, joy, sadness, or surprise. Let's see what the tweet says.
+
+The tweet is: "Huh. Similar things happen to me. Just my big brother believes that I got the wrong diagnoses and Dad think I am 'cured'."
+
+First, I'll break down the content. The author mentions that similar things have happened to them. They're talking about their big brother believing they got the wrong diagnosis, and their dad thinks they are "cured." 
+
+The word "Huh" at the beginning could indicate surprise or confusion. Then, the mention of a wrong diagnosis suggests frustration or maybe even anger because being misdiagnosed is serious. The author's big brother doesn't trust the diagnosis, which adds to the tension. Also, their dad thinks they're cured, which might not align with how the author feels, possibly leading to more frustration.
+
+Looking at the emotion categories:
+
+- Anger: Fits here because of the frustration from being misdiagnosed and others' disbelief.
+- Disgust: Not really present; it's more about frustration than dislike.
+- Fear: There's no clear indication of fear or anxiety.
+- Joy: Definitely not; the tone is negative.
+- Sadness: Could be, but the primary emotion seems to be anger because of being wronged by the diagnosis and others' skepticism.
+- Surprise: The "Huh" might suggest surprise, but the overall context leans more towards frustration and anger.
+
+So, considering all this, I think the most relevant emotion here is anger. It's about feeling wronged, misunderstood, and frustrated with how others are handling their situation.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet into one of the given emotion categories: anger, disgust, fear, joy, sadness, or surprise.
+
+Let's read the tweet again: "Huh. Similar things happen to me. Just my big brother believe that I got the wrong diagnoses and Dad think I am 'cured'."
+
+The author starts with "Huh," which is an expression of surprise or confusion. Then they mention similar things happening to them, followed by their brother's belief in a wrong diagnosis and their dad thinking they're cured.
+
+So, breaking it down:
+- The initial "Huh" suggests surprise.
+- They're talking about others' beliefs that might not align with reality, which could be confusing or unexpected.
+- There's an implication of being misunderstood or misdiagnosed, which adds to the feeling of something not quite right.
+
+Considering the emotions:
+- Anger: Not directly expressed. Maybe if they were frustrated, but it's more about confusion.
+- Disgust: Doesn't seem relevant here; no strong dislike expressed.
+- Fear: There's no clear sense of fear or anxiety in the tweet.
+- Joy: Definitely not, as the context is negative.
+- Sadness: Underlying feelings could be sad, but the primary emotion seems to be surprise at the situation described.
+- Surprise: Fits because of the initial "Huh" and the unexpected nature of others' beliefs about their condition.
+
+I think the main emotion here is surprise. The author is surprised that similar things happen to them, particularly regarding their brother's and dad's beliefs. It's more about the astonishment or confusion rather than sadness or anger.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this tweet: "Huh. Similar things happen to me. Just my big brother believes that I got the wrong diagnoses and Dad thinks I am 'cured'." 
+
+First, I notice the use of "Huh," which typically indicates surprise or confusion. The author is sharing a personal experience where their family has differing beliefs about their diagnosis. Their brother thinks they have the wrong diagnosis, and their dad believes they're cured.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The initial "Huh" leans towards surprise. However, the content itself seems to express a mix of emotions. There's a sense of frustration (anger) because the author feels misunderstood by their family, and maybe some sadness due to feeling invalidated or worried about their condition.
+
+But the most prominent emotion here is surprise. The author is reacting to something unexpected—family members having different beliefs that might conflict with their own experiences. This reaction suggests they're taken aback by these differing opinions, which aligns more with surprise than other emotions like anger or sadness.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,39 @@
+Record: "Sadly, it was not"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The word used is "sadly", which often precedes a statement that indicates something unpleasant or undesirable.
+* The tone of the sentence is mournful and regretful.
+
+Based on these points, the speaker's comment suggests a sense of disappointment or sorrow. 
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The word "sadly" is used at the beginning of the sentence, which often indicates a negative tone.
+* The speaker is responding with a brief statement that seems to be a reaction to something.
+* There is no mention of strong emotions like anger or fear.
+
+Given these considerations, I would say that the emotion most people will feel the speaker may be feeling is:
+
+**sadness**
+
+The use of "sadly" suggests that the speaker is expressing disappointment or sadness about something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "sadly", which implies a negative emotional tone.
+* The speaker's response is brief and lacks any language that would indicate a positive emotion.
+* There is no indication of surprise or anger in the speaker's response.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,48 @@
+Record: "And then another guy comments to congratulate him on getting a comment from her, wishing he could one day get the same. Maaan o man. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be responding to someone's comment that is being overly enthusiastic or congratulatory.
+* The tone of the speaker appears to be mocking or sarcastic towards the other commenter's sentiment.
+* The use of "Maaan" and "o man" suggests a playful but slightly annoyed tone.
+
+Given these points, the most relevant emotion label for the speaker's comment would be:
+
+**surprise**, likely tinged with a sense of annoyance or mockery.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to a congratulatory comment made by someone else.
+* The tone of the response seems sarcastic and dismissive.
+
+Based on these points, the most relevant emotion label is **anger**. The use of "Maaan o man" in an exaggerated and mocking way suggests that the speaker is feeling annoyed or irritated by the congratulatory comment, which may be perceived as insincere or over-the-top.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be responding to a situation where someone is being overly congratulatory or admiring of something.
+* The tone of the response appears sarcastic and mocking.
+* The use of "Maaan o man" at the end of the sentence suggests a sense of irony or ridicule.
+
+Given these points, the most relevant emotion label for this speaker's comment is **surprise**. However, upon closer inspection, it seems more likely that the speaker is expressing **disgust**, as they seem to be mocking and ridiculing someone's behavior rather than being genuinely surprised.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Here are the important points to consider:
+
+* The speaker appears to be reacting to someone's response in a congratulatory manner.
+* The use of "Maaan o man" seems to convey a tone of incredulity and possibly annoyance at the other person's comment.
+
+Given these points, I would conclude that the emotion most people will feel the speaker may be feeling is:
+
+**anger**
+
+The reason for this choice is that the speaker's reaction seems to be directed at someone else's behavior or comment, which they find annoying or frustrating. The use of "Maaan o man" conveys a sense of incredulity and possibly even anger at the other person's congratulatory comment, especially if it was seen as insincere or over-the-top.
+------------------------------------------------------------------------------------------------------------------------
+

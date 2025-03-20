@@ -1,0 +1,42 @@
+Record: "Don’t know what some of y’all are talking about but last nights GOT was one of the best episodes I’ve ever seen. Of anything. It created so much emotion and stress. I loved every second of it #gameofthrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a positive opinion about the show.
+* They mention that the episode "created so much emotion and stress", which suggests that it had a strong impact on them, but in a good way.
+* They use the word "loved" to describe their experience.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+
+The author's enthusiasm and affection for the show indicate that they are experiencing joy, rather than any of the other emotions listed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is discussing a highly acclaimed TV series, Game of Thrones.
+* They express a strong positive opinion about the show's latest episode.
+* The author mentions that the episode created "so much emotion and stress", but in a context that suggests excitement rather than negativity.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The author's use of words like "one of the best episodes I've ever seen" and "I loved every second of it" strongly suggest a positive emotional tone. While they mention emotion and stress, it's clear that this is related to their enthusiasm for the show rather than any negative feelings.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a positive review of Game of Thrones.
+* The author expresses excitement and enthusiasm for the show.
+* They mention that the episode "created so much emotion and stress", but this phrase is likely used in an exciting or thrilling sense rather than a negative one.
+
+Given these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

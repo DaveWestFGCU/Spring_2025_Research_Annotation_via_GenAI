@@ -1,0 +1,35 @@
+Record: "I find that relatable: I too am terrified of myself."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "terrified", which implies a strong emotional response.
+* The speaker is referring to themselves, suggesting self-awareness and possibly vulnerability.
+* The tone is somewhat introspective and honest.
+
+Given these considerations, I would label the emotion as: **sadness**
+
+The reason for this classification is that the speaker's statement suggests they are struggling with their own emotions or thoughts, and "terrified" implies a sense of emotional pain or distress. This aligns more closely with the definition of sadness than any other emotion category provided.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions feeling "terrified", which suggests a strong emotional state.
+* The subject of fear is the self, which can be a unique and potentially unsettling topic.
+* The speaker uses a phrase that implies they are drawing comfort from knowing someone else shares their feelings.
+
+Given these considerations, I would categorize the speaker's emotion as: **fear**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions feeling terrorized by themselves.
+* This suggests an intense emotional state, but it is directed inward rather than outward.
+
+Most relevant emotion label: **fear**.
+------------------------------------------------------------------------------------------------------------------------
+

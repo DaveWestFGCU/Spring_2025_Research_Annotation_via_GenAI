@@ -1,0 +1,34 @@
+Record: "Yikes hope hes ok"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses an expression of surprise or shock ("Yikes").
+* They express concern for someone's well-being ("hope hes ok").
+* The tone is informal and casual.
+
+Given these considerations, the most relevant emotion label is:
+
+**concern**, which is closely related to **sadness** in this context.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The word used is "yikes", which is often an expression of shock or alarm.
+* The phrase "hope he's okay" suggests concern for someone's well-being.
+
+Given these points, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The use of "yikes" is an interjection often used to express alarm or distress.
+* The phrase "hope hes ok" implies concern for someone's well-being.
+
+Given these considerations, the most relevant emotion label is **concern** for someone's safety, which falls under **fear**, as it suggests a sense of apprehension or anxiety about the potential harm or negative outcome.
+------------------------------------------------------------------------------------------------------------------------
+

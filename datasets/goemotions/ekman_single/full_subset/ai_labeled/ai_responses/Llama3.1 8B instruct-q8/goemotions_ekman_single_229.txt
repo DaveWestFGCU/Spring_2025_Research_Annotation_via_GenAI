@@ -1,0 +1,44 @@
+Record: "Fucking parking in the middle of the street through the entire strip of Allegheny"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The language used by the speaker is strong and emphatic, with the use of a profanity ("Fucking").
+* The speaker expresses frustration or annoyance towards someone's behavior (parking in the middle of the street).
+* The tone suggests that the speaker feels strongly about this issue.
+
+Most relevant emotion label: **anger**
+
+The speaker's language and tone convey a sense of strong displeasure and antagonism, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language ("Fucking") which suggests a strong emotional tone.
+* The speaker expresses frustration and annoyance with someone else's behavior (parking in the middle of the street).
+* The speaker's tone is critical and disapproving.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of strong language and critical tone indicates that they are feeling angry about someone else's behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses strong language ("Fucking"), indicating a high level of emotion.
+* The speaker mentions a specific behavior ("parking in the middle of the street") that seems to be the source of their frustration.
+* The tone is dismissive and critical, with the use of "through the entire strip" implying that the behavior is not an isolated incident.
+
+Given these points, the most relevant emotion label for this speaker's comment is:
+
+**anger**
+
+The speaker's use of strong language and critical tone suggests a strong feeling of displeasure or antagonism towards the parking behavior, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

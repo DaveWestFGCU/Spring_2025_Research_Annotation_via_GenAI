@@ -1,0 +1,54 @@
+Record: "For those behind stupid WaPo"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the emotion in this tweet: "For those behind stupid WaPo". Let me break it down.
+
+First, the word "stupid" is a strong adjective. It's expressing negative feelings towards something or someone. The person is clearly frustrated or annoyed with whoever is behind "WaPo", which I think refers to The Washington Post.
+
+Looking at the emotion categories: anger includes annoyance and rage. So using "anger" makes sense here because "stupid" indicates frustration, a component of anger.
+
+Other options like disgust or surprise don't fit as well. There's no indication of dislike beyond the adjective used; it's more about being annoyed rather than disgusted. Surprise would imply something unexpected, which isn't the case here.
+
+So the emotion conveyed is definitely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet: "For those behind stupid WaPo". Let's break it down.
+
+First, "stupid" is a strong word. It shows that the author is expressing negative feelings towards something. The term "stupid" usually conveys frustration or irritation, which falls under anger because it's more intense than just dislike.
+
+Next, "WaPo" likely refers to The Washington Post. So, the tweet is directed at the people behind this publication. Using "stupid" here indicates that the author has a negative opinion about them, possibly due to something they've done or published.
+
+Looking at the emotion categories: anger includes annoyance and rage, which seems fitting here because "stupid" implies irritation or frustration. Disgust is more about feeling something is unpleasant, but in this case, it's more about the action of those people rather than an object. Fear would involve anxiety or apprehension, which doesn't seem to be present. Joy and surprise are clearly not applicable.
+
+So, considering all that, the emotion here is anger because of the use of "stupid" and the negative sentiment towards the individuals behind WaPo.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to classify the emotion in this tweet: "For those behind stupid WaPo". The possible emotions are anger, disgust, fear, joy, sadness, or surprise. 
+
+First, I'll look at the words used. The word "stupid" is a strong negative adjective, which usually conveys either anger or disgust. Now, "anger" often involves frustration or irritation towards someone's actions, while "disgust" is more about disapproval of something as恶心 (nasty) or offensive.
+
+The tweet starts with "For those behind stupid WaPo". "WaPo" is likely a shortened form of The Washington Post, a newspaper. So the author is addressing the people responsible for what's being referred to as "stupid WaPo". The use of "stupid" here seems to imply that the author thinks the content or approach of WaPo is foolish or not intelligent.
+
+Now, thinking about intent: if someone calls something "stupid", it could be out of frustration with the actions of those behind it. That points more towards anger, as it's a direct criticism aimed at the people responsible. Alternatively, disgust might come into play if the author feels that WaPo is offensive or morally wrong, but the word "stupid" leans more toward a judgment about intelligence rather than something being恶心.
+
+Another angle: could this be surprise? Unlikely, because surprise would imply something unexpected, which isn't indicated here. Fear, anxiety—no obvious signs of those emotions in the tweet. Sadness or pensiveness also don't seem to fit; it's more of an active criticism.
+
+So considering all that, "anger" seems like the most fitting emotion. The author is expressing frustration or irritation towards the people behind WaPo for something they perceive as stupid.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

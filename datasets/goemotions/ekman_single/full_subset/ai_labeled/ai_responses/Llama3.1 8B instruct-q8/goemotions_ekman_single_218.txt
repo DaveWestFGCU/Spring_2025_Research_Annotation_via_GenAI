@@ -1,0 +1,38 @@
+Record: "Prayers for Dipo you guys. Just had a gruesome injury"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment is sympathetic and concerned.
+* The speaker expresses a desire for well-being, using the phrase "Prayers for".
+* The language used is somber and serious, indicating a negative event.
+
+Given these considerations, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions "prayers", which suggests a sympathetic tone.
+* The word "gruesome" indicates that the injury is severe and unpleasant, but this does not necessarily convey any negative emotion from the speaker towards the person who was injured (Dipo).
+* The comment is focused on expressing support and concern for Dipo's well-being.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker is likely feeling sadness or sympathy for Dipo's injury, rather than anger, disgust, fear, joy, surprise, or neutrality.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing a sentiment towards someone named Dipo.
+* They mention having "a gruesome injury", which implies a negative and potentially serious situation.
+* The tone of the comment is one of concern and sympathy.
+
+Given these considerations, the most relevant emotion label for this text is **sadness**, as it appears to be a response to a distressing or unfortunate event.
+------------------------------------------------------------------------------------------------------------------------
+

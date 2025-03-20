@@ -1,0 +1,39 @@
+Record: "https://t.co/3ihKdlBZ9V   Today is World Book and Copyright Day, so what better time to celebrate the joy of reading? Not only is it fun, but it’s great for our brains, too!  #book #books #bookish #bookaholic #booklover #copyright #BookDay #WorldBookDay #reading #lovereading https://t.co/LsbFLmrxgP"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is mentioning a celebratory event (World Book and Copyright Day).
+* The language used is positive, with words like "celebrate", "fun", and "great".
+* The benefits of reading are highlighted.
+* The tone is enthusiastic.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The tweet's positive and celebratory tone suggests that the author intends to convey joy and enthusiasm for reading.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The text mentions a celebration and uses words with positive connotations (celebrate, fun, great).
+- There is no mention of negative emotions or events.
+- The tone appears enthusiastic and encouraging.
+
+**joy**
+
+This classification is based on the presence of positive language and the emphasis on celebrating reading, which indicates that the author intends to convey joy and enthusiasm.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about celebrating World Book and Copyright Day.
+* The tone of the language used is positive and enthusiastic.
+* The author mentions several benefits of reading, including it being "fun" and good for the brain.
+
+Given these points, the most relevant emotion label is **joy**, as the author is clearly excited to celebrate World Book and Copyright Day and highlights the positive aspects of reading.
+------------------------------------------------------------------------------------------------------------------------
+

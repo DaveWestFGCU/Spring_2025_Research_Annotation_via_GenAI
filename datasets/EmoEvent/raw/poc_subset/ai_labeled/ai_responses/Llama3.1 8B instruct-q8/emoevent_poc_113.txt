@@ -1,0 +1,37 @@
+Record: "Who the fuck leaves a hot iron on the couch"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The language used is profane and emphatic ("Who the fuck").
+* The tone appears to be shocked or disturbed.
+* The subject of concern is something that could potentially cause harm (a hot iron).
+
+**anger**
+This classification is based on the strong, emphatic language used and the clear distress expressed by the author.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used is strong and profane.
+* The phrase "hot iron" suggests something that could be hazardous or cause harm.
+* The tone appears to be one of shock and concern.
+
+**anger**
+
+Note: While the use of profanity might initially suggest anger, the primary emotion conveyed in this situation seems to be frustration and annoyance at someone's careless behavior, which is a subset of **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The use of profanity ("fuck") suggests strong emotions.
+* The phrase "hot iron" implies danger or harm.
+* The tone is accusatory and questioning.
+
+Most relevant emotion label: **anger**
+------------------------------------------------------------------------------------------------------------------------
+

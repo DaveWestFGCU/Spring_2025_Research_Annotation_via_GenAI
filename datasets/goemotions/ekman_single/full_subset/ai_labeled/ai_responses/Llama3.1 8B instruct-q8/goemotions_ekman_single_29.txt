@@ -1,0 +1,42 @@
+Record: "Makes me glad I'm almost 50, and all this is stuff I will never ever experience, and frankly can hardly fathom."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions they're "glad" about being almost 50, which implies a positive tone.
+* They express that the things being discussed are beyond their comprehension or understanding, using phrases like "will never ever experience" and "can hardly fathom".
+* The overall context suggests that the speaker is commenting on events or experiences related to younger people, possibly in a nostalgic or amused way.
+
+Given these points, the most relevant emotion label for this comment is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions their age, being almost 50, which could indicate a sense of distance or detachment from the topic.
+* They express relief that they won't have to experience what's being discussed.
+* The tone is somewhat dismissive and perplexed, as indicated by "and frankly can hardly fathom".
+
+Given these points, it appears that the speaker is expressing relief and disconnection from the situation, but not necessarily with a strong negative emotion. They seem to be more bemused than upset.
+
+**sadness**
+
+This label might initially seem counterintuitive, given that sadness is often associated with pain or loss. However, in this context, the speaker's tone suggests a sense of resignation and disconnection from the world around them. This can sometimes be a characteristic of older adults who feel they've seen it all before, and it's not uncommon for people nearing retirement age to feel a mix of emotions about their place in society.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions being grateful for their age ("almost 50") and implies that it's a positive aspect of their life.
+* They express relief or satisfaction at not having to deal with the things they're talking about.
+* The tone is somewhat nostalgic, but also dismissive and uninterested in the experiences they're discussing.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The speaker's comment suggests a sense of detachment and melancholy, particularly when they say "I will never ever experience" and "cannot hardly fathom". These phrases imply a sense of sadness or regret about missing out on certain experiences, even if it's framed as a positive thing.
+------------------------------------------------------------------------------------------------------------------------
+

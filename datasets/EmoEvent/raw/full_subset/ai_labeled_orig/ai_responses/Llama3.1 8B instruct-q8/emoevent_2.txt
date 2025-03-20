@@ -1,0 +1,38 @@
+Record: "I know it’s been over 24 hours and for some reason that means it’s time for the media to move on, but just to remind you:  An 800 year old building that was a huge beacon of hope for so many people just burned down. #NotreDameCathedralFire #NotreDameFire https://t.co/71YH1mjuWq"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is referencing the Notre-Dame Cathedral fire, which occurred 24 hours prior.
+* The author expresses a sense of urgency and reminder, implying that others may be moving on from the topic too quickly.
+* The phrase "just burned down" suggests a focus on the negative event rather than any potential positive outcome.
+
+**sadness**
+
+The author's tone is mournful and reflective, highlighting the historical significance and impact of the cathedral fire. The language used emphasizes loss and devastation, pointing towards an emotional response of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is referring to the Notre Dame Cathedral fire, a significant and devastating event.
+* The author mentions that it's been over 24 hours since the incident, implying that people may be moving on from the story too quickly.
+* The author expresses a sense of reminder or urgency in bringing attention back to the event.
+
+The author intended to convey **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is commenting on the Notre Dame Cathedral Fire over 24 hours after it happened, implying a sense of frustration or annoyance at others moving on from the event.
+* The author mentions the significance of the building and its importance as a beacon of hope for many people, which suggests that they are mourning the loss.
+* The use of phrases such as "just burned down" and the hashtag #NotreDameCathedralFire emphasizes the gravity and tragedy of the event.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

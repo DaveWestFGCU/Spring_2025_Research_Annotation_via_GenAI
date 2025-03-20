@@ -1,0 +1,35 @@
+Record: "I'm not really interested in collecting them but I do enjoy watching videos of people who restore old hotwheels."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions they are not "really interested" in collecting old Hot Wheels, which suggests a lack of strong enthusiasm or attachment.
+* They do express enjoyment and appreciation for watching videos of others restoring these toys, indicating a positive emotional connection to the topic.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's tone is neutral but leans towards positivity as they share their interest in watching videos about Hot Wheels restoration, which suggests a sense of pleasure or happiness when engaging with this hobby.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions they are not interested in collecting vintage Hot Wheels, which suggests a lack of enthusiasm or motivation.
+* However, the speaker does express enjoyment in watching others restore these toys, indicating a positive feeling towards the topic.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's statement implies that they find pleasure and happiness in watching videos about people restoring old Hot Wheels, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions they are not interested in collecting old Hot Wheels, which suggests a lack of enthusiasm.
+* However, the speaker does express enjoyment for watching videos of others restoring old Hot Wheels, indicating a positive sentiment.
+
+Given these points, the most relevant emotion label is **neutral** with a hint of joy. The speaker's statement has a neutral tone overall, but their mention of enjoying videos suggests a slight inclination towards joy.
+------------------------------------------------------------------------------------------------------------------------
+

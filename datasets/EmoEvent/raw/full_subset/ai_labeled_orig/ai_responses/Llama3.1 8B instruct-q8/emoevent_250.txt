@@ -1,0 +1,41 @@
+Record: "Throw your favourite books at people you hate with full force #WorldBookDay"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions throwing books, which could imply physical action and aggression.
+* The phrase "people you hate" suggests a strong negative emotion towards the target of the action.
+* The hashtag "#WorldBookDay" indicates that the tweet is in reference to an event promoting reading and literature.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+The tone of the tweet appears to be playful and sarcastic, but still conveys a sense of hostility and aggression, which aligns with the emotion category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions World Book Day, which is a positive event promoting reading and literature.
+* However, the action of throwing books at people is aggressive and violent.
+* The hashtag #WorldBookDay suggests that the author is making a sarcastic or ironic comment about the day.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The tweet's tone is likely angry or annoyed, as it pokes fun at traditional ideas of celebration by suggesting an aggressive act.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions throwing books at people you hate.
+* The tone of the tweet is likely sarcastic or ironic.
+* World Book Day is a celebration of literature and reading.
+
+Given these considerations, the most relevant emotion label is **anger**. However, considering that the phrase "people you hate" might be used in a humorous or exaggerated manner, the primary intention behind the tweet appears to be annoyance rather than outright anger.
+------------------------------------------------------------------------------------------------------------------------
+

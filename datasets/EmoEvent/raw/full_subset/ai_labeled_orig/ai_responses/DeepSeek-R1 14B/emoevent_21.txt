@@ -1,0 +1,54 @@
+Record: "Happy #WorldBookDay! #DidYouKnow that over 1 million books have been borrowed from #QNL in the past year? We challenge you to read a book every month! Which books do you plan on adding to your list? Special thanks to USER for the awesome images! https://t.co/HTZtJiryGI"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion. Let me first read through it carefully.
+
+The tweet starts with "Happy #WorldBookDay!" That immediately tells me there's a positive tone here. The use of "Happy" is a strong indicator of joy or excitement. 
+
+Next, the author mentions that over 1 million books have been borrowed from QNL in the past year. This seems like a positive achievement, something to celebrate. They're probably proud or happy about this statistic.
+
+Then there's a challenge: "We challenge you to read a book every month!" Challenging others in a friendly way usually conveys enthusiasm and positivity, which again points towards joy.
+
+They also ask, "Which books do you plan on adding to your list?" This is engaging the audience, encouraging interaction, which adds to the uplifting vibe.
+
+Finally, they thank someone for images and include a link. The gratitude expressed here is another positive emotion, reinforcing that the overall sentiment is happy.
+
+Looking at the options: anger, disgust, fear, joy, sadness, surprise. "Happy" falls under joy, so that's the primary emotion here. There's no indication of any other emotions like surprise or fear; everything seems upbeat and celebratory.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out the emotion conveyed in this tweet about World Book Day. Let's break it down.
+
+The tweet starts with "Happy #WorldBookDay!" which immediately conveys joy. The author is celebrating the day and encouraging others to read more by mentioning that over a million books were borrowed. They also challenge readers to read a book every month, suggesting enthusiasm and positivity. Ending with thanks for images adds a grateful tone, still within joy.
+
+No negative emotions like anger or disgust are present. There's no fear or surprise; it's all about promoting reading in a cheerful way. Sadness isn't there either since the message is uplifting.
+
+So, the emotion here is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I'm trying to classify this tweet's emotion. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: It starts with "Happy #WorldBookDay!" which immediately signals a positive tone. They mention over 1 million books borrowed from QNL, which is a good thing and adds to the celebratory mood. Then they challenge people to read a book every month and ask about others' reading plans. The inclusion of thanks to USER for images also shows gratitude, which is another positive emotion.
+
+There's no indication of any negative feelings here—no anger or disgust. No fear or sadness either. Surprise might be possible if the stats were unexpected, but since it's being shared positively, I think joy fits better overall.
+</think>
+
+**joy**
+
+The tweet conveys **joy** because it starts with a positive exclamation about World Book Day and includes uplifting messages about reading and community engagement.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

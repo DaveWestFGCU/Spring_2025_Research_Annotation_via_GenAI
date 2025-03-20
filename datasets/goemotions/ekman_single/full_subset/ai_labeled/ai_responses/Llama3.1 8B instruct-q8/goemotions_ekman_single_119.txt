@@ -1,0 +1,38 @@
+Record: "Ugh I am in this same place right now. Dating a husband whose wife calls all the shots. I feel for you."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "Ugh" which is often used to express strong displeasure or discomfort.
+* The speaker mentions being in a similar situation, implying frustration and empathy for the commenter's experience.
+* The speaker expresses sympathy and understanding through their use of the phrase "I feel for you".
+
+Most relevant emotion label: **sadness**
+
+Reasoning: While the speaker does express some degree of frustration and displeasure, it is primarily driven by concern and empathy for the commenter's situation. The tone is more sorrowful than angry or disgusted, making sadness the most fitting label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with an expression of strong disapproval ("Ugh"), which is typically associated with disgust or anger.
+* However, they then express empathy and understanding towards the person they are responding to, indicating that their tone is more sympathetic than confrontational.
+* The phrase "I feel for you" suggests a sense of sadness or compassion.
+
+Most relevant emotion label: **sadness**
+
+The speaker's use of "Ugh" as an expression of disapproval is tempered by their subsequent message of empathy and understanding. While they may be feeling annoyed or frustrated with the situation, their primary emotional tone is one of sadness and sympathy for the person being addressed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses strong disapproval with the situation, using the word "Ugh".
+* They seem to be empathizing with someone who is going through a similar experience.
+* Their tone is critical of the dynamic where one person has control.
+
+Based on these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

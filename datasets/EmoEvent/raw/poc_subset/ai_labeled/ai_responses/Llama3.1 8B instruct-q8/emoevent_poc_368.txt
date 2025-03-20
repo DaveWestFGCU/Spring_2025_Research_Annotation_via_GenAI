@@ -1,0 +1,39 @@
+Record: "Maybe you just enjoy the process of digging? Does it have to be somebody you’re attracted to or have you tried stalking a random person?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are some important points to consider:
+
+* The tweet seems to be sarcastic and mocking.
+* The language used is casual and informal, suggesting a tone of ridicule.
+* The author appears to be poking fun at someone who might enjoy digging in a way that's overly enthusiastic or obsessive.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+ 
+
+Note: Anger often involves a sense of frustration or annoyance, which seems to be the case here as the author is playfully mocking someone's behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider given the text:
+
+* The tone of the tweet seems sarcastic and mocking.
+* The author is questioning someone's motives for digging, implying they don't believe their explanation.
+* There's an undertone of accusation or suspicion.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone is lighthearted and playful, using rhetorical questions.
+* The language is casual and conversational.
+* There's no apparent aggression or negative connotation.
+
+Given the tone and context, the most relevant emotion label is **surprise**. The author seems to be expressing a sense of wonder or curiosity about why someone would engage in the described behavior, rather than any negative emotion like anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+

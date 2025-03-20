@@ -1,0 +1,67 @@
+Record: "Looks like modern art tbh but its good"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm trying to figure out what emotion the speaker is feeling based on their comment. The sentence given is, "Looks like modern art tbh but its good." 
+
+First, I'll break down the sentence. They mention that it looks like "modern art," which might be a bit sarcastic or critical because modern art can sometimes be controversial or not everyone's taste. Then they add "tbh" which stands for "to be honest," so they're being straightforward here. But then they say, "but its good." 
+
+So putting that together, the speaker is acknowledging that it might resemble modern art, which could be seen as unconventional or even a bit strange by some people. However, despite their initial observation, they conclude that it's still good. This seems like a positive note.
+
+Looking at the emotion categories: anger would involve strong displeasure, but here the tone isn't negative. Disgust is about revulsion, which doesn't fit either because they end on a positive note. Fear involves worry or anxiety, which isn't present. Sadness and surprise are also not indicated. Joy includes happiness or approval, which seems to align with the speaker's final assessment that it's good.
+
+So, considering all this, the emotion is likely joy because the speaker is expressing approval despite their initial observation.
+</think>
+
+The speaker starts by suggesting that something might resemble modern art, which can sometimes be controversial or unconventional. They use "tbh" (to be honest) to emphasize their straightforwardness. However, they quickly pivot by saying it's still "good," indicating approval.
+
+Analyzing the emotions:
+- **Anger**: Not present; no signs of displeasure.
+- **Disgust**: No revulsion or strong disapproval expressed.
+- **Fear**: No indication of worry or anxiety.
+- **Joy**: The speaker ends on a positive note, showing approval.
+- **Sadness**: No sorrow or disappointment mentioned.
+- **Surprise**: There's no astonishment or unexpectedness.
+- **Neutral**: Not neutral since they express an opinion.
+
+The final assessment is joy because the speaker approves of something despite its unconventional nature.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out the emotion behind this comment. The user provided the sentence: "Looks like modern art tbh but its good". So first, I need to break down what's being said here.
+
+The speaker is talking about something that looks like modern art and then comments that it's good. Modern art can be a bit controversial because some people find it appealing while others don't. The use of "tbh" (to be honest) suggests the speaker might have an honest opinion, but they're also acknowledging that their view might not be shared by everyone.
+
+The phrase "but its good" indicates a positive sentiment. Even though the initial part might imply that it's unconventional or strange (as is common with modern art), the speaker ends on a positive note. There doesn't seem to be any strong emotion like anger, disgust, fear, or surprise here. It's more of an approving statement.
+
+Looking at the emotion categories, joy includes approval and happiness, which seems to fit. The speaker isn't expressing extreme excitement but is showing acceptance and positivity towards something that might not be universally liked. So, I think joy is the most appropriate category.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is, "Looks like modern art tbh but its good." First, let me break down the sentence.
+
+"Modern art" can sometimes be controversial or misunderstood by people who aren't familiar with it. The phrase "looks like modern art tbh" translates to "to be honest," so they're probably saying that something resembles modern art, which might have a negative connotation because some people find modern art confusing or unappealing.
+
+But then the speaker adds, "but its good." So even though it might look like modern art (which could imply something unconventional or maybe not to everyone's taste), the speaker is affirming that it's actually good. This suggests approval or positivity.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger doesn't fit because there's no indication of displeasure or antagonism here. Disgust might be possible if they were strongly disapproving, but the statement ends on a positive note, so that's unlikely. Fear isn't applicable since there's no sense of worry or anxiety. Sadness is out because there's no sorrow or disappointment expressed.
+
+Joy seems like a good fit because the speaker is expressing approval and finding something pleasing despite initial reservations about it being modern art. Surprise doesn't quite apply here because there's nothing unexpected mentioned in the comment. Neutral isn't right because they are expressing an opinion, albeit a mixed one that ends positively.
+
+So putting it all together, the emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

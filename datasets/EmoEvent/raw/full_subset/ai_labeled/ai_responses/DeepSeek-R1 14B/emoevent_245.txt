@@ -1,0 +1,22 @@
+Record: "One was loyal to his Queen,One was loyal to her people. One died protecting his Queen,the other died protecting her people. RIP House Mormont   #GameofThrones #AryaStark #GOTS8E3  #GOT #TheonGreyjoy  #gotfever #GOT8 #GamefThrones  #NightKing #NotToday #BranStark #GreatWar https://t.co/cf61nWghol"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query. The user has provided a tweet about Game of Thrones and wants me to classify the primary emotion conveyed in it using one of six labels: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It mentions two characters who were loyal to different figures—his Queen and her people. Both died while protecting their respective leaders. The tweet ends with "RIP House Mormont" and includes several hashtags related to Game of Thrones and its characters.
+
+The tone here seems somber and reflective. The deaths described are significant, especially since they're about characters who were loyal and died in service. Words like "loyal," "died protecting," and "RIP" all carry a sense of loss and sorrow.
+
+Looking at the mapping guidelines, sadness is associated with emotions like pensiveness or grief. Since the tweet is expressing a deep sense of loss and mourning for these characters, it fits under sadness rather than other categories like anger or fear.
+
+I should also consider if there's any hint of another emotion, but the overall sentiment leans heavily towards sadness without any clear signs of joy, surprise, or other emotions. The hashtags don't add much in terms of changing the emotion; they just provide context about the show and characters.
+
+So, after analyzing the content and the emotional cues, I'm confident that the primary emotion here is sadness.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

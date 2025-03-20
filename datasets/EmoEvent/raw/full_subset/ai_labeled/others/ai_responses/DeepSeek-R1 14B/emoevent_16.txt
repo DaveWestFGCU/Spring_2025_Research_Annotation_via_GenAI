@@ -1,0 +1,18 @@
+Record: "This game is so good! #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out the primary emotion conveyed in this tweet. The tweet says, "This game is so good! #ChampionsLeague." Let's break it down.
+
+First, the words used are positive: "so good" clearly expresses a favorable sentiment. The exclamation mark adds emphasis, indicating excitement or enthusiasm. The hashtag "#ChampionsLeague" relates to the UEFA competition mentioned in the context, which is a prestigious event, so the tweet is likely about a match they're enjoying.
+
+Looking at the emotion labels provided: anger, disgust, fear, joy, sadness, surprise, other. I need to map this to one of these. The primary emotion here seems to be joy because the user is expressing that the game is good and exciting. There's no indication of any negative emotions or mixed feelings; it's a straightforward positive statement.
+
+I should also consider if there's any possibility of another emotion, but "so good" doesn't hint at surprise unless something unexpected happened, which isn't mentioned here. It's more about enjoyment and positivity, so joy fits best.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

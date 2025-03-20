@@ -1,0 +1,44 @@
+Record: "NUSCR sends their thoughts and prayers to the people of #Paris. #NotreDame #NotreDameCathedralFire  Unfortunately, all of our students are home for the Easter Break so we are unable to organise ringing at All Saints' tomorrow."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet, NUSCR is sending thoughts and prayers, which shows sympathy. They mention that all students are home, so they can't do something specific tomorrow. The overall tone seems somber and concerned about the fire.
+
+The key emotions here are likely sadness because of the tragedy mentioned (the fire) and the inability to help due to circumstances. There's no indication of anger or fear, just a focus on empathy.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet's emotion from the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet, NUSCR is expressing their thoughts and prayers. That sounds like empathy or condolence, which falls under sadness. They mention being unable to help because students are on break, but that doesn't add any other emotion. No signs of anger or fear, just a supportive message.
+</think>
+
+The tweet conveys **sadness** as the author expresses sympathy and inability to assist due to circumstances.
+
+**emotion**: sadness
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet into one of the given emotion categories: anger, disgust, fear, joy, sadness, or surprise. Let me read through the tweet carefully.
+
+The tweet says that NUSCR sends their thoughts and prayers to the people of Paris regarding the Notre-Dame Cathedral fire. They mention that all students are home for Easter Break, so they can't organize ringing at All Saints' tomorrow. 
+
+So, the main points here are expressing sympathy (thoughts and prayers) towards those affected by the fire and an inability to help due to circumstances (students being on break). The emotion conveyed seems to be empathy or condolence, which is related to sadness. 
+
+The author isn't angry, so it's not about anger. There's no expression of disgust or dislike. Fear or anxiety doesn't seem applicable here. Joy or serenity isn't the mood either. Surprise isn't present because the event (the fire) is already known and being responded to.
+
+Therefore, the emotion intended here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

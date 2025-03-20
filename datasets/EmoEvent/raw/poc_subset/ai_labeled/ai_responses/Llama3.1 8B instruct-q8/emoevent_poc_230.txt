@@ -1,0 +1,40 @@
+Record: "I don’t get it. Does r/sardonicast actually believe that BP is highly overrated?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author starts with a phrase "I don't get it", which can indicate confusion or puzzlement.
+* They express skepticism about the opinions of others ("Does r/sardonicast actually believe...").
+* The tone seems questioning and uncertain, rather than overtly negative or positive.
+
+Given these considerations, the most relevant emotion label is:
+
+**surprise**
+(Perhaps not just surprise at a specific fact, but also at the author's own lack of understanding or agreement with others.)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses confusion and skepticism about a subreddit's opinion on a topic.
+* They use the phrase "Does [they] actually believe" which implies a lack of understanding or surprise at their stance.
+* The tone is more questioning than aggressive, with no overtly derogatory language.
+
+Given these considerations, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author is questioning the opinion of someone else (r/sardonicast) on a topic (BP being overrated).
+* The tone is skeptical and critical.
+* There's no indication of emotional distress, excitement, or shock.
+
+Given these points, I would classify the tweet as:
+
+**anger**
+The author appears to be annoyed or frustrated with r/sardonicast's opinion, which suggests a negative emotion like anger.
+------------------------------------------------------------------------------------------------------------------------
+

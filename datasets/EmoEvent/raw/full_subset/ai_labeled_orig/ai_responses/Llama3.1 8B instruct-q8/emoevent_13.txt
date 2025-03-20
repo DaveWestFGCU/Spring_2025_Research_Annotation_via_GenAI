@@ -1,0 +1,39 @@
+Record: "We’ll all be missing this important piece of history and Christianity while it’s being rebuilt. #sosad #NotreDameCathedralFire https://t.co/5bgI0rnzTk"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions the fire that damaged Notre-Dame Cathedral.
+* The author expresses a sense of loss and absence, using the phrase "missing this important piece of history".
+* The hashtags "#sosad" reinforce a negative emotional tone.
+
+Given these points, the most relevant emotion label is:
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a sense of loss or absence.
+* They mention that the cathedral will be missing during its rebuilding process, implying that it was an important and valued part of their life or community.
+* The hashtags "#sosad" suggest a strong emotional response.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's tone suggests a sense of grief or pensiveness about the loss of this historic landmark during its rebuilding process.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet mentions a historical and culturally significant event that has been damaged.
+- The author uses the hashtag "#sosad" which is an emoticon used to express sadness.
+
+Based on these points, the intended emotion conveyed by the author is most likely:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

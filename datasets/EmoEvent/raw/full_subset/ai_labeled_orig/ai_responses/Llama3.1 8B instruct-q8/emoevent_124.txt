@@ -1,0 +1,39 @@
+Record: "What a night for #Barcelona! #Messi reaches 600 career goals by scoring a free kick out of this world and the #Catalans take the advantage in first leg of 1/2 final against #Liverpool!   #ucl #BarçaLFC #championsleague https://t.co/gAOFKZsDt5"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a specific event (Messi's 600th career goal) and its impact on the football match between Barcelona and Liverpool.
+* The language used is celebratory, with words like "What a night", "out of this world", and "advantage".
+* The author appears to be expressing excitement or enthusiasm for the event.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The tweet's tone is clearly positive and triumphant, indicating that the author is thrilled about Messi's achievement and Barcelona's lead in the match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is talking about a positive event, specifically Barcelona's success and Lionel Messi's achievement.
+* The use of superlatives such as "out of this world" suggests excitement and enthusiasm.
+* The tone is celebratory and supportive towards Barcelona.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is celebratory and enthusiastic.
+* The use of phrases such as "What a night" and "out of this world" convey excitement and admiration.
+* The mention of a significant achievement by Messi, one of the greatest football players of all time, is likely to elicit a positive emotional response.
+
+Given these points, the most relevant emotion label for the author's intended tone is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

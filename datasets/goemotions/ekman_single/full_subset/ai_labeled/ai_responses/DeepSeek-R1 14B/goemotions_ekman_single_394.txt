@@ -1,0 +1,72 @@
+Record: "This wasn’t last year. It was last century! Star Wars had just come out!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "This wasn’t last year. It was last century! Star Wars had just come out!"
+
+First, let me break down the sentence. The speaker is making a comparison between two time frames. They mention it wasn't last year but instead refers to "last century," which is an exclamation that suggests something happened a long time ago. Then they add "Star Wars had just come out!"—which I know was in the 70s, so referring to that as if it's recent in the context of their statement.
+
+Looking at emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The exclamation points and the use of "just come out" might indicate excitement or nostalgia. They seem to be emphasizing how long ago it was by mentioning Star Wars, which is a significant cultural event. So maybe they're expressing joy because they're recalling something positive from the past. Alternatively, the emphasis on time could also hint at surprise, but I think more likely it's about expressing happiness related to that memory.
+
+So I'm leaning towards joy because the speaker seems enthusiastic and possibly nostalgic about Star Wars.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "This wasn’t last year. It was last century! Star Wars had just come out!" 
+
+First, let me look at each emotion category and see which one fits best.
+
+Starting with anger—does this comment express any kind of displeasure or antagonism? I don't think so. The speaker seems to be making a point about when something happened, not expressing frustration or dislike.
+
+Next, disgust—this involves revulsion or strong disapproval. Again, the comment doesn't seem to show any negative feelings towards something unpleasant. It's more informational.
+
+Fear is next. There's no indication of being afraid or worried here; the speaker is talking about a time in the past when Star Wars came out.
+
+Joy would include happiness and related emotions. The mention of Star Wars might be positive, but it doesn't seem like the speaker is expressing joy. They're making a factual statement rather than showing excitement or pleasure.
+
+Sadness involves emotional pain or sorrow. There's no sign of sadness in this comment; it's more about pointing out something happened a long time ago.
+
+Surprise includes astonishment or realizing something unexpected. The comment seems to be clarifying the timeframe, not expressing surprise.
+
+Neutral is when there's no emotion expressed. This comment is informative and doesn't show any specific emotion. It's more about stating facts than conveying feelings.
+
+So, putting it all together, the speaker isn't showing anger, disgust, fear, joy, sadness, or surprise. They're simply providing information to correct a misunderstanding. Therefore, the emotion is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I'm trying to figure out what emotion the speaker might be feeling based on their comment. The sentence is: "This wasn’t last year. It was last century! Star Wars had just come out!" 
+
+First, let me break down the sentence. They're correcting someone about when something happened—they thought it was last year, but the speaker says it's from last century and mentions that Star Wars had just come out.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+I don't detect any signs of anger or frustration because they're not using harsh words. There's no expression of dislike or antagonism, so probably not anger or disgust.
+
+Fear isn't present either; there's no indication of worry or nervousness in the statement.
+
+Joy might be a possibility if they're excited about referencing Star Wars, but the main emotion seems more about correcting someone rather than expressing happiness.
+
+Sadness doesn't seem to fit here since there's no sorrow or disappointment expressed.
+
+Surprise is when you feel astonished by something unexpected. But the speaker is providing information, not reacting with surprise themselves. They might be informing others, so maybe it's more neutral.
+
+Wait, but sometimes people use humor or sarcasm without expressing a strong emotion. Alternatively, they could be sharing an interesting fact about time periods.
+
+But considering all categories, the speaker isn't showing any of the primary emotions like joy, anger, etc. They're simply stating facts to correct someone. So it's more likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,61 @@
+Record: "The comment thread is a hot mess and wouldnt be out of place in 2016. How do things not change...."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm trying to figure out what emotion this tweet is conveying. The tweet says, "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...." 
+
+First, let's break down the words used. "Hot mess" is an expression that usually describes something chaotic or in disarray, which often has negative connotations. The author is pointing out that the comment thread is messy and hasn't changed over time—specifically mentioning 2016, which might be implying it's outdated or hasn't evolved.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one.
+
+The phrase "how do things not change" suggests frustration. Frustration can fall under anger because it involves irritation or annoyance. The author is expressing disappointment that nothing has improved, which can make someone feel annoyed or upset.
+
+There's no clear sign of disgust here unless the content of the comments is being disliked, but the main emotion seems to be more about the situation not improving rather than disliking something. Fear isn't present because there's no indication of anxiety or dread. Joy and surprise are definitely not applicable since the tone is negative.
+
+So, considering all this, the emotion here is likely anger due to frustration with the lack of change and the messy state of the comment thread.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...." 
+
+First, let's break down the words used. "Hot mess" is an expression that usually conveys frustration or irritation. It suggests that something is chaotic or disorganized. The phrase "wouldn't be out of place in 2016" implies that the situation hasn't changed much over time, which could indicate disappointment or exasperation.
+
+The last part, "How do things not change....", expresses bewilderment or frustration about a lack of progress. This seems to show that the author is upset because they expected some improvement but didn't see any. 
+
+Looking at the emotion categories: anger includes annoyance and rage, which fits because the tweet is expressing frustration. Disgust involves dislike, but I don't think that's the primary feeling here; it's more about being annoyed than disgusted. Fear would relate to anxiety or dread, which isn't present. Joy and surprise are clearly not applicable. Sadness could be considered, but the main emotion seems more irritation than grief.
+
+So putting it all together, the author is primarily conveying frustration or annoyance, which falls under anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let's look at the tweet again: "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...."
+
+First, I notice that the author refers to the comment thread as a "hot mess." That phrase suggests frustration or irritation, which could relate to anger or maybe disgust. The comparison to 2016 adds context—maybe implying that the situation is outdated or worse than expected.
+
+The second part of the tweet asks, "How do things not change...." This indicates disappointment or exasperation. Exasperation can fall under anger because it's a strong negative emotion, but I'm considering whether it might also be sadness or disgust.
+
+Looking at each emotion category:
+
+- Anger: The use of "hot mess" and the frustration expressed in the second part could fit here.
+- Disgust: If the author is expressing aversion towards the comments, this might apply. But "hot mess" is more about chaos than explicit disgust.
+- Fear: There's no indication of fear or apprehension.
+- Joy: Clearly not applicable; the tone isn't positive.
+- Sadness: While disappointment can be part of sadness, the intensity here seems more frustration-based.
+- Surprise: No element of surprise in the tweet.
+
+Between anger and disgust, "hot mess" leans towards a chaotic situation rather than something revolting. The exasperation also points to frustration, which is a form of anger. So, I think the emotion conveyed here is primarily anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

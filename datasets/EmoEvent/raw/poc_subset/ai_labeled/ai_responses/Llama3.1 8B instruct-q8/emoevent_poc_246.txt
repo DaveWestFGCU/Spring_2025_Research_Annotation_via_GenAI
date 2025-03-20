@@ -1,0 +1,32 @@
+Record: "What a great response!!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains an exclamation mark, which is often used to convey strong emotions.
+* The word "great" is a positive adjective that suggests a high level of approval or satisfaction.
+* The phrase "response" implies a reaction to something, but the context is not provided.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses an exclamation mark at the end of the sentence, which often indicates excitement or enthusiasm.
+* The use of the word "great" is typically positive and implies approval.
+
+Based on these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The use of the phrase "great" and the double exclamation marks suggest a positive sentiment.
+* The tone is enthusiastic and supportive.
+
+Based on these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

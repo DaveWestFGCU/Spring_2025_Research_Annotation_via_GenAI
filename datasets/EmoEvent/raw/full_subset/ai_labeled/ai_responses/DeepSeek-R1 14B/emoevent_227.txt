@@ -1,0 +1,18 @@
+Record: "The speed of the wights caught me off guard. I truly wasn’t ready for that. #GameofThrones"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about Game of Thrones. Let's break it down.
+
+The tweet says, "The speed of the wights caught me off guard. I truly wasn’t ready for that." The user is talking about being surprised by something unexpected—the speed of the wights. They mention it caught them off guard and they weren't ready for it. 
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. The key here is "caught me off guard" and "wasn’t ready." These phrases indicate that the user was not expecting something to happen, which usually signals surprise.
+
+I don't think it's fear because they're not expressing anxiety or terror, just being surprised by an event. It's also not sadness or anger; there's no indication of negative emotions beyond surprise. So, the emotion here is surprise.
+</think>
+
+surprise
+------------------------------------------------------------------------------------------------------------------------
+

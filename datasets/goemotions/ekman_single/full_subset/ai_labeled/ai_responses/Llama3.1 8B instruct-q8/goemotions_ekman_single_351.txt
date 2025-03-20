@@ -1,0 +1,32 @@
+Record: "She looks like a televangelist."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker makes a negative comparison between someone and a televangelist.
+* Televangelists are often viewed unfavorably for their perceived hypocrisy, greed, or lack of authenticity.
+* The speaker's comment is brief and lacks any expression of concern or empathy.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker makes a comparison between the person and a televangelist, which implies a negative connotation.
+* The speaker uses a metaphor ("looks like") to make their point, which suggests they are expressing an opinion rather than simply stating a fact.
+
+Given these considerations, the emotion most people will feel the speaker may be feeling is **disgust**. This is because the speaker's comparison of the person to a televangelist implies that they find the person to be insincere or manipulative, which can evoke feelings of disgust in others.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker compares the person to a televangelist, which implies a negative association.
+* The tone of the comparison is informal and slightly mocking.
+
+Given these considerations, the most relevant emotion label is **disgust**. The speaker's comment suggests that they find the person or their appearance off-putting or distasteful, which aligns with the definition of disgust as a feeling of revulsion or strong disapproval.
+------------------------------------------------------------------------------------------------------------------------
+

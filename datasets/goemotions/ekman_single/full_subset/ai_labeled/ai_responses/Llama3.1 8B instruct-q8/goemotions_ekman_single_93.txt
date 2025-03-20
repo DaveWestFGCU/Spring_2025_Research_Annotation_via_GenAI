@@ -1,0 +1,36 @@
+Record: "This is pretty bad advice. Do not use dreams own encryption. And do not use things such as igolder"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is providing feedback on the advice given in the post.
+* They are warning against using certain methods, specifically dreams' own encryption and igolder.
+* The tone appears to be cautionary, with a sense of disapproval.
+
+Given these considerations, the most relevant emotion label is **disgust**, as the speaker is expressing strong disapproval or revulsion towards the advice given.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker explicitly states that the given advice is "pretty bad".
+* They provide two specific pieces of advice that they claim are incorrect.
+* Their tone seems cautionary and warning, rather than playful or joking.
+
+Given these considerations, the most relevant emotion label for this text is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone appears cautionary and warning.
+* They are advising against using certain methods, specifically referencing "dreams own encryption" and "things such as igolder".
+* There is no apparent personal attack or insult.
+
+Given these considerations, the most relevant emotion label is **sadness**. However, sadness may not be the primary emotion here. The speaker's tone suggests a more neutral warning tone, but with a hint of concern or frustration at the advice being given.
+
+However, upon closer inspection, I would argue that the speaker's emotions lean towards **disgust**, as they are strongly disapproving of the advice being offered and are warning against it in a clear and direct manner.
+------------------------------------------------------------------------------------------------------------------------
+

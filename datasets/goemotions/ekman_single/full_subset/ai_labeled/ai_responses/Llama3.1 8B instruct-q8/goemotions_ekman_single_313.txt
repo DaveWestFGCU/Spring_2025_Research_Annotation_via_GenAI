@@ -1,0 +1,34 @@
+Record: "I'm more than sure we [NAME] lovers feel the same way, her outfits are awful"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses strong language ("awful") to express their opinion about someone's fashion sense.
+* The tone is critical and dismissive of another person's style.
+* The comment seems to be a personal attack rather than a constructive criticism.
+
+Given these points, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses strong disapproval of someone's fashion sense.
+* The language used is blunt and categorical ("awful").
+* There is no hint of empathy or concern for the person being critiqued.
+
+Given these considerations, the emotion most people will feel the speaker may be feeling is **disgust**. The speaker appears to be strongly disapproving of something (the outfits) that they find unpleasant or offensive.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a strong opinion about someone's fashion sense.
+* They use the phrase "lovers" in a possessive manner, implying a level of commitment or intensity towards their opinion.
+* The tone is critical and dismissive.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+

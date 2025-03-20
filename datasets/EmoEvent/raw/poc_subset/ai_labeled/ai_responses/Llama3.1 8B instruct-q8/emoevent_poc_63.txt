@@ -1,0 +1,36 @@
+Record: "A one-line whip is still whipping against, although it is a pretty disappointing decision."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses words with negative connotations such as "disappointing" and "whipping".
+* The tone appears to be somewhat neutral or matter-of-fact.
+
+Based on the text, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions something being "disappointing", which suggests a negative emotional tone.
+* However, they use the word "pretty" to describe the decision, which could indicate that their disappointment is not extreme.
+* There is no indication of strong emotions like anger, fear, or disgust.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's use of the word "disappointing" suggests a sense of sadness or disappointment, rather than any other emotion on the list.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a "pretty disappointing" decision, which implies a negative tone.
+* The use of the word "whipping" might convey a sense of continued or ongoing negativity.
+
+Given these points, the most relevant emotion label is **sadness**. The author's focus on disappointment and the continued negative situation suggests a sense of sadness or pensiveness.
+------------------------------------------------------------------------------------------------------------------------
+

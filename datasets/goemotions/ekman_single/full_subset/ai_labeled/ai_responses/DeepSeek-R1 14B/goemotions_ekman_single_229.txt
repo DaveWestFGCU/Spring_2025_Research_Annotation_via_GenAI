@@ -1,0 +1,52 @@
+Record: "Fucking parking in the middle of the street through the entire strip of Allegheny"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure this out. The user provided a sentence and wants me to identify the emotion based on specific categories. So the speaker said, "Fucking parking in the middle of the street through the entire strip of Allegheny." 
+
+First, I'll break down the sentence. The word "fucking" is a strong swear word, which often indicates anger or frustration. Then, they're talking about someone parking in the middle of the street across an entire area, which sounds like it's causing a problem or annoyance.
+
+Looking at the emotion definitions: Anger includes things like displeasure and antagonism. The use of profanity here definitely points towards anger. Disgust usually involves something unpleasant, but this isn't describing something gross—it's more about behavior. Fear is related to being afraid, which doesn't seem to be the case here. Joy, sadness, surprise, or neutral don't fit because the tone is clearly negative.
+
+So putting it all together, the speaker is expressing frustration and anger at someone's parking habits. There are no signs of other emotions like fear or surprise. Therefore, the most relevant emotion is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to determine the emotion the speaker is feeling based on their comment. The comment is: "Fucking parking in the middle of the street through the entire strip of Allegheny." 
+
+First, let's break down the sentence. The speaker uses the word "fucking," which is a strong swear word. This usually indicates some negative emotion. They're talking about someone parking in the middle of the street across an entire strip, which suggests they find this behavior problematic or frustrating.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The use of profanity points towards anger. Anger is a strong feeling of displeasure or antagonism. The speaker seems annoyed and disapproving of the parking situation, which aligns with anger rather than disgust (which would involve revulsion) or fear (nervousness/anxiety). There's no indication of joy, sadness, fear, surprise, or neutrality here.
+
+So, the emotion is likely anger.
+</think>
+
+The speaker is expressing frustration and disapproval using strong language, indicating they're angry about the parking situation. 
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Fucking parking in the middle of the street through the entire strip of Allegheny." Let me break this down.
+
+First, I notice that the word "fucking" is used here. That's a strong expletive, which often indicates anger or frustration. The speaker is clearly upset about something related to parking. They mention parking in the middle of the street across the entire strip of Allegheny, which sounds like it's causing an issue—maybe blocking traffic or making it hard for others to get through.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. I have to choose one that fits best.
+
+Anger is about strong displeasure or antagonism. The use of the profanity and the description of the parking issue suggest frustration, which aligns with anger. Disgust involves revulsion or disapproval, but here it's more about the action itself rather than finding something offensive. Fear would relate to being afraid or worried, which doesn't seem to be the case here. Joy and surprise are clearly not applicable because there's no positive emotion or astonishment expressed. Sadness is about emotional pain, which isn't directly evident from this statement—it's more about frustration.
+
+So, putting it all together, the speaker is expressing strong dislike towards someone parking in a problematic way, using a swear word to emphasize their irritation. This points to anger as the most fitting emotion.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "Playing pig so you can tbag survivors."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to another player's behavior.
+* The behavior being responded to involves intentionally killing other players ("tbagging") while pretending to be a less threatening character type ("pig").
+* The tone of the comment suggests disapproval or frustration.
+
+Based on these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is making a comment that appears to be mocking or criticizing another player's behavior.
+* The language used is informal and derogatory, with the use of the phrase "tbag" which is a slang term for killing players in a game, implying that the survivor is being unfairly targeted.
+
+Most relevant emotion label: **anger**
+
+The speaker's tone and language suggest that they are expressing anger or frustration towards another player who is "playing pig" (likely a reference to playing as a healer or support character) in order to kill survivors. The use of derogatory language implies a sense of disapproval and annoyance, which are key components of the emotion of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the sentence is short and direct.
+* The language used is colloquial, with informal terms such as "pig" and "tbag".
+* The speaker appears to be criticizing or mocking someone's behavior.
+
+Given these considerations, the most relevant emotion label is **anger**. The speaker seems to be expressing disapproval or frustration towards the person playing a game in a way that they perceive as negative or annoying (tbagging survivors).
+------------------------------------------------------------------------------------------------------------------------
+

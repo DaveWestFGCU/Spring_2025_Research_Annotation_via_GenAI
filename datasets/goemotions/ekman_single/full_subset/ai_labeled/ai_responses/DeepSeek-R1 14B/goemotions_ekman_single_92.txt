@@ -1,0 +1,66 @@
+Record: "I’m super proud of him. Great guy!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "I'm super proud of him. Great guy!" Alright, let's break this down.
+
+First, looking at the emotion categories given: anger, disgust, fear, joy, sadness, surprise, and neutral. My job is to pick one that best fits.
+
+The speaker says they're "super proud" and calls him a "great guy." Pride usually falls under joy because it's a positive feeling. Joy includes things like pride, approval, and happiness. So the words here are really positive. They’re expressing satisfaction and admiration towards someone else.
+
+Looking at the examples provided for each emotion:
+
+- Anger: Words like hate, annoyed, etc., which aren't present here.
+- Disgust: Negative feelings about something unpleasant, not applicable.
+- Fear: Concerns or worry, but the speaker is positive.
+- Joy: Fits because pride and approval are part of joy.
+- Sadness: Doesn't fit; there's no negative emotion here.
+- Surprise: Not really; it's more of a direct expression of approval.
+- Neutral: Definitely not since they're expressing strong emotions.
+
+So yeah, "super proud" is a clear indicator of joy. They’re happy and approving of the person, so the emotion here is definitely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out what emotion the speaker is conveying in their comment. The sentence given is, "I'm super proud of him. Great guy!" 
+
+First, I'll break it down word by word. They start with "I'm super proud," which immediately makes me think of positive emotions. Pride is definitely a key word here. When someone expresses pride, especially when talking about another person, it usually indicates joy or happiness towards their achievements or qualities.
+
+Next, they say, "Great guy!" This reinforces the positive sentiment. Describing someone as great shows approval and admiration. Both of these are components listed under the 'joy' category, which includes admiration and approval. 
+
+Looking at the emotion categories provided:
+
+- Anger: Doesn't seem applicable here since there's no sign of displeasure or antagonism.
+- Disgust: No indication of revulsion or disapproval.
+- Fear: There's no mention of worry or nervousness.
+- Joy: Fits perfectly because pride, admiration, and approval are all part of joy.
+- Sadness: The comment doesn't show any sorrow or disappointment.
+- Surprise: There's nothing unexpected mentioned here.
+- Neutral: Definitely not neutral since the speaker is expressing strong positive emotions.
+
+So putting it all together, the emotion being conveyed is joy. They're clearly happy and proud about someone else, which aligns perfectly with the definition of joy provided.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I've got this task where I need to figure out the emotion someone is feeling based on their comment. The options are anger, disgust, fear, joy, sadness, surprise, and neutral. Let's see what the speaker said: "I’m super proud of him. Great guy!" 
+
+First off, breaking down the sentence. "Super proud" definitely sounds positive. Pride is often linked with joy because it's a feeling of happiness or satisfaction in someone else's achievements. Then they call him a "great guy," which is another positive remark. Both parts are expressing approval and happiness.
+
+Looking at the emotion categories: Joy includes admiration, approval, and happiness, all of which fit here. The other emotions like anger, disgust, fear, sadness, surprise don't seem to apply because there's no indication of negative feelings or unexpected news. Neutral isn't it either since they're clearly expressing something positive.
+
+So putting it together, the emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

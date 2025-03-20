@@ -1,0 +1,33 @@
+Record: "Omg it’s like you’re taking the words from my mind."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone seems enthusiastic and excited.
+* They use an exclamation mark, which indicates strong emotions.
+* The language is similar to expressions of agreement or validation.
+
+Given these considerations, the emotion most people will feel the speaker may be feeling is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is enthusiastic and excited.
+* The speaker uses an exclamation mark, indicating strong emotions.
+* The language used is similar to that of a fan or someone who strongly identifies with the topic.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used by the speaker is enthusiastic and expressive, with an exclamation mark at the end.
+* The phrase "like you're taking the words from my mind" suggests a strong sense of resonance or connection with the speaker's thoughts.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

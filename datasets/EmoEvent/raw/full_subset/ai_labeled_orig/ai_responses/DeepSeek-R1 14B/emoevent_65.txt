@@ -1,0 +1,46 @@
+Record: "Have been to the cathedral three times. Saw something new each time. Upsetting to hear about the #NotreDameCathedralFire."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify a tweet based on the emotion it conveys using specific categories: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It says, "Have been to the cathedral three times. Saw something new each time. Upsetting to hear about the #NotreDameCathedralFire." 
+
+The author mentions visiting the cathedral multiple times and experiencing something new each time, which shows a positive connection or appreciation towards the place. However, the key emotion here is expressed with "Upsetting," which directly relates to sadness.
+
+I need to consider if any other emotions might fit. Anger isn't present; there's no indication of frustration or rage. Disgust also doesn't apply because the tweet isn't expressing dislike or厌恶 towards something. Fear isn't evident either; the tweet doesn't convey anxiety or terror about the situation. Joy and surprise aren't applicable here since the tone is somber.
+
+Therefore, sadness is clearly the emotion being conveyed. The author is upset about the fire, which aligns with feelings of grief or sorrow.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me break down how I arrived at the classification of "sadness" for this tweet.
+
+First, I read the tweet: "Have been to the cathedral three times. Saw something new each time. Upsetting to hear about the #NotreDameCathedralFire."
+
+The key words here are "upsetting," which directly relates to sadness. The author mentions visiting the cathedral multiple times and appreciating its beauty each time, indicating a personal connection. Hearing about the fire affected them emotionally, leading to feelings of sorrow or grief.
+
+I considered other emotions but found that none fit as well. There's no indication of anger or disgust towards anyone or anything; instead, it's more about the loss itself. Fear isn't present since there's no threat implied. Joy and surprise are also not relevant here because the tweet conveys a negative emotion rather than a positive one.
+
+So, "sadness" is the most appropriate label because the author expresses personal disappointment and grief over the destruction caused by the fire.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm trying to figure out the emotion in this tweet. The user says they've been to the Notre-Dame Cathedral three times and saw something new each time. Now, hearing about the fire is upsetting them. So, the key words here are "upsetting" and their experience with the place.
+
+The emotions listed are anger, disgust, fear, joy, sadness, surprise. The tweet doesn't show anger or frustration, more like a feeling of loss. They mention it's upsetting, which directly points to sadness. They're expressing grief over losing something they cherished from their visits. There's no indication of fear or surprise, just a deep sense of sorrow.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

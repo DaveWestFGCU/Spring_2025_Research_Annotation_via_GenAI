@@ -1,0 +1,47 @@
+Record: "If you folks don't vote #Trump out of office- It's your own fault. We live in a country that is run by a #WhiteSupremacist - The WH is offering assistance to #NotreDameCathedralFire and NOT  #Flint #PuertoRico #3BlacksChurches- Let's remove the #KKK out of the White House https://t.co/FxS33KXxH6"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a serious issue (a president being a "White Supremacist") and connects it to another negative event (the Notre-Dame Cathedral fire).
+* The tone of the tweet is critical and accusatory towards Trump and his administration.
+* The author expresses outrage by stating that it's the reader's fault if they don't vote against Trump.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**anger**
+
+The author's language and tone convey a strong sense of anger and frustration towards Trump and his policies.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider when classifying the tweet:
+
+* The tone of the tweet is critical and condemnatory, particularly towards President Trump and white supremacy.
+* The language used is strong and emotional, with phrases like "run by a #WhiteSupremacist" and "#KKK out of the White House".
+* The author is making explicit comparisons between different disasters (Notre-Dame Cathedral fire vs. Flint water crisis, Puerto Rico hurricane relief, and 3 Black churches arson attacks) to highlight perceived injustices.
+* The call to action ("Let's remove the #KKK out of the White House") suggests a sense of urgency and anger.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The author's tone and language convey a strong sense of outrage and indignation towards President Trump and white supremacy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider given the text:
+
+* The author is comparing the US government's response to different crises, implying a sense of injustice or inequality.
+* The author uses strong language and labels, such as "White Supremacist", "#KKK" and "#Trump", which suggests a high level of emotion and urgency.
+* The author is urging people to take action, specifically voting out the current president.
+
+Given these points, I would classify the tweet with:
+
+**anger**
+
+The author's tone is accusatory and angry, with a sense of outrage and frustration at the perceived injustices in the US government's response to different crises.
+------------------------------------------------------------------------------------------------------------------------
+

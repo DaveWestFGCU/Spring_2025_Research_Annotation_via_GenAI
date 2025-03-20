@@ -1,0 +1,60 @@
+Record: "Wow, that was insane"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "Wow, that was insane." Let me break this down step by step.
+
+First, I should look at the words used. "Wow" is a common exclamation that often expresses surprise or astonishment. Then "that was insane"—using "insane" can mean something extremely impressive or unbelievable, which usually conveys surprise.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. The comment doesn't show any signs of displeasure (anger) or revulsion (disgust). There's no indication of fear or anxiety, nor is there a feeling of happiness (joy) or sorrow (sadness). It also isn't neutral because the speaker is expressing something.
+
+The key here is "insane" and "wow," which are strong indicators of surprise. The speaker is reacting to something unexpected, whether it's exciting or shocking, but the emotion category that fits best is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion best describes the speaker based on their comment. The comment is "Wow, that was insane." Hmm, let me break this down.
+
+First, looking at the words used: "Wow" and "insane." "Wow" often expresses surprise or astonishment, and "insane" can mean something really intense or unbelievable. So putting those together, it sounds like the speaker is reacting to something unexpected or extraordinary.
+
+Now, let's go through each emotion category:
+
+- **Anger**: Doesn't fit because there's no sign of frustration or displeasure.
+- **Disgust**: No indication of revulsion or disapproval here.
+- **Fear**: The comment doesn't express worry or fear, so probably not this one.
+- **Joy**: While positive, "insane" usually isn't used in a joyous context but rather to show surprise.
+- **Sadness**: There's no sad emotion indicated here either.
+- **Surprise**: Fits because the speaker is expressing astonishment with "Wow" and "insane."
+- **Neutral**: Doesn't apply since there's an expressed emotion.
+
+So, putting it all together, the emotion is likely surprise. The use of "Wow" and "insane" points to being astonished or startled by something unexpected.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I have this query where someone wants me to identify the emotion a speaker is feeling based on their statement. The options are anger, disgust, fear, joy, sadness, surprise, and neutral. The example given is a Reddit comment: "Wow, that was insane." 
+
+First, I need to break down what each emotion entails according to the definitions provided. Anger involves strong displeasure or antagonism, disgust is about revulsion towards something unpleasant, fear relates to being afraid or worried, joy is happiness and pleasure, sadness is emotional pain, surprise is astonishment or confusion, and neutral means no expressed emotion.
+
+Looking at the comment "Wow, that was insane," I can tell it's an exclamation. The word "insane" typically conveys something surprising or unexpected. The speaker is reacting to something they found extraordinary or unbelievable. 
+
+I should consider each emotion category. Is it anger? Well, no, because there's no indication of displeasure or antagonism here. Disgust? Unlikely; the comment doesn't express revulsion. Fear? Maybe if "insane" refers to fear, but "wow" suggests a positive reaction rather than fear. 
+
+Joy is possible since the speaker seems impressed, but "insane" has more to do with surprise than pure joy. Sadness and neutral don't fit here because there's a clear emotion being expressed. That leaves surprise as the most fitting category. The use of "wow" emphasizes astonishment, which aligns with surprise.
+
+I also think about how in everyday language, people often say "insane" to express that something was beyond their expectations, whether positive or negative. But in this context, since it's a Reddit comment reacting positively, it leans towards excitement and surprise.
+
+So, putting it all together, the emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

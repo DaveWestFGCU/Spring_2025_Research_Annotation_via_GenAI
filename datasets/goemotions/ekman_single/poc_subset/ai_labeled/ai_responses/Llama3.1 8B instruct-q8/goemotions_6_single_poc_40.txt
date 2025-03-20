@@ -1,0 +1,44 @@
+Record: "These leaks are actually very credible. It's sad that you guys let Hate and anger blind you from enjoying the experience."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The speaker mentions that the leaks are credible, indicating a focus on factuality rather than emotional expression.
+* The speaker expresses sadness (not anger) as they note that the discussion has been clouded by hate and anger, implying disappointment or sorrow.
+* The speaker's tone is cautionary, urging others to separate facts from emotions.
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's concern for how hate and anger have overshadowed a potentially enjoyable experience suggests a sense of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that "Hate and anger" have blinded others, implying a negative emotional state in the people they're referring to.
+* The speaker expresses concern or disappointment about how others are reacting to something (the leaks).
+* The tone is cautionary, urging others to look beyond their emotions.
+
+Most relevant emotion label: **sadness**
+
+The speaker's comment conveys sadness because they seem to be disappointed that others are letting anger and hate cloud their judgment. This suggests a sense of emotional pain or sorrow about how people are reacting to the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The speaker appears to be addressing a group of people who may be exhibiting negative emotions (hate and anger) in response to information.
+* The speaker is expressing a contrast between how others should approach this situation with an open mind versus how they are currently reacting.
+* The tone seems to convey disappointment or frustration that others are not considering the information objectively.
+
+Given these points, the emotion most likely felt by the speaker is:
+
+**sadness**
+
+This is because the speaker expresses sadness about the fact that people are allowing their emotions (hate and anger) to cloud their judgment, and as a result are missing out on an enjoyable experience. The use of "sad" explicitly indicates a sense of emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+

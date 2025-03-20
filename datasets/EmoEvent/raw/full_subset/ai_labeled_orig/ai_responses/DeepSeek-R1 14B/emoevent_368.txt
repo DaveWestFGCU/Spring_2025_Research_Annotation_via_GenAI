@@ -1,0 +1,48 @@
+Record: "“It’s in the heart, it’s in the body, it’s in the DNA of Parisians. It’s a national tragedy.”  USER on the #NotreDameCathedralFire https://t.co/6vuoVdFxwa"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, or surprise. The tweet says, “It’s in the heart, it’s in the body, it’s in the DNA of Parisians. It’s a national tragedy.” The user is talking about the Notre Dame Cathedral fire.
+
+First, I'll break down the language used. Words like "heart," "body," and "DNA" suggest something deeply personal and widespread among Parisians. The phrase "national tragedy" clearly indicates a significant negative event affecting many people. 
+
+The emotion here isn't anger because there's no indication of frustration or rage. Disgust doesn't fit either since the tweet is about loss, not dislike. Fear isn't present as there's no sense of impending danger or anxiety. Joy and surprise are also out of the question because the context is negative.
+
+That leaves sadness. The term "national tragedy" inherently conveys grief and mourning, which falls under sadness. The author is expressing a collective sorrow over the loss, making sadness the most appropriate emotion here.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet about the Notre-Dame Cathedral fire into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again carefully.
+
+The user says, "It’s in the heart, it’s in the body, it’s in the DNA of Parisians. It’s a national tragedy." They're talking about how the fire affected not just physically but emotionally too, and they refer to it as a national tragedy.
+
+Hmm, so first I should consider each emotion category. Anger would involve frustration or rage, which doesn't seem to be here. Disgust is more about dislike or disapproval, which also isn't present. Fear involves anxiety or terror; the tweet mentions a tragedy but not necessarily fear.
+
+Joy and serenity don't fit either since it's a sad event. Surprise includes amazement or distraction, but again, this is more about the impact of the fire rather than surprise.
+
+That leaves sadness, which includes grief and pensiveness. The term "national tragedy" clearly indicates something very serious and saddening. The mention of it being in the heart and DNA suggests a deep emotional impact, fitting sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's see what this query is about. The user wants me to classify a tweet regarding the Notre Dame Cathedral fire into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, I'll read the tweet carefully. It says, “It’s in the heart, it’s in the body, it’s in the DNA of Parisians. It’s a national tragedy.” The user is expressing that the fire affected not just physically but emotionally too, referring to Parisians and calling it a national tragedy.
+
+Now, considering the emotion categories: anger would involve frustration or rage, which I don't see here. Disgust might be about dislike, but the tweet doesn't show that. Fear could relate to anxiety, but the focus is more on the impact rather than fear itself. Joy and surprise are clearly not present as the context is negative.
+
+That leaves sadness. The tweet talks about it being in the heart and DNA, indicating a deep emotional connection lost, and calling it a national tragedy, which implies grief or sorrow. So, sadness fits best here.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

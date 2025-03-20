@@ -1,0 +1,33 @@
+Record: "To read and write stories is my greatest joy. #WorldBookDay https://t.co/PB3xIfZ0wd"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet expresses a positive sentiment towards reading and writing.
+- The mention of joy as the author's feeling when engaging in these activities.
+- The tone is celebratory, given the context of World Book Day.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Given the text, here are some important points to consider:
+
+* The tweet mentions a specific event ("World Book Day") which is typically celebrated with enthusiasm and positivity.
+* The language used is positive and affirming ("my greatest joy").
+* There is no negative or critical tone in the message.
+
+Based on these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider:
+
+* The text expresses a positive sentiment about reading and writing stories.
+* The author mentions World Book Day, which suggests a celebration or recognition of the importance of books.
+* The tone is personal and heartfelt.
+
+Based on these considerations, I would classify the emotion as **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

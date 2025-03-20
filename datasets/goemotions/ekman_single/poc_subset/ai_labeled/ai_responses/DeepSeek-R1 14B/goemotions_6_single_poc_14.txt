@@ -1,0 +1,62 @@
+Record: "Now you're lying. Suburbs = more than Bellevue and Kirkland."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion label best fits this Reddit comment: "Now you're lying. Suburbs = more than Bellevue and Kirkland." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let me break down the sentence. The speaker is addressing someone else, presumably in a discussion where they disagree. They start with "Now you're lying," which is a direct accusation. That already sounds confrontational and indicates some level of frustration or anger.
+
+Next part: "Suburbs = more than Bellevue and Kirkland." This seems like the speaker is correcting or challenging the other person's statement, perhaps about population sizes or something similar. The use of '=' might be an attempt to clarify a point with facts, but the preceding accusation of lying adds a negative tone.
+
+Looking at emotion definitions: Anger involves strong displeasure or antagonism. Disgust is revulsion or disapproval. Fear is about being afraid or worried. Joy is happiness, sadness is sorrow, surprise is astonishment, and neutral is without emotion.
+
+The speaker's use of "lying" suggests they're upset with the other person's statement. They feel the need to correct them, which can stem from frustration or anger rather than disgust or fear. There's no indication of being scared or happy here; instead, it's more about disagreement and correction, which points towards anger.
+
+Disgust usually involves something offensive, but in this case, it's more about factual correction with an accusation, so I don't think disgust fits as well as anger. Fear isn't present because there's no indication of worry or being scared. Surprise would be if the statement was unexpected, but here it seems like a direct rebuttal.
+
+So putting it together, the speaker is expressing frustration and disapproval by calling the other person a liar and correcting them, which aligns with the emotion of anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment says, "Now you're lying. Suburbs = more than Bellevue and Kirkland." 
+
+First, let me break down what this sentence is conveying. The speaker is addressing someone else, probably in a discussion or debate. They start with "Now you're lying," which immediately shows that they're accusing the other person of deception. That's pretty strong language and indicates some negative emotion.
+
+The second part, "Suburbs = more than Bellevue and Kirkland," seems to be making a comparison. The speaker is asserting that the suburbs have more something (maybe population, development, etc.) than these specific cities. But what's important here is the tone of accusation in the first part.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. 
+
+Anger seems like a strong possibility because the speaker is calling someone a liar, which is an expression of frustration or irritation. Disgust could be if they were talking about something offensive, but here it's more about accusation.
+
+Fear would involve being worried or anxious, which doesn't seem to fit here since the speaker is assertively making a claim. Joy and surprise are positive emotions, so probably not. Sadness might come into play with sorrow, but again, this seems more about confrontation rather than sadness.
+
+Neutral is when there's no emotion expressed, but clearly the speaker is expressing frustration or anger by calling someone a liar.
+
+So putting it together, the most relevant emotion here is anger because of the direct accusation and the confrontational tone.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Now you're lying. Suburbs = more than Bellevue and Kirkland." 
+
+First, let's break this down. The speaker is addressing someone else, probably in a Reddit discussion. They're calling the other person a liar, which immediately makes me think of negative emotions. Anger often comes into play when someone feels wronged or frustrated.
+
+Looking at the emotion categories, anger is defined as strong displeasure or antagonism, including annoyance and disapproval. The speaker uses the word "lying," which shows distrust and irritation. They're challenging the other person's statement by asserting that suburbs have more than Bellevue and Kirkland, possibly implying the other person misrepresented facts.
+
+I don't see elements of disgust here; it's more about confrontation rather than revulsion. Fear isn't present because there's no indication of worry or anxiety. Joy and surprise are clearly not applicable since the tone is harsh. Sadness might be involved if there was a sense of loss, but that's not evident here. Neutral is out because the speaker is expressing strong feelings.
+
+So, putting it all together, the emotion is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

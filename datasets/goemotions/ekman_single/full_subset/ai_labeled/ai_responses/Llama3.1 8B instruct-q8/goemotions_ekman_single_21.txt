@@ -1,0 +1,43 @@
+Record: "Exactly right about throwing $23M at Donaldson. I mean, are we going for it this year or not? Mixed signals..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is critical and questioning.
+* The speaker expresses frustration with the team's unclear approach.
+* The use of "Mixed signals" implies confusion.
+
+Given these points, the most relevant emotion label is **anger**. However, it leans more towards annoyance or frustration rather than outright anger, as there is no strong language used. Nevertheless, considering the provided definitions and examples, the closest match would be:
+
+**anger**
+
+The speaker's tone and language suggest a sense of disappointment and displeasure with the team's decision-making process, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is expressing frustration with the team's or organization's decision-making process.
+* They mention a specific amount of money ($23M) being thrown at a player (Donaldson), implying that this investment may be misguided.
+* The speaker questions whether the team is committed to winning ("are we going for it this year or not?"), suggesting uncertainty and potentially negative emotions.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The speaker's tone conveys frustration and annoyance with the team's decision-making process, indicating a strong feeling of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing disagreement with the team's strategy of spending $23M on Donaldson.
+* They mention mixed signals, implying a lack of clear direction from the team.
+* Their tone appears frustrated and perplexed.
+
+Most relevant emotion label: **anger**
+
+The speaker's use of "Mixed signals" suggests frustration and annoyance, which are key components of anger. The tone is not overtly aggressive or violent, but rather exasperated, indicating a strong feeling of displeasure or antagonism towards the team's decision-making process.
+------------------------------------------------------------------------------------------------------------------------
+

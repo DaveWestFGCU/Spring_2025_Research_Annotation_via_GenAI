@@ -1,0 +1,52 @@
+Record: "Omg I’d happily live in Cape Town instead of the US!! It’s literally one of my favorite cities on earth!!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break down this query. The user wants me to identify the emotion someone is feeling based on their comment. They provided a list of emotions and definitions.
+
+The speaker says, "Omg I’d happily live in Cape Town instead of the US!! It’s literally one of my favorite cities on earth!!" 
+
+First, looking at the words: "Omg", "happily", "favorite city". These are strong indicators. The exclamation points also show excitement.
+
+Comparing to the emotion definitions, joy includes feelings like happiness and pleasure. The speaker is clearly expressing enthusiasm about Cape Town, which fits into joy. There's no sign of anger, disgust, fear, sadness, or surprise; it's all positive.
+
+So, I'm confident the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let me try to figure out what emotion the speaker is feeling based on their comment. The comment is: "Omg I’d happily live in Cape Town instead of the US!! It’s literally one of my favorite cities on earth!!"
+
+First, I'll break down the sentence. They start with "Omg," which is an exclamation that usually shows excitement or surprise. Then they express willingness to move from the US to Cape Town, saying it's one of their favorite cities and using superlatives like "literally" and "favorite."
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The use of "Omg" suggests excitement or enthusiasm. The speaker is expressing a strong positive feeling about Cape Town. This fits into the category of joy because they're showing happiness and approval. There's no indication of any negative emotions like anger or sadness. They aren't expressing fear or surprise beyond the initial exclamation, which is more about their preference than something unexpected.
+
+So, putting it all together, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Omg I’d happily live in Cape Town instead of the US!! It’s literally one of my favorite cities on earth!!"
+
+First, let's break down the sentence. They start with "Omg", which stands for Oh My God, often used to express excitement or surprise. Then they say they'd "happily" live in Cape Town instead of the US, indicating a strong positive feeling towards Cape Town.
+
+Next, they exclaim that it's one of their favorite cities on earth. The use of words like "literally", "favorite", and multiple exclamation marks suggests enthusiasm and joy. There's no indication of any negative emotions like anger or sadness here. They're expressing happiness about moving and loving the city.
+
+Looking at the emotion categories, joy includes feelings like pleasure, happiness, and admiration. Their excitement and positive remarks fit well under joy. There's no sign of surprise because they're not talking about something unexpected; rather, it's a heartfelt expression of preference.
+
+So, putting it all together, the speaker is expressing clear joy in their comment.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

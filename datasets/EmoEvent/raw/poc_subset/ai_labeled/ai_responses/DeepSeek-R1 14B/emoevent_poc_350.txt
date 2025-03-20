@@ -1,0 +1,54 @@
+Record: "when my egg cracked I went through like every teen girl phase in the space of 2 months lol"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list. The tweet is: "when my egg cracked I went through like every teen girl phase in the space of 2 months lol". 
+
+First, let me break down what the tweet is saying. The user mentions their egg cracking, which I think might be a metaphor or slang for something else, maybe related to emotions or personal growth? Then they say they went through every "teen girl phase" in just two months, and ends with a laugh ("lol"). 
+
+The overall tone seems light-hearted because of the "lol". The person is reflecting on going through various phases quickly, which might be a bit overwhelming but not necessarily negative. They're using humor to express this experience. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. Since there's laughter involved, joy seems like a strong possibility. They’re not expressing any negative emotions like anger or sadness; instead, it's more about going through changes in a funny way. 
+
+I don't think it's surprise because they're talking about their own experience, not something unexpected happening to them. It's more about their personal journey with humor. So, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's try to figure out the emotion behind this tweet. The user wrote: "when my egg cracked I went through like every teen girl phase in the space of 2 months lol". Hmm, okay, first, I need to break down what's happening here.
+
+So, the tweet is about an egg cracking. Maybe it's a metaphor or perhaps something literal? Either way, the main point seems to be that because this happened, the author went through every teen girl phase in just two months. That sounds like a lot! Then they added "lol" at the end, which makes me think they're trying to keep it light-hearted or maybe even humorous.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one that best fits what's being conveyed here.
+
+The author is mentioning going through various phases quickly and ends with a laugh, so "lol" indicates they might be amused or finding humor in the situation. So that points towards joy because they're laughing about it. Alternatively, could it be surprise? Maybe, but surprise usually involves something unexpected that catches you off guard. In this case, the cracking of the egg led to experiencing many phases, which seems more like an extended experience rather than a sudden surprising event.
+
+Also, considering "lol" is there, it's likely they're not expressing anger, disgust, fear, or sadness because those emotions usually don't come with laughter. Instead, joy or serenity fits better when someone can laugh at their experiences.
+
+So putting it all together, the emotion here seems to be joy because of the laughter and the light-hearted tone despite going through a lot in two months.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again: "when my egg cracked I went through like every teen girl phase in the space of 2 months lol". 
+
+Hmm, first off, the user is talking about their egg cracking. That's a bit odd because eggs don't usually crack on their own unless maybe it's hard-boiled or something. But regardless, the main point seems to be the humor involved. The person mentions going through every teen girl phase in two months, which sounds like a lot but they're adding "lol" at the end. 
+
+So, looking at the emotions: anger doesn't seem right because there's no indication of frustration or rage. Disgust? Not really; it's more about phases than something revolting. Fear? There's no sense of anxiety or terror here. Sadness? The tweet is lighthearted with a laugh, so probably not sadness either.
+
+That leaves joy and surprise. Joy would be if they're expressing happiness or serenity, but the tweet seems more about going through various experiences in a short time, which could be surprising. The "lol" suggests amusement, but it's more about the unexpectedness of experiencing so many phases quickly. So maybe it's surprise.
+
+Wait, but sometimes laughter can also indicate joy. But in this case, the key part is the unexpectedness—going through all those phases in two months might be something that catches you off guard or amazes them, hence surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

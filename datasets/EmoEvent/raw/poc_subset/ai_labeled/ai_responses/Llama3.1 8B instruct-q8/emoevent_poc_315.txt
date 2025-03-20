@@ -1,0 +1,37 @@
+Record: "Don't get your hopes up; apparently car seats also cause autism:"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet begins with a warning phrase "Don't get your hopes up", which often indicates a negative tone.
+* The sentence that follows suggests a correlation between car seats and autism, but it's likely to be a debunked or unfounded claim.
+* The author is framing the message as an anticlimactic revelation, implying that some people may have been expecting a positive announcement.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet appears to be sarcastic and mocking.
+* The phrase "apparently" is used in a way that implies misinformation or false claims.
+* The topic of autism is being linked to car seats, which is a potentially hurtful or insensitive comparison.
+
+Given these points, the author's intended emotion seems to be:
+
+**anger**
+(Also encompasses annoyance and disdain for the idea being presented.)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains a statement that is potentially hurtful or offensive to individuals with autism and their families.
+* The phrase "don't get your hopes up" suggests a tone of caution or warning, but the content that follows implies a negative correlation between car seats and autism.
+* There is no clear indication of emotional intensity or urgency in the language used.
+
+Given these points, the most relevant emotion label for this tweet is **disgust**. The statement appears to be dismissive and condescending, implying that individuals with autism are somehow caused by everyday objects like car seats. This tone aligns more closely with disgust than any other category on the list.
+------------------------------------------------------------------------------------------------------------------------
+

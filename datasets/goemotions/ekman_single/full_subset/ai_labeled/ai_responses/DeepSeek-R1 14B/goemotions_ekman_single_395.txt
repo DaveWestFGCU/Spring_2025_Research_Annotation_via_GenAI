@@ -1,0 +1,72 @@
+Record: "I did this with tuna salad. I already ate tuna a lot (at the time) and it’s a decently blank slate."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment is: "I did this with tuna salad. I already ate tuna a lot (at the time) and it’s a decently blank slate." 
+
+First, let me break down what's being said here. They're talking about experimenting with tuna salad, mentioning that they ate a lot of tuna at the time and describe it as a "blank slate." Hmm, so they're sharing their experience or maybe explaining something they did.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that best fits based on the definitions provided.
+
+Anger would involve strong displeasure or antagonism. The comment doesn't show any of that; it's more about their actions and choices.
+
+Disgust is revulsion or strong disapproval. Again, there's no indication they're disgusted with tuna salad. They seem to be talking about it in a matter-of-fact way.
+
+Fear involves being afraid or worried. There's nothing here suggesting fear.
+
+Joy would include pleasure or happiness. The speaker isn't expressing any positive emotions; they're just stating facts.
+
+Sadness includes emotional pain or sorrow. No sadness is evident here either.
+
+Surprise is feeling astonished or realizing something unexpected. They don't seem surprised by anything in their statement.
+
+Neutral means lacking expressed emotion. The comment is informative but doesn't convey any particular emotion—it's more of a factual sharing without any attached feelings.
+
+So, putting it all together, the speaker isn't showing any specific emotion through this comment. It's more about providing information or explaining their actions without any emotional undertone. Therefore, the most appropriate emotion category here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion the speaker is feeling based on their comment: "I did this with tuna salad. I already ate tuna a lot (at the time) and it’s a decently blank slate." 
+
+First, let me break down the sentence. The speaker is talking about their experience with tuna salad and mentions that they ate a lot of tuna at the time. They describe it as a "decently blank slate." I need to determine which emotion from the given list fits best: anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Looking at the sentence, there are no obvious indicators of strong emotions like anger or fear. The tone seems matter-of-fact and descriptive without any exclamation marks or emotionally charged words. They're sharing their experience but not expressing a clear feeling. 
+
+The phrase "decently blank slate" might suggest that they see tuna salad as something neutral or without much flavor, but that's more about the food than their emotion. There's no indication of happiness (joy), sadness, fear, or surprise. The speaker isn't expressing approval or disapproval, just stating a fact.
+
+So, considering all the options, the emotion here seems to be neutral because the comment doesn't convey any particular feeling—it's an informative statement rather than an emotional one.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I've got this task where I need to figure out the emotion someone is feeling based on a short comment they made on Reddit. The options are anger, disgust, fear, joy, sadness, surprise, or neutral. Let me break down how I should approach this.
+
+First, I'll read the comment carefully: "I did this with tuna salad. I already ate tuna a lot (at the time) and it’s a decently blank slate." Hmm, okay. The speaker is talking about their experience with tuna salad and mentions eating a lot of tuna before. They describe tuna as a "decently blank slate."
+
+Let me think about each emotion category:
+
+- **Anger**: Would this show anger? I don't see any signs of frustration or irritation here.
+- **Disgust**: Disgust is usually when something is unpleasant. The comment doesn't express dislike; instead, it seems neutral.
+- **Fear**: There's no indication of worry or anxiety in the statement.
+- **Joy**: Joy would involve happiness or excitement. I don't feel any positive emotions coming through here.
+- **Sadness**: Sadness involves sorrow or disappointment. The speaker is talking about their past actions without expressing sadness.
+- **Surprise**: Surprise is when something unexpected happens. This comment seems straightforward and not shocking.
+- **Neutral**: If none of the other emotions fit, neutral would be the choice.
+
+Looking at the statement again, it's pretty factual. They're sharing what they did with tuna salad and their rationale. There's no strong emotion expressed—just a matter-of-fact tone. The phrase "decently blank slate" might imply that they think tuna is versatile or neutral in flavor, but it doesn't convey any emotion.
+
+I don't see any elements pointing towards the other emotions. So, putting it all together, the speaker seems to be sharing information without showing any particular emotion. Therefore, the most appropriate label here would be **neutral**.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

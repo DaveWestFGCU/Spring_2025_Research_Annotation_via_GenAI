@@ -1,0 +1,46 @@
+Record: "“Start caring about Reddit downvotes” has to be the weirdest life advice I’ve received in years."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that the advice they received is "weird", which implies that it's unusual and perhaps not helpful.
+* The tone of the comment seems lighthearted, with a touch of sarcasm.
+* The speaker is expressing skepticism or confusion about the advice.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker seems to be expressing surprise at the unexpected nature of the advice they received.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is expressing surprise at the unexpected advice they received.
+* The tone of the sentence is lighthearted and amused, rather than angry or disgusted.
+* The speaker seems to be sharing their reaction to a peculiar comment made by someone else.
+
+Given these points, the most relevant emotion label for this sentence is:
+
+**surprise**
+ 
+The speaker's use of "weirdest" and the overall tone of the sentence suggest that they are astonished or startled by the advice, which aligns with the definition of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing their surprise at receiving unusual life advice.
+* The phrase "weirdest life advice" suggests that they find it strange or unconventional.
+* The tone of the comment appears to be light-hearted and humorous.
+
+Given these considerations, the most relevant emotion label is:
+
+**surprise**
+
+The speaker's reaction to the unusual life advice seems to be driven by a sense of astonishment or unexpectedness, which aligns with the definition of surprise.
+------------------------------------------------------------------------------------------------------------------------
+

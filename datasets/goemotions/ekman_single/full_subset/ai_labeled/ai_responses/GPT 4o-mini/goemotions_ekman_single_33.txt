@@ -1,0 +1,33 @@
+Record: "Pretty poor shots mostly. Couple of great saves from [NAME] though."
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider given the text:
+- The speaker provides an evaluation of shots taken in a game, suggesting a critical tone.
+- The use of the word "poor" implies disappointment or disapproval regarding the quality of the shots.
+- The comment also acknowledges some positive aspects ("Couple of great saves"), indicating a balanced view but leaning more toward criticism than praise.
+
+Based on these points, the emotion that most aligns with the speaker's feelings is disappointment or disapproval towards the overall performance mentioned in the comment. Thus, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+In analyzing the speaker's comment, "Pretty poor shots mostly. Couple of great saves from [NAME] though," the following points are important to consider:
+
+1. **Evaluation of Performance**: The comment begins with a criticism of the quality of the shots, which suggests a negative assessment of the situation being discussed. This reflects a mild displeasure but is not intensely negative.
+  
+2. **Acknowledgment of Positives**: The phrase "Couple of great saves from [NAME]" introduces a positive note, indicating that while there were poor shots, there were also commendable efforts. This balance suggests a more neutral stance overall rather than a strongly negative or positive emotion.
+
+3. **Tone**: The overall tone does not express any strong emotions like anger, disgust, or joy, but rather a straightforward evaluation.
+
+Given these points, the speaker seems to be neither particularly upset nor overly excited, just providing an opinion without strong emotional investment. Therefore, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+In this comment, the speaker assesses the quality of shots made, indicating a judgment that is not overly positive, suggesting a level of dissatisfaction with the general performance. However, the acknowledgment of "great saves" implies that there is some appreciation for those specific moments. The overall tone reflects critical observation rather than an emotional outpouring, which indicates a lack of strong feelings in either direction.
+
+Moreover, the use of "pretty poor" suggests a negative evaluation, but does not indicate strong displeasure or animosity typically seen in anger, disgust, or sadness. The comment appears to be more descriptive and factual rather than emotionally charged.
+
+Given the content and tone of the comment, it seems to reflect a neutral observation with some mild critique present. Therefore, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

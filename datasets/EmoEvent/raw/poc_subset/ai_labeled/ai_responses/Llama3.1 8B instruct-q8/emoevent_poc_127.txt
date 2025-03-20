@@ -1,0 +1,34 @@
+Record: "Don't worry, nobody expects much from you people anyways."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is condescending and dismissive.
+* The use of the phrase "you people" implies a sense of contempt or disdain towards a particular group.
+* The message itself is a form of verbal put-down, implying that the target's expectations are unrealistic.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains a condescending tone and language.
+* The author is addressing a group of people with a sense of superiority or disdain.
+* The statement implies that the author believes the recipients are not capable of meeting expectations.
+
+**anger**
+The tone of the tweet suggests annoyance or frustration towards the group being addressed, rather than any other emotion on the list.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet appears to be a statement made by someone who is not impressed or has low expectations of the target audience.
+* The tone is likely condescending and dismissive.
+
+Given these considerations, the most relevant emotion label is **anger**. The speaker's tone suggests annoyance and frustration, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+

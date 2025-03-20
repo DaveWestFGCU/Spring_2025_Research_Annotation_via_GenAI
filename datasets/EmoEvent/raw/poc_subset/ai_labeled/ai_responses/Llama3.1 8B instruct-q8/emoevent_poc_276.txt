@@ -1,0 +1,33 @@
+Record: "“It’s not happening right in front of me if I don’t look at it.”"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a quote from someone else.
+* The statement seems to be commenting on the nature of reality or perception.
+* There's no explicit language or tone indicating strong emotions.
+
+Given these considerations, the author intended to convey **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+The author's use of quotation marks around a seemingly mundane statement suggests a tone that is more reflective and introspective than emotional. The phrase itself does not contain any overtly emotive language or imagery.
+
+A closer reading, however, reveals a subtle implication: the author is commenting on how easily one can ignore reality when they're not actively engaging with it. This interpretation may suggest a sense of concern or unease about the ability to avoid difficult truths.
+
+Considering these factors, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The phrase suggests a sense of detachment or avoidance.
+* It implies that the speaker is trying to minimize their awareness of something unpleasant.
+
+Given these considerations, the most relevant emotion label is **surprise**. The speaker's reaction seems more like a defensive or dismissive response than a strong emotional reaction, and surprise fits with the idea that they are attempting to avoid thinking about something by telling themselves it's not happening unless they look at it.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,45 @@
+Record: "The rich folk just broke USER Endgame's opening weekend collection #NotreDame #NotreDameCathedralFire #NotreDameCathedral  USER USER  #endgame #Avengers  #AvengersEndgame"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the tweet, consider the following points:
+
+* The tweet mentions a specific incident (the Notre-Dame Cathedral Fire), which is a serious and tragic event.
+* However, the author seems to be shifting focus from the fire to comparing its impact on box office collections with another movie's (Avengers: Endgame).
+* The use of hashtags like #NotreDameCathedralFire suggests that the author is aware of the severity of the incident.
+* Despite this awareness, the author frames their response in a competitive and critical tone.
+
+Given these points, the tweet does not convey emotions related to sadness (grief) or fear (anxiety). The comparison with Avengers: Endgame also suggests surprise or distraction from the original topic. However, the critical and competitive tone implies anger or annoyance towards the people who allegedly broke box office collections.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a catastrophic event (the Notre-Dame Cathedral fire).
+* The author seems to be comparing the financial success of a movie (USER Endgame's opening weekend collection) with the devastating loss caused by the cathedral fire.
+* The use of the word "just" implies a sense of suddenness and unexpectedness, which is often associated with surprise.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+This classification is based on the author's apparent outrage at the fact that the financial success of a movie could be mentioned in the same context as the devastating loss caused by the cathedral fire. The use of the word "just" and the comparison between the two events suggests that the author is feeling annoyed or angry about this juxtaposition.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions the Notre Dame Cathedral fire, which is a tragic and devastating event.
+* However, the author also compares it to a box office collection (Endgame's opening weekend) and seems to be more focused on this comparison than expressing sympathy or concern for the cathedral.
+* The use of "just" implies a sense of incongruity between two unrelated events.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author appears to be annoyed at the fact that the Notre Dame Cathedral fire (a serious and tragic event) is being compared to or overshadowed by something as mundane as a box office collection.
+------------------------------------------------------------------------------------------------------------------------
+

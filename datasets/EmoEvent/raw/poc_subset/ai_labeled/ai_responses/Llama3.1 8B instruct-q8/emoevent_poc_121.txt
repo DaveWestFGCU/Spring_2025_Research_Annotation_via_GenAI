@@ -1,0 +1,34 @@
+Record: "DAE hate unnecessarily salty people like OP?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is asking a rhetorical question, implying they already know the answer.
+* They use the phrase "unnecessarily salty," which suggests annoyance or frustration with someone's behavior.
+* The tone of the sentence is casual and slightly condescending.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet asks a question that implies a negative sentiment towards someone referred to as "OP".
+* The phrase "unnecessarily salty" is used, which can be interpreted as annoying or frustrating.
+* The tone of the tweet seems dismissive and critical.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is asking a rhetorical question.
+* The phrase "unnecessarily salty" suggests that the person being referred to is perceived as overly negative or dramatic.
+* The use of all caps ("OP") implies frustration or annoyance.
+
+Given these considerations, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,64 @@
+Record: "Yikes hope hes ok"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their comment. The comment is "Yikes hope hes ok." Let me break this down.
+
+First, "yikes" is an exclamation that usually expresses surprise or concern. It's like when something unexpected happens and you go "Oh no!" So right off the bat, I'm thinking it might be surprise.
+
+Then, "hope he's ok"—this part shows concern for someone's well-being. When you hope someone is okay, it often comes from worry or fear about their safety. So maybe it's fear because they're worried something bad happened.
+
+Now, looking at the emotion categories: anger would involve displeasure, disgust is revulsion, fear is worry or anxiety, joy is happiness, sadness is sorrow, surprise is astonishment, and neutral is no emotion.
+
+The comment starts with an expression of surprise ("yikes") but ends with a concern that could be fear. I'm torn between these two. However, the primary emotion here seems to be fear because it's about hoping someone is okay, which implies they're worried or anxious about their condition.
+
+So, putting it together: "Yikes" shows surprise, but the overall sentiment is worry, so fear is more fitting.
+</think>
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker might be feeling based on their comment. The comment is "Yikes hope hes ok." Let me break this down.
+
+First, the word "Yikes" is an exclamation that typically expresses surprise or concern. It's often used when someone hears unexpected news or something alarming. So right off the bat, I'm thinking it's not neutral because there's definitely emotion in the words.
+
+Looking at the options: anger, disgust, fear, joy, sadness, surprise, neutral. Let me go through them one by one.
+
+Anger usually involves displeasure or antagonism. The speaker doesn't seem angry here; they're expressing concern instead.
+
+Disgust is about revulsion. There's no indication of dislike or offense in the comment.
+
+Fear would involve being afraid or worried, but "Yikes" is more about unexpectedness rather than fear itself. However, "hope he's ok" does show some worry, which could relate to fear.
+
+Joy is happiness or pleasure; that doesn't fit here since the speaker seems concerned.
+
+Sadness involves sorrow or disappointment. The comment isn't expressing sadness directly but more of a hope for someone's well-being.
+
+Surprise includes astonishment or being startled by something unexpected. "Yikes" definitely fits this category as an expression of surprise, and the follow-up shows concern about someone's state, which adds to the surprised reaction.
+
+So putting it together: The speaker starts with "Yikes," indicating surprise, then expresses hope that someone is okay. This combination points more towards surprise than fear because the primary emotion here is the unexpectedness leading to concern.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "Yikes hope hes ok." Let me break this down.
+
+First, "Yikes" is an interjection that typically expresses surprise or shock. It's like when someone says "Oh my God" or "Wow," usually in response to something unexpected happening. So that part suggests surprise.
+
+Then the speaker follows up with "hope he's ok." This shows concern for another person's well-being, which is a feeling of care and worry. Now, I need to see how this fits into the emotion categories provided.
+
+Looking at the options: anger, disgust, fear, joy, sadness, surprise, neutral. The first part, "Yikes," points towards surprise because it's an exclamation of astonishment. However, the latter part expresses concern, which could relate to fear or maybe sadness. But wait, the emotion needs to be the most relevant one based on the entire comment.
+
+"Yikes" is a strong indicator of surprise, and while the second part shows empathy, the primary emotion here is likely surprise because the initial reaction was an expression of astonishment. So putting it together, the speaker starts with surprise and then adds concern, but the dominant emotion from the beginning would be surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

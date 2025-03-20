@@ -1,0 +1,44 @@
+Record: "Can someone put it in slow mo"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone seems casual and informal.
+* They are making a request rather than expressing a strong emotion.
+* Their language is direct and to the point.
+
+Given these considerations, the most relevant emotion label is **neutral**. The speaker is simply asking for something without any apparent emotional attachment or investment in the topic.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone seems light and casual.
+* They are requesting a specific action from others, likely in a playful manner.
+* There is no negative language or criticism.
+
+Given these considerations, the most relevant emotion label for this comment is **joy**. The speaker appears to be enthusiastic about watching a video in slow motion, suggesting a sense of excitement or pleasure.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the request is informal and casual.
+* There is no apparent criticism or complaint.
+* The request seems to be seeking clarification or assistance from others.
+
+Given these considerations, the most relevant emotion label is **surprise**. The speaker's comment suggests that they are surprised or unaware of a specific feature of the content being discussed (likely a video), and they are asking for it to be replayed in slow motion to better understand or appreciate it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker is requesting a specific action from someone else.
+* The tone of the request seems casual and conversational.
+* There is no indication of strong emotions, such as anger or disgust.
+
+Based on these points, the most relevant emotion label is **surprise**. The speaker is likely surprised that the requested content is not in slow motion and is asking for it to be converted into a format they can more easily enjoy.
+------------------------------------------------------------------------------------------------------------------------
+

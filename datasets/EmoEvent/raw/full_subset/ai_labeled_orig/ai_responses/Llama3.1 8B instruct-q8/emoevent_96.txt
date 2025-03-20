@@ -1,0 +1,39 @@
+Record: "It just feels fitting for Barca to win the #ChampionsLeague in Madrid."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text is a statement about a sporting event.
+* The tone appears to be neutral or matter-of-fact.
+* There is no criticism or negative sentiment expressed.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+The author seems to be expressing a positive sentiment towards Barcelona winning the Champions League, indicating a feeling of happiness or satisfaction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a specific event (Barcelona winning the Champions League in Madrid) but does not express any negative sentiment or critique.
+* There is no indication of surprise, fear, anger, disgust, or sadness.
+* The tone seems positive and accepting.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is neutral and matter-of-fact.
+* There is no language or sentiment that suggests a strong emotional reaction.
+* The author seems to be stating a fact or expressing a personal opinion.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The author's statement implies that they are pleased or happy about Barcelona winning the Champions League in Madrid.
+------------------------------------------------------------------------------------------------------------------------
+

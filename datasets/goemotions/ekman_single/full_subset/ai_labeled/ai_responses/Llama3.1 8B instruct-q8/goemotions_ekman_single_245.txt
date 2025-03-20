@@ -1,0 +1,34 @@
+Record: "Is she worse than [NAME] though?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is comparing two individuals, implying a sense of evaluation.
+* The tone is somewhat confrontational, as indicated by the use of "worse than".
+* There is no explicit expression of emotion in the statement.
+
+Given these considerations, the most relevant emotion label is **anger**, as it involves a negative comparison and confrontation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is comparing two individuals, implying that they have strong feelings about one or both of them.
+* The tone seems critical and evaluative, rather than neutral or positive.
+* The question format suggests that the speaker is seeking a comparison or judgment from others.
+
+Given these points, it's likely that the speaker is expressing **anger**. The language used implies disapproval or annoyance towards one or both individuals being compared, which aligns with the definition of anger as a strong feeling of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be comparing two individuals, with one being possibly inferior.
+* The tone is brief and lacks emotive language.
+* There's no apparent emotional context or background information.
+
+Given these points, the most relevant emotion label appears to be **anger**. The comparison suggests a negative sentiment towards one individual, which aligns with anger as a strong feeling of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+

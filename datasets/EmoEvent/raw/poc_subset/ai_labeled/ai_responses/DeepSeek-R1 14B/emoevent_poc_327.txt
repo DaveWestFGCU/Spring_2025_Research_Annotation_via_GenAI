@@ -1,0 +1,54 @@
+Record: "What a legend."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the tweet "What a legend." into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me break this down step by step.
+
+First, understanding the phrase. The word "legend" is often used positively, usually to describe someone who is exceptionally skilled, famous, or respected. So when someone says "What a legend," they're likely expressing admiration or praise.
+
+Looking at the emotion categories:
+- Anger: Doesn't seem right because there's no indication of frustration or irritation.
+- Disgust: Unlikely, as the tweet doesn't convey dislike or aversion.
+- Fear: No signs of worry or anxiety here.
+- Joy: Fits well since the tweet is a compliment, showing happiness or approval.
+- Sadness: Doesn't apply; there's no sorrow expressed.
+- Surprise: While surprise can include amazement, "legend" here isn't expressing shock but rather praise.
+
+So, "What a legend." is clearly an expression of joy because it's a complimentary statement filled with positive feelings. Therefore, the emotion should be **joy**.
+</think>
+
+The tweet expresses admiration and praise, which conveys a feeling of joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet: "What a legend." Let's see what emotion it conveys.
+
+First, I'll break down the words. "Legend" usually refers to someone very famous or respected. The phrase "what a" is often used to express surprise or admiration. So, when someone says "What a legend," they're likely expressing that they didn't expect this person to be so impressive.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. Which one fits? Well, if it's about being impressed in a positive way, maybe joy or surprise. But "legend" is more about respect than happiness. However, using "what a" suggests an element of surprise because they're highlighting how unexpected it was to call someone a legend.
+
+So, between joy and surprise. Joy is more about happiness, while surprise is about being amazed or taken aback. The tweet seems to lean towards surprise because it's emphasizing the impressiveness in a way that feels sudden or unexpected.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion is behind this tweet: "What a legend." Hmm, okay, first I need to understand what the person is trying to convey. The word "legend" usually refers to someone who is really famous or respected. So when someone says "what a legend," they're probably expressing admiration or respect.
+
+Now, looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise. I need to pick the one that fits best here. 
+
+Anger and disgust don't seem right because there's no indication of negative feelings. Fear and surprise also don't fit because the tweet doesn't suggest any sudden fear or astonishment. Sadness isn't applicable either since the tone is positive.
+
+That leaves joy, which includes serenity and ecstasy. Since "legend" implies a positive sentiment, joy makes sense here. The author is expressing a feeling of admiration or perhaps awe, but within the given categories, joy is the closest fit.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,62 @@
+Record: "[NAME] fan here, He did trade [NAME], it was for a 2018 4th and 2019 7th."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "He did trade [NAME], it was for a 2018 4th and 2019 7th." 
+
+First, let's look at the context. This seems like a Reddit comment responding to a post or another commenter. The mention of trading something, possibly related to sports (given terms like "2018 4th" and "2019 7th") might indicate some sort of exchange, maybe in a fantasy league or card collecting.
+
+The speaker is referring to [NAME] as a fan. So they're expressing support for someone or something. The comment itself doesn't have strong emotional language; it's more informative than anything else. There are no exclamation marks, no strong adjectives, just stating facts about the trade.
+
+Looking at the emotion categories: anger would involve strong displeasure, which isn't present here. Disgust is about revulsion, not shown either. Fear or anxiety doesn't come across. Joy would be if they were happy about something, but again, the tone is neutral. Sadness or surprise also aren't indicated.
+
+So the comment is straightforward and factual without any clear emotion. The speaker isn't expressing much beyond stating information, which fits the "neutral" category.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment says, "He did trade [NAME], it was for a 2018 4th and 2019 7th." 
+
+First, let me break this down. The speaker mentions that someone (referred to as "[NAME]") traded another person, also referred to as "[NAME]". They're explaining the reason behind the trade: it was for a 2018 4th and a 2019 7th. I'm not exactly sure what these numbers refer to, but they might be some sort of draft picks or positions in a sports context.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. The comment itself is informative without any overt emotional language. It's stating facts about the trade without expressing any feelings. There are no exclamation marks, no strong adjectives, just a straightforward explanation.
+
+I should consider each emotion:
+
+- Anger would involve words showing frustration or dislike.
+- Disgust would imply something unpleasant or offensive was mentioned.
+- Fear might come with worry or nervousness.
+- Joy would have positive language indicating happiness.
+- Sadness could be expressed through sorrowful or regretful statements.
+- Surprise would involve astonishment or unexpected news.
+- Neutral is when there's no emotion conveyed.
+
+Since the comment is factual and doesn't express any feelings, the speaker isn't showing anger, disgust, fear, joy, sadness, or surprise. They're simply stating information about a trade without any emotional language.
+
+Therefore, the emotion here is neutral because there's no expressed feeling—it's just a statement of facts.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me break this down. The speaker is responding to someone else on Reddit. They mention being a "fan" of someone named [NAME]. So that immediately makes me think positive vibes because fans usually have admiration or support.
+
+Then they say, "He did trade [NAME], it was for a 2018 4th and 2019 7th." Hmm, trading can sometimes be seen negatively, especially if someone is being moved from one place to another. But the context here isn't clear if this is a good or bad thing.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. The speaker starts with "fan," which leans towards positive emotions like joy or admiration. They're pointing out a trade but in a matter-of-fact way without any strong language. No exclamation points, just stating facts.
+
+There's no indication of negative feelings here. No words that show anger, fear, or surprise. It's more informative. So considering the options, it's not joy because there's no explicit excitement. It might be neutral since they're just providing information without expressing much emotion.
+
+Wait, but fans often express positive emotions when talking about their idols. Maybe "joy" is possible if they're happy about the trade, but the statement itself doesn't convey that happiness. It's more of a factual update. So I think neutral is the safest bet here.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

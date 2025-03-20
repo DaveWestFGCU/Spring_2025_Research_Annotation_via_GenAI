@@ -1,0 +1,38 @@
+Record: "Theons death hit me the hardest in #GameOfThrones like fuck"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text expresses a strong emotional reaction to a character's death.
+* The use of profanity ("fuck") indicates intensity and possibly frustration or shock.
+* The phrasing "#GameOfThrons" suggests that the author is expressing their opinion about the show.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the points to consider:
+
+* The language used is strong and impolite ("fuck").
+* The author expresses a personal emotional response to a specific event (Theon's death).
+* The tone appears to be intense.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+Note that while "disgust" could also be considered due to the use of profanity, the context suggests that the author is reacting with strong negative emotions towards a dramatic event rather than expressing disgust or disinterest.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text mentions a specific event from Game of Thrones (Theon's death)
+* The language used is strong and emphatic ("hit me the hardest", "like fuck")
+* The tone appears to be intense and personal
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

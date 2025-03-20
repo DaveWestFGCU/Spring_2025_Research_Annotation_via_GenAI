@@ -1,0 +1,39 @@
+Record: "Wow! Nearly a billion dollars overnight!?!? 😳  #NotreDameCathedralFire #NotreDame  https://t.co/BmzCIFHPh8"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts with an exclamation mark and the phrase "Wow!", which indicates excitement or shock.
+* The author is reacting to a significant amount of money being donated overnight, suggesting that they are surprised by the rapid response to the fire.
+* The use of multiple question marks (?!!!) adds to the sense of astonishment.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is reacting to the Notre-Dame Cathedral fire.
+* The author uses an exclamation mark and a surprised expression (😳), indicating astonishment.
+* The phrase "Nearly a billion dollars overnight!?!?" suggests that the author is shocked by the large amount of money being raised or donated in response to the fire.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+The tweet's tone and language convey the author's shock and amazement at the rapid fundraising efforts following the cathedral fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains the phrase "Wow!", which typically indicates astonishment or shock.
+* The author is reacting to a news event, specifically the Notre Dame Cathedral Fire.
+* The tweet expresses surprise at the large amount of money pledged overnight.
+
+Given these considerations, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+

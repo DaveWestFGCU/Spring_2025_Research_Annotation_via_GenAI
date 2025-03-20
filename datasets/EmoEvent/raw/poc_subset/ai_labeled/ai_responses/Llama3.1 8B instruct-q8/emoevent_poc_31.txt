@@ -1,0 +1,35 @@
+Record: "It was magic."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a single word: "magic".
+* There is no negative language or criticism.
+* The tone is simple and matter-of-fact.
+
+**joy**
+
+The use of the word "magic" implies something wonderful or enchanting, which aligns with emotions associated with joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains a single phrase with positive connotation.
+* There is no indication of negativity or conflict.
+
+The most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet uses a positive word ("magic") which suggests a pleasant experience.
+* There is no indication of negative emotions such as anger, disgust, or sadness.
+* The tone seems effusive and celebratory.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

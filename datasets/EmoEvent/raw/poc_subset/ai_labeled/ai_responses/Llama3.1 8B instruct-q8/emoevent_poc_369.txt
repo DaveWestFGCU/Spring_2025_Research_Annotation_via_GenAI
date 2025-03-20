@@ -1,0 +1,35 @@
+Record: "I let my cat lick the leftover milk out of the bowl after I eat cereal, he loves it. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is discussing their cat and its behavior.
+* They are sharing a personal habit involving their pet.
+* The tone appears to be casual and affectionate.
+
+Most relevant emotion label: **joy**
+The author's tone suggests that they find happiness in the interaction with their cat, which implies joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is sharing a pleasant and affectionate interaction with their pet.
+* They mention that the cat enjoys this activity.
+* There is no indication of any negative emotions or concerns.
+
+Based on these considerations, I would classify the tweet as **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is sharing a personal habit with their audience.
+* They mention their cat's reaction and affection towards them.
+* There is no negative tone or criticism in the text.
+
+The emotion that best fits this tweet is **joy**, as the author seems to be delighted by their cat's affection and is sharing a happy interaction between themselves and their pet.
+------------------------------------------------------------------------------------------------------------------------
+

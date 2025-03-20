@@ -1,0 +1,37 @@
+Record: "Doesn’t sound like it’s going to work out, sorry dude"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a sympathetic phrase ("sorry dude") which suggests they are expressing a negative sentiment.
+* However, the tone is not aggressive or confrontational.
+* The speaker's comment seems to be a casual expression of disappointment rather than a strong emotion.
+
+Given these points, I would say that the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "doesn't sound like" which suggests uncertainty or doubt.
+* They express sympathy or apology towards the other person ("sorry dude").
+* The tone of the message is not aggressive or confrontational.
+
+Most relevant emotion label: **sadness**
+ 
+Reasoning: Although the speaker's comment doesn't seem to be extremely sorrowful, the fact that they're expressing disappointment or pity for someone else suggests a sad undertone. This aligns with the definition of sadness as emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the phrase "sorry dude", which implies that they are expressing empathy and sympathy towards the person they are addressing.
+* The sentence as a whole has a negative tone, but the speaker is not using aggressive or confrontational language.
+
+Most relevant emotion label: **sadness**
+
+Reasoning: While the speaker's tone is generally neutral and empathetic, the phrase "it's not going to work out" implies that something negative is happening. The use of "sorry dude" suggests that the speaker is expressing sadness or disappointment on behalf of the person being addressed.
+------------------------------------------------------------------------------------------------------------------------
+

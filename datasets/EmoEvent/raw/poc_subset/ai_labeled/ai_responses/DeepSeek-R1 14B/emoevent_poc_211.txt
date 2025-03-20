@@ -1,0 +1,52 @@
+Record: "Well, quite. Now I’m all annoyed."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I'm trying to figure out what emotion is conveyed in this tweet: "Well, quite. Now I'm all annoyed." Let's break it down step by step.
+
+First, the user mentions being "annoyed," which immediately makes me think of anger because annoyances often lead to feelings of irritation or frustration. The word "annoyed" itself is a direct indicator of that emotion.
+
+Looking at the list provided: anger, disgust, fear, joy, sadness, surprise. I need to pick one from these categories.
+
+Announce also fits under anger since the category includes annoyance and rage. There's no mention of disgust, which would relate to dislike or disinterest, but here it's more about being irritated rather than something distasteful.
+
+Fear involves anxiety or apprehension, which doesn't seem to apply here. Joy and surprise are clearly not applicable because the tweet is expressing irritation, not happiness or amazement.
+
+Sadness includes pensiveness or grief, which also doesn't match. So, the emotion that fits best is anger because of the explicit mention of being annoyed.
+</think>
+
+The tweet explicitly mentions "annoyed," which falls under anger as per the given categories.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I'm trying to figure out what emotion this tweet is conveying. The tweet says: "Well, quite. Now I'm all annoyed." 
+
+First, let me break down the words used here. The author starts with "Well, quite," which sounds a bit dismissive or maybe sarcastic. Then they mention being "all annoyed." So the key word here is "annoyed."
+
+Looking at the emotion categories given: anger, disgust, fear, joy, sadness, surprise. I need to match "annoyed" to one of these. 
+
+I know that anger includes annoyance and rage. So if someone says they're annoyed, that's a form of anger. Disgust is more about dislike or something revolting, which doesn't seem to fit here. Fear would involve worry or anxiety, but there's no indication of that in the tweet. Joy and surprise are clearly positive emotions, so those don't apply either. Sadness might come into play if someone is feeling down, but again, "annoyed" leans more towards irritation rather than sadness.
+
+So putting it all together, the emotion here should be anger because the author explicitly states they're annoyed, which falls under that category.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the author of this tweet is conveying. The tweet is: "Well, quite. Now I'm all annoyed." Let me break this down.
+
+First, looking at the words used, the key emotion here seems to be "annoyed." The phrase "all annoyed" directly expresses that feeling. Now, I should map this to one of the given categories: anger, disgust, fear, joy, sadness, or surprise.
+
+The emotion "annoyance" is listed under anger because the categories are broad and include related feelings. So when someone says they're annoyed, it's a form of anger. Therefore, the tweet conveys anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

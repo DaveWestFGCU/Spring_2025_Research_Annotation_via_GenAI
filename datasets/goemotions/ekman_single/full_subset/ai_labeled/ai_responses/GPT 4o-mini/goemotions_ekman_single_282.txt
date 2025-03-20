@@ -1,0 +1,35 @@
+Record: "Haven't listened to today's podcast yet, who did [NAME] kill?"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+The speaker's comment expresses a lack of knowledge about the current events discussed in the podcast and is seeking information. The tone seems inquisitive and neutral, suggesting curiosity without any strong emotional weight. There are no indications of anger, joy, sadness, or fear in the question asked. Therefore, the sentiment appears to lean towards a neutral state.
+
+Considering these points, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+The speaker appears to be expressing curiosity about an event referenced in a podcast. They are inquiring about a serious matter, indicated by using the word "kill," which may provoke a strong reaction. However, their tone does not show any heightened emotional response like anger or fear—they seem more interested in finding out information rather than reacting strongly to what they have heard.
+
+Important points to consider:
+
+1. The use of "Haven't listened to today's podcast yet" shows that the speaker is currently uninformed.
+2. The question "who did [NAME] kill?" indicates intrigue or interest in the topic discussed in the podcast.
+3. The lack of emotional vocabulary suggests the speaker maintains a neutral stance rather than one of pleasure, distress, or anger.
+
+Given the context, the speaker's comment conveys more of a neutral state of curiosity rather than a specific emotional response.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+In this comment, the speaker expresses curiosity or anticipation about a podcast they have not yet listened to, specifically inquiring about a dramatic or serious event involving someone named [NAME]. The tone does not suggest strong emotional engagement such as pleasure, anger, or fear; instead, it reveals a neutral interest in the content of the podcast. 
+
+Key points to consider: 
+- The speaker is seeking information rather than expressing strong feelings.
+- The mention of "who did [NAME] kill?" implies interest in a potentially shocking or serious topic but does not convey emotional attachment.
+- Overall, the comment reflects a straightforward inquiry rather than an emotional reaction.
+
+Given these points, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

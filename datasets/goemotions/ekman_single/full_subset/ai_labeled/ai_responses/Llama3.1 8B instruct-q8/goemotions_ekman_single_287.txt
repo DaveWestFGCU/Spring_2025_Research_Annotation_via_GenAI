@@ -1,0 +1,38 @@
+Record: "Misogynist! Anti-women! Bigot!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses strong and derogatory language ("Misogynist!", "Bigot!") which implies a high level of disapproval and criticism.
+* The tone is confrontational and accusatory, suggesting that the speaker is expressing strong negative emotions towards the person or group being targeted.
+* There is no indication of any other emotion such as sadness, fear, or surprise in this comment.
+
+Based on these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language and labels the person they are addressing with pejorative terms.
+* The tone of the comment is confrontational and accusatory.
+* The speaker appears to be expressing a negative opinion about the person's attitude or behavior.
+
+Based on these considerations, the most relevant emotion label for the speaker's sentiment is:
+
+**anger**
+
+The speaker's use of strong language and confrontational tone suggests that they are feeling angry towards the person being addressed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used by the speaker is strong and critical.
+* The speaker is using derogatory terms to describe someone else, which suggests a negative emotion.
+* The tone of the comment is confrontational and accusatory.
+
+Given these considerations, the most relevant emotion label for this speaker's sentiment is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

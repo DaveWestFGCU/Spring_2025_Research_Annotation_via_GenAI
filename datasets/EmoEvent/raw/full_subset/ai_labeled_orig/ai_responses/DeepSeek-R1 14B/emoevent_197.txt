@@ -1,0 +1,60 @@
+Record: "Messi with the best free kick ever!!!!! Holy shit!!!!! 3 nil barca! 🐐👽🐐👽🐐👽🐐👽 #BarçaLiverpool #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion. Let's break it down.
+
+The tweet says: "Messi with the best free kick ever!!!!! Holy shit!!!!! 3 nil barca! 🐐👽🐐👽 goats #BarçaLiverpool #ChampionsLeague"
+
+First, looking at the words used: "best free kick ever" and exclamation marks indicate excitement. The phrase "Holy shit!!!" is a strong expression of surprise or amazement.
+
+The reaction emojis are goat emojis with alien faces, which often symbolize something incredible or mind-blowing, adding to the surprise element.
+
+Also, mentioning Messi scoring and Barcelona winning 3-0 suggests an impressive moment, leading to a feeling of shock or astonishment. 
+
+Putting it all together, the author's emotion is likely surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's see. I need to classify this tweet based on the emotion conveyed. The user provided a list of emotions: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet says: "Messi with the best free kick ever!!!!! Holy shit!!!!! 3 nil barca! 🐐👽🐐👽 goats... #BarçaLiverpool #ChampionsLeague."
+
+First, I notice that the user is talking about Messi making a great free kick. They exclaim multiple times with "!!!!!" and use emojis like goats (🐐) which often symbolize greatness or horns, maybe showing how impressive it was.
+
+The phrase "Holy shit" is an exclamation of surprise or amazement, so that's a clue towards surprise or joy.
+
+Looking at the words used: "best free kick ever," "3 nil barca"—this means Barcelona won 3-0. The excitement is clear—lots of emojis and exclamations.
+
+The emotions here seem positive. Exclamation marks and happy symbols indicate joy. There's no anger, disgust, fear, or sadness expressed. The surprise might be a part of it because of the holy shit reaction, but the overall tone is more about celebration and happiness.
+
+So, I think the main emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this tweet classification. The user wants to know which emotion is conveyed in the given tweet from the list: anger, disgust, fear, joy, sadness, surprise.
+
+First, I'll read the tweet carefully: "Messi with the best free kick ever!!!!! Holy shit!!!!! 3 nil barca! 🐐👽🐐👽 goats and some hashtags."
+
+Breaking it down, the user is talking about Messi's incredible free kick. The use of exclamation marks like "!!!!!" shows excitement. Words like "Holy shit" are strong expressions of surprise or amazement. Also, emojis with goat symbols 🐐 and alien faces 👽 are often used to express shock or disbelief in a playful way.
+
+The score mentioned is 3-0 for Barcelona (Barca), which seems positive since the user's team might have won. The overall tone isn't negative; instead, it's filled with enthusiasm and astonishment at Messi's skill.
+
+Looking at the emotion categories, anger isn't present—there's no frustration or irritation here. Disgust is out of the question; the sentiment is positive. Fear doesn't fit because there's no sense of anxiety or dread. Sadness is absent too, as the user seems thrilled.
+
+That leaves joy and surprise. While the tweet does express excitement (joy), the use of "Holy shit" and multiple exclamation points leans more towards surprise. The astonishment at Messi's performance stands out, making surprise the most fitting emotion.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+Record: "350 calories The large is 20 oz and it’s 140 per 8 oz so 350"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker might be feeling based on their comment. Let me read the comment again: "350 calories The large is 20 oz and it's 140 per 8 oz so 350." Hmm, this looks like someone explaining some numbers or facts.
+
+Looking at the definitions, I need to choose from anger, disgust, fear, joy, sadness, surprise, or neutral. The comment doesn't express any strong emotion. It's just a statement about calories and measurements. No positive words that would indicate joy, no negative words suggesting anger or disgust. There's no indication of worry (fear) or astonishment (surprise). 
+
+So, the speaker is probably sharing information without showing any emotion. That makes me think it's neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion label fits best for the speaker's Reddit comment. The comment is: "350 calories The large is 20 oz and it’s 140 per 8 oz so 350". 
+
+First, I'll look at the content of the message. It seems like a calculation someone did to determine the number of calories in something, probably a drink given the reference to ounces. They broke down how they got to 350 calories by explaining that each 8 oz serving has 140 calories and the large is 20 oz, which makes it about 350 calories.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. I don't see any obvious signs of strong emotions in this statement. It's more informational than emotional. The speaker isn't expressing any feelings like happiness or frustration; they're just stating facts.
+
+So, is there any indication of an emotion here? Maybe not. They might be sharing this info neutrally, perhaps to help someone else understand the calorie count without any personal feeling attached. There's no slang, exclamation marks, or anything that would hint at joy, surprise, or anger. It's straightforward and factual.
+
+Therefore, the most appropriate emotion label for this comment is neutral because it lacks expressed feelings and is purely informative.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out what emotion the speaker might be feeling based on their Reddit comment. Let me read the comment again: "350 calories The large is 20 oz and it's 140 per 8 oz so 350". Hmm, that's pretty straightforward—just stating some facts about calorie content and measurements.
+
+Looking at the emotion categories provided, I have to choose from anger, disgust, fear, joy, sadness, surprise, or neutral. The speaker isn't expressing any strong emotions here; they're just providing information. There's no indication of any positive feelings like joy or excitement, nor are there signs of negative emotions such as anger or sadness.
+
+Maybe the comment is in response to someone else's question about the nutritional info, so it could be helpful. But again, it doesn't convey any emotion. It’s more informational rather than emotional. So, considering all that, the emotion here seems to be neutral because there's no expressed feeling—it's just a factual statement.
+</think>
+
+The speaker is providing straightforward information without expressing any emotion. 
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

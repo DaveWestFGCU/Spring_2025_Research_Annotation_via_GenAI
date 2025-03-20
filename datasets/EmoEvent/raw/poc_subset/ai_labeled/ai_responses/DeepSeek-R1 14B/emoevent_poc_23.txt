@@ -1,0 +1,46 @@
+Record: "Yeah I regret ever moving to Leduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion in this tweet. The user is talking about regretting moving to Leduc and describes it as a backwards, ignorant community. So they're expressing negative feelings.
+
+Looking at the options: anger includes annoyance and rage, but here it's more of a deep disappointment. Sadness involves things like grief or pensiveness. Their regret and the way they describe the place seems to fit sadness better than anger. They might be feeling down about their decision and the environment they're in.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I have this tweet to classify into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "Yeah I regret ever moving to Leduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen."
+
+First, I'll break down the words and the tone used here. The author starts with "Yeah," which is casual but sets a negative tone because of what follows. They express regret about moving to Leduc, indicating some dissatisfaction.
+
+The description of the community as "backwoods" suggests it's rural or less developed, which can have both positive and negative connotations depending on context. However, the author adds "proud-to-be-ignorant," which clearly has a negative implication. The word "ignorant" is strong and conveys a sense of disgust or dislike.
+
+Looking at emotion categories: anger involves annoyance or rage; here, the author isn't explicitly expressing anger but more frustration or disappointment. Disgust includes disinterest or dislike, which fits because they're describing the community in a negative light. Fear would involve anxiety or terror, which doesn't seem present here. Joy and surprise are obviously not applicable given the negative tone.
+
+So, the emotion conveyed is disgust because of the strong negative descriptor "ignorant." It's more about disliking the community rather than being angry or fearful.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet based on the emotion conveyed. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Let me read the tweet again: "Yeah I regret ever moving to Leduc. It's one of the most backwoods, proud-to-be-ignorant communities I've ever seen." 
+
+The author is talking about regretting their move to Leduc and describes it as a backwards, proudly ignorant community. The words "backwards" and "proudly ignorant" definitely have negative connotations. They express disappointment or dissatisfaction with where they moved.
+
+Looking at the emotion categories: anger involves annoyance or rage, which might fit if there's frustration, but here it seems more like dislike. Disgust includes disinterest and dislike, so that's a good fit. The author is clearly expressing a strong negative feeling towards the community, bordering on disgust. Fear isn't present because there's no sense of worry or anxiety. Sadness could be possible since regret often involves sadness, but the stronger emotion here seems to be more about disapproval and dislike, which aligns with disgust.
+
+So, I think the best classification is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

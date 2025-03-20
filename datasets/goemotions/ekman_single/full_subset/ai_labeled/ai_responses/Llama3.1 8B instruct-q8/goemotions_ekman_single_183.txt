@@ -1,0 +1,37 @@
+Record: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is comparing their own cost of a wedding to someone else's.
+* They express surprise at the high cost mentioned by another person (35k).
+* Their tone seems to convey skepticism or astonishment.
+
+Given these considerations, the most relevant emotion label is: **surprise**
+
+The speaker's reaction suggests they are surprised by the high cost mentioned by another person, and their tone implies a sense of astonishment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be comparing their own situation to someone else's, highlighting a disparity.
+* The tone is matter-of-fact and observational, without any apparent emotional investment or personal connection to the person being compared.
+* The word "crazy" is used to describe the other person's situation, which could imply that the speaker finds it unreasonable or extreme.
+
+Given these points, the most relevant emotion label is **surprise**, as the speaker seems to be reacting with astonishment at the disparity in cost between their own wedding and someone else's. The use of "crazy" to describe the other person's situation also suggests a sense of unexpectedness or incongruity, which aligns with the definition of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is comparing their own experience to someone else's (likely in response to a comment about a large sum of money).
+* The speaker uses the word "crazy" to express surprise or shock at the mentioned amount.
+* The speaker then mentions their own experience, which was significantly lower.
+
+Most relevant emotion label: **surprise**
+The speaker's use of the word "crazy" and their tone suggests that they are surprised by the large sum of money mentioned in the original post.
+------------------------------------------------------------------------------------------------------------------------
+

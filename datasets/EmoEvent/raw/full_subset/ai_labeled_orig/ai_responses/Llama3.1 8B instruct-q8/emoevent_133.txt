@@ -1,0 +1,35 @@
+Record: "We are the champions🏆🔥  Messi scores the winner 👽 🐐 #LaLiga 26 #BarçaLevante #forçabarça"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text mentions being "the champions", indicating a positive outcome.
+* The use of celebratory emojis (🏆, 🔥) further suggests a positive tone.
+* The mention of Messi scoring the winner implies excitement and triumph.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet mentions being "champions", which implies a positive outcome.
+- The use of celebratory emojis (🏆, 🔥) further indicates a triumphant tone.
+- The mention of Messi scoring the winner is likely a highlight of the game.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is celebrating a win.
+* The use of emojis, such as 🏆 and 🔥, are often used to express excitement or triumph.
+* The mention of being "the champions" further reinforces the idea that the author is expressing pride and celebration.
+
+**joy**
+
+Note: This classification is based on the language and tone used in the tweet, which suggests a strong sense of accomplishment and elation.
+------------------------------------------------------------------------------------------------------------------------
+

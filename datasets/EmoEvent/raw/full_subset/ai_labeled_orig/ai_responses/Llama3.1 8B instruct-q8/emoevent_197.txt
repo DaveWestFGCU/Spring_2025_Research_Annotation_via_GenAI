@@ -1,0 +1,45 @@
+Record: "Messi with the best free kick ever!!!!! Holy shit!!!!! 3 nil barca! 🐐👽🐐👽🐐👽🐐👽 #BarçaLiverpool #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a football match, specifically a Champions League game between Barça and Liverpool.
+* The author uses enthusiastic language such as "best free kick ever" and "Holy shit", indicating excitement and strong positive emotion.
+* The use of multiple exclamation marks and emojis (🐐 and 👽) further emphasizes the author's enthusiasm.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+
+The author's tone is clearly celebratory and excited, suggesting that they are experiencing joy and pleasure from watching Messi score a great free kick.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is about a football match, specifically the UEFA Champions League.
+* The language used is enthusiastic and celebratory, with multiple exclamation marks and emojis indicating excitement.
+* The mention of Messi's free kick as "the best ever" suggests admiration and appreciation for his skill.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's enthusiasm, celebration, and use of superlatives (e.g. "the best free kick ever") indicate a joyful tone, likely due to their team winning or Messi's impressive performance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a football match, specifically the UEFA Champions League.
+* The language used is enthusiastic and exuberant, with multiple uses of "!!!!!!" and emojis.
+* The text mentions Messi, who is widely regarded as one of the greatest football players of all time.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's use of superlatives ("best free kick ever"), enthusiastic language, and exuberant punctuation suggests that they are expressing excitement and joy at the outcome of the match. The emojis, particularly the multiple 🐐 (lion) emojis, which are often used to represent Messi, further reinforce this interpretation.
+------------------------------------------------------------------------------------------------------------------------
+

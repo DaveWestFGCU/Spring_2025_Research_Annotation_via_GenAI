@@ -1,0 +1,20 @@
+Record: "#GameofThrones  That was a holy fuck outta 10!!!!! As visually stunning an episode of anything I've probably ever seen. So,so impressive."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about Game of Thrones. The user wrote, "#GameofThrones That was a holy fuck outta 10!!!!! As visually stunning an episode of anything I've probably ever seen. So,so impressive." 
+
+First, let's break down the language used here. They start with "holy fuck outta 10", which is a strong exclamation. The word "fuck" usually conveys anger or surprise, but in this context, it's part of an expression that seems more enthusiastic than angry. Then they mention how visually stunning and impressive the episode was.
+
+Looking at the emotion mapping guidelines: if the tweet shows something like amazement or distraction, we classify it as surprise. The use of "holy fuck" here is likely expressing shock or astonishment at how good the episode was. They're clearly impressed, which falls under surprise because they're reacting to something unexpected in a positive way.
+
+I don't think it's anger because there's no indication of frustration or rage. Disgust doesn't fit either since they're praising the visuals. Fear isn't present; instead, it's more about excitement. Sadness and joy are also not applicable here because the emotion is more about being amazed rather than happy or sad.
+
+So, putting it all together, the primary emotion is surprise due to their enthusiastic and impressed reaction.
+</think>
+
+surprise
+------------------------------------------------------------------------------------------------------------------------
+

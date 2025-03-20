@@ -1,0 +1,44 @@
+Record: "That’s exactly how my fanfiction goes"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be referencing a specific story or scenario, likely their own fanfiction.
+* They use the phrase "that's exactly" which suggests they are acknowledging a similarity between the original post and their own work.
+* There is no apparent criticism, disagreement, or negativity in their response.
+
+Given these points, the most relevant emotion label for this speaker's comment is:
+
+**joy**
+
+The tone of the comment seems light-hearted and positive, with the speaker expressing approval or excitement about how their fanfiction aligns with the original post.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be responding to someone else's comment about their fanfiction.
+* The tone of the statement is brief and matter-of-fact, without any apparent emotional intensity.
+* There is no language that suggests strong feelings such as anger, disgust, fear, or sadness.
+
+Given these observations, the most relevant emotion label for this response is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to a comment or post about their own fanfiction.
+* They seem to be referencing a specific detail from the original content, indicating that they are familiar with it.
+* Their tone appears to be casual and matter-of-fact.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+
+The speaker's response is brief and lacks any emotional language or inflection. It simply acknowledges a similarity between their own fanfiction and the original content, without expressing excitement, surprise, or any other strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+

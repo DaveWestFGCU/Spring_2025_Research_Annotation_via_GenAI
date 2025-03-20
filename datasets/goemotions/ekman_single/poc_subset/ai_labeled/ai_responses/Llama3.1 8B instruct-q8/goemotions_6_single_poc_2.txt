@@ -1,0 +1,40 @@
+Record: "Justified or not he'll probably go before [NAME]"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is discussing a potential outcome for someone named "[NAME]".
+* The outcome is likely severe, as it involves being sent "before" something (implied to be a court or authority).
+* The tone of the comment suggests a matter-of-fact or resigned attitude.
+
+Most relevant emotion label: **sadness**
+
+The speaker's comment implies a sense of resignation and possibly concern for [NAME]'s well-being, which are both characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be discussing a person who will likely face consequences or punishment.
+* The tone is matter-of-fact and lacks strong emotional language.
+* There's no indication of excitement, approval, or pleasure.
+
+Given these considerations, the most relevant emotion label is:
+
+**neutral**
+ 
+The speaker appears to be simply stating an expected outcome without expressing any particular emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is discussing a person going before someone named "[NAME]".
+* The tone of the statement is matter-of-fact and neutral, without any emotional language or embellishment.
+* There is no apparent enthusiasm or approval in the statement.
+
+Given these considerations, the most relevant emotion label for this text is **sadness**. While the statement itself does not explicitly express sadness, it implies a sense of resignation and acceptance, which are related to sadness.
+------------------------------------------------------------------------------------------------------------------------
+

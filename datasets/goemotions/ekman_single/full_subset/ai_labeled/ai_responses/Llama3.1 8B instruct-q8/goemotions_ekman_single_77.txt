@@ -1,0 +1,44 @@
+Record: "Whoever told you that is lying."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker makes a strong statement with absolute certainty ("Whoever told you that is lying").
+* The tone appears direct and accusatory.
+* There's no expression of surprise, sadness, or joy in the statement.
+
+Given these considerations, the most relevant emotion label for the speaker's sentiment is:
+
+**anger**
+
+This is because the speaker's use of a strong statement with absolute certainty and an accusatory tone suggests a negative emotional state, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker directly states that someone is intentionally deceiving them.
+* The tone is firm and assertive, indicating a strong reaction.
+* There's no expression of fear, disgust, joy, or surprise in the response.
+
+Given these considerations, the most relevant emotion label is: **anger**
+
+The speaker appears to be feeling anger towards the person who lied to them.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone is blunt and direct.
+* They use the word "lying", which implies dishonesty.
+* There is no apparent sense of irony, humor, or affection.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker appears to be expressing anger towards whoever made the statement they are responding to, implying that it was false and malicious.
+------------------------------------------------------------------------------------------------------------------------
+

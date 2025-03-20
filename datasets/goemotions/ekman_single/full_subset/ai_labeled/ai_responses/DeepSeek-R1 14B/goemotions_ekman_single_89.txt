@@ -1,0 +1,56 @@
+Record: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable." Let me break this down.
+
+First, looking at each word and phrase. "You weren't supposed to know" suggests that the speaker expected something to be kept secret or unknown. Maybe they're implying that the other person shouldn't have known something. Then they say, "You’re not psychic," which is a common way to tell someone they shouldn't assume they can read minds or know information without being told.
+
+The last part is, "He’s being unreasonable." This directly expresses frustration with another person's behavior. So putting it all together, the speaker seems annoyed because they think the other person should have known something they weren't supposed to, and they're calling out someone else for being unreasonable.
+
+Looking at the emotion categories: anger includes annoyance and disapproval. The tone here is definitely one of frustration and maybe a bit of irritation, which fits under anger. There's no indication of disgust because it's not about something offensive or unpleasant. Fear isn't present as there's no worry or nervousness. Joy and surprise are clearly not applicable. Sadness might be involved if there was disappointment, but the main emotion seems to be frustration. Neutral doesn't fit because there is a clear emotional tone.
+
+So I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable." 
+
+First, let's break down each part of the sentence. The speaker says, "You weren’t supposed to know," which suggests that they expected some information to be private or unknown. Then, "You’re not psychic" is a way of pointing out that the listener shouldn't have known something without being told, maybe implying that the listener overstepped or was intrusive.
+
+The last part, "He’s being unreasonable," indicates frustration with someone else's behavior. So putting it all together, the speaker seems annoyed or upset about something that happened. 
+
+Looking at the emotion categories: anger is a strong feeling of displeasure, which fits here because the speaker is showing irritation and disapproval towards both the listener and another person ("He"). There's no sign of disgust, fear, joy, sadness, surprise, or neutrality in the comment.
+
+So, the most relevant emotion is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable." 
+
+Let me break this down. First, the speaker says "You weren't supposed to know. You're not psychic." This seems like they're telling someone off for knowing something they shouldn't have or implying that the other person overstepped by knowing information that's private or shouldn't be known. The use of "not psychic" might be sarcastic or annoyed, indicating frustration.
+
+Next, the speaker says, "He’s being unreasonable." Here, they're pointing out someone else's behavior as unreasonable. This could come from a place of exasperation or maybe even anger because if someone is acting unreasonably, it can provoke strong feelings.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. 
+
+Anger seems to fit here because the speaker is expressing frustration and disapproval. They're annoyed that the other person knew something they shouldn't have and are calling out someone else's behavior as unreasonable, which can be a sign of anger.
+
+I don't think it's disgust because disgust usually involves revulsion towards something unpleasant, but here it's more about frustration with another person's actions. Fear would involve being scared or anxious, which doesn't seem to be the case here. Joy and surprise are positive emotions that don't align with the tone. Sadness is more about sorrow, which isn't exactly what's conveyed either.
+
+So, putting it all together, the emotion most likely felt by the speaker is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+Record: "What a terrible list"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "terrible", which implies a strong negative opinion.
+* The speaker is responding to a list, implying that they are expressing their reaction to the content of the list.
+* The tone appears to be brief and direct, with no apparent attempt to soften or qualify their statement.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+ 
+The speaker's use of the word "terrible" suggests a strong sense of revulsion or disapproval, which aligns with the definition of disgust. The tone and language used also suggest that the speaker is strongly reacting to something they find unpleasant or offensive.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language ("terrible") to describe the list.
+* There is no indication of fear, disgust, joy, sadness, or surprise in their tone or words.
+
+Given these considerations, the most relevant emotion label for the speaker's comment is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses strong language ("terrible") to describe something.
+* There is no indication of fear, disgust, joy, surprise, or neutral tone.
+* The speaker's response seems to be reacting negatively to the content of the post or another commenter.
+
+Given these considerations, the most relevant emotion label for this speaker's comment would be: **anger**
+------------------------------------------------------------------------------------------------------------------------
+

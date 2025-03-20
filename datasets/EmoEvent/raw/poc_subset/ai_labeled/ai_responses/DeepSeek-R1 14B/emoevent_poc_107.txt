@@ -1,0 +1,46 @@
+Record: "hit or miss would anybody care or miss huh..? aint nobody love me and ma dad also left me yuh..."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm trying to classify this tweet's emotion. Let's read it carefully: "hit or miss would anybody care or miss huh..? aint nobody love me and ma dad also left me yuh..." 
+
+The author seems to be expressing feelings of neglect and abandonment. They mention that no one cares or misses them, which indicates sadness. The part about their dad leaving adds to the sense of loss and loneliness. There's no sign of anger, disgust, fear, joy, or surprise here; it's clearly focused on sad emotions.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's take a look at this tweet. The author is expressing some strong emotions here. They're talking about being hit or missed, whether anyone cares or misses them. Then they mention that no one loves them and their dad has left them. These are clearly negative feelings.
+
+First, I notice the words "hit" and "miss," which could metaphorically mean feeling unappreciated or unnoticed. The rhetorical questions suggest uncertainty or frustration about others' concern for their well-being. 
+
+The line "ain't nobody love me" is a direct expression of loneliness and lack of affection, pointing towards sadness. Also, the mention of their dad leaving adds to feelings of abandonment, which contributes to sadness rather than anger or disgust.
+
+I don't detect any signs of anger, like explicit curses or accusatory language. There's no indication of disgust either; instead, it's more about emotional neglect and loss. Fear isn't really present because there's no sense of threat or worry. Joy is definitely not applicable here as the tone is downcast. Surprise doesn't fit either since nothing unexpected is mentioned.
+
+So, putting it all together, the dominant emotion seems to be sadness due to feelings of loneliness and abandonment.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion is conveyed in this tweet: "hit or miss would anybody care or miss huh..? aint nobody love me and ma dad also left me yuh...". The options are anger, disgust, fear, joy, sadness, surprise. 
+
+First, let's break down the tweet. It starts with "hit or miss", which could be about whether something matters. Then it asks if anyone cares or misses, showing some uncertainty or doubt. The speaker seems to be expressing that no one loves them and their dad has left as well. That sounds pretty heavy.
+
+The tone here is definitely negative. Words like "ain't nobody love me" and "ma dad also left me" indicate feelings of neglect and abandonment. This makes me think about sadness because the person is talking about not being loved and having someone close leave them, which can lead to feeling down or悲痛.
+
+I don't see any signs of anger here; it's more about personal loss than frustration. Disgust doesn't fit either since they're expressing hurt rather than dislike. Fear isn't present unless there's an underlying anxiety, but the main emotion seems to be sadness related to being unloved and abandoned.
+
+Joy and surprise are definitely not applicable given the context of the tweet. So, putting it all together, the primary emotion is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

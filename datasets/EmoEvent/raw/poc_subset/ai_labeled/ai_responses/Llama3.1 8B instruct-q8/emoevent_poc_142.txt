@@ -1,0 +1,40 @@
+Record: "Sicko mode is on a whole new level, it cant be compared."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet uses an expletive ("sicko") which can convey strong emotions.
+* The phrase "on a whole new level" implies admiration or excitement.
+* The comparison to something else suggests that the author is enthusiastic about what they're experiencing.
+
+The most relevant emotion label in this case is **joy**, as the tone of the tweet suggests enthusiasm and excitement, which are both positive emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses a slang term ("Sicko mode") that implies excitement or enthusiasm.
+* The phrase "on a whole new level" suggests an increase in intensity or quality.
+* The phrase "can't be compared" implies admiration or awe.
+
+Considering these points, the tweet is likely meant to express a strong positive emotion. Therefore:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the phrase "Sicko mode", which could imply that they are referencing a popular song or music genre.
+* The use of superlatives ("on a whole new level") suggests that the author is expressing admiration or enthusiasm.
+* The phrase "cant be compared" implies that the author believes Sicko mode has surpassed others in some way.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author appears to be expressing excitement and approval for something related to Sicko mode.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+Record: "I used to be subscribed to [NAME] channel. I know we all have troubled pasts, but man..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions they used to subscribe to the person's channel, indicating a past connection.
+* They mention "troubled pasts", which suggests that the speaker is aware of the person's difficulties or controversies.
+* The tone is somewhat melancholic and introspective.
+
+Given these points, the most relevant emotion label for this sentence is:
+
+**sadness**
+
+The speaker seems to be reflecting on a past experience with someone who has had troubles in their life. Their use of "man" at the end of the sentence suggests a sense of resignation or sadness, implying that they may have been disappointed or disheartened by the person's actions or situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts by mentioning their past connection to the channel, implying a personal history with the person in question.
+* They express a sympathetic tone with "we all have troubled pasts", suggesting they are acknowledging a shared human experience.
+* However, they immediately shift to an expression of concern or disappointment with "but man...".
+
+Given these points, it seems the speaker is expressing a sense of disapproval or dissatisfaction with something related to the channel or its creator. This tone suggests a negative emotional state.
+
+**sadness**
+ 
+The speaker's sympathetic tone and expression of concern imply that they are not simply angry or disgusted, but rather saddened by what they perceive as a troubled past or negative development. The use of "man" also adds a sense of disappointment or disapproval, which is more aligned with sadness than anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions having a troubled past and compares it to someone else's, implying they are reflecting on their own experiences.
+* The tone of the sentence is somewhat melancholic and introspective.
+* The phrase "but man..." suggests that the speaker is about to express some sentiment or feeling.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's mention of a troubled past and introspective tone suggests that they are reflecting on their own emotional pain, which is a characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

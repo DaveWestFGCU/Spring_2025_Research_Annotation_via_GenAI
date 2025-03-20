@@ -1,0 +1,46 @@
+Record: "World Book Day seems like the perfect place to pitch my book, a sci-fi adventure story, complete at 93k words. It's got everything! War! Aliens! Spaceships! Difficult to explain sexuality! Climate change!  #WorldBookDay #literaryagents #publishers"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the emotion in this tweet about World Book Day. The user is promoting their sci-fi book with various elements like war, aliens, spaceships, and more. They seem excited because they're sharing a lot of enthusiasm about their work. The use of exclamation marks also suggests joy or eagerness.
+</think>
+
+The author seems enthusiastic and eager to share their book, which conveys **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify the emotion of this tweet about World Book Day. Let me read it carefully.
+
+The author says they're at a perfect place to pitch their book, which is a sci-fi adventure with 93k words and includes elements like war, aliens, spaceships, difficult sexuality, and climate change. They seem excited about their book and are using relevant hashtags to reach the right audience.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise.
+
+The tone here is positive; they're enthusiastic about their work and opportunities. No negative emotions like anger or disgust are present. They aren't expressing fear or surprise, just excitement which falls under joy.
+
+So the emotion conveyed is **joy**.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion conveyed in this tweet about World Book Day. The tweet is: "World Book Day seems like the perfect place to pitch my book, a sci-fi adventure story, complete at 93k words. It's got everything! War! Aliens! Spaceships! Difficult to explain sexuality! Climate change! #WorldBookDay #literaryagents #publishers"
+
+First, I'll break it down. The author is talking about World Book Day and how it's the perfect place to pitch their book. They mention it's a sci-fi adventure with 93k words, which sounds like a significant achievement. Then they list elements of their story: War, Aliens, Spaceships, difficulty explaining sexuality, Climate change.
+
+Looking at the tone, they seem enthusiastic about their work and excited about the opportunity to pitch. The exclamation points after each element suggest excitement and maybe a sense of pride in the book's content. They're highlighting various aspects to show that their book is comprehensive and appealing.
+
+There are no negative words here; instead, it's all positive and energetic. The hashtags they used also seem professional but not necessarily emotional—more about networking and promotion. However, the overall vibe is someone who is happy with their accomplishment and eager to share it.
+
+So considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't show any negative emotions or fear. It's more about excitement and happiness about their book and the platform to pitch it. So joy seems like the right category here.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

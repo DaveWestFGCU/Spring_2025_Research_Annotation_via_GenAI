@@ -1,0 +1,48 @@
+Record: "I am only sharing what my friends said, what their experience was. I found that a bit surprising."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion conveyed in this tweet. The user says, "I am only sharing what my friends said, what their experience was. I found that a bit surprising." 
+
+First, they're explaining their actions—sharing others' experiences. Then they mention finding something surprising. The key word here is "surprising," which directly points to the surprise emotion.
+
+Looking at the list of emotions: anger, disgust, fear, joy, sadness, surprise. Since "surprise" is explicitly mentioned and fits into one of the categories without overlapping too much with others, it's the most relevant.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "I am only sharing what my friends said, what their experience was. I found that a bit surprising."
+
+First, let's break down the sentence. The author is explaining they're sharing others' experiences and then mentions it was a bit surprising. The key word here is "surprising," which directly relates to one of the emotion categories.
+
+The emotions listed are anger (including annoyance), disgust (dislike, etc.), fear (anxiety, terror), joy (serenity, ecstasy), sadness (pensiveness, grief), and surprise (which includes distraction, amazement). 
+
+In this case, the author explicitly uses "surprising," which falls under the surprise category. There's no indication of other emotions like anger or fear. The context is about sharing friends' experiences, so it doesn't seem to evoke any negative feelings beyond the surprising aspect.
+
+So, considering all this, the emotion conveyed here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break this down. The user provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "I am only sharing what my friends said, what their experience was. I found that a bit surprising."
+
+First, I need to focus on the emotion conveyed by the author. The key phrase here is "I found that a bit surprising." The word "surprising" directly points to the emotion of surprise. 
+
+Now, considering the list provided, surprise is one of the categories and it's explicitly mentioned in the tweet. So, there's no need to consider other emotions like joy or anger because the author clearly states their feeling.
+
+I should also check if there's any underlying emotion that might be more prominent, but in this case, "surprising" is straightforward. There are no hints of fear, disgust, or sadness here. The context is about sharing friends' experiences, which led to a surprising realization.
+
+Therefore, the correct classification is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

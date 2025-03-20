@@ -1,0 +1,48 @@
+Record: "I like it I just wish he’d drop the m and apostrophe"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author expresses a positive sentiment by stating they "like" something.
+* They then immediately express a criticism or frustration with the person's writing style.
+
+Given these points, the author is expressing a negative emotion towards the person's writing style while still liking the content. This suggests that their intended emotion is not entirely positive (joy), nor is it overwhelmingly negative (anger, disgust, fear, sadness).
+
+**surprise**
+ 
+The tone seems to be more of a mild disappointment or frustration at an inconsistency in the person's style, rather than any intense emotional response, which might explain why surprise is the most fitting label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author starts by expressing a positive sentiment with "I like it", indicating that they are generally pleased.
+* However, they immediately express a criticism with "just wish he'd drop the m and apostrophe", which suggests that their liking is qualified.
+
+Given these points, the author's tone appears to be mixed, but leaning towards a critical or nitpicky sentiment. 
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author starts with a positive statement ("I like it"), indicating approval or satisfaction.
+* They then express a criticism or desire for change ("just wish he'd drop the m and apostrophe").
+* The tone is polite and constructive, suggesting that the author is not upset or offended.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+ 
+However, given that the overall sentiment of the tweet is more focused on a minor criticism than sadness, I would argue for an alternative classification. 
+
+An alternative classification could be **disgust**, but this seems too strong given that the author's tone is polite and constructive. The criticical comment is not meant to evoke disgust, but rather a desire for improvement.
+
+Considering the original tweet is expressing some dissatisfaction with a minor detail, it can also be interpreted as a tone of mild disappointment or frustration which leans more towards:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

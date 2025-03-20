@@ -1,0 +1,43 @@
+Record: "In honor of #WorldBookDay I'm working my shift at USER and continuing to make progress in this extraordinary novel. 1136 pages in and only 325 or so to go! (For reference to all the fellow theatre kids USER: I'm at "A Little Fall of Rain") https://t.co/UkXJGNYeGA"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about World Book Day, indicating a positive and celebratory tone.
+* The author mentions working on their shift and making progress in a novel, suggesting a sense of accomplishment and dedication.
+* The mention of 1136 pages read and only 325 left indicates a feeling of excitement and anticipation.
+
+The most relevant emotion label for this tweet is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is related to World Book Day, an event celebrating reading and literature.
+* The author mentions working on a novel and making progress, indicating a positive tone.
+* The use of the phrase "extraordinary novel" suggests enthusiasm and excitement.
+* The author appears to be motivated and focused on completing their work.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's positive tone, enthusiasm, and motivation suggest that they are feeling joyful about working on their novel.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about World Book Day, which suggests a positive context.
+* The author mentions making progress in their novel, indicating a sense of accomplishment and enthusiasm.
+* They also mention working at USER ( likely a theater or library setting), which could be related to reading or writing.
+* The use of enthusiastic language such as "extraordinary" and "(For reference to all the fellow theatre kids)" suggests excitement.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The author's tone appears to be celebratory and enthusiastic, indicating joy and excitement about World Book Day and their progress in writing their novel.
+------------------------------------------------------------------------------------------------------------------------
+

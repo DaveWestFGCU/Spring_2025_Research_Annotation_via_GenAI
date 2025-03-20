@@ -1,0 +1,71 @@
+Record: "I feel like I'm saying this every week but am I the only one who thought #GameofThrones was actually really poor this week?   Awfully shot and full of flimsy logic with a massively bloated runtime as well. This season is shaping up worse than the last one, big disappointment."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise. Let me read through the tweet carefully.
+
+The user starts with, "I feel like I'm saying this every week but am I the only one who thought #GameofThrones was actually really poor this week?" So they're expressing frustration or disappointment about the show's quality each week. They mention it being "poor," which is a negative assessment, indicating some form of dislike or dissatisfaction.
+
+Next, they elaborate: "Awfully shot and full of flimsy logic with a massively bloated runtime as well." Here, they're pointing out specific issues—bad cinematography ("awfully shot"), poor storytelling ("flimsy logic"), and long runtimes that don't add value. These are all negative points, showing the user is unhappy.
+
+Finally, they conclude: "This season is shaping up worse than the last one, big disappointment." They express that this season is even worse than the previous, which was already not great, and they feel disappointed.
+
+Looking at the emotion categories:
+
+- Anger includes annoyance and rage. The user is clearly annoyed and upset about the show's quality.
+- Disgust involves dislike or disinterest. While they do express dislike, the stronger emotion here seems to be anger due to the explicit criticism and frustration.
+- Fear isn't present; there's no indication of worry or terror.
+- Joy, serenity, etc., are obviously not applicable as it's all negative.
+- Sadness is possible because disappointment can fall under sadness. The user feels let down, which could align with sadness.
+- Surprise doesn't fit because the tweet isn't expressing astonishment but rather a consistent negative opinion.
+
+Now, I need to decide between anger and sadness. The user is frustrated and annoyed at what they perceive as poor quality, which leans more towards anger (annoyance). However, disappointment can also be sadness. But considering the strong criticism and frustration expressed, anger might be the primary emotion here.
+</think>
+
+The tweet expresses frustration and dissatisfaction with the show's quality, indicating annoyance and rage.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the author of this tweet is conveying. Let's look at the content of the tweet carefully.
+
+The user starts by saying they feel like they're repeating themselves every week, which suggests a recurring negative sentiment about "Game of Thrones." They express doubt about being the only one with their opinion, implying that others might not share their view. The main points they highlight are:
+
+1. The show was "actually really poor this week."
+2. It was "awfully shot" – meaning the cinematography or visual aspects were subpar.
+3. There was "flimsy logic" in the episode, indicating weak storytelling or plot points.
+4. The runtime was "massively bloated," suggesting it felt too long without enough substance.
+
+Additionally, they mention this season is shaping up to be worse than the last one and call it a "big disappointment."
+
+Breaking down the emotions:
+
+- **Anger**: The use of strong negative adjectives like "poor," "awfully shot," "flimsy logic," and "disappointment" indicates frustration or anger.
+- **Disgust**: While there's a clear dislike, disgust usually involves more feelings of aversion towards something unclean or repulsive. This doesn't quite fit here as the issues are more about quality and execution.
+- **Fear**: There's no indication of fear; instead, it's more about dissatisfaction with the product.
+- **Joy**: Clearly not applicable since the tone is negative.
+- **Sadness**: While disappointment can tie into sadness, the language used seems more pointed towards frustration rather than sorrow or grief.
+- **Surprise**: The user isn't expressing surprise but rather a consistent negative opinion.
+
+So, the emotion conveyed here is primarily anger due to the strong, repetitive criticism and the frustration expressed about the show's quality and runtime. They're clearly annoyed and upset with how this week's episode turned out and the overall trajectory of the season.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the author of this tweet is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet, the user starts by saying they feel like they're repeating themselves every week but then expresses their opinion about Game of Thrones. They mention it was "actually really poor this week," pointing out issues with the show's quality—awful shots, flimsy logic, and a bloated runtime. The season is getting worse than the last one, leading to a big disappointment.
+
+The key words here are "poor," "disappointment," and negative adjectives about the show's production. The user isn't expressing fear or surprise; they're clearly upset about the quality decline. So, this seems more like anger because of their frustration with the series' latest season.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "If I haven’t told you lately...I love you and you are my hero. ❤️❤️❤️"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses multiple hearts, indicating strong affection.
+* The tone of the statement is positive and admiring.
+* The speaker directly expresses admiration for the person being addressed.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's use of "I love you" and "you are my hero" suggests a feeling of pleasure and happiness associated with admiration, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses multiple heart symbols (❤️), which is often associated with expressions of affection.
+* The phrase "I love you" explicitly conveys a positive emotion.
+* The term "hero" typically implies admiration and respect.
+
+Given these points, the most relevant emotion label is **joy**, as it aligns with the definitions provided: "Joy includes admiration, amusement, approval, caring, desire, excitement, gratitude, love, optimism, pride, and relief."
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses multiple exclamation marks, indicating strong emphasis and enthusiasm.
+* The language used is affectionate and complimentary ("love", "hero").
+* The use of emojis (❤️) reinforces the positive tone.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

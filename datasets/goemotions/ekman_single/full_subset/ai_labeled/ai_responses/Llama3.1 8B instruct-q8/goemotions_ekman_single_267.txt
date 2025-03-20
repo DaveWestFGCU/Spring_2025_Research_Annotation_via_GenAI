@@ -1,0 +1,45 @@
+Record: "a partner of mine made it -- it's just about my favorite meme ever"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing enthusiasm and fondness for something, specifically mentioning that it's their "favorite meme ever".
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+* The tone appears to be lighthearted and playful.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+This is because the speaker is expressing admiration and approval for a meme, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+* The speaker mentions that their partner created something.
+* They describe it as their "favorite meme ever".
+* There is no mention of any negative emotions or criticisms.
+
+Given these points, the speaker appears to be expressing a positive sentiment towards the creation. 
+
+**joy**
+
+Reasoning: The speaker uses enthusiastic language ("my favorite meme ever") which is typical of expressions of joy and happiness. This suggests that they are pleased with their partner's creation and are experiencing feelings of excitement and satisfaction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is talking about their favorite meme.
+* They mention that a partner of theirs created the meme.
+* The tone seems enthusiastic and excited.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This conclusion is based on the fact that the speaker's comment implies pleasure, happiness, and excitement when mentioning their favorite meme. The use of "my favorite" suggests a strong positive attachment to the meme, which aligns with emotions related to joy.
+------------------------------------------------------------------------------------------------------------------------
+

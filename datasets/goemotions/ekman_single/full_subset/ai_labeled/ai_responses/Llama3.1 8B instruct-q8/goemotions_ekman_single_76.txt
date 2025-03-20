@@ -1,0 +1,38 @@
+Record: "No seriously, why do you have the Daily Mail app on your phone?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment is questioning and mildly accusatory.
+* The speaker seems to be expressing disapproval of the person's choice to have the Daily Mail app on their phone.
+* There is no apparent display of strong emotions such as anger, fear, or sadness.
+
+Given these considerations, the most relevant emotion label is:
+
+**disgust**
+ 
+The reason for this selection is that while the speaker is not using explicit language, their tone and words convey a sense of revulsion or strong disapproval towards the person's choice to have the Daily Mail app on their phone. This aligns with the definition of disgust as "Revulsion or strong disapproval aroused by something unpleasant or offensive."
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is questioning and slightly disapproving.
+* The phrase "Daily Mail" is likely being used to imply that the content of the app is biased or of poor quality.
+* There is no apparent personal attack or insult.
+
+Given these points, the most relevant emotion label is **disgust**. This is because the speaker's tone suggests a strong disapproval or revulsion towards the idea of having the Daily Mail app on one's phone, implying that they find the content to be unpleasant or offensive in some way.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone appears to be questioning and slightly critical.
+* The phrase "No seriously" implies that the speaker is surprised or confused by the person's decision to have the Daily Mail app.
+* The question itself suggests a sense of disapproval, but it's not overtly aggressive.
+
+Based on these points, I would categorize the speaker's emotion as **surprise**. The surprise may stem from the fact that they expected the person to have better judgment or taste in news sources, and the Daily Mail app is perceived as questionable or even reprehensible by many people.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,43 @@
+Record: "I hope you’re okay. I’m here to talk if you need someone"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker starts with expressing concern for the other person's well-being.
+* They offer support and a willingness to listen, implying that they care about the other person.
+
+Given these points, the most relevant emotion label is **concern or empathy**, which falls under the category of **sadness**. The speaker appears to be expressing sadness or emotional pain on behalf of the other person, rather than feeling it themselves. However, since the options don't include "concern" or "empathy," I'll choose the closest match:
+
+* **sadness**
+
+Note that this interpretation is based on the assumption that the speaker is expressing concern for someone else's feelings, rather than their own.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions hoping the other person is okay.
+* They express a willingness to talk and offer support.
+* The tone of the message is gentle and caring.
+
+Given these points, the most relevant emotion label for the speaker's sentiment is **concern**, but it does not appear in the provided options. However, the closest match based on the definitions would be:
+
+**sadness**
+
+The speaker's concern for the other person's well-being implies a sense of emotional pain or sorrow, which falls under the category of sadness. The tone of the message suggests that the speaker is empathetic and understanding, but this does not necessarily mean they are feeling joy or another emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses concern for someone's well-being.
+* The tone is empathetic and supportive.
+* The speaker offers help, indicating they are willing to listen or provide assistance.
+
+Most relevant emotion label: **sadness**
+ 
+Explanation: While the comment could be interpreted as a response to a variety of emotions (e.g. fear, surprise), the primary sentiment expressed by the speaker appears to be concern for someone experiencing emotional pain or sorrow (sadness). The offer to talk and provide support further suggests that the speaker is aware of or has detected some level of distress in the person they're addressing.
+------------------------------------------------------------------------------------------------------------------------
+

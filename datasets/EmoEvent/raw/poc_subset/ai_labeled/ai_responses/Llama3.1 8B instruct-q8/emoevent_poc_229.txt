@@ -1,0 +1,34 @@
+Record: "Fucking parking in the middle of the street through the entire strip of Allegheny"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are some important points to consider:
+
+* The use of the word "fucking" indicates a strong negative sentiment.
+* The phrase "parking in the middle of the street" implies an annoyance or frustration with someone's behavior.
+* The location is specified as a specific street ("Allegheny"), suggesting that the author has a personal connection to the area and is upset about the situation.
+
+Based on these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider and my classification:
+
+* The author uses strong language ("Fucking") indicating a strong emotional reaction.
+* The object of their frustration is parking behavior that is obstructing traffic.
+* The tone suggests annoyance and frustration with the situation.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The use of strong profanity ("fucking") suggests a high level of frustration or annoyance.
+* The author is expressing discontent with a specific behavior (parking in the middle of the street).
+* The tone appears to be critical and exasperated.
+
+Given these considerations, the most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+

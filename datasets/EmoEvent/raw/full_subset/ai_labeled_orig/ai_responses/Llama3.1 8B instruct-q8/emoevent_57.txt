@@ -1,0 +1,33 @@
+Record: "Thats #Gameofthrones over for me. They killed the only guy i liked in the show. 👎"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a negative sentiment about the conclusion of Game of Thrones.
+* The use of "killed" suggests that the author is upset by the death of a character they cared about.
+* The thumbs down emoji (👎) indicates disapproval.
+
+Given these considerations, the most relevant emotion label is **sadness**, as the author appears to be upset and grieving the loss of their favorite character.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a negative reaction to the TV series' conclusion.
+* The mention of "killed" implies a sense of loss or disappointment.
+* The thumbs down emoji (👎) further reinforces a negative sentiment.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a negative sentiment towards the last season of Game of Thrones.
+* The author specifically mentions that they are upset about the death of their favorite character, which suggests a strong emotional investment in the show.
+
+Given these points, the most relevant emotion label is **sadness**, as the author is expressing disappointment and grief over the loss of their favorite character.
+------------------------------------------------------------------------------------------------------------------------
+

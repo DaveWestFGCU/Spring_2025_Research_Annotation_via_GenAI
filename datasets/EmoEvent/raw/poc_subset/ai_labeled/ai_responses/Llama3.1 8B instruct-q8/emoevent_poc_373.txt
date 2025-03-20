@@ -1,0 +1,40 @@
+Record: "I know right, im pre everything but sometimes i paint my nails and people will tell me how much they look like a womands hands."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author seems to be sharing an anecdote or personal experience.
+* They mention being prepared for something (implied to be criticism or negative attention), but express a sense of irony or unexpectedness when people comment on their nails.
+* The tone appears to be lighthearted and humorous.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The author's use of "I know right" suggests a sense of familiarity with the criticism they expect to receive, but the unexpected twist of people complimenting them on their nails creates a feeling of surprise or amazement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing frustration with people's opinions about their nail polish.
+* They seem to be highlighting the absurdity of others' comments.
+* There's no indication of fear, sadness, or joy in this context.
+
+Most relevant emotion label: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing frustration or annoyance at the fact that others are commenting on their appearance.
+* The tone is somewhat self-deprecating, with the author seeming to mock their own situation.
+* However, the language used is more playful and sarcastic than angry or fearful.
+
+**disgust**
+
+Note: While the tweet is not overtly expressing disgust, the author's tone is dismissive and slightly repelled by others' comments on their appearance. The inclusion of "im pre" (a typo for "I'm prepared") suggests a sense of being fed up with the situation.
+------------------------------------------------------------------------------------------------------------------------
+

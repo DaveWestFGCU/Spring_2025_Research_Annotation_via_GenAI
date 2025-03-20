@@ -1,0 +1,43 @@
+Record: "USER #BarcaLiverpool Barca are just better today. Thats it. #Messi #goaloftheweek #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is discussing a football match between Barcelona and Liverpool.
+* They express a straightforward opinion that Barcelona were better on the day of the match.
+* The tone appears neutral, without any apparent criticism or negative emotion.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+The author seems to be expressing satisfaction and pleasure with the outcome of the match, which is likely a positive experience for them.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is providing a straightforward opinion about the outcome of a match.
+* There's no hint of criticism or negativity towards either team.
+* The use of phrases like "just better" and "Thats it" suggests a matter-of-fact tone rather than an emotional outburst.
+* The hashtags #Messi, #goaloftheweek, and #ChampionsLeague suggest the author is focused on celebrating a notable moment in the match.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+
+The author's straightforward declaration that Barca is "just better today" and their focus on praising Messi suggests they're taking pleasure in the outcome of the match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is matter-of-fact and straightforward.
+* The language used is simple and lacks emotional intensity.
+* The author seems to be expressing a conclusion or opinion rather than a strong emotion.
+
+Given these points, the most relevant emotion label is:
+**joy**
+The author appears to be expressing satisfaction or pleasure in Barcelona's performance, as indicated by the use of hashtags like #Messi (a reference to a well-known and admired player) and #goaloftheweek. The tone is more positive than negative, suggesting that the author is pleased with the outcome.
+------------------------------------------------------------------------------------------------------------------------
+

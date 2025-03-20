@@ -1,0 +1,54 @@
+Record: "On the #WorldBookDay , I would like every book lover/reader to please comment your favourite book here. I would love hear the names of all the good books &amp; would try to read them.  Thanks."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's take a look at this query. The user wants me to classify a tweet based on the emotion conveyed, choosing from anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "On the #WorldBookDay , I would like every book lover/reader to please comment your favourite book here. I would love hear the names of all the good books & would try to read them. Thanks." 
+
+The author is encouraging others to share their favorite books and expresses a desire to read them. The language used is positive and inviting. Words like "would love" and "please comment" show enthusiasm and excitement about reading.
+
+I need to consider which emotion fits best. Anger isn't present here; the tone is far from annoyed or enraged. Disgust also doesn't apply since there's no indication of dislike or disinterest. Fear and surprise aren't evident either—there's no sense of worry or astonishment in the message.
+
+Sadness isn't the right choice because the tweet isn't expressing grief or pensiveness. That leaves joy, which encompasses serenity and ecstasy. The author seems happy and eager to engage with others about books, which aligns with joy.
+
+I think the emotion conveyed here is definitely joy. They're spreading positivity and excitement around reading on World Book Day.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion is conveyed in this tweet about World Book Day. The user provided a list of possible emotions: anger, disgust, fear, joy, sadness, surprise.
+
+First, let me read the tweet carefully. It says, "On the #WorldBookDay , I would like every book lover/reader to please comment your favourite book here. I would love hear the names of all the good books & would try to read them. Thanks."
+
+The tone seems positive. The author is encouraging others to share their favorite books and expressing a desire to read them. Words like "love," "please," "would love" indicate enthusiasm and excitement.
+
+Looking at the emotion categories, joy fits because they're happy about promoting reading and connecting with others through books. There's no sign of anger or disgust; the message is inviting and positive. Fear, sadness, surprise aren't present either. So, the emotion here is joy.
+</think>
+
+The author expresses enthusiasm and a desire to connect with others by sharing books, which conveys **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The user is talking about World Book Day and inviting others to share their favorite books. They express a desire to read more and show appreciation for book lovers.
+
+First, I'll break down the tweet's content. The author is asking people to comment their favorite books, which suggests enthusiasm and excitement about reading. They also mention they would love to hear the names of good books and try to read them. This indicates a positive sentiment towards literature.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't show any negative emotions like anger or disgust. It's not expressing fear or surprise either. Sadness isn't present here; instead, there's a clear upbeat tone.
+
+The feeling expressed is joy because they're promoting reading and showing eagerness to discover new books. They seem happy and enthusiastic about the topic, which aligns with the 'joy' category that includes serenity and ecstasy.
+
+So, the emotion conveyed in this tweet is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

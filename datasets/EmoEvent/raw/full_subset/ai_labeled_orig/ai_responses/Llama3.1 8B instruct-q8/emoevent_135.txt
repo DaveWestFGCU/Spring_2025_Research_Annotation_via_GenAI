@@ -1,0 +1,32 @@
+Record: "It’s amazing how quickly people can collect so much money to fix a building when there is so much pain and suffering in the world #NotreDameCathedralFire   USER https://t.co/jY8RLm9YoC"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions the "pain and suffering" in the world, indicating a sense of perspective or comparison.
+* The author expresses surprise or amazement at people's ability to collect money quickly for a building when there are greater needs elsewhere.
+
+The tweet is classified as: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is discussing the Notre Dame Cathedral fire, which is a tragic event.
+* The author mentions people collecting money to fix the building, implying that they are criticizing the reaction to the disaster.
+* The author juxtaposes this with "pain and suffering in the world", suggesting that they find it hypocritical or unjust.
+
+Given these points, the emotion label that best fits the author's tone is **sadness**, as the author appears to be expressing sorrow or disappointment at what they see as an inappropriate response to the tragedy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions that people have collected money quickly to fix a building, implying a contrast between the situation and other issues in the world.
+* The tone is critical and sarcastic, suggesting that the author is highlighting an apparent injustice or disparity.
+
+Given these considerations, the most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+

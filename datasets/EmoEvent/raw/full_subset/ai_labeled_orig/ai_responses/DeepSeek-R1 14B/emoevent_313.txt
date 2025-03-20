@@ -1,0 +1,77 @@
+Record: "BREAKING: multi-nationals worth billions pitch in to save Notre Dame — Presumably so the multi-billionaire Catholic Church can save its funds to pay off victims of sex abuse.  (Psst! Am I being too real again?)  #NotreDameCathedralFire"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise. Let me read the tweet carefully.
+
+The tweet says: "BREAKING: multi-nationals worth billions pitch in to save Notre Dame — Presumably so the multi-billionaire Catholic Church can save its funds to pay off victims of sex abuse. (Psst! Am I being too real again?) #NotreDameCathedralFire"
+
+Alright, breaking it down. The user is talking about multinational companies donating to save Notre-Dame Cathedral after a fire. Then they question if the church is saving money instead of using it to pay sex abuse victims.
+
+The tone here seems critical and upset. Words like "pitch in," "presumably," and the sarcastic aside "(Psst! Am I being too real again?)" indicate frustration or anger. The user is suggesting that while companies are donating, the church has other financial priorities that are more about self-preservation than addressing their own scandals.
+
+So, looking at the emotion categories: anger includes annoyance and rage. This tweet feels more like frustration and criticism rather than disgust, fear, joy, sadness, or surprise. It's directed at the church's actions, showing irritation.
+
+Therefore, the most relevant emotion is anger.
+</think>
+
+The author expresses frustration and irritation towards the Catholic Church's priorities, which falls under **anger**.
+
+**emotion:** **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let me try to figure out what emotion is behind this tweet about the Notre Dame Cathedral fire. The user wants me to classify it into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It says, "BREAKING: multi-nationals worth billions pitch in to save Notre Dame — Presumably so the multi-billionaire Catholic Church can save its funds to pay off victims of sex abuse. (Psst! Am I being too real again?) #NotreDameCathedralFire"
+
+The tweet is reacting to the news that multinational companies are contributing money to help rebuild Notre-Dame after the fire. The author then makes a sarcastic comment suggesting that the Catholic Church might be saving its funds for other purposes, like paying off sex abuse victims.
+
+I can sense some sarcasm and irony here. The use of "Presumably" indicates doubt or suspicion about the Church's intentions. Also, the phrase "(Psst! Am I being too real again?)" adds a tone of cheekiness but also implies that the author is exposing something they think others might find too harsh or truthful.
+
+Looking at the emotion categories:
+
+- Anger: This could be possible if the tweet expresses frustration or irritation. The author seems critical of the Church's priorities, which could stem from anger.
+- Disgust: This involves feelings of dislike or revulsion. The sarcastic tone and implication about the Church's actions might show disgust.
+- Fear: Doesn't seem to fit here; there's no indication of fear in the tweet.
+- Joy/Serenity: Clearly not applicable as the tweet is negative.
+- Sadness/Grief: There's a critique, but it doesn't convey sadness directly. It's more about criticism than mourning.
+- Surprise: The tweet isn't expressing surprise but rather a pointed critique.
+
+Between anger and disgust, I think disgust fits better because the author is expressing a strong dislike or aversion towards the Church's perceived actions. The sarcasm and irony are used to highlight what they see as a moral failing on the part of the institution, which aligns with disgust rather than just anger.
+
+So, after considering all this, I believe the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out what emotion is conveyed in this tweet about the Notre Dame Cathedral fire. Let me start by reading the tweet carefully.
+
+The tweet says: "BREAKING: multi-nationals worth billions pitch in to save Notre Dame — Presumably so the multi-billionaire Catholic Church can save its funds to pay off victims of sex abuse. (Psst! Am I being too real again?) #NotreDameCathedralFire"
+
+Alright, breaking it down. The author is talking about multinational companies contributing money to save Notre-Dame. Then they suggest that the Catholic Church, which is wealthy, might be using these donations instead of their own funds to pay off victims of sex abuse. They also add a playful aside with "Am I being too real again?" but the main message seems critical.
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise. So which one fits?
+
+Anger often involves frustration or irritation. The author is pointing out what they see as a misuse of funds by the Church, which could make them angry. They're frustrated that the money is going to save the cathedral instead of addressing the sex abuse allegations.
+
+Disgust involves dislike or revulsion. The tweet expresses a negative view towards the Church's priorities, so there might be an element of disgust too.
+
+Sadness would involve grief or sorrow, but here the tone isn't sad; it's more critical.
+
+Fear? Not really, unless they're worried about the Church's actions, but I don't think that's the main emotion.
+
+Joy and surprise are clearly not applicable here.
+
+So between anger and disgust. The author is pointing out a hypocrisy, which can be seen as both angry and disgusted. But in terms of primary emotion, I think it leans more towards anger because they're expressing frustration about the situation.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

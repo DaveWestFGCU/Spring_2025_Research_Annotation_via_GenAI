@@ -1,0 +1,62 @@
+Record: "I'm curious though, will they upvote it to own the ~~libs~~ [NAME]?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I'm curious though, will they upvote it to own the ~~libs~~ [NAME]?"
+
+First, let me break down what's being said here. The speaker starts by expressing curiosity, saying "I'm curious though." That immediately makes me think of surprise or maybe confusion because curiosity often goes hand in hand with wanting to understand something unexpected.
+
+Looking at the rest of the sentence: "will they upvote it to own the ~~libs~~ [NAME]." The phrase "to own the libs" seems like a joke or playful jab, possibly referencing online discussions where people might try to take control or influence by upvoting. The use of ~~libs~~ is probably a typo correction or emphasis, which adds a bit of humor.
+
+The overall tone doesn't seem angry, sad, or fearful. There's no strong positive emotion like joy either. Instead, the curiosity suggests they're surprised or perhaps confused about the situation. They're questioning whether others will upvote to take control, indicating that the outcome might not be clear or could be unexpected.
+
+Considering the emotion categories: anger is out because there's no displeasure. Disgust isn't present; it's more of a neutral or playful statement. Fear? No, nothing indicates worry. Joy? Not really, since curiosity isn't happiness per se. Sadness? Unlikely, as there's no sorrow expressed. That leaves surprise or neutral.
+
+Since the speaker is expressing curiosity about an outcome, which implies something unexpected might happen, that fits under surprise rather than neutral. Neutral would be if they were stating a fact without emotion, but here, the curiosity suggests a level of astonishment or being intrigued by the situation.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "I'm curious though, will they upvote it to own the ~~libs~~ [NAME]?" 
+
+First, let me break down the sentence. The speaker starts with "I'm curious though," which indicates a sense of interest or inquisitiveness. Curiosity itself isn't one of the emotions listed, but it's part of surprise because surprise includes curiosity.
+
+Then they ask, "will they upvote it to own the ~~libs~~ [NAME]." The use of "own the libs" seems like a meme or inside joke, maybe referring to taking over something or dominating. The speaker is questioning whether others will support this action by upvoting, which suggests they are trying to gauge reactions.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. 
+
+- Anger: There's no clear sign of irritation or displeasure here.
+- Disgust: No indication of revulsion or strong disapproval.
+- Fear: The speaker doesn't seem worried or anxious.
+- Joy: There's no happiness or pleasure expressed.
+- Sadness: No sorrow or disappointment is evident.
+- Surprise: The use of curiosity and the mention of a meme-like phrase suggests surprise, as it could be unexpected or attention-grabbing.
+- Neutral: It's not neutral because there's some emotional expression.
+
+So, putting it together, the speaker's curiosity and the context hint at surprise. They might be trying to engage others in a surprising way or point out something unexpected. Therefore, the emotion is likely surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I've got this query where someone wants me to identify the emotion a speaker is feeling based on a short text. The options are anger, disgust, fear, joy, sadness, surprise, or neutral. Let's break down how I should approach this.
+
+First, I need to read the provided Reddit comment carefully: "I'm curious though, will they upvote it to own the ~~libs~~ [NAME]?" Hmm, okay, so the speaker is expressing curiosity about whether others will upvote something to "own" someone named [NAME]. The phrase "own the libs" seems like slang, maybe referring to taking control or dominating in a political sense.
+
+Now, considering the emotion categories. Anger usually involves strong displeasure or antagonism. Is there anything here that suggests anger? Maybe not directly, but the tone could be mocking. Disgust is about revulsion or disapproval. The mention of "libs" might imply some negative connotation, but I'm not sure if it's disgust.
+
+Fear would involve being afraid or worried. There's no indication of fear in this comment. Joy is about happiness or pleasure; the speaker doesn't seem happy here. Sadness involves emotional pain, which isn't evident either. Surprise is about astonishment or unexpected feelings. The comment doesn't present anything surprising, just a curious observation.
+
+That leaves us with neutral or perhaps another emotion I might have missed. The speaker's main emotion seems to be curiosity, which isn't listed in the options. Since none of the provided emotions fit perfectly, and the tone is more observational without strong emotion, the best fit is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

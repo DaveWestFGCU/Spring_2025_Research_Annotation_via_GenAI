@@ -1,0 +1,39 @@
+Record: "The University of Essex was a mistake. They're not even good at sports."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's statement is direct and critical.
+* They use the phrase "a mistake," implying a negative evaluation.
+* The focus on the university's performance in sports suggests that the speaker values academic institutions based on their athletic achievements.
+
+Given these considerations, the emotion most likely felt by the speaker appears to be **anger**. This is because the statement is confrontational and dismissive, suggesting a strong negative feeling towards the University of Essex.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that attending the University of Essex was a "mistake", implying a negative experience.
+* They also express a negative opinion about the university's athletic abilities, stating they are "not even good at sports".
+* There is no indication of fear, surprise, joy, or neutrality in the statement.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+The speaker's use of the phrase "a mistake" and the negative opinion about the university's athletic abilities suggests a strong feeling of displeasure or antagonism towards the University of Essex.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a strong declarative statement ("a mistake") with a tone of criticism.
+* The statement targets an institution (the University of Essex), implying that the speaker has a negative opinion about it.
+* The second part of the sentence expresses disappointment or dissatisfaction with the university's performance in sports.
+
+Most relevant emotion label: **anger**
+The speaker's tone and language suggest a strong sense of disapproval and criticism, which is characteristic of anger.
+------------------------------------------------------------------------------------------------------------------------
+

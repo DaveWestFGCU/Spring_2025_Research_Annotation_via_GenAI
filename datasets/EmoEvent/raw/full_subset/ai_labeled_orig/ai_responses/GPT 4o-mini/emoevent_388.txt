@@ -1,0 +1,35 @@
+Record: "USER #BarcaLiverpool Barca are just better today. Thats it. #Messi #goaloftheweek #ChampionsLeague"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+1. The tweet expresses a straightforward opinion about a football match, stating that one team (Barca) performed better than the other (Liverpool).
+2. The tone appears to be matter-of-fact without any strong negative or positive connotations, indicating a neutral observation rather than a heated emotional reaction.
+3. The use of tags like #Messi and #goaloftheweek suggests a celebration of a player's performance, hinting at positivity or enjoyment in the context of the game.
+4. Overall, the sentiment leans towards a joyous appreciation of the sport and the team's performance.
+
+Based on this analysis, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider from the text:
+
+1. The tweet expresses a definitive opinion about the superior performance of one team over another ("Barca are just better today"), which suggests a sense of admiration.
+2. The language used is positive and straightforward, indicating a form of appreciation rather than negativity.
+3. The use of hashtags related to the Champions League and a player's name (Messi) shows enthusiasm and engagement with the event.
+
+Based on these points, the emotion the author intended to convey is best classified as **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Points to consider:
+- The phrase "Barca are just better today" suggests a competitive sentiment rather than negative emotions.
+- The use of hashtags related to Messi and the Champions League implies a sense of admiration or appreciation for the game and its players.
+- There is no indication of negative feelings or tension; instead, the tweet appears to celebrate a performance.
+- Overall, the tone is positive, reflecting a joy in witnessing a good performance.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

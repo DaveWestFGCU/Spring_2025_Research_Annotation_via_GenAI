@@ -1,0 +1,20 @@
+Record: "USER Wouldn’t be surprised if eventually investigation revel’s Islamic terrorists involvement. Such a loss, such a shame #NotreDameCathedralFire"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about the Notre Dame Cathedral fire. The user wrote, "Wouldn't be surprised if eventually investigation reveals Islamic terrorists involvement. Such a loss, such a shame #NotreDameCathedralFire." 
+
+First, let's break down the content. The user is expressing that they wouldn't be surprised if Islamic terrorists were involved in the fire. That suggests they have some suspicion or belief about the cause of the fire. Then they mention "such a loss, such a shame," which indicates sadness or regret about the event.
+
+Looking at the emotion mapping guidelines: If the tweet conveys secondary emotions similar to pensiveness or grief, it should be classified as sadness. The user's statement about the loss and shame aligns with feelings of sorrow and lamentation over the destruction of something significant like Notre Dame Cathedral.
+
+I don't see any signs of anger here; the user isn't explicitly expressing rage or frustration. Disgust doesn't fit because there's no clear expression of dislike or aversion beyond the mention of terrorists, which is more about suspicion than disgust. Fear isn't present either—there's no indication of apprehension or anxiety. Joy and surprise are also out of place in this context.
+
+So, considering all these points, the primary emotion here seems to be sadness due to the loss and the shame expressed.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

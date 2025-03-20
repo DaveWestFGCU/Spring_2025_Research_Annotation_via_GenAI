@@ -1,0 +1,41 @@
+Record: "In my few years playing I never knew this ... I feel so lost now"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions feeling "lost" which suggests a state of disorientation or confusion.
+* They express surprise at discovering new information about the game, as indicated by "I never knew this".
+* The tone is introspective and self-aware, with the speaker acknowledging their own lack of knowledge.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's use of "lost" implies a sense of disorientation or feeling disconnected from something they previously understood. This aligns with the definition of sadness as emotional pain or sorrow, particularly in the context of disappointment or loss (e.g., losing one's way or understanding).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses a sense of unawareness ("I never knew this") which implies that they have been missing out on important information.
+* They mention feeling "lost" which suggests a state of confusion and disorientation.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a sense of discovery that has left them feeling uncertain.
+* They use the phrase "I feel so lost now", which implies a lack of direction or understanding.
+* Their tone is reflective and introspective, suggesting a personal emotional response.
+
+Given these considerations, the most relevant emotion label for this speaker's comment is:
+
+**sadness**
+
+The speaker's sense of being "lost" implies a feeling of disorientation and uncertainty, which is characteristic of sadness. This is in contrast to emotions like anger or surprise, which might be associated with a more intense or unexpected response.
+------------------------------------------------------------------------------------------------------------------------
+

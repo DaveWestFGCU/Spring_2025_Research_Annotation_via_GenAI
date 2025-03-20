@@ -1,0 +1,58 @@
+Record: "The interesting thing about #GameofThrones #GOTS08E03 is getting to see the night king smiling. EPIC https://t.co/QytU9OU8vt"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I'm trying to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet says: "The interesting thing about #GameofThrones #GOTS08E03 is getting to see the night king smiling. EPIC https://t.co/QytU9OU8vt"
+
+First, I notice the user mentions it's interesting and uses the word "EPIC," which suggests excitement or enthusiasm. They're talking about seeing the Night King smile, which is a significant character in the show.
+
+Looking at the categories:
+- Anger: The tweet doesn't show any signs of irritation or rage.
+- Disgust: There's no indication of dislike or disinterest.
+- Fear: No feelings of apprehension or anxiety are present.
+- Joy: "Epic" and excitement about a character's smile suggest positive emotions, which fits under joy.
+- Sadness: The tweet doesn't convey any sorrow or pensiveness.
+- Surprise: While seeing the Night King smile might be unexpected, the overall tone is more of excitement than surprise.
+
+So, I think the emotion here is joy because they're expressing enthusiasm and excitement about an interesting moment in the show.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the author of this tweet intended to convey. The tweet says: "The interesting thing about #GameofThrones #GOTS08E03 is getting to see the night king smiling. EPIC https://t.co/QytU9OU8vt". 
+
+First, let's break down the content. They're talking about an episode of Game of Thrones, specifically mentioning the Night King smiling and calling it "EPIC." The mention of the Night King smiling is interesting because in the series, he's a very serious and intimidating character. So seeing him smile might be unexpected or dramatic.
+
+The word "EPIC" is capitalized, which usually indicates excitement or enthusiasm. The use of emojis like 🎥 (movie camera) adds to that feeling. So the author seems really impressed or thrilled about this scene.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one that best fits. "Epic" suggests high excitement, which is part of joy but can also border on surprise because it's a significant and perhaps unexpected moment. However, since the author is expressing enthusiasm and positive feelings, it leans more towards joy. The surprise might be secondary but not the main emotion conveyed.
+
+So I think the emotion here is joy because they're expressing excitement and praise about the episode.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet based on the emotion the author intended to convey. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "The interesting thing about #GameofThrones #GOTS08E03 is getting to see the night king smiling. EPIC https://t.co/QytU9OU8vt"
+
+First, I notice the use of words like "interesting" and "EPIC." These are positive adjectives, which often indicate joy or excitement. The mention of the Night King smiling could be a dramatic moment in the show, and using "EPIC" suggests that the author is impressed or exhilarated by it.
+
+I don't see any signs of anger or disgust here; the language is enthusiastic. Fear doesn't seem to apply because there's no indication of worry or anxiety. Sadness isn't present either—instead, the tone is upbeat. Surprise might be a contender since seeing the Night King smile could be unexpected, but the overall feeling expressed seems more about excitement and positive feelings.
+
+So, putting it together, the emotion conveyed here is likely joy because of the enthusiastic language and the positive descriptors used.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

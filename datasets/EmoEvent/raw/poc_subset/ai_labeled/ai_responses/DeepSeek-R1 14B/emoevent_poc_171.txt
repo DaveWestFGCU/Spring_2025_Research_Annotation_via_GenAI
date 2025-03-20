@@ -1,0 +1,63 @@
+Record: "I used to be subscribed to [NAME] channel. I know we all have troubled pasts, but man..."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify this tweet into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "I used to be subscribed to [NAME] channel. I know we all have troubled pasts, but man..." 
+
+First, let's break down the content. The author mentions they used to subscribe to a channel, implying they were once interested or engaged with it. Now, they've unsubscribed or are considering it, so there might be some change in their relationship with that content. 
+
+The second part says, "I know we all have troubled pasts, but man..." This seems like the author is acknowledging that everyone has issues from their past. The use of "but man" at the end could indicate a sense of frustration or disappointment, maybe towards the channel's past behavior or decisions.
+
+Now, looking at the emotion categories:
+
+1. **Anger**: This includes annoyance and rage. If the author feels frustrated with the channel's past actions, this might fall under anger.
+2. **Disgust**: This involves disinterest or dislike. Maybe they're expressing disgust towards something the channel did, but the frustration seems more prominent here.
+3. **Fear**: Apprehension or anxiety isn't really present in the tweet; it's more about looking back rather than worrying about future events.
+4. **Joy**: Serenity or ecstasy doesn't fit here since the tone seems negative.
+5. **Sadness**: Pensiveness or grief could apply if they're feeling down, but the emphasis is on frustration rather than sadness.
+6. **Surprise**: Distraction or amazement isn't indicated; instead, it's a reaction to past actions.
+
+So, considering all this, the emotion conveyed seems to be anger due to frustration towards the channel's past issues. The author acknowledges others' troubled pasts but is expressing dissatisfaction with the specific channel's history.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again carefully.
+
+The tweet says, "I used to be subscribed to [NAME] channel. I know we all have troubled pasts, but man..." Hmm, so the author is talking about a subscription they had in the past. The first part sounds neutral, just stating a fact. But then they mention knowing that everyone has troubled pasts and end with "but man...", which feels like it's leading up to something negative.
+
+I'm trying to figure out what emotion this conveys. It doesn't seem angry because there's no explicit frustration or骂人 (cursing). There's also no clear sign of disgust, like dislike or aversion expressed towards someone or something. Fear? I don't see any anxiety or worry in the words used. Joy and surprise are out because the tone isn't positive or amazed.
+
+That leaves sadness or perhaps something else. The mention of "troubled pasts" might indicate some reflection on past issues, which could relate to sadness. The use of "but man..." adds a sense of resignation or maybe slight disappointment, which aligns with a feeling of sadness rather than anger or another emotion.
+
+So, putting it all together, the author seems to be expressing mild sadness or possibly nostalgia mixed with regret about unsubscribing from the channel. Therefore, the most fitting emotion here is sadness.
+</think>
+
+The tweet reflects on past experiences and hints at some negative feelings without overt expressions of strong emotions like anger or fear. The tone suggests a sense of disappointment or mild unhappiness, aligning with **sadness**.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's try to figure out which emotion this tweet is conveying. The user says, "I used to be subscribed to [NAME] channel. I know we all have troubled pasts, but man..." 
+
+First, the mention of having been subscribed implies a previous connection or interest in the channel. The shift from being subscribed now to not being so might indicate some change. Then they acknowledge that everyone has issues, but it ends with "but man...", which sounds like they're expressing something negative or disaproval.
+
+Looking at the emotion categories: anger includes annoyance and rage. Maybe the user is annoyed about something related to the channel's past problems? Or perhaps they're feeling some frustration towards the situation.
+
+Disgust involves dislike or disinterest. The use of "man" at the end could be expressing disappointment, which falls under disgust if it's more about disliking the situation.
+
+Fear would involve anxiety or apprehension, but there's no clear indication of fear here. Joy and surprise are unlikely because the tone doesn't seem positive or surprising. Sadness might come into play with "troubled pasts," but the overall feeling I get is more frustration than sadness.
+
+So between anger and disgust, I think it's leaning towards disgust because they're expressing disapproval or dislike regarding the channel's past issues.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

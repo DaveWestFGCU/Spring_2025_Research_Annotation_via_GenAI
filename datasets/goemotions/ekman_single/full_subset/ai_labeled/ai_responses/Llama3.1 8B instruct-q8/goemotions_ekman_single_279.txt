@@ -1,0 +1,36 @@
+Record: "Please cut her off from your life. You don’t need to deal with this behaviour. Be safe and please take care."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker suggests cutting someone off, implying that the person's behavior is unacceptable.
+* The tone is cautionary and protective.
+* The language used is gentle but firm.
+
+Given these considerations, the most relevant emotion label is **concern** which falls under the category of **sadness**, as it involves emotional pain and worry for another person's well-being.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is advising someone to distance themselves from the person exhibiting problematic behavior.
+* The tone is instructive and concerned, suggesting a desire for the recipient's well-being.
+* The language used ("Please cut her off", "Be safe") implies a sense of urgency and caution.
+
+Most relevant emotion label: **concern for the well-being of others** suggests that the speaker is feeling **sadness**, as they are expressing a wish to protect someone from potentially hurtful or toxic behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker advises the original poster to "cut her off" from their life, indicating a desire for separation or distance.
+* The behavior being referred to is described as problematic ("this behaviour"), which suggests that the speaker finds it unacceptable or concerning.
+* The phrase "be safe and please take care" implies that the speaker is worried about the well-being of the original poster.
+
+Given these points, the most relevant emotion label for this text is **concern/sadness**. However, since sadness is a broader category that encompasses concern, disappointment, and grief, I will choose a subcategory that fits the tone and context of the comment.
+
+The speaker's primary emotional tone appears to be one of **sadness**, specifically worry or concern for the well-being of the original poster, as they advise them to take care and be safe.
+------------------------------------------------------------------------------------------------------------------------
+

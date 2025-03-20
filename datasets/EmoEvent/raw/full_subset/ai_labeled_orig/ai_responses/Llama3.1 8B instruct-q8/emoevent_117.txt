@@ -1,0 +1,41 @@
+Record: "The amount of people complaining about people being sad about the Notre Dame is absurdly worrying. Why can't you feel sad that a part of history (and art/architecture not to mention religious to some) has been irreversibly damaged? #NotreDameCathedralFire #NotreDame"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is responding to criticism from others who are complaining about people being sad about the Notre Dame fire.
+* The author is expressing frustration with these critics and seems to be advocating for people to feel a certain way (sadness) about the event.
+
+Given this context, the most relevant emotion label is **anger**, as the author appears to be annoyed by the criticism they are addressing.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is addressing people who are complaining about others being sad about the Notre Dame fire.
+* The author expresses concern and worry about these complaints, using the phrase "absurdly worrying".
+* The author encourages empathy and understanding for those feeling sad about the damage.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author is defending sadness as a valid emotional response to the Notre Dame fire, indicating that they intend to convey a sense of support and validation for those experiencing sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is responding to people complaining about others being sad about the Notre Dame fire.
+* The author expresses frustration and concern about the complaints, using words like "absurdly worrying".
+* The author wants people to understand that it's okay to feel sad about the damage to a historical and culturally significant landmark.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author is defending and expressing solidarity with those who are feeling sad about the Notre Dame fire, indicating that they too share in this emotional response.
+------------------------------------------------------------------------------------------------------------------------
+

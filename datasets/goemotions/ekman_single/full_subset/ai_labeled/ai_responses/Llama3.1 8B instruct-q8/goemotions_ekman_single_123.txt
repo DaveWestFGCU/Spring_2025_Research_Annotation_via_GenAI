@@ -1,0 +1,46 @@
+Record: "The only thing I find disconcerting about this is that you use tongs to stir the pan."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "disconcerting", which implies a negative emotion.
+* The context of the comment suggests that the speaker is reacting to someone else's cooking technique or advice.
+* The tone of the comment does not seem overly aggressive, angry, or fearful.
+
+Most relevant emotion label: **Disgust**
+
+The speaker expresses disapproval and revulsion at using tongs to stir a pan, which suggests they are experiencing disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions something they find "disconcerting", which implies a negative feeling.
+* They are specifically criticizing someone's cooking technique, using a word with a slightly formal or old-fashioned tone ("disconcerting").
+* There is no indication of strong emotions like anger or disgust; the speaker seems more concerned with proper culinary technique.
+
+Given these points, the most relevant emotion label is: **surprise** is not the best fit as it implies astonishment or unexpectedness, which isn't strongly present in this comment. The tone is more observational and critical than surprised. 
+
+The most fitting emotion label would be **disgust**, but with a twist. The speaker's tone is slightly more amused or bemused by the incorrect technique rather than genuinely disgusted by it. However, disgust comes closest among the provided options.
+
+However, considering the context and the definition of emotions, another emotion category fits better: **anger** isn't strongly present; the speaker doesn't seem angry, but rather mildly critical. 
+
+The most fitting answer would be **disgust**, however given a closer analysis to other options that could potentially fit, it appears more like mild criticism which can stem from different emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "disconcerting", which implies a negative feeling.
+* They specifically mention a particular action (using tongs to stir the pan) as something they find off-putting.
+* There is no indication of strong emotion, such as anger or fear.
+
+Given these considerations, the most relevant emotion label is:
+
+**Disgust**
+
+The speaker's use of "disconcerting" and their focus on a specific action that bothers them suggests a feeling of revulsion or strong disapproval, which aligns with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+

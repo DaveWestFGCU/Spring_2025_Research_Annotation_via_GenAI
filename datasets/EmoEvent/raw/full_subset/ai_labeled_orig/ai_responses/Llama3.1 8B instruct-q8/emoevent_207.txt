@@ -1,0 +1,35 @@
+Record: "That damned Global warming strikes again.... #GretaThunberg  https://t.co/IuR5OpZ9r7"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The use of the word "damned" implies a strong negative sentiment.
+- The context is about global warming, which Greta Thunberg has been advocating against.
+- The tone appears to be critical and frustrated.
+
+Given these considerations, **anger** seems to be the most relevant emotion label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains a swear word ("damned"), which is often used to express strong emotion.
+* The phrase "strikes again" implies a repetitive and negative event, suggesting a sense of frustration or annoyance.
+* The mention of Greta Thunberg suggests that the author may be referencing her climate activism.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+This classification is based on the use of strong language ("damned") and the implication of repetitive and negative events, which are common indicators of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet mentions "Global warming", which is a topic closely related to Greta Thunberg's movement.
+- The use of the word "damned" implies a strong negative emotional response.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

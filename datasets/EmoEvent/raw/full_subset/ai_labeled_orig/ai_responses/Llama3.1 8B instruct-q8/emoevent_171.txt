@@ -1,0 +1,41 @@
+Record: "My first love (Liverpool) vs my second love (Barcelona), the team that showed me the beauty &amp; technique of soccer. #ChampionsLeague https://t.co/VruPuUogVn"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about the author's affection for two football teams, Liverpool and Barcelona.
+* The author mentions their love for both teams, indicating a positive sentiment.
+* There are no negative words or phrases in the tweet.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The tweet expresses the author's enthusiasm and affection for their favorite teams, conveying a sense of joy and excitement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions their "first love" and "second love", indicating a personal connection or fondness for both teams.
+* They use positive language such as "beauty" and "technique of soccer", suggesting enthusiasm and admiration.
+* The tone is informal and conversational, with the use of hashtags and a link.
+
+Given these points, the author's intended emotion is one of enthusiasm and excitement, which falls under the category of **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is enthusiastic and excited, using words like "love" and phrases like "the beauty & technique of soccer".
+* The author mentions two teams they have a strong affection for, indicating a positive emotional investment.
+* There is no hint of criticism or negativity towards either team.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's excitement and fondness for both Liverpool and Barcelona suggests that they are anticipating and enjoying the upcoming Champions League match between their two beloved teams.
+------------------------------------------------------------------------------------------------------------------------
+

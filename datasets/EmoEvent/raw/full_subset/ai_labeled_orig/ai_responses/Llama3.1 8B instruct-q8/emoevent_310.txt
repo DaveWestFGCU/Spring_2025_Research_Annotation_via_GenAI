@@ -1,0 +1,41 @@
+Record: "Just watched #GameofThrones and I'm emotionally wrecked after that!!! Almost as much as I was after my busy weekend! Congratulations the fantastic, cast crew and hundreds of extras  that… https://t.co/eCiqb0U0Es"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions being "emotionally wrecked", which suggests a strong emotional impact.
+* The context is watching the final season of Game of Thrones, a highly anticipated and emotional conclusion to a popular series.
+* The tone is enthusiastic and celebratory, with congratulations to the cast, crew, and extras.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider:
+
+* The author mentions being "emotionally wrecked" which implies a strong emotional response.
+* The tone of the tweet is positive overall, with phrases like "Congratulations... that's all I can say".
+* The mention of being "almost as much" suggests a sense of relatability and shared experience.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author appears to be expressing joy and enthusiasm for the show, despite acknowledging it's an emotional rollercoaster. The overall tone is positive and celebratory.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions being "emotionally wrecked", which suggests a strong emotional impact.
+* They also mention their weekend being busy, implying they were already stressed or overwhelmed before watching the series finale.
+* However, the tone of the tweet is positive and congratulatory, indicating that the author's emotional response was not negative.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author appears to be expressing joy and celebration at the conclusion of the series, despite admitting to being emotionally exhausted.
+------------------------------------------------------------------------------------------------------------------------
+

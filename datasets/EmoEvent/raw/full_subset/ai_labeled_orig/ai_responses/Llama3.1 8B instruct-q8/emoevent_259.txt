@@ -1,0 +1,38 @@
+Record: "Excellent speech from Clive Lewis MP. Every MP should have been present at this debate. A Climate Emergency must be declared. #ExtinctionRebellion #GretaThunberg #LabourGreenRebellion https://t.co/MTz1xVGpAR"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is expressing a positive sentiment towards Clive Lewis MP's speech.
+* The author is calling for action, specifically declaring a Climate Emergency.
+* The hashtags #ExtinctionRebellion and #LabourGreenRebellion suggest the author is affiliated with or supports these movements.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This classification is because the tweet expresses enthusiasm and satisfaction towards Clive Lewis MP's speech, which is a key aspect of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is reacting positively to Clive Lewis MP's speech.
+* They express a sense of urgency by emphasizing that every MP should have been present at the debate.
+* They are advocating for action on climate change, specifically declaring a Climate Emergency.
+
+Given these points, the most relevant emotion label is **joy**, as the author appears to be celebrating and expressing enthusiasm for Clive Lewis MP's speech and the prospect of further action on climate change.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a speech given by Clive Lewis MP, indicating a positive event.
+* The language used is enthusiastic and supportive, with words like "Excellent".
+* The tone suggests approval and encouragement for the action of declaring a Climate Emergency.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

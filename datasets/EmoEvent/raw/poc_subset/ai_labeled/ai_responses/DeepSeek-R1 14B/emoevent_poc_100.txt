@@ -1,0 +1,58 @@
+Record: "You’ve never shit yourself as an adult?? If an adult can then a kid definitely can"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's figure out the emotion behind this tweet. The tweet says, "You’ve never shit yourself as an adult?? If an adult can then a kid definitely can." 
+
+First, I notice the use of multiple question marks and a raised eyebrow emoji. That might indicate surprise or maybe even shock. The author is questioning whether someone hasn't had that experience as an adult, which could be unexpected or surprising.
+
+I should consider the emotions listed: anger, disgust, fear, joy, sadness, surprise. Since there's no obvious sign of happiness or sadness, it's probably not those. The tone doesn't seem angry either; it's more of a rhetorical question challenging someone else's experience.
+
+The statement seems to be pointing out something unusual if someone hasn't experienced this. So the author might be amazed that such an event hasn't happened yet, hence surprise is likely the emotion.
+</think>
+
+**surprise**
+
+The tweet uses a rhetorical question and an emoji to express astonishment or shock about the possibility of an adult never experiencing a particular situation. The tone suggests surprise at the idea being proposed. 
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify a tweet based on the emotion conveyed, choosing from anger, disgust, fear, joy, sadness, or surprise. They provided an example where the correct answer was "anger". 
+
+First, I'll read the tweet again: "You’ve never shit yourself as an adult?? If an adult can then a kid definitely can". The user uses sarcasm and disbelief, questioning someone's experience. Sarcasm often conveys frustration or irritation, which falls under anger.
+
+I need to make sure there are no other emotions at play here. There's no clear sign of disgust, like something being disliked. Fear? Not really. Joy or surprise? Doesn't seem so. Sadness isn't the primary emotion either. The main feeling is that of mockery and disbelief, which points towards anger.
+
+I should also consider the context; sometimes tweets can have hidden meanings, but in this case, the language is direct. Using double question marks emphasizes surprise but in a mocking way, contributing to irritation. So, it's definitely anger.
+</think>
+
+The tweet expresses **anger** due to its sarcastic and questioning tone about someone else's experience.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet's emotion using only the given list: anger, disgust, fear, joy, sadness, surprise. The tweet is: "You’ve never shit yourself as an adult?? If an adult can then a kid definitely can". 
+
+First, let me understand the content. It seems someone is questioning another person about whether they've ever had an accident where they soiled themselves as an adult. The use of double question marks suggests surprise or perhaps disbelief.
+
+The author is reacting to the statement that "You’ve never shit yourself as an adult?" by responding with a comparison: if adults can, then kids definitely can. This seems like the author is surprised that someone claims they've never had such an incident as an adult and is pointing out that it's possible for both adults and kids.
+
+Looking at the emotion categories:
+- Anger: I don't see any signs of anger or annoyance here.
+- Disgust: The topic might be seen as a bit crude, but there's no indication of disgust towards the person or the situation.
+- Fear: There's no fear expressed; it's more about reacting to a statement.
+- Joy: Doesn't seem like joy is present here.
+- Sadness: No sadness in the tweet.
+- Surprise: The use of double question marks and the comparison suggests that the author is surprised by the initial statement.
+
+So, the emotion conveyed seems to be surprise. The author is likely taken aback or amazed that someone would say they've never had such an experience as an adult, and uses it to highlight that kids can too.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Record: "Does she not know how cups work?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be asking a rhetorical question, implying that it's obvious how cups work.
+* The tone is slightly condescending and critical of the person who doesn't know how cups work.
+* There is no indication of strong emotions such as anger, disgust, or fear.
+
+Given these considerations, the most relevant emotion label is:
+
+**disgust**
+ 
+However, a more accurate analysis would be that the speaker's tone is closer to **anger** than disgust. The speaker's question is phrased in a way that implies annoyance and frustration with someone who doesn't know something they consider obvious.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone appears to be questioning or puzzled by someone else's behavior.
+* The speaker is expressing confusion or incredulity, as if they find it hard to believe that the person in question doesn't understand something basic about cups.
+
+Given these points, I would categorize the emotion expressed by the speaker as:
+
+**surprise**
+ 
+The speaker seems to be surprised or astonished by someone's apparent lack of knowledge about how cups work. The tone is more puzzled than angry or disgusted, and it doesn't convey fear, sadness, or joy either.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the sentence is brief and direct.
+* There is no positive language used.
+* The speaker is questioning the other person's understanding of something basic (how cups work).
+* The language used is somewhat incredulous, implying that the speaker finds it hard to believe the other person doesn't know how cups work.
+
+Most relevant emotion label: **anger**
+ 
+The tone and language used suggest that the speaker is annoyed or frustrated with the other person for not understanding something so basic. This annoyance could be a manifestation of anger.
+------------------------------------------------------------------------------------------------------------------------
+

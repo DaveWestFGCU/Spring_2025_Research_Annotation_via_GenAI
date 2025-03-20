@@ -1,0 +1,48 @@
+Record: "98,299 watching this great game at the Nou Camp .... amazing.  #BARLIV #ChampionsLeague #BFCvLFC"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion this tweet is conveying from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet: "98,299 watching this great game at the Nou Camp .... amazing. #BARLIV #ChampionsLeague #BFCvLFC"
+
+First, I notice the use of words like "great" and "amazing." Those are positive adjectives, which usually indicate a happy or joyful emotion. The mention of a live game with so many viewers suggests excitement.
+
+The hashtags also include Champions League, which is a prestigious competition, so the context is about a significant football match. The author seems to be expressing enthusiasm about the event being watched by many people and their enjoyment of it.
+
+There's no indication of any negative emotions like anger or disgust, nor does it seem fearful or surprising in an unexpected way. The main emotion here appears to be joy because of the positive language used.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this tweet classification task. So, I need to figure out what emotion the author is conveying based on their message. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "98,299 watching this great game at the Nou Camp .... amazing. #BARLIV #ChampionsLeague #BFCvLFC". First, I notice the mention of a large number of people watching—98k is quite significant. The use of words like "great game," "amazing" clearly indicates a positive sentiment.
+
+The hashtags also give context: BARLIV likely stands for Barcelona and Liverpool, which are both top clubs. Champions League is a prestigious tournament, so this adds to the excitement. The venue is Nou Camp, a famous stadium, suggesting a big match.
+
+The emotion here isn't just positive; it's enthusiastic. Words like "amazing" and "great game" show joy. There's no sign of anger or frustration; instead, it's all about celebrating an exciting event. No elements of fear or surprise—since it's describing something ongoing and enjoyable.
+
+So, putting it all together, the emotion conveyed is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm looking at this tweet: "98,299 watching this great game at the Nou Camp .... amazing. #BARLIV #ChampionsLeague #BFCvLFC". The user is sharing a statistic about the number of viewers and describing the game as "great" and "amazing". They also included relevant hashtags related to the Champions League and specific teams.
+
+First, I need to determine the emotion conveyed here. The words "great" and "amazing" are strong positive indicators, which immediately make me think of joy or serenity. There's no indication of any negative emotions like anger or disgust. No fear or surprise is evident either; it's a straightforward positive statement.
+
+The context is about a football game being watched by many people, which adds to the excitement but doesn't change the emotion category. The hashtags reinforce that this is a positive, enthusiastic tweet. So, the emotion here is definitely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

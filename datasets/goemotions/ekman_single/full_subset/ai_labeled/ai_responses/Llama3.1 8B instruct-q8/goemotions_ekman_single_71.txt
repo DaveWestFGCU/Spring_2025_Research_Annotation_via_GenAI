@@ -1,0 +1,36 @@
+Record: "My [NAME]. If only"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The comment starts with an informal greeting, indicating familiarity with the person being addressed.
+* The phrase "If only" suggests a sense of longing or regret.
+* The tone is not overtly negative, but rather melancholic.
+
+Most relevant emotion label: **sadness**
+
+The speaker's use of the informal greeting and the phrase "My [NAME]" implies a sense of affection or closeness to the person being addressed. However, the phrase "If only" suggests that something is missing or unfulfilled, which aligns with feelings of sadness or longing. The tone is not angry, disgusted, fearful, joyful, surprised, or neutral; it is more introspective and melancholic, suggesting a sense of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone seems melancholic and longing.
+* The phrase "If only" implies regret or disappointment.
+* The name mentioned is possessive, suggesting the speaker has an emotional attachment.
+
+Given these points, the most relevant emotion label is **sadness**. The speaker's comment suggests a sense of loss or unfulfilled expectation, which is characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The sentence is a brief and incomplete statement.
+* It seems to be a response to a situation, possibly related to a personal loss or difficulty.
+* The tone is melancholic and sorrowful.
+
+Given these considerations, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+

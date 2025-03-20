@@ -1,0 +1,38 @@
+Record: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be responding to something they just learned.
+* They express skepticism or surprise at the information ("That's news to me").
+* They mention looking forward to a future event ("I'll be excited when that happens").
+
+Given these points, it appears that the speaker is initially surprised by the new information and is now anticipating with excitement. The most relevant emotion label for this response is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses surprise or unexpectedness with the phrase "That's news to me".
+* They show enthusiasm and anticipation for a future event, indicated by the phrase "I'll be excited when that happens".
+* Their tone is generally positive and optimistic.
+
+Given these points, the most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the sentence appears casual and conversational.
+* The speaker seems uncertain about something new they've just learned.
+* They express anticipation for a positive outcome ("I'll be excited").
+
+Given these considerations, the most relevant emotion label is: **surprise**.
+
+The speaker's surprise stems from learning news that was previously unknown to them. Their excitement and curiosity about how it works further indicate that they're surprised by this new information.
+------------------------------------------------------------------------------------------------------------------------
+

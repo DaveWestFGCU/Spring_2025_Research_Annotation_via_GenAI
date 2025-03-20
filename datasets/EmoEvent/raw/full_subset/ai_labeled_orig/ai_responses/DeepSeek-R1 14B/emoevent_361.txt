@@ -1,0 +1,56 @@
+Record: "USER USER #NotreDameCathedralFire. Yes this fire is tragic, but when you see how the wealthy and mega rich have rallied to the cause compared to how they rallied around #GrenfellTower tragedy, where many people died. It just makes me question priorities."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the emotion in this tweet about the Notre Dame Cathedral fire. Let's break it down step by step.
+
+First, the user starts by mentioning the hashtag #NotreDameCathedralFire and says, "Yes, this fire is tragic." The word "tragic" immediately conveys a sense of sadness or sorrow. That's a strong indicator pointing towards the emotion being sadness.
+
+Next, they compare the response to this tragedy with that of the Grenfell Tower disaster. They note that the wealthy and mega-rich have rallied more for Notre Dame than for Grenfell, where many people died. This comparison seems to express frustration or disappointment about the differing levels of attention and resources directed towards these two events. 
+
+The user then says, "It just makes me question priorities." Here, they're pointing out what they perceive as a discrepancy in how society prioritizes certain tragedies based on factors like wealth and status. While this does show some critical thinking, it's more about the underlying emotions rather than pure surprise or anger.
+
+Looking at the emotion categories: anger involves annoyance or rage, which might come into play if the user were explicitly expressing irritation. However, their focus is more on highlighting a disparity rather than showing personal anger. Disgust could be involved if they were expressing dislike for the situation, but again, it's not the primary emotion here.
+
+Fear and joy don't seem to apply because there's no indication of anxiety or positive feelings. Surprise is also unlikely since the user isn't expressing astonishment but rather a reflection on priorities.
+
+So, the primary emotion here is sadness, as they're expressing sorrow over the tragic event and disappointment in how it's being handled compared to others. The mention of questioning priorities adds depth but doesn't change the core emotion from sadness.
+</think>
+
+**sadness**
+
+The tweet expresses sadness regarding the tragic event and disappointment about differing responses to such tragedies.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to figure out the emotion in this tweet about the Notre Dame Cathedral fire. The user starts by saying the fire is tragic, which immediately makes me think of sadness or maybe even surprise because it's a significant event.
+
+But then they bring up #GrenfellTower, comparing how wealthy people responded to both tragedies. They're pointing out that the rich didn't rally as much for Grenfell, where many died, and this comparison is making them question priorities.
+
+So the main emotion here isn't just sadness about the fire itself; it's more frustration or anger towards the disparity in responses. The user seems upset about how resources and attention are allocated based on circumstances rather than need.
+
+Looking at the options, anger includes annoyance and rage, which fits because they're expressing frustration over what they see as unfair prioritization. Dislike could be a part of disgust, but I think the primary emotion here is more aligned with anger due to the critique aimed at others' actions.
+</think>
+
+The tweet expresses frustration and questioning of priorities, which falls under **anger**.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify the emotion in the given tweet using only the categories: anger, disgust, fear, joy, sadness, surprise. Let's start by reading the tweet carefully.
+
+The tweet mentions the Notre-Dame Cathedral fire and refers to it as "tragic." That word alone suggests some negative emotion, likely sadness or maybe even surprise. But let's read more. The author then contrasts this with the response to Grenfell Tower tragedy, pointing out that the wealthy and mega-rich have rallied more for Notre-Dame compared to Grenfell, where many people died.
+
+The tone here seems critical. The user is questioning priorities, which implies frustration or disappointment. Words like "question priorities" indicate a sense of injustice or dissatisfaction. This points towards anger because they're expressing不满 or irritation about the disparity in responses to two tragedies. 
+
+I don't think it's disgust because there's no explicit expression of dislike towards something specific, but rather frustration with how resources are being allocated. Fear and surprise aren't really present here; the focus is more on the critique of actions rather than emotions like fear or amazement. Sadness is partially applicable because they mention tragedy, but the main emotion seems to be the criticism of priorities, which leans more towards anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

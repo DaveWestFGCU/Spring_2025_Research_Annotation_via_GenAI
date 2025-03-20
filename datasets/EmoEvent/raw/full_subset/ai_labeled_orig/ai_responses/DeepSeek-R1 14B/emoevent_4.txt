@@ -1,0 +1,56 @@
+Record: "I hope Salah scores a hat trick in the second leg! #ChampionsLeague #BARvLIV #LivBar #BARLFC"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, let's try to figure out what emotion is behind this tweet. The user wrote, "I hope Salah scores a hat trick in the second leg! #ChampionsLeague #BARvLIV #LivBar #BARLFC." 
+
+First, I notice they're expressing a desire for something positive to happen—specifically that Mohamed Salah scores three goals (a hat trick) in the next match. The mention of hashtags related to the Champions League and specific teams suggests this is about a football game, likely the Champions League.
+
+Now, looking at the possible emotions: anger, disgust, fear, joy, sadness, surprise. I need to determine which one fits best here. 
+
+The user's statement shows excitement and positive anticipation. They're hoping for a successful outcome in the match, which indicates a hopeful or optimistic feeling. Among the given options, "joy" seems appropriate because they are expressing happiness and eagerness for something good to happen.
+
+I don't think it's anger because there's no indication of frustration. Disgust isn't present either; the user is looking forward to something positive. Fear or sadness don't fit here—there's no sense of worry or sorrow. Surprise would be if they were unexpectedly happy, but their statement is proactive, expressing a desire rather than reacting to an event.
+
+So, putting it all together, the emotion conveyed is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I have this tweet to classify based on emotion. The user is saying, "I hope Salah scores a hat trick in the second leg! #ChampionsLeague #BARvLIV #LivBar #BARLFC." 
+
+First, I need to understand what the author is expressing here. Salah is a well-known footballer, and scoring a hat trick means getting three goals in a game. The mention of "second leg" suggests it's part of a two-legged match, probably a Champions League tie since the hashtags include #ChampionsLeague.
+
+The tweet expresses a desire for something positive to happen—Salah scoring multiple goals. This likely brings excitement and optimism to the author. Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise.
+
+Joy seems to fit here because hoping for a successful outcome is a positive emotion. It's not anger or disgust; those are negative. Fear doesn't apply since there's no indication of worry. Sadness isn't present either—it's more about looking forward. Surprise would be if something unexpected happened, but this is a hopeful statement.
+
+So the emotion conveyed here is joy because the author is expressing excitement and positive anticipation for Salah's performance.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet's emotion. The tweet says: "I hope Salah scores a hat trick in the second leg! #ChampionsLeague #BARvLIV #LivBar #BARLFC".
+
+First, let me understand what it's about. Salah is a football player known for his skills and goals. A hat trick means scoring three goals in a single game. The user is expressing a desire for this to happen in the next leg of a Champions League match.
+
+So, the sentiment here is positive because they're hoping for something good— Salah's success. They must be excited or feeling joyful about the possibility.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise.
+
+The user isn't showing any negative emotions like anger or disgust. There's no indication of fear or anxiety; instead, it's more hopeful. Sadness doesn't fit because they're expressing a positive wish. Surprise might be if something unexpected happens, but here it's about hoping for an expected outcome.
+
+Therefore, the emotion is joy because they are expressing excitement and hope for a successful event.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+Record: "Wow, 5 downvotes in 3 minutes. Go you!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a reaction to receiving multiple downvotes on their tweet.
+* The tone is lighthearted and playful, with the use of "Go you!" which suggests that the author is being sarcastic rather than genuinely upset.
+* There's no language that suggests fear, disgust, or sadness.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+However, surprise is not entirely accurate, as the tone is more playful and sarcastic. A closer match would be to consider this tweet as a form of **anger**, but it's worth noting that the anger here is not intense or serious, rather it's being expressed in a lighthearted way.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author's tone appears to be mocking or sarcastic.
+- The phrase "Go you!" is an ironic expression of praise.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a negative event (downvotes), which might initially suggest a strong negative emotion.
+* However, the tone of the phrase "Go you!" is sarcastic and playful, rather than genuinely upset or angry.
+
+Given these points, the author's intended emotion is likely one that acknowledges and mocks the negativity rather than genuinely expressing it. 
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

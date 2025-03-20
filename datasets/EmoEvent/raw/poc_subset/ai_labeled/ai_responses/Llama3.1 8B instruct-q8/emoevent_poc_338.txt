@@ -1,0 +1,32 @@
+Record: "It also makes me cry! but because it shows how far [NAME] has fallen..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions crying, which is a physical response often associated with strong emotions.
+* They express a sense of disappointment or loss in the phrase "how far [NAME] has fallen", implying a negative outcome.
+
+Based on these considerations, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions that the subject (or a depiction of the subject) causes them to cry.
+* They express a sense of emotional impact from what they are observing.
+
+The most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions that something makes the author cry.
+* The author's tone seems negative as they mention someone having "fallen".
+* There is a sense of emotional pain or distress.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

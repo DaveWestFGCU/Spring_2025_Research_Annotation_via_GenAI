@@ -1,0 +1,39 @@
+Record: "Wow, 5 downvotes in 3 minutes. Go you!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence appears to be lighthearted and playful.
+* The use of the phrase "Go you!" suggests that the speaker is encouraging or congratulating someone on receiving downvotes, rather than expressing concern or negativity about the downvotes themselves.
+* The speed at which the 5 downvotes were received (in 3 minutes) might be seen as impressive or humorous by some.
+
+Given these points, it's likely that the speaker is experiencing a positive emotion in response to the situation. 
+
+**joy**
+
+The speaker's tone and language suggest excitement and amusement at someone receiving downvotes quickly, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses sarcasm and an informal tone.
+* The phrase "Go you!" is meant to be ironic and mocking.
+* The comment appears to be a response to someone's post or comment receiving a lot of downvotes.
+
+Most relevant emotion label: **sarcasm is a form of anger**, but since the question asks for a specific emotion category, I'll choose the closest one. Given the speaker's tone and intent, it seems they are feeling annoyed or displeased with the situation, which leans towards **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is addressing someone who has received multiple downvotes on their comment.
+* The tone of the message is brief and lighthearted, with a hint of sarcasm.
+* The phrase "Go you!" could be interpreted as either a genuine expression of admiration or a mocking response.
+
+Most relevant emotion label: **joy**
+The speaker's tone is playful and sarcastic, suggesting that they are enjoying the commenter's misfortune. The use of the word "Wow" to emphasize the number of downvotes also implies a sense of delight or amusement. Overall, the speaker appears to be feeling a mix of happiness and satisfaction at the commenter's situation.
+------------------------------------------------------------------------------------------------------------------------
+

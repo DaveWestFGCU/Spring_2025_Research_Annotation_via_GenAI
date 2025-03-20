@@ -1,0 +1,42 @@
+Record: "Their orange chicken is the absolute fucking bomb. I love having it on top of a nice bed of rice and veggies :D"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a strong, enthusiastic phrase ("the absolute fucking bomb") to express their opinion.
+* They mention a specific food item (orange chicken) and describe how they like to eat it.
+* The tone is playful and excited, with the use of a smiling face emoticon (:D).
+
+Given these points, the speaker's comment appears to be expressing excitement and pleasure about trying orange chicken. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong positive language, such as "the absolute fucking bomb" and "I love".
+* The tone is enthusiastic and excited.
+* The speaker expresses appreciation for the food.
+
+Most relevant emotion label: **joy**
+
+The speaker's use of strong positive language, enthusiastic tone, and expression of appreciation for the food suggest that they are feeling joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a strong adjective ("bomb") to express their enthusiasm for the food.
+* They mention a specific combination of food items that they enjoy together (orange chicken, rice, and veggies).
+* The tone is informal and enthusiastic, with the use of an emoticon (:D) at the end.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of superlatives ("absolute") and a strong expression of enthusiasm suggests that they are experiencing a positive emotion. Their enjoyment of the food is also clear from their description of it as "the bomb." The use of an emoticon and an enthusiastic tone further reinforces this interpretation, indicating that the speaker is feeling joy or pleasure.
+------------------------------------------------------------------------------------------------------------------------
+

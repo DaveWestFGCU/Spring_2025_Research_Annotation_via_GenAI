@@ -1,0 +1,42 @@
+Record: "Haven't listened to today's podcast yet, who did [NAME] kill?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is asking about someone killing someone else.
+* They mention they haven't listened to the podcast yet, implying that the content of the podcast is relevant to their question.
+* Their tone seems casual and somewhat indifferent.
+
+Given these points, it's likely that the speaker is experiencing a neutral emotion because:
+- There's no indication of strong emotions like anger or disgust.
+- The speaker doesn't seem to be showing fear or sadness about the topic.
+- They're simply seeking information, which suggests a lack of emotional investment in the matter.
+- There's no hint of surprise, as they're asking for clarification on something that is presumably known by others.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker has not listened to the podcast, suggesting they are unaware of its content.
+* They ask who was killed in the context of a podcast episode title or discussion.
+* The tone is more curiosity-driven than emotional.
+
+Given these considerations, the most relevant emotion label for the speaker's statement is: **surprise**.
+
+The speaker appears surprised by the topic of the podcast and wants to know more about it. Their question suggests they are seeking information and clarification, rather than expressing a strong negative or positive emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is asking about someone killing someone else
+* The tone seems casual and inquiring rather than confrontational or emotional
+* The language used is straightforward and lacks any evident frustration or distress
+
+Given these considerations, the most relevant emotion label is **surprise**, as the speaker appears to be expressing curiosity and astonishment at the topic of a person being killed.
+------------------------------------------------------------------------------------------------------------------------
+

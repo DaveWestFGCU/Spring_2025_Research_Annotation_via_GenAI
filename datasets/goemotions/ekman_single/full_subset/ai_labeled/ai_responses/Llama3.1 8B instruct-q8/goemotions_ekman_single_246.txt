@@ -1,0 +1,40 @@
+Record: "What a great response!!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses two exclamation marks, indicating enthusiasm and excitement.
+* The phrase "great response" implies that the speaker is impressed or pleased with something.
+* There is no negative language or criticism in the comment.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's use of enthusiastic language and lack of any negative tone suggest that they are feeling a positive emotion, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses two exclamation marks, indicating enthusiasm and excitement.
+* The speaker expresses approval of someone else's action or behavior ("great response").
+* The tone is positive and uplifting.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of exclamation marks and their expression of approval suggest a strong positive emotional state, which aligns with joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used by the speaker is extremely positive and enthusiastic.
+* The speaker uses an exclamation mark, which indicates excitement and emphasis.
+* The phrase "great response" suggests that the speaker found something impressive or satisfactory.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The speaker's comment is filled with positivity and enthusiasm, indicating a strong feeling of pleasure and happiness. The use of an exclamation mark and the phrase "What a great response!!" further emphasizes this interpretation.
+------------------------------------------------------------------------------------------------------------------------
+

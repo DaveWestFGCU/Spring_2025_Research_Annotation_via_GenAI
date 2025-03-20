@@ -1,0 +1,36 @@
+Record: "I'll miss the podcast"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions missing something ("the podcast"), which implies that it has ended or will no longer be available.
+* There is no indication of strong emotions such as anger, disgust, fear, or joy in the statement.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's statement suggests a sense of loss or disappointment at the podcast's conclusion, which aligns with the definition of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions missing something (the podcast), indicating a loss or absence of something they valued.
+* There is no mention of strong negative emotions like anger, disgust, or fear.
+
+Given these points, the emotion most likely felt by the speaker is **sadness**, as it involves emotional pain and sorrow related to losing something that brought them pleasure.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions missing something, which implies a sense of loss.
+* The tone is not overtly negative, but rather melancholic.
+* There's no indication of strong emotions like anger or disgust.
+
+Given these points, the most relevant emotion label is **sadness**, as the speaker expresses a sense of loss and nostalgia for the podcast.
+------------------------------------------------------------------------------------------------------------------------
+

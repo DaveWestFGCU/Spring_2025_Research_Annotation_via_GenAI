@@ -1,0 +1,42 @@
+Record: "Everyone worrying about #AvengersEndgame  spoilers but fucks sake noone gave two shits about spoiling #GameofThrones  thanks a lot hypocrites I know you all watched bith"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is addressing people who are worried about spoilers for Avengers: Endgame, implying that they think these same people were not concerned about spoilers for Game of Thrones.
+* The author uses profanity and strong language, indicating a sense of frustration or annoyance.
+* The author seems to be criticizing hypocrites, suggesting that they feel others are being unfair or inconsistent.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The author's use of strong language and criticism towards others suggests a strong negative emotion, which aligns with the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is complaining about people's reactions to spoilers for Avengers Endgame and Game of Thrones.
+* The tone is confrontational and dismissive, with the use of profanity ("fucks sake") and a derogatory term ("hypocrites").
+* The author expresses frustration that people didn't seem to care about spoiling Game of Thrones but are now upset about Avengers Endgame.
+
+Given these points, the most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify the tweet, consider the following points:
+
+* The author uses strong language ("fucks sake") and insults ("hypocrites"), indicating a negative emotional tone.
+* They express frustration that people were worried about Avengers Endgame spoilers while they themselves spoiled Game of Thrones without regard for others' opinions.
+* The author's use of the phrase "noone gave two shits" suggests a sense of disinterest or disdain, but in this context, it's more likely anger towards hypocrites.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author appears to be expressing annoyance and frustration with people who complained about spoilers for Avengers Endgame while themselves spoiling Game of Thrones.
+------------------------------------------------------------------------------------------------------------------------
+

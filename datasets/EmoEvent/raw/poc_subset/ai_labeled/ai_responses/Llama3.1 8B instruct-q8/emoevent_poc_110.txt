@@ -1,0 +1,34 @@
+Record: "That's great! You got this!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet uses a positive phrase "That's great" and includes an exclamation mark.
+* The tone is encouraging and supportive.
+
+**joy**
+
+The language and tone of the tweet suggest that the author is expressing excitement and enthusiasm, which is characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is positive and encouraging.
+* The language used, such as "great" and "got this", implies a sense of confidence and optimism.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains a positive phrase ("That's great!")
+* The tone of the language is encouraging and supportive
+* The author appears to be expressing confidence in someone else's abilities
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

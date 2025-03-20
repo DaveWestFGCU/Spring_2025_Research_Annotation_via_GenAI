@@ -1,0 +1,36 @@
+Record: "1 - 0 to Barca!! Suarez first #ChampionsLeague goal of the season came at a great time. #BARLIV"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tone is enthusiastic and celebratory.
+- The language used ("1 - 0 to Barca", "first #ChampionsLeague goal of the season") suggests excitement about a specific event or achievement.
+- The use of exclamation marks and hashtags (e.g. "#BARLIV") adds to the sense of euphoria.
+
+**joy**
+The author's intention is to convey excitement and celebration, which aligns with the emotion label "joy".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is celebratory and optimistic.
+* The author mentions that the goal "came at a great time", implying that it was significant or meaningful.
+* The use of hashtags such as "#ChampionsLeague" and "#BARLIV" suggests excitement and enthusiasm for the event.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a football match outcome.
+* The tone is celebratory and positive.
+* The author mentions a specific player's achievement, which suggests satisfaction.
+
+The most relevant emotion label is: **joy**
+
+This is because the tweet expresses excitement and happiness about Barca winning the game, with Suarez scoring his first Champions League goal of the season.
+------------------------------------------------------------------------------------------------------------------------
+

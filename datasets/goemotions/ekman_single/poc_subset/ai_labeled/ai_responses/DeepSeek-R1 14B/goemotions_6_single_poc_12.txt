@@ -1,0 +1,61 @@
+Record: "Ah what a good start"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out which emotion corresponds to the sentence "Ah what a good start." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker starts with "Ah," which is an exclamation that often signals some kind of strong emotion. Then they say "what a good start." The word "good" here is positive, so it suggests approval or happiness. 
+
+Looking at the emotion categories: joy includes feelings like pleasure and happiness. Anger is more about displeasure, which doesn't fit. Disgust involves revulsion, which isn't present here. Fear is about being afraid, not applicable. Sadness relates to sorrow, but the speaker seems positive. Surprise is about astonishment, but there's no indication of something unexpected.
+
+So, putting it together, "Ah what a good start" sounds like someone expressing approval or happiness. Therefore, the emotion is likely joy.
+</think>
+
+The speaker uses an exclamation and positive language, indicating approval and happiness. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The text given is "Ah what a good start". Let me break this down.
+
+First, I'll look at each emotion category and see how they fit. 
+
+- Anger: This usually involves strong displeasure or antagonism. The words don't show any signs of that.
+- Disgust: This relates to revulsion or disapproval. Again, the comment doesn't express anything negative.
+- Fear: Involves being afraid or worried. No indication of fear here.
+- Joy: Includes happiness and related feelings like approval or excitement. "Good start" sounds positive, which fits with joy.
+- Sadness: Emotions like sorrow or disappointment aren't present.
+- Surprise: This is about astonishment. The comment seems more approving than surprised.
+
+So, the speaker is expressing approval, which aligns with joy. They're acknowledging something positive, so joy makes sense here. Neutral isn't right because there's a clear emotion expressed—approval.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "Ah what a good start." Let me break this down.
+
+First, looking at the words used: "Ah" and "what a good start." The word "good" here suggests positivity. The tone seems approving or encouraging. 
+
+Comparing this to the emotion definitions provided:
+
+- Anger: Doesn't fit because there's no indication of displeasure or antagonism.
+- Disgust: No signs of revulsion or disapproval.
+- Fear: There's no fear or worry expressed here.
+- Joy: This fits well since "good" and a positive start indicate happiness or approval, which are part of joy.
+- Sadness: Not applicable as there's no sorrow or disappointment.
+- Surprise: The comment doesn't show astonishment or unexpectedness.
+- Neutral: It's not neutral; the speaker is expressing a clear emotion.
+
+So, the emotion here is likely joy because they're acknowledging something positive. They seem happy about the start mentioned.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

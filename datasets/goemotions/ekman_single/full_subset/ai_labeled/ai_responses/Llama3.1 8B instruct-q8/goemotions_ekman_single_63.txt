@@ -1,0 +1,36 @@
+Record: "A one-line whip is still whipping against, although it is a pretty disappointing decision."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions a decision as being "disappointing", which could indicate a negative emotional tone.
+* However, the language used is relatively mild and does not contain explicit expressions of strong emotions like anger or disgust.
+
+Given these considerations, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "disappointing", which suggests a negative emotion.
+* The speaker mentions a "whip" in a metaphorical sense, but the context implies a critical tone towards the decision being discussed.
+* There is no indication of strong emotions like anger or disgust.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+ 
+The word "disappointing" and the overall tone suggest that the speaker is expressing a sense of sadness or disappointment with the decision.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions a "disappointing decision", which implies that they are not pleased with the outcome.
+* The tone of the comment seems somewhat resigned and matter-of-fact, but there is an underlying hint of disapproval.
+
+Given these points, the most relevant emotion label for this comment is **sadness**. While the speaker's tone is not extremely negative or emotional, their use of the word "disappointing" suggests a sense of sadness or discontent with the decision.
+------------------------------------------------------------------------------------------------------------------------
+

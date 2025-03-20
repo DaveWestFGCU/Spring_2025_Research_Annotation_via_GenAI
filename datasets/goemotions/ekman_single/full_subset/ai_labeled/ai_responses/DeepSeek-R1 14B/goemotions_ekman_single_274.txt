@@ -1,0 +1,58 @@
+Record: "In my few years playing I never knew this ... I feel so lost now"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out which emotion the speaker might be feeling based on their comment. The sentence is: "In my few years playing I never knew this ... I feel so lost now." 
+
+First, I'll break down the words and tone used. They mention not knowing something after a few years of playing, which implies they've been involved for some time but didn't realize this particular piece of information. The phrase "I feel so lost now" indicates confusion or uncertainty.
+
+Looking at the emotion categories: anger involves displeasure, disgust is about revulsion, fear relates to being afraid, joy is happiness, sadness is sorrow, surprise is astonishment, and neutral is no emotion.
+
+The speaker isn't expressing anger, as there's no indication of frustration or antagonism. Disgust doesn't seem applicable because there's nothing unpleasant mentioned. Fear would involve worry or anxiety, but the speaker seems more confused than scared. Joy isn't present since they're not happy or showing approval. Sadness is about pain or sorrow, but the focus here is on feeling lost rather than grief.
+
+The key emotion here is surprise. The speaker didn't know something despite their experience and now feels lost, which suggests they were taken aback by this new information. It's an unexpected realization that has left them confused. So, the most fitting emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment is, "In my few years playing I never knew this ... I feel so lost now." 
+
+Let me break this down. First, the speaker mentions that in a few years of playing something (maybe a game or sport), they didn't know about this particular thing. Then they express feeling "so lost now."
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The phrase "I feel so lost" directly relates to confusion and uncertainty, which can tie into surprise. Surprise includes feelings of astonishment or realization. The speaker might be surprised because they didn't know something important even after a few years, leading them to feel lost. Alternatively, this could also relate to sadness because feeling lost can indicate disappointment or sorrow.
+
+Wait, but let me consider the emotion definitions again. Sadness is associated with emotional pain, sorrow, disappointment. Surprise includesastonishment and realization. The speaker's statement seems more about being surprised by a new piece of information that they didn't know despite their experience, which caused them to feel lost.
+
+But I'm a bit torn because "lost" can also imply confusion, which sometimes is under surprise or maybe even fear if it's causing worry. However, the primary emotion here seems to be the realization that something significant was unknown, leading to a sense of disorientation. That leans more towards surprise rather than sadness.
+
+Alternatively, feeling lost could mean they're sad because their understanding is incomplete. But I think surprise is the better fit because the key point is the unexpectedness of the new information and the resulting confusion or astonishment.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let me try to figure out what emotion the speaker is feeling based on their comment. The comment says, "In my few years playing I never knew this ... I feel so lost now." 
+
+First, I'll break down the sentence. The person mentions that in their experience playing (maybe a game or sport), they didn't know something until now. This makes them feel "lost." Feeling lost can mean confusion or uncertainty about what to do next. 
+
+Looking at the emotion categories: anger is more about displeasure, disgust is revulsion, fear is worry or anxiety, joy is happiness, sadness is sorrow, surprise is astonishment, and neutral is no emotion. The speaker isn't expressing any of these except maybe surprise because they didn't know something new. However, "feeling lost" leans towards confusion rather than being startled.
+
+Wait, but the example under surprise includes confusion. So perhaps it's either surprise or sadness? Sadness can include disappointment too. But feeling lost is more about confusion and uncertainty, which might be part of surprise because it's unexpected information.
+
+Alternatively, maybe they're feeling sad because their understanding was incomplete, leading to a sense of loss. I'm torn between surprise and sadness. The key here is that the person feels "lost," which implies confusion rather than sorrow. So maybe surprise is more appropriate because they are astonished by new information.
+</think>
+
+The speaker expresses confusion and uncertainty upon discovering something new in their experience, which fits under **surprise**.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

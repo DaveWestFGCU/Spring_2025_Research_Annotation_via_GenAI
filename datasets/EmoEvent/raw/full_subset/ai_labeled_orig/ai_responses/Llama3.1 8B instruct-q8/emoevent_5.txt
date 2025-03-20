@@ -1,0 +1,38 @@
+Record: "I'm not at all religious... like AT ALL. But this #NotreDameCathedralFire has me feeling really uneasy.  I know overall it sounds like it'll be rebuilt but after all its gone through... why now? I don't like it!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author states they are not religious, which suggests a lack of emotional attachment to the cathedral.
+* Despite this, they express feeling "really uneasy" about the fire, indicating a negative emotional response.
+* They question why the fire occurred now, implying concern or unease about the timing and significance of the event.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+This classification is based on the author's expression of unease and concern for the cathedral, despite not being religious. Their words convey a sense of dismay and disappointment, which are characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is not religious, which suggests that their emotional response may not be rooted in a personal connection to the cathedral or its significance.
+* The author expresses unease and asks "why now", implying a sense of concern or uncertainty about the timing of the fire.
+* The author explicitly states that they "don't like it!", indicating a negative emotional response.
+
+Given these points, I would classify the tweet as **sadness**. The author's use of "uneasy" and their explicit statement of dislike suggest a sense of sorrow or distress at the event, which is consistent with the emotion of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author states they are not religious, which suggests their emotional response is not driven by a personal connection to the cathedral.
+* They express unease and ask "why now", implying a sense of discomfort or worry about the timing of the fire.
+* They explicitly state they don't like the situation.
+
+Given these points, the author's primary emotion appears to be **sadness**, as they are expressing concern and unease about the destruction of the cathedral. While they mention not being religious, their emotional response suggests a sense of loss or distress, which is characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

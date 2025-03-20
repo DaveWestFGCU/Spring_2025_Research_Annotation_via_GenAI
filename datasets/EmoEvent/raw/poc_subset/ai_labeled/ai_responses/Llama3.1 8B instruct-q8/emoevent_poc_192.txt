@@ -1,0 +1,33 @@
+Record: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing disapproval or shame towards someone's actions.
+* The phrase "even if" suggests that the author is not justifying or excusing their partner's behavior, but rather emphasizing that it's bad regardless of any relationship status.
+
+Given these points, the most relevant emotion label is **anger**. The author seems to be annoyed and frustrated with their partner's behavior, which prompted them to express their disapproval in this tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify this tweet, we should consider the following points:
+
+* The author is expressing disappointment or discontent with someone's behavior.
+* They mention being "ashamed" of their partner's actions.
+* The tone suggests a sense of disapproval and possibly frustration.
+
+Given these considerations, the most relevant emotion label for this tweet is **disgust**, as it involves a strong negative reaction to something (the partner's behavior) that the author finds unacceptable.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing negative feelings towards someone's actions
+* The tone suggests criticism or disappointment
+* The use of the phrase "ashamed" implies a strong negative emotion
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,61 @@
+Record: "Ha jokes on you guys we still use paper charts"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The comment is: "Ha jokes on you guys we still use paper charts." 
+
+First, I need to break down the sentence and look for any clues about the emotion. Starting with the beginning, "Ha" seems like a laughter or a chuckle, which might indicate joy or amusement. But it's followed by "jokes on you guys," which could be sarcastic or playful. The speaker is pointing out that despite others possibly moving away from paper charts, they're still using them. 
+
+So, the speaker is highlighting something different about their situation in a humorous way. The word "still" might imply that others have moved on, but they haven't, perhaps suggesting a bit of surprise or maybe a playful tease. However, looking at the emotion definitions, joy includes amusement and approval, which could fit here because the speaker seems to be finding humor in their situation.
+
+Alternatively, is there any sign of anger, disgust, fear, sadness, or surprise? The tone doesn't seem hostile (anger), nor is it expressing revulsion (disgust). There's no indication of fear or nervousness. Sadness isn't really present either; instead, the speaker seems to be making a light-hearted comment.
+
+Surprise might come into play if the situation was unexpected, but the speaker is more teasing than surprised themselves. So, putting it all together, the emotion that fits best here is joy because of the humorous and playful tone.
+</think>
+
+The speaker's use of "Ha" suggests amusement, and the playful tease indicates a light-hearted and joyful sentiment.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out the emotion behind the comment "Ha jokes on you guys we still use paper charts." Let me break this down step by step.
+
+First, looking at the sentence structure and words used. The speaker starts with "Ha," which is an expression of amusement or light-heartedness. Then they say "jokes on you guys," which implies that they're finding something funny about others' situation. Following that, they mention "we still use paper charts." This could be a contrast to what the others are using, perhaps implying that their method is better or different.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Let's see which fits best.
+
+The speaker starts with "Ha," indicating humor. The phrase "jokes on you guys" suggests they're laughing at others' expense in a playful way. The overall tone seems light and teasing rather than negative or serious. There's no indication of strong feelings like anger or disgust; instead, it feels more like the speaker is amused.
+
+So, the emotion here would likely be joy because they're expressing amusement and finding something funny about the situation. It's not fear, surprise, or neutral since there's an evident positive emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion best fits this comment: "Ha jokes on you guys we still use paper charts." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker is responding to a Reddit post or another commenter. They start with "Ha," which sounds like laughter. That might indicate they're amused or in a positive state. 
+
+The phrase "jokes on you guys" suggests that the speaker is pointing out something ironic or unexpected, possibly making fun of others' situation in a playful way. The part about "still use paper charts" could be implying that despite technological advancements, their group sticks to traditional methods, which they might find amusing or superior.
+
+Looking at the emotion categories:
+- Anger: Doesn't seem right; no signs of frustration or antagonism.
+- Disgust: Not likely, as there's nothing offensive mentioned.
+- Fear: No indication of worry or nervousness.
+- Joy: The speaker seems to be in a positive state with "Ha" and playful tone. This fits joy because it includes amusement and approval.
+- Sadness: Doesn't align; no sorrow or disappointment is expressed.
+- Surprise: There's an element of surprise in pointing out the irony, but the main emotion is more about amusement rather than astonishment.
+- Neutral: Definitely not neutral since there's a clear tone.
+
+So, considering the laughter and playful jab, "joy" seems like the best fit because it captures the humor and positive sentiment.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

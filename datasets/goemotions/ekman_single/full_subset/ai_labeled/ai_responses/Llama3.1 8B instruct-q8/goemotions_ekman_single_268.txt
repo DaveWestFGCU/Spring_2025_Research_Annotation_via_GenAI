@@ -1,0 +1,40 @@
+Record: "Lol ik it's just I wanted people to figure it out and not the bot to ruin it."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be joking or being sarcastic about their desire for people to figure something out.
+* They mention that they didn't want a bot to "ruin" it, which implies a sense of disappointment or frustration.
+* However, the tone is lighthearted and humorous, with the use of "Lol" at the beginning.
+
+Most relevant emotion label: **surprise**
+ 
+The speaker's use of sarcasm and humor suggests that they are amused by the unexpected outcome (the bot figuring it out), which is a key characteristic of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that they wanted people to solve something on their own, but were foiled by a bot.
+* The tone of the comment is lighthearted and humorous, with the use of "Lol".
+* The speaker seems to be expressing relief or amusement at the situation.
+
+Most relevant emotion label: **joy**
+
+The speaker's use of humor and lighthearted language suggests that they are experiencing joy or pleasure in the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing a sense of amusement ("Lol") which suggests they are finding the situation funny.
+* They mention wanting others to figure something out, implying a desire for them to solve a puzzle or mystery.
+* They express frustration with the bot ruining it, which may indicate a negative emotion.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The speaker's tone is lighthearted and playful, suggesting that they are enjoying the situation despite the bot ruining their plans. Their use of "Lol" reinforces this interpretation, as it's an informal way to express amusement or laughter. While frustration with the bot could also be present, the overall tone of the comment leans more towards joy than any other emotion.
+------------------------------------------------------------------------------------------------------------------------
+

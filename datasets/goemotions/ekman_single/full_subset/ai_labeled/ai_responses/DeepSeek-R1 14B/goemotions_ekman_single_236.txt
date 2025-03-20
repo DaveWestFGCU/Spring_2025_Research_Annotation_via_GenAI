@@ -1,0 +1,65 @@
+Record: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment is: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol"
+
+First, let's break down the sentence. They start by saying they like something, which might indicate positive feelings or approval. That part could suggest joy or maybe just a neutral stance. But then they add that it doesn't capture the "horrifying rotting smell." The use of words like "horrifying" and "rotten" is quite strong and negative. It sounds like they're expressing disgust because they're talking about an unpleasant odor.
+
+Next, they mention that it "sounds sort of cute," which could be a bit confusing because "cute" is a positive word. However, the context is about the smell being horrifying versus sounding cute, so perhaps they're pointing out a contradiction or trying to highlight that the description isn't accurate in capturing the negative aspect.
+
+The last part says, "She was not lol." The "lol" might be an abbreviation for laughing out loud, but it's possible they're saying "she wasn't [insert word here]" – maybe it got cut off. Either way, the main point seems to focus on the smell being horrifying versus cute, which leans towards disgust.
+
+Looking at the emotion categories, anger is about displeasure or antagonism, which might not fit perfectly here because the speaker isn't attacking someone but rather pointing out an issue. Fear involves worry or anxiety, which doesn't seem applicable. Joy would be for positive emotions, but while they do say "I like this," it's overshadowed by their negative description of the smell.
+
+Disgust fits well because they're describing something as horrifying and rotten, which are strong indicators of revulsion. The mention of the smell being cute might also show distaste in how it was portrayed, adding to the disgust emotion.
+
+So putting it all together, the most relevant emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out which emotion the speaker is feeling based on their comment. The comment says, "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol." 
+
+First, I need to break down what they're saying. They start by liking something but then mention that it doesn't capture a bad smell correctly. Instead, it sounds cute, which might be contradictory. The use of "horrifying rotting smell" indicates something negative or unpleasant, so that could relate to disgust. 
+
+Looking at the emotion definitions, disgust includes revulsion or strong disapproval due to something unpleasant. The mention of a bad smell fits this category. Even though they say it sounds cute, which is positive, their main point seems to be pointing out that the description doesn't match the actual unpleasant odor. This suggests they're more focused on the negative aspect.
+
+I should also consider other emotions. Anger might involve frustration or dislike, but here it's more about the sensory experience (smell) being misrepresented. Fear would relate to worry or anxiety, which isn't evident here. Joy is positive feelings, but again, their emphasis is on the negative smell. Sadness involves sorrow or disappointment; while there's a contrast between expectations and reality, the primary emotion seems more disgust-based. Surprise would involve astonishment, but the comment doesn't show that.
+
+So putting it all together, the speaker is pointing out that something didn't capture an unpleasant odor correctly. Their main reaction is to the negative smell, which aligns with disgust.
+</think>
+
+The speaker is expressing that something doesn't convey a bad smell properly, indicating revulsion or strong disapproval.
+
+**disgust**
+
+**Final Answer**
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol"
+
+First, let me break down the sentence. They start by saying they like something, which might indicate positive feelings or approval—so that could relate to joy or maybe even surprise if what's being conveyed isn't as expected.
+
+But then they mention it doesn’t convey a "horrifying rotting smell." The word "horrifying" suggests fear because it's describing something scary or unpleasant. They're pointing out that the current depiction is missing this horrifying aspect, which makes me think they're concerned or worried about how the situation is being portrayed.
+
+They also say it sounds "sort of cute," which might be a contrast to the actual experience. This juxtaposition could show frustration or disappointment because the speaker expected something more negative and intense but instead found it cute. Frustration can sometimes tie into anger, but in this case, I'm not sure if it's strong enough for that category.
+
+The last part "She was not lol" seems like an attempt to correct a misunderstanding or maybe to clarify that the situation isn't humorous. This could be seen as defensive or annoyed, which might lean towards anger or disgust. However, the main emotion comes from the description of the smell and the contrast with cuteness, which points more towards fear because they're highlighting something terrifying that's not being properly conveyed.
+
+Looking at the emotion definitions: Fear includes nervousness and anxiety, but also worry. The speaker is worried that the situation isn't captured correctly in terms of its scary aspects, so I think fear fits best here.
+</think>
+
+The speaker expresses concern about something not being portrayed accurately, especially regarding a horrifying smell, which indicates worry or fear.
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+

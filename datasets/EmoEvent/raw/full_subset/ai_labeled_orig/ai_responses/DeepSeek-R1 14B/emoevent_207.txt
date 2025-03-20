@@ -1,0 +1,60 @@
+Record: "That damned Global warming strikes again.... #GretaThunberg  https://t.co/IuR5OpZ9r7"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet says: "That damned Global warming strikes again.... #GretaThunberg https://t.co/IuR5OpZ9r7"
+
+First, breaking down the content. The word "damned" is strong and negative. Using "struck again" implies frustration or ongoing issues. The mention of Greta Thunberg relates to climate activism. So, the author seems upset about global warming.
+
+Looking at the emotion options:
+
+- Anger: Fits because "damned" shows irritation.
+- Disgust: Could be there too, but it's more about dislike than anger.
+- Fear: Maybe not, unless they're scared of environmental collapse, but that's less direct here.
+- Sadness: Possible, but the language is more intense.
+- Surprise: Doesn't seem to fit.
+
+So, the emotion here is likely anger because of the strong negative language and frustration towards global warming.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "That damned Global warming strikes again.... #GretaThunberg  https://t.co/IuR5OpZ9r7". 
+
+First, let me break down the components of this tweet to understand the emotion behind it. The user starts with "That damned," which immediately conveys frustration or irritation. The word "damned" is a strong expletive that often indicates anger or annoyance.
+
+Next, the phrase "Global warming strikes again" uses personification, suggesting that global warming is actively causing harm repeatedly. This implies that the user sees global warming as a persistent and frustrating problem, which aligns with feelings of anger or frustration.
+
+The mention of Greta Thunberg via the hashtag #GretaThunberg might indicate the user's stance on her movement or their opinion about her. However, without additional context, it's hard to say if this adds to the emotion beyond what is already expressed in the text.
+
+Putting it all together: The use of "damned" and the frustration expressed towards global warming points towards anger as the primary emotion. There's no indication of disgust (like dislike for something), fear (anxiety about climate change maybe, but not explicitly stated here), joy, sadness, or surprise. It's more about expressing irritation at a recurring issue.
+
+So, the emotion conveyed here is likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the author of this tweet is conveying. The tweet says: "That damned Global warming strikes again.... #GretaThunberg  https://t.co/IuR5OpZ9r7". 
+
+First, let me break down the content. The phrase "damned" suggests some negative feeling towards global warming. Using words like "struck again" implies that this is a recurring issue, which might indicate frustration or anger. The mention of Greta Thunberg could be referencing her climate movement, but given the context, it's about expressing emotion regarding global warming.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one that best fits.
+
+The word "damned" is strong and often associated with anger or frustration. The tweet seems to express irritation or perhaps even outrage at the ongoing issue of global warming. There's no indication of disgust towards a person or action, more so towards an environmental problem. Fear might come into play if talking about the future consequences, but here it's more about the present situation.
+
+So, considering all this, I think the emotion is anger because of the use of "damned" and the frustration expressed towards global warming.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

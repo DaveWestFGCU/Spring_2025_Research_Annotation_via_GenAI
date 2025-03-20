@@ -1,0 +1,44 @@
+Record: "No, I definitely understand that feel and empathize. That can be hard to deal with. How have you been as of late?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker starts by acknowledging the person they are responding to, showing understanding and empathy.
+* They use phrases like "That can be hard to deal with", which suggests a willingness to acknowledge the difficulty or pain of the situation.
+* The speaker then shifts the focus to the person's well-being, asking how they have been as of late.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's tone and language suggest that they are trying to comfort and offer support to someone who may be going through a difficult time. Their response is empathetic and concerned, which is consistent with an expression of sadness or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker acknowledges understanding and empathy towards the person they are responding to.
+* They use phrases like "I definitely understand that feel" and "That can be hard to deal with", indicating a supportive and non-judgmental tone.
+* The speaker is asking about the other person's well-being, showing genuine concern.
+
+Most relevant emotion label: **sadness** 
+
+The speaker's empathetic response suggests they are aware of the emotional pain or difficulty being experienced by the other person. They use language that acknowledges this pain and expresses understanding and support, which are characteristic of a sadness-based response.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to someone who is sharing their difficulties or struggles.
+* The speaker uses phrases such as "I definitely understand" and "empathize", indicating a supportive tone.
+* The speaker asks about the person's well-being, suggesting concern for their mental state.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker appears to be responding with sympathy and concern for the person's emotional pain or struggles, which aligns with the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

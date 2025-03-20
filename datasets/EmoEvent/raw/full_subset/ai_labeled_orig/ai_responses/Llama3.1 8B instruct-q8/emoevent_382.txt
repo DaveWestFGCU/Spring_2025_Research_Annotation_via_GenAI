@@ -1,0 +1,35 @@
+Record: "I still think the #ChampionsLeague theme song is one of the best ever"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a positive sentiment towards the Champions League theme song.
+* There is no criticism or negativity mentioned in the tweet.
+* The tone is casual and enthusiastic.
+
+Given these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The text mentions a positive opinion about the Champions League theme song.
+- There is no criticism or negative tone mentioned.
+
+**joy**
+
+The author's statement expresses a positive sentiment and enthusiasm for the theme song, which aligns with the emotion label "joy".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a positive opinion about the Champions League theme song.
+* There is no criticism or negative language used in the tweet.
+* The tone is informal and enthusiastic.
+
+**joy**
+The author's use of "one of the best ever" indicates a strong positive sentiment, which aligns with the emotion category of joy.
+------------------------------------------------------------------------------------------------------------------------
+

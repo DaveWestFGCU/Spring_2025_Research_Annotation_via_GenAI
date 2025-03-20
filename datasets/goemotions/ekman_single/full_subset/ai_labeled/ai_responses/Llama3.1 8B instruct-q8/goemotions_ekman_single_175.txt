@@ -1,0 +1,49 @@
+Record: "Ugh. What a way to go."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses an expression of disgust ("Ugh"), which suggests that they are reacting negatively to something.
+* The phrase "What a way to go" implies that the speaker is commenting on someone's death or demise, which is likely to evoke a strong emotional response.
+
+Most relevant emotion label: **disgust**
+
+Reasoning: While it's possible that the speaker could be feeling sadness or anger in response to the situation, the use of "Ugh" and the phrase "What a way to go" suggests a stronger sense of revulsion or distaste. This is more characteristic of disgust than any other emotion category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts their sentence with "Ugh", which is often used as an expression of distaste or displeasure.
+* The phrase "What a way to go" suggests that the speaker is reacting negatively to something, but the tone is not explicitly aggressive or confrontational.
+
+Given these points, it appears that the speaker is expressing a negative emotion, but one that is more closely related to disappointment or distaste rather than anger or fear. 
+
+**sadness**
+
+Note: The context of the comment suggests that the speaker may be reacting to a tragic event or news, which could be why they express sadness rather than another emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a word with a strong negative connotation ("Ugh") at the beginning of their sentence.
+* The phrase "What a way to go" implies a sense of shock or astonishment, but also a negative evaluation of something.
+* There is no indication of anger, disgust, fear, joy, or neutrality.
+
+Most relevant emotion label: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker uses a colloquial expression "Ugh" which typically indicates displeasure or discomfort.
+* The phrase "What a way to go" can be interpreted as expressing regret, disappointment, or sadness about the manner of someone's passing.
+
+Most relevant emotion label: **sadness**
+
+The speaker's tone and language suggest that they are reacting with emotional pain and sorrow, likely due to a recent death or a disturbing event. The use of "Ugh" indicates a strong negative feeling, which is characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

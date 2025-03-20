@@ -1,0 +1,20 @@
+Record: "Please look at this beauty 😱😭♥️ https://t.co/F7wL80clrz #WorldBookDay"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this tweet. The user is asking me to determine the primary emotion conveyed in a given tweet using specific labels. The tweet is about World Book Day and includes some emojis: 😱 (surprised face), 😭 (crying or sad), and ♥️ (heart). 
+
+First, I need to analyze each part of the tweet. The text says "Please look at this beauty," which sounds positive, maybe expressing joy or admiration. Then there are three emojis. The first is 😱, which typically represents surprise or shock. The second is 😭, often indicating sadness or crying, and the third is ♥️, usually showing love or affection.
+
+Looking at the context provided, World Book Day is about promoting reading and books, so the tweet seems to be sharing something related to that theme. The use of "beauty" suggests admiration for a book or perhaps an event, which leans towards joy. However, the emojis complicate things. 😱 could indicate surprise, especially if the content linked is unexpected or amazing. 😭 might suggest sadness, but in this context, it's possible the user is expressing strong emotions about something beautiful, maybe even tears of joy.
+
+The guidelines mention that if the emotion is similar to distraction or amazement, we should classify it as surprise. The presence of 😱 and the link could imply that the user wants others to look at something surprising or amazing. On the other hand, the sad emoji might be less relevant here unless the tweet is expressing a contrasting emotion.
+
+Considering all this, I think the primary emotion is surprise because of the 😱 and the context of sharing something beautiful on World Book Day, which could be an exciting or surprising discovery.
+</think>
+
+surprise
+------------------------------------------------------------------------------------------------------------------------
+

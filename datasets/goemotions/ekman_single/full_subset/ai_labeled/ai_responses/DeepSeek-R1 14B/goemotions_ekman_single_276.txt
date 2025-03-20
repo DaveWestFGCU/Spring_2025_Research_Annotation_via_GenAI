@@ -1,0 +1,68 @@
+Record: "“It’s not happening right in front of me if I don’t look at it.”"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The sentence given is, “It’s not happening right in front of me if I don’t look at it.” Hmm, let's break this down.
+
+First, I'll read through the definitions again to make sure I understand each emotion category properly. Anger involves displeasure or antagonism, disgust is revulsion towards something unpleasant, fear is about being afraid or worried, joy is happiness and related emotions, sadness is emotional pain, surprise is astonishment, and neutral means no expressed emotion.
+
+Looking at the speaker's comment: "It’s not happening right in front of me if I don’t look at it." The tone here seems contemplative. They're talking about something not happening unless they pay attention or focus on it. It doesn't sound angry, sad, or fearful. There's no indication of strong positive emotions either, so joy and surprise might not fit.
+
+Disgust usually involves finding something offensive or unpleasant, but the speaker isn’t expressing that here. Fear would involve worry or anxiety, which I don't detect in this statement. Anger is about displeasure, which also doesn't come through.
+
+So what's left? The emotion could be neutral because the speaker is making an observation without showing any particular emotion. They're stating a fact as they perceive it, without expressing happiness, sadness, anger, or surprise.
+
+I think the key here is that there’s no evident emotion being conveyed. It's more of a factual statement rather than an expression of feeling. Therefore, the most appropriate label would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: “It’s not happening right in front of me if I don’t look at it.” Alright, let's break this down.
+
+First, I'll consider each emotion category one by one. 
+
+Starting with anger. Anger involves displeasure or antagonism. The speaker doesn't seem angry here; there's no indication of frustration or irritation in the words used.
+
+Next is disgust. Disgust relates to revulsion or strong disapproval. Again, the comment doesn't express any feelings of dislike or offense. It's more about a personal choice rather than reacting negatively to something.
+
+Fear involves being afraid or worried. The statement isn't expressing fear; it's more about control over one's own perception rather than feeling threatened.
+
+Joy is about pleasure and happiness. There's no indication of positive emotions here. The speaker seems indifferent, not joyful.
+
+Sadness includes emotional pain or sorrow. The comment doesn't convey any sadness; it's a neutral statement about their own actions.
+
+Surprise involves being astonished or started. The speaker isn't expressing shock or surprise; they're simply stating a fact about their perspective.
+
+Neutral is when there's no expressed emotion. The statement seems to be a factual observation without any emotional undertone. They're explaining how something affects them based on their focus, not showing any particular emotion.
+
+So putting it all together, the speaker isn't expressing anger, disgust, fear, joy, sadness, or surprise. Instead, they're making an objective statement about their own experience, which fits under neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The sentence given is: “It’s not happening right in front of me if I don’t look at it.”
+
+Hmm, let's break this down. First, I should consider what the speaker is saying. They're talking about something "not happening" unless they actively look at it. This could imply that the event or situation isn't immediate or obvious unless observed.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The sentence doesn't express any strong positive feelings like joy or love. There's no indication of strong negative emotions like anger or disgust either. It also doesn't seem to convey fear, as there's no mention of being scared or worried.
+
+What about surprise? The statement is a bit vague and could be interpreted in different ways, but it doesn't come off as something unexpected that would cause astonishment. 
+
+That leaves us with sadness or neutral. Sadness involves pain or sorrow, which isn't directly evident here. The comment seems more reflective or observational rather than expressing any emotion.
+
+So, the speaker is making a statement about their perspective on an event not occurring unless they pay attention to it. There's no explicit emotion conveyed; it's more of a factual observation. Therefore, the most appropriate emotion category here would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

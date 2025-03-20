@@ -1,0 +1,84 @@
+Record: "I see your "making myself undateable" and raise you a "try to make myself as dateable as possible and still fail""
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment is: "I see your 'making myself undateable' and raise you a 'try to make myself as dateable as possible and still fail'". 
+
+First, let's break down what this sentence is saying. The speaker is responding to someone else who mentioned "making themselves undateable." Instead of that approach, the speaker is taking the opposite: they are actively trying to become more dateable but still aren't succeeding.
+
+Now, I'll consider each emotion category:
+
+1. **Anger**: This usually involves strong displeasure or antagonism. The comment doesn’t show any signs of anger; it's more about personal effort and failure.
+
+2. **Disgust**: This is revulsion or disapproval towards something unpleasant. There’s no indication the speaker is disgusted by anything here.
+
+3. **Fear**: Involves being afraid or worried. I don't sense fear in this statement; it's more about self-effort and outcomes.
+
+4. **Joy**: This includes happiness, pleasure, etc. The speaker isn’t expressing joy but rather frustration at failing despite their efforts.
+
+5. **Sadness**: Emotional pain or sorrow. The mention of trying hard and still failing could imply some disappointment or sadness.
+
+6. **Surprise**: Feeling astonished by something unexpected. There's no element of surprise here.
+
+7. **Neutral**: Lacking emotion. Since the speaker is discussing failure, it's unlikely to be neutral; there's an emotional undertone.
+
+Putting this together, the speaker seems to be expressing frustration or disappointment because they're putting in effort but not getting the desired result. This aligns with sadness rather than anger or any other emotion listed.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. Let me read the comment again carefully: "I see your 'making myself undateable' and raise you a 'try to make myself as dateable as possible and still fail'". 
+
+First, I'll break down the sentence structure. The speaker is responding to someone else's statement or action. They mention seeing the other person's approach to making themselves seem less dateable, and then they counter it by saying they're trying their best to be more dateable but are still failing.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. I need to determine which one fits best.
+
+Let's consider each emotion:
+
+1. Anger: The comment doesn't show any signs of irritation or hostility. It's more about personal effort rather than frustration with someone else.
+
+2. Disgust: There's no indication of revulsion or disapproval here. The speaker is talking about their own efforts, not expressing distaste towards something.
+
+3. Fear: The comment isn't about worry or nervousness; it's more about self-effort and failure.
+
+4. Joy: This would imply happiness or success, which doesn't seem to be the case here as they mention failing.
+
+5. Sadness: The speaker is talking about trying hard but still failing, which can indicate disappointment or sorrow.
+
+6. Surprise: There's no element of astonishment or unexpectedness in their statement.
+
+7. Neutral: They are expressing an emotional state related to their efforts and failure, so neutral doesn't fit because they're showing a clear emotion.
+
+So, the speaker is likely feeling sad because they're trying hard to be more dateable but still failing, which can lead to feelings of disappointment or sorrow.
+</think>
+
+The speaker is likely experiencing **sadness** due to their unsuccessful attempts at improving their dating prospects despite their efforts. 
+
+**emotion**: sadness
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let me try to figure out what emotion this comment is expressing. The user wrote, "I see your 'making myself undateable' and raise you a 'try to make myself as dateable as possible and still fail'". 
+
+First, I need to analyze the content of the statement. The speaker is responding to someone else who mentioned "making themselves undateable." By using "raise you," it seems like they're escalating or competing in some way. They mention trying hard to be dateable but still failing.
+
+Looking at the emotion categories: anger involves displeasure or antagonism, which doesn't seem directly present here. Disgust is about revulsion, which isn't clear either. Fear would relate to being afraid, and there's no indication of that. Joy is about happiness; this doesn't sound joyful. Sadness could be a possibility since the speaker is talking about failure, but let me think deeper.
+
+The statement expresses frustration because the person is putting effort into something (being dateable) but still not succeeding. Frustration can tie into anger or sadness. However, the specific wording here seems more competitive than angry. They're trying to one-up the other person's comment, which might indicate a playful yet slightly annoyed tone.
+
+Alternatively, could this be surprise? I don't think so because there's no unexpected event mentioned. It's more about personal effort and failure. So maybe it's closer to sadness because of the failure aspect, but also frustration which is part of anger.
+
+Wait, but in the examples given for anger, they include annoyance and disapproval. The speaker here seems to be annoyed at their own situation or perhaps the other person's approach. They might be disapproving of the other person's strategy of making themselves undateable when they're trying so hard.
+
+So considering that, the emotion is likely anger because it's about frustration and possibly disapproval towards the other person's method, even if directed at themselves.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

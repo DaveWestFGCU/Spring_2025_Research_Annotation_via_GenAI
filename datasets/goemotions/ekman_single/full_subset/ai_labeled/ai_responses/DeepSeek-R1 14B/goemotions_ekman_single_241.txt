@@ -1,0 +1,80 @@
+Record: "It makes sense, just don't expect much thanks from the rest of them."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "It makes sense, just don't expect much thanks from the rest of them." Let's break this down step by step.
+
+First, I'll look at the words used. "It makes sense" seems neutral or maybe even a bit approving, but then the second part says "don't expect much thanks from the rest of them." That suggests that the speaker is indicating that others might not be grateful, which could imply some negative feelings about their expectations.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. Let's go through each one.
+
+Anger: The comment doesn't explicitly show frustration or irritation. It's more of a statement than an expression of anger.
+
+Disgust: There's no indication of something being offensive or unpleasant; the speaker is talking about expectations regarding gratitude.
+
+Fear: No signs of worry or nervousness here. The tone is matter-of-fact.
+
+Joy: There's no happiness or positive emotion expressed in the comment.
+
+Sadness: The mention of not expecting thanks could hint at disappointment, but it's more about setting realistic expectations rather than expressing personal sadness.
+
+Surprise: Nothing unexpected is mentioned; it's a straightforward statement.
+
+Neutral: The comment seems to be informative without strong emotion. It's a warning or advice without showing any particular feeling.
+
+So, the speaker isn't expressing any of the primary emotions like anger, fear, etc., but is making an observation. Therefore, the most fitting emotion category here would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "It makes sense, just don't expect much thanks from the rest of them." Alright, let's break this down.
+
+First, I'll read through each emotion category and see which one fits best. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Starting with anger: Anger includes annoyance and disapproval. If someone is angry, their words might show frustration or dislike. In the example given for anger, people are using harsh language like "hate" or calling someone a "dumbass." The speaker here doesn't use any such strong language. They're just stating a fact about not expecting thanks.
+
+Next, disgust: This involves revulsion or disapproval. The examples include things like finding something offensive or unpleasant. The comment isn't expressing that kind of feeling towards anything specific; it's more of a prediction than a disgusted reaction.
+
+Fear is about being afraid or worried. There's no indication here that the speaker feels fear or anxiety. They're not talking about any threats or dangers, just setting an expectation.
+
+Joy would involve happiness or pleasure. The comment isn't positive or expressing excitement; it's more neutral and somewhat negative in tone.
+
+Sadness involves emotional pain or sorrow. While the comment suggests that others might not appreciate their actions, it doesn't seem to be coming from a place of personal sadness or grief. It's more like a warning or advice.
+
+Surprise includes being astonished or startled. The speaker isn't expressing any surprise; they're making an observation.
+
+That leaves neutral. Neutral is when there's no expressed emotion, just stating facts or information without any strong feelings attached. In this case, the speaker is giving a realistic expectation but not showing any particular emotion themselves. They're simply informing someone else what to expect.
+
+So putting it all together, the comment doesn't show anger, disgust, fear, joy, sadness, or surprise. It's more of a straightforward statement without any emotional charge behind it. Therefore, the most appropriate emotion label here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I'm trying to figure out what emotion the speaker is feeling based on their comment. The sentence is: "It makes sense, just don't expect much thanks from the rest of them." 
+
+First, let's break down the words and the tone here. They start by saying it makes sense, which sounds like they agree or understand something. That part seems neutral or maybe slightly positive because they're acknowledging that whatever was said is valid.
+
+But then the second part says not to expect much thanks from the rest of them. This could imply that the speaker feels that others won't be grateful or appreciative. It might suggest a bit of cynicism or disappointment. 
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger would involve strong displeasure, but I don't see explicit signs of that here. Disgust is more about revulsion, which doesn't seem to fit either. Fear is about being afraid or worried; again, not really present. Joy would be happiness, which isn't the case here since there's a negative undertone.
+
+Sadness involves emotional pain or sorrow. The speaker seems to anticipate that others won't appreciate their efforts, which could evoke feelings of disappointment or maybe even sadness because they might feel unappreciated or let down. 
+
+Surprise is about being astonished or startled, but the statement doesn't present anything unexpected—it's more of a prediction.
+
+So considering all this, the emotion most likely here is sadness because of the implied disappointment and lack of gratitude expected.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,54 @@
+Record: "This sum GTA 5 type shit right here."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm looking at this tweet: "This sum GTA 5 type shit right here." The user is referring to something similar to GTA 5. First, I need to figure out the emotion behind it.
+
+The phrase "sum" might be slang for "such," so they're saying something like "This is such GTA 5 type of stuff." The word "shit" is a strong expletive, often used to express frustration or anger. 
+
+So, putting that together, the user is probably annoyed or frustrated because whatever they're referring to reminds them of GTA 5, which they find negative enough to call "shit." Since "anger" includes annoyance and rage, that fits here.
+
+I don't think it's disgust because there's no clear dislike expressed towards something specific. Fear? No, nothing indicates fear. Joy? Definitely not; the tone is negative. Sadness or surprise also don't seem to apply. So yeah, anger makes the most sense.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify the given tweet's emotion from the provided list: anger, disgust, fear, joy, sadness, surprise. The tweet is: "This sum GTA 5 type shit right here." 
+
+First, let me understand the content of the tweet. The user mentions "GTA 5" which refers to Grand Theft Auto V, a popular video game known for its intense gameplay and sometimes controversial themes. The phrase "type shit" is slang that often expresses frustration or dislike. So the user seems to be expressing negative feelings towards something they're comparing to GTA 5.
+
+Looking at the emotion categories:
+
+- Anger: Includes annoyance and rage. If someone uses strong language like "shit," it could indicate anger.
+- Disgust: Includes disinterest or dislike. The use of "shit" also aligns with disgust, showing aversion.
+- Fear, joy, sadness, surprise are less likely here as the tweet doesn't convey those emotions.
+
+Now I need to decide between anger and disgust. The phrase "GTA 5 type shit" suggests the user is comparing something negatively to GTA 5, possibly indicating dislike (disgust) rather than extreme anger. However, slang like "shit" can also be used when someone is annoyed or angry.
+
+But in many contexts, when people refer to something as "shit," especially in a dismissive way, it's often more about disgust rather than anger. So I think the emotion here is disgust because it's expressing dislike towards something they're comparing to GTA 5.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify the emotion in this tweet: "This sum GTA 5 type shit right here." Let me break it down step by step.
+
+First, the mention of "GTA 5" suggests the speaker is referring to a game or something related. The word "shit" is often used colloquially and can indicate frustration or dislike. So, maybe the emotion here is disgust or anger.
+
+Next, I should consider the context. If someone uses "type shit," it's usually to express that they're unimpressed or annoyed by something similar to GTA 5. That leans more towards disgust because it's about disliking or being disgusted by something.
+
+Looking at the emotion categories: anger is broader and includes things like annoyance, but here the focus seems to be on disliking something rather than being angry per se. Disgust fits better because it's about feeling dislike or aversion.
+
+So, putting it all together, the emotion conveyed is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

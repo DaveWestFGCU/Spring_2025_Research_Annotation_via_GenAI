@@ -1,0 +1,40 @@
+Record: "No!!! I love emojis 😎😎😁😁😁😁💖🎉"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses multiple enthusiastic and celebratory emojis, including 😎, 😁, 🎉, and 💖.
+* The tone of the comment is energetic and excited.
+* The speaker expresses a strong positive reaction.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is expressing strong enthusiasm and excitement.
+* The use of multiple enthusiastic emojis (e.g. 😎, 😁) suggests a positive emotional state.
+* The phrase "No!!! I love" indicates a strong affection or fondness for something.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's language and tone convey a sense of happiness, excitement, and pleasure, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses multiple exclamation marks, which often indicate strong emotions.
+* They use enthusiastic and celebratory language, such as "I love" and "😁".
+* The emojis they include are predominantly happy and playful (e.g. 😎, 💖, 🎉).
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

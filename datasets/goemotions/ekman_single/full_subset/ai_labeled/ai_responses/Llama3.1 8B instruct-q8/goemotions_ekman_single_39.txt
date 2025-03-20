@@ -1,0 +1,42 @@
+Record: "Quit serving money and [NAME] will feed you."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the statement is blunt and forceful.
+* The speaker uses a imperative verb ("Quit") to convey a sense of urgency.
+* The statement implies that someone or something (represented by "[NAME]") has been prioritizing money over other values.
+
+Given these considerations, the most relevant emotion label for this text is:
+
+**anger**
+
+The speaker's tone and language suggest frustration and annoyance with the person or entity represented by "[NAME]", which aligns with the characteristics of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is critical and dismissive.
+* The speaker uses a phrase that implies the person being addressed is motivated by greed ("serving money").
+* The speaker offers a blunt statement about what will happen if the person stops serving their own interests.
+
+Most relevant emotion label: **anger**
+ 
+The comment's tone suggests that the speaker is expressing anger or disapproval towards the person being addressed, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment seems confrontational.
+* The phrase "Quit serving money" can be seen as a criticism or rebuke, implying that the person is too focused on material wealth.
+* The use of "[NAME] will feed you" suggests a sense of dependency or entitlement.
+
+Most relevant emotion label: **anger**
+
+The speaker's tone and language suggest a strong feeling of displeasure or antagonism towards the person being addressed, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

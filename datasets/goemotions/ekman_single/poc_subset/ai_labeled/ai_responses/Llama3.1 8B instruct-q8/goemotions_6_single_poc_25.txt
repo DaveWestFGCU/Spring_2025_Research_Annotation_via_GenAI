@@ -1,0 +1,42 @@
+Record: "well guys it was fun. [NAME] passed up the open three ffs"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the statement is brief and somewhat abrupt.
+* The use of "ffs" (a colloquialism for "for feck's sake") suggests frustration or annoyance.
+* The speaker seems to be expressing disappointment or discontent with someone's actions, specifically [NAME] passing up an open three.
+
+Given these points, it appears that the speaker is feeling:
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a casual tone and includes colloquial expressions ("guys", "ffs").
+* The speaker mentions that "[NAME] passed up the open three", which implies a missed opportunity in a sports game.
+* The speaker's comment seems to be responding to a post or another commenter, indicating that they are engaging with others about a shared experience.
+
+Most relevant emotion label: **sadness** 
+
+Reasoning: The speaker's tone is casual and conversational, but the content of their comment suggests disappointment or frustration. Passing up an open three (a scoring opportunity in basketball) is generally considered a missed chance to score points, which can be disappointing for a team or player.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions that "[NAME] passed up the open three", which implies a missed opportunity.
+* The phrase "ffs" is an abbreviation for "for feck's sake", which can indicate frustration or annoyance.
+* The speaker says it was "fun", but this might be ironic given the context.
+
+Based on these points, I would conclude that the speaker is likely feeling:
+
+**anger**
+
+The use of the phrase "ffs" and the mention of a missed opportunity suggest that the speaker is frustrated with [NAME]'s decision. While the speaker also mentions that it was "fun", this might be a sarcastic comment, adding to the overall tone of frustration and annoyance.
+------------------------------------------------------------------------------------------------------------------------
+

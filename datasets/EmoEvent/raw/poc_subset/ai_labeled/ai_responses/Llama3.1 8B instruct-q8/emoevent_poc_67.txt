@@ -1,0 +1,37 @@
+Record: "Same here. And I really dislike strangers and groups, so groups of strangers are a next-level nightmare. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions disliking strangers and groups, indicating a negative sentiment.
+* The phrase "next-level nightmare" implies a strong sense of aversion or unease.
+
+Based on these points, the most relevant emotion label is:
+
+**disgust**
+
+This classification is supported by the fact that the author explicitly states their dislike for strangers and groups, and uses language (e.g. "nightmare") that conveys a strong sense of revulsion or distaste.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses strong feelings about being around strangers and groups.
+* They use the phrase "next-level nightmare", which implies a high level of distress or discomfort.
+
+**disgust**
+
+The author's language suggests that they find groups of strangers particularly unpleasant, which aligns with the category of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions "dislike" explicitly, indicating a negative sentiment towards certain social situations.
+* The author describes a specific scenario (groups of strangers) as a "nightmare", implying a strong aversion or anxiety.
+
+Based on these points, the most relevant emotion label is: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+

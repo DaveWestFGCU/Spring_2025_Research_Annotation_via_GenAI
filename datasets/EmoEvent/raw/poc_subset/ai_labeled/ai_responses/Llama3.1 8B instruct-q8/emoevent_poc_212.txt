@@ -1,0 +1,35 @@
+Record: "They must have seen you."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a short statement that implies someone has been observed or watched.
+* The tone is ominous and suggests that something potentially negative may happen as a result of being seen.
+
+Given these considerations, the most relevant emotion label is **fear**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement is ominous and seems to imply that something bad has happened or is about to happen.
+* The phrase "seen you" suggests a sense of vulnerability or exposure.
+
+Given these considerations, the most relevant emotion label is **fear**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is short and direct, suggesting a sense of sudden realization or observation.
+* The use of the word "must" implies a strong inference on the part of the speaker.
+* The tone is formal and matter-of-fact, without any emotional embellishment.
+
+Given these considerations, the most relevant emotion label is:
+
+**fear**
+(Although it could also be **surprise**, depending on the context. However, since the text doesn't provide more information about the situation, **fear** seems a more fitting option.)
+------------------------------------------------------------------------------------------------------------------------
+

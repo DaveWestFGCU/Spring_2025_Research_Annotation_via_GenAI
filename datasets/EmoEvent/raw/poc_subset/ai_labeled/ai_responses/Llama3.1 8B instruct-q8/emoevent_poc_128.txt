@@ -1,0 +1,30 @@
+Record: "I'm just really sad all that cake was wasted."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions something negative happening ("cake was wasted")
+* They express a personal feeling in response to this event ("I'm just really sad")
+
+Based on these points, the author intended to convey **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author is expressing a negative sentiment.
+- They are focusing on something being thrown away or not consumed.
+
+The most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The author expresses a negative emotional state about the outcome of an event (the cake being wasted).
+- There is no indication of aggression, irritation, or strong disapproval.
+- No language suggests excitement, happiness, or amazement.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

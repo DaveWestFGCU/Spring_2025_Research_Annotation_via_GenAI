@@ -1,0 +1,37 @@
+Record: "OMG so excited for today's match. #ChampionsLeague #BarcellonaLiverpool"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet contains the phrase "so excited", which suggests enthusiasm and eagerness.
+- The use of "OMG" (Oh My God) is often used to express strong emotions, but in this context it's more likely excitement than any negative emotion.
+- The hashtags refer to a high-profile football event, indicating that the author is invested in the match.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is short and informal, suggesting a casual tone.
+* The language used is enthusiastic ("OMG" and "so excited").
+* The hashtags indicate the author's interest in the UEFA Champions League.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains enthusiastic language such as "OMG" and "so excited", which suggests a strong positive emotion.
+* The use of the hashtag "#ChampionsLeague" indicates that the author is discussing a sporting event, and specifically one with a high level of excitement and anticipation.
+* The mention of two prominent football teams, Barcelona and Liverpool, further suggests that the author is enthusiastic about the match.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**joy**
+
+Note: While "serenity" could also be argued as the correct answer due to the tone being calm and excited rather than ecstatic, in the context of sports events like football matches, joy (including its connotations with excitement) seems more fitting.
+------------------------------------------------------------------------------------------------------------------------
+

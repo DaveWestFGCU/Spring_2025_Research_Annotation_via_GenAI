@@ -1,0 +1,37 @@
+Record: "That's my favorite! It smells so good without being overpowering."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The speaker is expressing a positive opinion about something.
+- They mention a specific quality of the thing they like, which is its smell.
+- Their tone seems enthusiastic and appreciative.
+
+**joy**
+The speaker's comment appears to be filled with joy, as they're expressing admiration and approval for the thing that smells good.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses positive language ("favorite", "smells so good") which suggests a pleasant experience.
+* The phrase "without being overpowering" implies that the scent is well-balanced and not overwhelming.
+
+Given these points, it's likely that the speaker is feeling a positive emotion. 
+
+**joy**
+
+The speaker's statement is similar to examples of joy, such as expressing enthusiasm or admiration for something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is positive and enthusiastic.
+* The speaker uses superlatives ("my favorite") and makes a positive comparison ("without being overpowering").
+* There is no indication of negative emotions, criticism, or concerns.
+
+Based on these observations, the most relevant emotion label for this text is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

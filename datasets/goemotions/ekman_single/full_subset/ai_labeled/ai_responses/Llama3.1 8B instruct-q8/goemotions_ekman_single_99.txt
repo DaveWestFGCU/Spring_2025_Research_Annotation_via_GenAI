@@ -1,0 +1,41 @@
+Record: "I am only sharing what my friends said, what their experience was. I found that a bit surprising."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions they are only sharing information from their friends, which suggests they may not be taking a personal stance.
+* They describe the situation as "a bit surprising", which implies an unexpected or unusual outcome.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+
+This is because the word "surprising" directly indicates that the speaker was taken aback by something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions they are simply sharing others' experiences.
+* They describe the content as "surprising".
+* There is no indication of strong emotion or personal investment.
+
+Given these points, the most relevant emotion label is **surprise**. This is because the speaker explicitly states that what they're sharing was surprising to them.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions "what my friends said" and "their experience", indicating they are sharing second-hand information.
+* They express a sense of surprise by stating that the information was "a bit surprising".
+* There is no indication of strong emotion, criticism, or negative opinion.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+
+The speaker's tone and language suggest they are genuinely surprised by the information they've shared from their friends.
+------------------------------------------------------------------------------------------------------------------------
+

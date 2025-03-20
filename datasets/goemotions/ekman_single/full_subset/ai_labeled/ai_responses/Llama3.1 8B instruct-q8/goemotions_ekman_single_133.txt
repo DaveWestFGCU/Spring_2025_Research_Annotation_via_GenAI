@@ -1,0 +1,38 @@
+Record: "[NAME] also tends to out vote [NAME] in polls in my experience"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment seems objective and matter-of-fact, rather than emotional.
+* The language used is straightforward and lacks any strong emotive words or phrases.
+* The speaker appears to be sharing a personal observation about someone's voting habits.
+
+Given these considerations, the most relevant emotion label for this comment is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider given the text:
+
+* The speaker is commenting on someone else's voting behavior.
+* They mention that this person "tends to" outvote another person, suggesting a pattern or trend.
+* There doesn't appear to be any strong language or emotion expressed in the comment.
+
+Given these points, I would conclude that the speaker's tone is neutral and observational. However, the fact that they are commenting on someone else's behavior could suggest a slightly passive-aggressive or mildly critical tone. But overall, there is no clear expression of anger, disgust, fear, joy, sadness, or surprise in this comment.
+
+Therefore, my answer is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement seems objective and matter-of-fact.
+* There is no clear expression of strong emotions, criticism, or disapproval.
+* The speaker appears to be sharing a personal observation rather than expressing a judgment.
+
+Most relevant emotion label: **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+Record: "This wasn’t last year. It was last century! Star Wars had just come out!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to someone else's statement, indicating they may be correcting or disagreeing with the other person.
+* The phrase "last century" implies a significant amount of time has passed since the event mentioned, which could elicit a reaction from the speaker.
+* The mention of Star Wars suggests a shared cultural reference point.
+
+Given these points, it appears that the speaker is surprised by the original statement, as they are correcting the person's assumption about when this event occurred.
+
+**surprise**
+
+The tone of the response suggests a lighthearted and playful correction rather than anger or other negative emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "last century," which suggests that they are looking back on a past time period.
+* They also mention the release of Star Wars, which is a significant cultural event from the late 20th century.
+* The speaker's tone appears to be one of playful nostalgia.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's use of "last century" and their reference to the recent release of a film that was actually released decades ago implies a sense of surprise or astonishment at how long ago this event occurred.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is correcting a mistake made by someone else.
+* The correction involves a significant amount of time, with the event being referred to as happening "last century".
+* The tone of the response seems lighthearted and playful, rather than aggressive or confrontational.
+
+Given these points, the most relevant emotion label for this speaker's comment is:
+
+**surprise**
+ 
+This label fits because the correction involves a significant amount of time passing (from last year to last century), which is an unexpected revelation that may surprise others. The lighthearted and playful tone also suggests that the speaker finds the mistake amusing, rather than being angry or upset about it.
+------------------------------------------------------------------------------------------------------------------------
+

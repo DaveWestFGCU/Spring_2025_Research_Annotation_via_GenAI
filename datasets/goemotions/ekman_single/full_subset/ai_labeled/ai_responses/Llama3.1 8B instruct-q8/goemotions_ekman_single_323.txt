@@ -1,0 +1,45 @@
+Record: "They're probably usually too fixated on how they look to even consider their surroundings"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker makes a statement about someone being preoccupied with their appearance.
+* The tone of the statement is somewhat critical and implies that the person's focus on physical appearance is a negative trait.
+* There is no apparent expression of happiness, sadness, or surprise in the statement.
+
+Given these considerations, the most relevant emotion label for this statement is:
+
+**disgust**
+The speaker seems to be expressing disapproval or revulsion towards someone who is overly focused on their physical appearance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker makes a negative statement about someone else.
+* The speaker implies that this person is self-absorbed and unaware of their environment.
+* The tone appears to be critical or mocking.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+The speaker's comment expresses revulsion or strong disapproval towards the person they are talking about, which aligns with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker makes a statement about someone being "fixated on how they look", which implies a negative judgment.
+* The tone of the sentence is critical and dismissive, suggesting that the speaker has low regard for this person's priorities or character.
+* There is no expression of concern or empathy towards the person being discussed.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+This choice is based on the speaker's strong disapproval and revulsion implied by their judgmental statement about the person's fixation on appearance.
+------------------------------------------------------------------------------------------------------------------------
+

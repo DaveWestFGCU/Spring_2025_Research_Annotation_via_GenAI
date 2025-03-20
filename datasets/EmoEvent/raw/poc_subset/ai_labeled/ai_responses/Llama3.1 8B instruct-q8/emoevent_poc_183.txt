@@ -1,0 +1,32 @@
+Record: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is comparing their own experience (getting married) to someone else's (presumably getting a degree or award of some kind)
+* They use the word "crazy" which has a negative connotation
+* They mention their own cost was significantly lower than the mentioned $35k
+
+The most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author is comparing their own cost ($2k) unfavorably to someone else's ($35k).
+- The use of the word "crazy" implies a sense of shock or astonishment at the high price.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is comparing a significant amount of money (35k) to their own experience (less than 2k).
+* The language used is strong ("crazy"), suggesting a negative reaction.
+* The context is likely related to costs associated with an event or purchase, such as a wedding.
+
+Given these points, the author's tone is one of **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

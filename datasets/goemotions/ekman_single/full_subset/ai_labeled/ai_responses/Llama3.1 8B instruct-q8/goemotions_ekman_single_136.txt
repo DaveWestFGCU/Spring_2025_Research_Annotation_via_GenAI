@@ -1,0 +1,38 @@
+Record: "I mean, [NAME] really is downplaying the guys’ friendship. That’s suspect to me."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone seems critical and skeptical.
+* They're expressing doubt about someone's intentions or actions.
+* The word "suspect" implies a sense of unease or distrust.
+
+Based on these points, the most relevant emotion label is **suspicion** can be linked to **sadness** as it often involves disappointment or feeling let down. However, given that sadness includes disappointment and this comment doesn't express personal loss but rather a perceived discrepancy, I'd say:
+
+**sadness**
+
+However, if we break down the sentence further, "That's suspect to me" can also imply distrust which isn't necessarily sadness. But considering the context of the conversation and the speaker's tone, it seems more likely that they're expressing a negative emotion related to disappointment rather than fear or anger.
+
+But in this case, given the provided categories and definitions, the closest match would be **sadness** as it involves feeling let down by someone's actions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "downplaying", which implies that they believe someone is being dishonest or hiding something.
+* The speaker describes this behavior as "suspect" to them, which suggests a negative judgment.
+
+Given these points, it seems like the speaker is reacting to someone's actions with a sense of mistrust and criticism. This aligns most closely with the emotion category definitions for **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions someone's behavior as "suspect", which implies a negative interpretation.
+* The speaker uses a word with a slightly negative connotation ("downplaying") to describe [NAME]'s actions.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

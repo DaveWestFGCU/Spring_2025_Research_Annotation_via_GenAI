@@ -1,0 +1,37 @@
+Record: "Happy #WorldBookDay📚! We've got a great list of staff recommended #animation books to add to your shelves 👉https://t.co/VQtF5VrgAp Happy reading! 😉 https://t.co/z7H9Jdbqb5"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is informal and conversational, using colloquial expressions like "Happy #WorldBookDay" and "Happy reading!"
+* The language used is positive and enthusiastic, with exclamation marks and emojis (📚, 👉, 😉)
+* The content of the tweet mentions a list of recommended books, which suggests excitement about sharing knowledge or recommendations
+* There are no negative or critical comments in the tweet
+
+Given these points, the most relevant emotion label for this tweet is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet starts with "Happy" which is a clear indicator of a positive sentiment.
+* The use of the phrase "#WorldBookDay" suggests that the author is celebrating or acknowledging an event, rather than expressing any negative emotions.
+* The mention of "staff recommended #animation books" implies excitement and enthusiasm for sharing recommendations.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions "Happy" which is a clear indicator of a positive sentiment.
+* The use of the 📚 and 😉 emojis also contribute to a joyful tone.
+* The language used is enthusiastic and encouraging.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

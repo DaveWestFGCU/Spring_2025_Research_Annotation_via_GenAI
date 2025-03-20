@@ -1,0 +1,46 @@
+Record: "LOL at this question! If he follows the sub...just read the topics for opinions! I call BS!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider given the text:
+
+* The speaker uses the phrase "LOL" which is typically an expression of amusement or laughter.
+* However, the tone quickly shifts with the use of "BS", which implies a strong sense of disapproval.
+* The speaker's response also includes "call BS!", which means to reject or dismiss something as false.
+
+Considering these points, it appears that the speaker is expressing a mix of amusement and strong disapproval. However, since the tone is primarily one of disapproval, I would categorize the emotion most people will feel the speaker may be feeling as:
+
+**anger**
+
+Note: The use of "BS" implies a sense of annoyance or frustration, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with "LOL", which suggests they are trying to be humorous.
+* They mention reading the topics for opinions, implying that the person being questioned is likely to have strong opinions or biases.
+* The phrase "I call BS!" indicates a sense of skepticism or distrust.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone suggests annoyance and frustration with the person being questioned, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a colloquial expression ("LOL") and a dismissive tone, suggesting they may not be taking the topic seriously.
+* They mention reading topics in the subreddit, implying that they're familiar with its content and may be critiquing it.
+* The phrase "I call BS!" is an idiomatic expression that can convey skepticism or distrust.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone suggests annoyance or frustration with the topic or another commenter, which aligns with the definition of anger. They're not simply expressing a neutral opinion or surprise; their language implies a stronger emotional response.
+------------------------------------------------------------------------------------------------------------------------
+

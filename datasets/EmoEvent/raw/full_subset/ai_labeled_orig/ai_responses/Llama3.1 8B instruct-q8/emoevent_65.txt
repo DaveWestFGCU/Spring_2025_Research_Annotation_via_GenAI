@@ -1,0 +1,38 @@
+Record: "Have been to the cathedral three times. Saw something new each time. Upsetting to hear about the #NotreDameCathedralFire."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author has visited the cathedral multiple times.
+* They mention seeing something new each time, implying a sense of appreciation and fondness for the cathedral.
+* However, they express disappointment or upset upon hearing about the fire.
+
+Given these points, it's clear that the author is expressing a negative emotional response to the news of the fire. 
+
+The most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions that they have visited the cathedral multiple times and saw something new each time, indicating a positive attachment to the location.
+* They express distress or disappointment at hearing about the fire, using the word "upsetting".
+* There is no indication of anger, disgust, fear, joy, or surprise in their reaction.
+
+The most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author has visited the cathedral multiple times and was looking forward to seeing it again.
+* They express a sense of loss or disappointment at hearing about the fire.
+* There is no mention of strong emotions like anger, fear, or surprise.
+
+Given these points, the most relevant emotion label is: **sadness**
+
+The author's tone suggests a sense of sadness and loss at the news of the cathedral fire, as they had enjoyed visiting the site multiple times.
+------------------------------------------------------------------------------------------------------------------------
+

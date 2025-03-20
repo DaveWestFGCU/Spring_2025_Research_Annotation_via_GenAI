@@ -1,0 +1,31 @@
+Record: "I was going for r/truthtoirony"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that they were trying to go to a subreddit called "r/truthtoirony" but it seems like they accidentally typed something else.
+* There is no indication of strong emotion or judgment in the comment.
+
+Given these points, the most relevant emotion label for this comment is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker says they were going for a specific subreddit ("r/truthtoirony") but ended up somewhere else.
+* There is no apparent expression of anger, disgust, fear, joy, or sadness in the statement.
+
+Given these considerations, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions making an incorrect move and acknowledges it by referencing a subcategory of r/irony.
+* They seem to be acknowledging their mistake in a self-deprecating way.
+
+Given these points, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+

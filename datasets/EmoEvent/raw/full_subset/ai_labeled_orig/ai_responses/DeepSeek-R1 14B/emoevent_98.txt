@@ -1,0 +1,40 @@
+Record: "#WorldBookDay i was in love with reading before i was finished learning how to. from baby books to bibliophile, my journey with reading will be lucky in my eyes. im not sure what my first chapter book was, as i was reading entire boois and novels while i was still in preschool.+"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify the emotion of this tweet about World Book Day. Let me read it again.
+
+The user says they were "in love with reading" even before finishing learning how to. They mention their journey from baby books to being a bibliophile, and express that it's "lucky in my eyes." They also talk about not remembering their first chapter book but reading entire books and novels during preschool.
+
+Looking at the words used: "in love," "lucky in my eyes," "entire books" with a possible typo as "boois." The overall tone sounds positive and passionate. Words like "love" and "lucky" indicate joy, while the enthusiasm about reading suggests serenity or ecstasy, which are under the joy category.
+
+I don't see any signs of anger, disgust, fear, sadness, or surprise. It's all about their fond memories and happiness with reading.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify the emotion of this tweet related to World Book Day. The author talks about their love for reading starting from baby books and progressing through preschool, expressing that their journey with reading has been "lucky." They mention being in love with reading even before finishing learning how to read and being unsure about their first chapter book since they were reading entire books as a preschooler.
+
+The key emotions here are love and appreciation towards reading. However, the available emotion categories don't include love directly. The closest would be joy because the author expresses a deep satisfaction and happiness from their experience with reading. There's no sign of anger, disgust, fear, sadness, or surprise in the tweet; it's all about positive feelings and pride in their reading journey.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet's emotion using the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet, the author talks about their love for reading starting from baby books. They mention being lucky with their journey and express excitement about reading even in preschool. Words like "love," "lucky," "excitement" indicate positive feelings. There's no sign of any negative emotions or worry. So, the emotion here is clearly joy.
+</think>
+
+The tweet expresses a deep love and appreciation for reading, filled with positive emotions such as excitement and serenity.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

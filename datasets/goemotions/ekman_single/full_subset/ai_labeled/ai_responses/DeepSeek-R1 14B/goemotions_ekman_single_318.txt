@@ -1,0 +1,64 @@
+Record: "[NAME] I wish that was a more active sub :("
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "[NAME] I wish that was a more active sub :(" 
+
+First, let's break down the sentence. They're addressing someone by name and then expressing a desire for something—specifically, they want the subreddit (sub) to be more active. The speaker uses an emoticon with a sad face ":(", which is a pretty clear indicator of their emotional state.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that fits best.
+
+The emoticon and the statement both suggest disappointment or longing. The speaker seems to be expressing that they're not getting what they want—a more active community—so it's likely a feeling of sadness. Sadness includes emotions like disappointment, which fits here because they're hoping for more activity but aren't seeing it.
+
+I should make sure none of the other categories fit better. There's no indication of anger or frustration beyond maybe implied by the wish, but the main emotion is more about longing and unhappiness rather than pure anger. Disgust doesn't seem applicable since there's nothing offensive mentioned. Fear isn't present as they aren't expressing worry or anxiety. Joy would be the opposite of this sentiment. Surprise also doesn't fit because there's no unexpected element here.
+
+So, putting it all together, the emotion is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment. The comment is: "[NAME] I wish that was a more active sub :(" 
+
+First, let's break down the sentence. The speaker is addressing someone by [NAME], which might mean they're responding directly to them in a Reddit context. Then, they express a desire for the subreddit (sub) to be more active. The phrase "I wish" indicates some sort of longing or hope. The speaker is hoping that the sub becomes more active.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Let's see which fits best.
+
+Anger usually involves displeasure or antagonism. Disgust is about revulsion or disapproval. Fear relates to being afraid or worried. Joy is pleasure and happiness. Sadness is emotional pain or sorrow. Surprise is astonishment. Neutral means no emotion.
+
+The speaker is expressing a wish for something to change, which suggests they're not happy with the current state of affairs. They want more activity, implying that it's currently lacking. The use of ":(" at the end is an emoticon indicating sadness or disappointment.
+
+So, the feeling here seems to be sadness because they're expressing a sense of unhappiness about the subreddit's inactivity. There's no indication of anger or disgust, just a desire for improvement, which points towards sadness rather than another emotion.
+</think>
+
+The speaker expresses a wish for more activity and uses a sad emoticon, indicating disappointment.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out which emotion best fits this comment. The user provided a Reddit comment: "[NAME] I wish that was a more active sub :(".
+
+First, I'll break down the sentence. The speaker is expressing a desire for the subreddit (sub) to be more active. They're saying they "wish" it were more active and used an emoticon with a sad face ":(", which typically indicates sadness or disappointment.
+
+Looking at the emotion categories:
+
+- Anger: Doesn't seem like anger, as there's no expression of displeasure or antagonism.
+- Disgust: No indication of revulsion or disapproval here.
+- Fear: There's no mention of being afraid or worried.
+- Joy: The speaker isn't expressing happiness or pleasure; instead, they're longing for something more active.
+- Sadness: Fits well because "wish" and the sad emoticon show disappointment.
+- Surprise: No unexpected element here.
+- Neutral: Definitely not neutral since there's an expressed emotion.
+
+So, considering all this, the most relevant emotion is sadness. The speaker feels disappointed that the subreddit isn't as active as they'd like.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

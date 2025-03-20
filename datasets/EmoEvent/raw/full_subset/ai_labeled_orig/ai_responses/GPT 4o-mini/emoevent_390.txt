@@ -1,0 +1,32 @@
+Record: "Congrats to Messi on 600 goals. Glad he did it against USER  #BarcaLiverpool #ChampionsLeague"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet expresses congratulations to Messi for achieving a significant milestone (600 goals).
+- The use of the word "glad" indicates a positive sentiment about Messi's accomplishment.
+- The context of the achievement being against another team (USER) in a major competition (Champions League) suggests a sense of pride and happiness.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider given the text:
+- The tweet expresses congratulations to Messi, which indicates a sense of happiness or celebration.
+- The author mentions being "glad" about the achievement, further reinforcing a positive sentiment.
+- The mention of a specific match and the event itself suggests excitement and pride rather than any negative emotions.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:  
+- The use of "Congrats" indicates a positive acknowledgment of an achievement.  
+- The phrase "Glad he did it" expresses happiness and pride in Messi's accomplishment.  
+- The overall tone is celebratory, as it highlights a significant milestone in Messi's career.  
+- The hashtags reference a popular football match context, which can further amplify feelings of joy among fans.  
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

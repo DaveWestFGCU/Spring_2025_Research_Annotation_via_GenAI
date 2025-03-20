@@ -1,0 +1,36 @@
+Record: "Thanks so much! I'll let you know how it goes when I get a chance to try it :)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is polite and appreciative.
+* The speaker expresses gratitude using the phrase "thanks so much".
+* The speaker appears to be looking forward to trying something new.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's positive and anticipatory language suggests that they are feeling excitement or happiness about the opportunity to try something new.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "thanks so much", which is typically associated with gratitude and politeness.
+* The speaker mentions that they will "let you know" about their experience, indicating a willingness to follow up and share information.
+* The tone of the response seems enthusiastic and positive.
+
+Given these points, the most relevant emotion label for this comment is **joy**. The speaker's use of an exclamation mark and a polite expression of gratitude suggests that they are feeling happy and relieved about receiving helpful advice.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the sentence is polite and courteous.
+* The speaker expresses gratitude towards the person they are responding to.
+* They mention that they will follow up with an update, implying a positive outcome.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **joy**. The use of "Thanks so much" and the enthusiastic tone ("I'll let you know how it goes when I get a chance to try it") suggest that the speaker is looking forward to trying something new and is optimistic about the outcome, which are key characteristics of joy.
+------------------------------------------------------------------------------------------------------------------------
+

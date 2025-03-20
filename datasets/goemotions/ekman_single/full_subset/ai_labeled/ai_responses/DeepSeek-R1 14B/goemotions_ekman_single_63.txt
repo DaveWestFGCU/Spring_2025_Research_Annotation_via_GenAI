@@ -1,0 +1,52 @@
+Record: "A one-line whip is still whipping against, although it is a pretty disappointing decision."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "A one-line whip is still whipping against, although it is a pretty disappointing decision." 
+
+First, I'll break down the sentence. A "one-line whip" probably refers to a quick or brief reprimand. The phrase "still whipping against" suggests that despite being short, it's still having an effect. Then, the speaker mentions that it's a "disappointing decision," which indicates dissatisfaction.
+
+Looking at the emotion categories: anger is about displeasure or antagonism; disgust involves revulsion; fear is about worry or anxiety; joy is happiness-related; sadness is pain or sorrow; surprise is astonishment; and neutral is no emotion. 
+
+The speaker expresses disappointment, which falls under sadness because it's a feeling of dissatisfaction or letdown. There are no signs of anger (no strong displeasure or antagonism), disgust (nothing offensive mentioned), fear (no worry expressed), joy, surprise, or neutral. So, the most fitting emotion here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to determine the emotion the speaker is feeling based on their comment. The sentence is: "A one-line whip is still whipping against, although it is a pretty disappointing decision."
+
+First, let's break down the sentence. A "one-line whip" is a term often used in political contexts, referring to a vote that's essentially decided for members by leadership, sometimes without much debate. The phrase "still whipping against" suggests that despite being just one line or brief, it's still effective in influencing people.
+
+The speaker then says "although it is a pretty disappointing decision." So they're expressing their feelings about the outcome of this whip. The word "disappointing" directly relates to sadness because disappointment is one of the key indicators under the sadness category.
+
+Looking at the emotion definitions: Sadness includes disappointment, which fits here. They might feel let down or unhappy about the decision made by the whip. There's no indication of anger (though they are talking about a whipping metaphorically), but it's more about the negative outcome leading to sadness rather than irritation or rage.
+
+Other emotions like fear, joy, disgust, surprise, or neutral don't seem applicable here. The speaker isn't expressing fear or anxiety, nor are they happy or joyful. They're not showing disgust towards something unpleasant, and there's no element of surprise or confusion in their statement. It's a straightforward expression of dissatisfaction.
+
+So putting it all together, the emotion is sadness because of the disappointment expressed.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The sentence given is, "A one-line whip is still whipping against, although it is a pretty disappointing decision." 
+
+First, let's break down the sentence. A "one-line whip" refers to a parliamentary procedure where members are called upon one by one to vote. The speaker says that even though it's a one-line whip, they're still being whipped (i.e., compelled) against something. They also mention that this is a "pretty disappointing decision." 
+
+The key words here are "disappointing" and the overall tone seems negative. The speaker isn't expressing anger with strong language like骂人 or threats, but rather disappointment. That points more towards sadness because disappointment is one of the categories under sadness. Sadness includes emotions like sorrow, grief, and regret.
+
+I don't see any signs of fear here—no mention of being afraid or worried. Disgust would involve something unpleasant, which isn't really there. Joy and surprise are clearly not present. The speaker isn't expressing anger either; it's more about the outcome not meeting their expectations, leading to a feeling of letdown.
+
+So, considering all these points, the emotion is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

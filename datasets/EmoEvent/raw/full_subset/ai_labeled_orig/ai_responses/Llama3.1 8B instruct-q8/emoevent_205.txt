@@ -1,0 +1,35 @@
+Record: "I knew it .... I knew it .... I knew it!!!    Thank you #SkyNews  The High Altar is untouched.   Not even the candles are melted! *Paws up.....high 5*  🐾  #NotreDameFire #NotreDameCathedralFire #NotreDame #believe https://t.co/jvmYSmsDAG"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a sense of vindication or validation ("I knew it").
+* They are sharing positive news about the cathedral's condition ("The High Altar is untouched").
+* They use enthusiastic language and emojis (e.g. "Paws up.....high 5*", 🐾) to convey excitement.
+
+Given these points, the most relevant emotion label is **joy**, as the author appears to be feeling relieved and celebratory about the good news.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing excitement and relief that the High Altar of Notre-Dame Cathedral was not damaged.
+* The use of "I knew it" suggests a sense of prescience or foresight, but also implies that the author was worried about something bad happening.
+* The hashtags #NotreDameFire and #NotreDameCathedralFire suggest that the tweet is in response to a significant event (the fire at Notre-Dame Cathedral).
+* The use of emojis, such as 🐾 and *Paws up.....high 5*, indicates a lighthearted and celebratory tone.
+
+Given these points, the most relevant emotion label is **joy**, as the author is expressing relief, excitement, and celebration that the High Altar was not damaged.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses multiple exclamation marks, indicating excitement or triumph.
+* They express gratitude towards SkyNews for providing information about the High Altar's condition.
+* The mention of "paws up" and "high 5" suggests a celebratory tone.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

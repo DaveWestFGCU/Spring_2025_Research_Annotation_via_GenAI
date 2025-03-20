@@ -1,0 +1,18 @@
+Record: "#GameOfThrones lost many beloved characters during Sunday night’s episode, but one stood out from the rest. https://t.co/DAD8Lxmwzd #girlpower"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about Game of Thrones. The tweet says that many beloved characters were lost during the last episode, but one stood out. It also mentions "#girlpower." 
+
+First, let's break down the content. The mention of lost characters suggests sadness because people often feel sad when favorite characters die. However, the tweet highlights one character standing out, which might imply a positive aspect despite the losses. The use of #girlpower could indicate empowerment or strength, which are positive emotions.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. I need to choose the primary emotion here. While there's sadness from the loss, the focus on one character and the hashtag might lean towards a more positive sentiment, possibly joy because of the empowering message. But it's also possible that the overall tone is mixed but leans towards sadness due to the losses.
+
+Wait, the guidelines say if it's similar to pensiveness or grief, classify as sadness. The tweet mentions beloved characters lost, which would likely evoke sadness. The #girlpower could be a silver lining but doesn't override the primary emotion of loss.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

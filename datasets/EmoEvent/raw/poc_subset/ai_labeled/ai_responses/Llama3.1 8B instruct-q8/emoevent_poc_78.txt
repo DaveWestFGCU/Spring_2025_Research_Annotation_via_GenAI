@@ -1,0 +1,36 @@
+Record: "Where exactly is the irony? His name is not [NAME], and the title, bio, and picture contain no related jokes. "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify this tweet, consider the following points:
+
+* The author is questioning the presence of irony in a particular situation.
+* They mention that there are no obvious clues (name, title, bio, picture) to suggest that irony is intended.
+* The tone appears to be critical or dismissive.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author seems to be expressing frustration or confusion about a situation.
+* They mention a lack of connection between someone's name and their online profile information.
+* The tone is critical and questioning.
+
+Most relevant emotion label: **anger**.
+
+The author's tone implies annoyance at the perceived mismatch, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet expresses a sense of confusion or puzzlement.
+* The author appears to be searching for something that is not apparent (irony).
+* The tone is critical and questioning.
+
+Given these points, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

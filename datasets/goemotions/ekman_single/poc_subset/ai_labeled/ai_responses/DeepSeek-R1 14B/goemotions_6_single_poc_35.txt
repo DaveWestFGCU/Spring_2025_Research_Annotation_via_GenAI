@@ -1,0 +1,54 @@
+Record: "No, there’s a ton of people like you in this thread who don’t seem to understand that head glitching does not equal taking cover."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The comment says, "No, there's a ton of people like you in this thread who don't seem to understand that head glitching does not equal taking cover." 
+
+First, I'll break down the sentence. The speaker is responding to someone else and starts with "No," which immediately signals disagreement. Then they mention that there are many people in the thread who don't understand something—specifically, they're pointing out a confusion between "head glitching" and "taking cover." 
+
+The phrase "don't seem to understand" suggests that the speaker is frustrated or annoyed because others aren't grasping the distinction. The word "ton" emphasizes that there are many such people, which might make the speaker feel exasperated.
+
+Looking at the emotion categories: anger includes annoyance and disapproval. Here, the speaker is showing frustration with others' misunderstanding, which points towards anger. There's no indication of disgust because they're not talking about something unpleasant or offensive; it's more about disagreement. Fear isn't present because there's no sense of worry or anxiety. Joy, sadness, surprise, or neutral don't fit either.
+
+So the most relevant emotion here is anger because of the annoyed and disapproving tone.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment says, "No, there's a ton of people like you in this thread who don't seem to understand that head glitching does not equal taking cover." 
+
+First, let me break down the sentence. The speaker starts with "No," which might indicate disagreement or correction. They mention that many people in the thread don't understand something about "head glitching" and "taking cover." It sounds like they're pointing out a misunderstanding.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one. 
+
+The speaker is correcting others, which could show frustration or irritation. Frustration often falls under anger because it's a strong feeling of displeasure. The use of "don't seem to understand" suggests impatience, which is a sign of mild anger. There's no overtly aggressive language here, but the tone implies that the speaker is annoyed by others' lack of understanding.
+
+Disgust would involve finding something repulsive, but this doesn't seem to be about that. Fear isn't present because there's no indication of worry or anxiety. Joy and surprise are unlikely since the context is correcting others, not happy or amazed. Sadness could come into play if it were about disappointment, but here it seems more like irritation. Neutral is out because they're expressing an emotion through correction.
+
+So, considering all this, the emotion is probably anger because of the frustration and impatience in the speaker's tone.
+</think>
+
+The speaker is correcting others with a tone of mild frustration, which indicates **anger**. 
+
+**emotion:** **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion the speaker is conveying here. The comment says, "No, there’s a ton of people like you in this thread who don’t seem to understand that head glitching does not equal taking cover." 
+
+First, I notice the speaker starts with "No," which can indicate disagreement or correction. They're pointing out that others don't understand something specific—head glitching versus taking cover. The phrase "don’t seem to understand" suggests frustration or impatience.
+
+Looking at the emotion categories: anger involves displeasure or antagonism, which might fit here because the speaker seems annoyed by others' misunderstanding. Disgust is about revulsion but doesn't quite match the context of understanding. Fear isn't present since there's no indication of worry. Joy and surprise are out as they're positive emotions. Sadness could be related to frustration, but it's more about emotional pain, not necessarily here. Neutral is when there's no emotion, which isn't the case.
+
+So, considering the tone and the correction given, anger seems appropriate because the speaker is correcting others in a possibly frustrated manner.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

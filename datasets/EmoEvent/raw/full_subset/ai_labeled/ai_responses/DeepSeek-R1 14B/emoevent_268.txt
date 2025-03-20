@@ -1,0 +1,18 @@
+Record: "USER Yes, the people of #Venezuela Reject #DC's selected #Guaido #HandsOffVenezuela https://t.co/47ZlHbjmSA"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet. The tweet is about Venezuela's political crisis, specifically rejecting Juan Guaido and supporting Maduro. The user mentions that the people of Venezuela reject Guaido, which shows they're against him. 
+
+Looking at the words used: "Reject" indicates a strong negative feeling towards Guaido. The hashtags like #HandsOffVenezuela suggest a desire to protect their country from external interference, which might be frustration or anger. 
+
+The context is tense because it's about who should lead the country, so emotions are likely running high. The user is expressing opposition, which could stem from various emotions, but in this case, I think it's more about anger towards those supporting Guaido, possibly feeling that their government is being meddled with.
+
+So considering the guidelines, if the emotion is similar to annoyance or rage, it should be classified as anger. The tweet doesn't express fear, joy, sadness, disgust, or surprise; it's clearly a strong negative stance against someone.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

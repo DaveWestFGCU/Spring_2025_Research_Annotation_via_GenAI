@@ -1,0 +1,70 @@
+Record: "That’s exactly how my fanfiction goes"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out what emotion the speaker is feeling based on their comment. The sentence given is, "That’s exactly how my fanfiction goes." Let me break this down.
+
+First, looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, and neutral. My task is to choose one of these that best fits the speaker's sentiment.
+
+The comment itself seems positive because the speaker is sharing something about their fanfiction in a way that sounds approving or happy. They're comparing another situation to their own fanfiction, which often has creative and enjoyable content. 
+
+I don't detect any negative emotions like anger or disgust here. The words used aren't harsh or disapproving. Fear and surprise also don't seem applicable since there's no indication of worry or astonishment.
+
+Sadness isn't present either; the tone doesn't suggest disappointment or sorrow. Neutral is a possibility if the speaker is just stating a fact without emotion, but given that fanfiction can be a source of joy for many people, it's more likely they're expressing happiness.
+
+So, putting it all together, the emotion here is probably joy because the speaker is referencing their fanfiction in a positive light, indicating approval or pleasure.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "That’s exactly how my fanfiction goes." Alright, let's break this down.
+
+First, I should consider each of the given emotion categories: anger, disgust, fear, joy, sadness, surprise, and neutral. Let me go through them one by one to see which fits best.
+
+Starting with anger. Anger involves strong feelings like displeasure or antagonism. Does the speaker sound angry? The comment seems more about sharing something rather than expressing irritation or hostility. So probably not anger.
+
+Next is disgust. Disgust is when someone feels revulsion towards something unpleasant. Again, the statement doesn't express any negative feelings; it's more of a neutral observation. So I don't think it's disgust.
+
+Fear involves being afraid or worried. There's no indication of fear here; the speaker is talking about their fanfiction in a straightforward manner. No signs of anxiety or nervousness.
+
+Joy is about pleasure and happiness, including emotions like excitement or gladness. The statement might be sharing something they enjoy, but it doesn't explicitly convey joy. It's more of a factual statement than an expression of happiness.
+
+Sadness involves emotional pain or sorrow. There’s no indication the speaker is feeling sad here; they're just stating how their fanfiction goes.
+
+Surprise includes feelings like astonishment or curiosity. Unless there's something unexpected in the statement, which there isn't, surprise doesn't seem applicable here. They’re simply sharing a fact about their work.
+
+That leaves neutral, which is when no emotion is expressed beyond stating facts or opinions without strong feeling. The speaker is making an observation about their fanfiction without showing any particular emotion. It's more informational than emotional.
+
+So putting it all together, the comment doesn't express any of the specific emotions like anger, fear, joy, etc., but rather states a fact in a neutral tone.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker might be feeling based on their Reddit comment: "That’s exactly how my fanfiction goes." Let me break this down step by step.
+
+First, I'll look at the words used. The speaker is talking about their fanfiction in a way that seems personal—using "my" and mentioning it specifically. But the tone here doesn't immediately strike me as any of the strong emotions like anger, disgust, fear, joy, sadness, or surprise. It's more of a statement than an expression.
+
+Now, considering each emotion category:
+
+1. **Anger**: Words indicating displeasure or antagonism aren't present here. The speaker isn't expressing frustration or irritation.
+2. **Disgust**: There's no indication of revulsion or disapproval towards something unpleasant.
+3. **Fear**: No signs of worry or nervousness are evident in the statement.
+4. **Joy**: While talking about fanfiction could be a passion, the comment itself doesn't show obvious happiness or excitement.
+5. **Sadness**: The speaker isn't expressing sorrow or disappointment.
+6. **Surprise**: There's nothing unexpected mentioned here that would cause astonishment.
+7. **Neutral**: This seems to fit best because the statement is factual and lacks any strong emotional language.
+
+The comment is concise, mentioning their fanfiction without any emotional qualifiers. It could be a way of sharing information or agreeing with something, but it doesn't convey a specific emotion. Therefore, I think "neutral" is the most appropriate label here.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,33 @@
+Record: "Has anyone else realized that there are 16 [NAME] on this glorious movie poster?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is commenting on a specific aspect of a movie poster (the number of [NAME] present).
+* They use the phrase "glorious" which implies a positive tone.
+* However, they also express surprise or realization at the presence of 16 [NAME], suggesting that this was not their initial expectation.
+
+Most relevant emotion label: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a sense of wonder or shock at discovering multiple instances of something in a movie poster.
+* The tone appears lighthearted and playful, with the use of the word "glorious" to describe the poster.
+
+Given these considerations, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a realization or observation.
+* They seem to be commenting on the quantity of something (the number of names) rather than its quality or content.
+* There's no indication of strong negative emotions like anger, disgust, or fear.
+
+Given these considerations, the most relevant emotion label is **surprise**. The author appears to be expressing surprise at discovering there are 16 names on the poster, likely because they didn't expect it.
+------------------------------------------------------------------------------------------------------------------------
+

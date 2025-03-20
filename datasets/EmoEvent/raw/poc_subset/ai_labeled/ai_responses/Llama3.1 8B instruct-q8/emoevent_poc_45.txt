@@ -1,0 +1,31 @@
+Record: "It’s pretty cringe"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The word "cringe" is often used to express discomfort or embarrassment, rather than a strong negative emotion.
+* The tone of the tweet seems lighthearted and informal, suggesting that the author is not expressing intense anger or disgust.
+
+Given these considerations, the most relevant emotion label for this tweet is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The word "cringe" is often used to express strong discomfort or distaste for something.
+* The author's tone is informal and casual, which may suggest a negative emotion.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the word "cringe", which is often used to express strong negative emotions.
+* The tone of the tweet appears to be dismissive and critical.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

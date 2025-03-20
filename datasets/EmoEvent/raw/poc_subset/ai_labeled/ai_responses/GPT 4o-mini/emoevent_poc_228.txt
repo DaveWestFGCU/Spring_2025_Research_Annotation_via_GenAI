@@ -1,0 +1,31 @@
+Record: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider: 
+- The author expresses curiosity about something new they've learned, indicating a sense of interest.
+- The phrase "I'll be excited when that happens" suggests a positive anticipation for a future event.
+- Overall, the sentiment conveyed is one of eagerness rather than negative emotions.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:  
+- The phrase "news to me" suggests that the author is not aware of the information being mentioned, indicating a level of surprise or intrigue.  
+- The use of "I'll be excited when that happens" reflects a positive anticipation for a future event, suggesting a sense of joy or enthusiasm.  
+- The questioning and wondering tone ("I wonder how that works") implies curiosity rather than negative emotions such as anger or disgust.
+
+Given these points, the emotion the author intended to convey is primarily one of excitement and positive anticipation, pointing towards **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The phrase "That's news to me" indicates a sense of unfamiliarity or surprise regarding the topic being discussed.
+- The expression "I'll be excited when that happens" conveys anticipation and positive enthusiasm.
+- The wonderment shown in "I wonder how that works" suggests curiosity, which can relate to a sense of awe or surprise.
+
+Considering these points, the most relevant emotion conveyed by the author is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+

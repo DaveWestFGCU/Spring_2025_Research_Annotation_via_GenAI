@@ -1,0 +1,47 @@
+Record: "You’ve never shit yourself as an adult?? If an adult can then a kid definitely can"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to someone who claims they've never had an accident as an adult.
+* The speaker is expressing skepticism and making a point about the likelihood of it happening.
+
+Given these points, the most relevant emotion label is: **surprise**.
+ 
+The speaker's tone implies astonishment or incredulity that someone could claim such a thing.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is using strong language and making a comparison between adults and kids.
+* They are expressing skepticism or incredulity about someone's claim of not having had a similar experience.
+* The tone is confrontational and dismissive.
+
+Given these points, the most relevant emotion label is: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is making a comparison between adults and kids.
+* The speaker is using a somewhat confrontational tone, asking a rhetorical question ("You've never shit yourself as an adult?").
+* The speaker seems to be emphasizing the likelihood or ease of a child shitting themselves.
+
+Most relevant emotion label: **anger**
+
+The speaker's tone appears to be slightly aggressive or confrontational, and they're framing their argument in a way that implies someone is being foolish for not considering the possibility of a child having an accident. This suggests that the speaker may be feeling anger towards another commenter or the original poster.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker appears to be mocking or challenging another person, suggesting they have not had a certain experience.
+* The language used is confrontational and rhetorical ("If an adult can...").
+* The tone seems dismissive and critical.
+
+Given these points, the most relevant emotion label for this comment is **anger**. The speaker's tone and language suggest that they are feeling displeasure or antagonism towards someone who has mentioned not having had a certain experience (shitting themselves as an adult).
+------------------------------------------------------------------------------------------------------------------------
+

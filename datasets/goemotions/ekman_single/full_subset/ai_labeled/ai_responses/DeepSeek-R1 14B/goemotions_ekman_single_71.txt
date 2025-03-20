@@ -1,0 +1,70 @@
+Record: "My [NAME]. If only"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to determine the emotion the speaker might be feeling based on their comment. The comment is "My [NAME]. If only." 
+
+First, let me break this down. The phrase "If only" usually expresses a sense of wishing or longing for something that's not possible. It often carries a tone of regret or sadness because it implies that the speaker feels something is missing or could have been better.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, and neutral. I need to match this sentiment to one of these.
+
+Anger involves strong displeasure, which doesn't seem to fit here. Disgust is about revulsion, which isn't present in "if only." Fear is about being afraid or worried, which also doesn't apply. Joy is happiness or pleasure, which is the opposite of what's being conveyed. Sadness includes emotions like regret and disappointment, which align with "If only." Surprise involves astonishment, but there's no indication of that here.
+
+So, the speaker likely feels sad because they're expressing a wish for something else, indicating some form of unhappiness or longing.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "My [NAME]. If only." Hmm, okay. First, let's break down what this might mean.
+
+The phrase "If only" often expresses a sense of regret or wishing something were different. That makes me think of sadness because it's about longing for a past situation or wishing things were better. But I should also consider the other emotion categories to make sure.
+
+Looking at anger: The comment doesn't show any signs of frustration or displeasure. It's more reflective than that.
+
+Disgust? There's no indication of revulsion or disapproval here.
+
+Fear isn't likely either; there's no mention of being afraid or worried.
+
+Joy would be the opposite—this doesn't seem happy or excited.
+
+Sadness does fit because "if only" usually implies a desire for something lost, which can be a sad emotion. Maybe they're reminiscing about someone or something and feeling down.
+
+Surprise? I don't think so; there's nothing unexpected here.
+
+Neutral is an option if none of the other emotions apply, but since "if only" suggests some emotional weight, neutral might not capture it fully.
+
+So, considering all that, sadness seems to be the most fitting emotion. It aligns with a sense of longing or regret.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion the speaker might be feeling based on their comment. The sentence given is "My [NAME]. If only." Hmm, okay. So first, I need to understand the context here.
+
+The user mentioned that this is a Reddit comment made in response to a post or another commenter. Reddit comments can vary widely in tone and emotion, but without more context, I have to go off the given sentence alone.
+
+Looking at the sentence: "My [NAME]. If only." The placeholder "[NAME]" suggests that they're referring to someone else, probably by their username or handle on Reddit. So it's something like "My [Username], If only."
+
+Now, let me break down what this could mean. "If only" typically expresses a sense of wishing for something different. It often comes with a feeling of regret, longing, or perhaps even sadness. For example, someone might say, "If only I had done that differently," which usually conveys some form of sorrow or disappointment.
+
+So in this case, the speaker is addressing someone (maybe they're upset or concerned about their actions) and expressing a wish for things to be different. That makes me think of sadness because it's about wishing something hadn't happened or hoping for a change that can't be made.
+
+Looking at the emotion definitions provided:
+
+- **Sadness** includes disappointment, embarrassment, grief, and remorse. Since "If only" often relates to regret or wishing for a different outcome, this aligns well with sadness.
+  
+I don't think it's anger because there's no direct expression of irritation or displeasure. Disgust isn't present either; the speaker isn't reacting negatively to something offensive. Fear is about being afraid or worried, but there's no indication of that here. Joy and surprise are positive emotions, which don't seem to fit the tone. Neutral would be if they were stating a fact without emotion, but "If only" implies some sentiment.
+
+Therefore, the most fitting emotion here is sadness because it captures the sense of regret or longing expressed in the comment.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

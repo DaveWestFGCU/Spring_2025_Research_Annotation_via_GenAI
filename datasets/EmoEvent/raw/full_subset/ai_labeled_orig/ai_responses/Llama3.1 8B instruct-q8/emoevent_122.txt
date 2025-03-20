@@ -1,0 +1,36 @@
+Record: "Wow MESSI what a goal 🔥🔥🔥#ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains enthusiastic language ("Wow", three fire emojis) which suggests strong positive emotions.
+* There is no negative language or tone that would suggest any of the remaining emotions (anger, disgust, fear, sadness).
+* The use of enthusiastic language and emojis indicates a celebratory tone.
+
+**joy**
+
+The most relevant emotion label for this tweet is joy, as it conveys excitement and enthusiasm in response to Messi's goal.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is short and enthusiastic.
+* The use of "WOW" and multiple 🔥 emojis suggests excitement and admiration.
+* The mention of "MESSI" (Lionel Messi, a renowned football player) implies a level of reverence or admiration.
+
+Given these considerations, the most relevant emotion label for this tweet is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a football (soccer) event and expresses admiration for a player's performance.
+* The use of multiple fire emojis (🔥) suggests excitement and enthusiasm.
+* The tone appears positive and celebratory.
+
+Given these points, the most relevant emotion label is **joy**, as the author is expressing excitement and admiration for Messi's goal.
+------------------------------------------------------------------------------------------------------------------------
+

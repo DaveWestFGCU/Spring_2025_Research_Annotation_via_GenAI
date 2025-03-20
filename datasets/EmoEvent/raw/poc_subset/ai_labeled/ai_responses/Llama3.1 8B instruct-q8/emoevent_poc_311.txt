@@ -1,0 +1,36 @@
+Record: "This dvd must be pretty hard to come by if it’s going for $49... thank you though I appreciate it."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is commenting on a high price of a DVD.
+* They use a tone that seems somewhat sarcastic or tongue-in-cheek ("thank you though I appreciate it").
+* Despite the seemingly negative tone, the author does express gratitude for the information.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+Note: The author's tone may be seen as slightly sarcastic or annoyed at the price of the DVD, but not to an extreme degree that would categorize it as full-blown anger. However, among the given options, **anger** seems to be the closest match for this tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a high price ($49) and expresses gratitude ("thank you").
+* The tone is polite and appreciative, with the author thanking the seller despite being dissatisfied with the price.
+
+Given these considerations, **sadness** seems to be the most relevant emotion label. While the author is unhappy with the price, their tone remains polite and appreciative, which suggests sadness rather than anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a high price of $49 for the DVD.
+* They express gratitude and appreciation towards someone who offered them the DVD.
+
+Given these considerations, the tweet is likely conveying a sense of relief or acceptance at receiving something valuable, but not necessarily enthusiasm or excitement. However, this is closer to **joy** than other options because it's a positive emotion that acknowledges the value of what they received.
+------------------------------------------------------------------------------------------------------------------------
+

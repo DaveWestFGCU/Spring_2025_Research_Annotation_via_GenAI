@@ -1,0 +1,42 @@
+Record: "I’m so glad I watched this entire thing. That’s incredible."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "so glad", which suggests a positive emotional state.
+* The tone of the sentence is enthusiastic and appreciative, with the speaker expressing admiration for something they've seen or heard.
+* There's no indication of criticism, disapproval, or negative emotion in the comment.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of "so glad" and their expression of admiration suggest that they are feeling joy or happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is overwhelmingly positive.
+* The use of the phrase "incredible" suggests a strong sense of admiration and wonder.
+* There is no indication of negative emotions such as anger, disgust, or fear.
+
+Based on these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some points to consider when analyzing the emotion of the speaker:
+
+* The tone of the sentence is positive and enthusiastic, indicated by the use of the phrase "I'm so glad" which suggests a strong emotional reaction.
+* The speaker uses the word "incredible", which typically connotes a sense of awe or wonder.
+* There is no indication of criticism or negative sentiment in the comment.
+
+Based on these points, the most relevant emotion label for the speaker's tone is:
+
+**joy**
+
+The speaker appears to be expressing admiration and approval for something they watched, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+

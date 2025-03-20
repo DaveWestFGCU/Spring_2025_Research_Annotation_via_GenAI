@@ -1,0 +1,40 @@
+Record: "USER USER USER "..that’s what USER wants.". Good to see you've given up the pretence that this is about the #Venezuelan people.  Now about the make up of those pro opposition demonstrators, maybe not so representative of #Venezuela... https://t.co/EPxRboaHno"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet appears critical and dismissive.
+* The author is questioning the legitimacy or representation of the pro-opposition demonstrators.
+* The use of ellipses and the phrase "Good to see you've given up" implies a sense of frustration or annoyance.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's tone suggests a strong emotional response, likely anger or annoyance, towards what they perceive as a lack of legitimacy or representation among pro-opposition demonstrators.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet appears to be confrontational and critical.
+* The author is questioning the legitimacy of a particular group (pro-opposition demonstrators).
+* The language used is dismissive ("given up the pretence") and mocking ("USER USER USER").
+
+Given these points, the most relevant emotion label is **anger**, as the tone suggests annoyance and frustration with the opposing viewpoint.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet appears to be a response to someone who has made claims or statements that the author disagrees with.
+* The language used by the author is critical and dismissive, with phrases such as "given up the pretence" and "not so representative".
+* The tone seems to be confrontational and accusatory.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's use of aggressive language and accusations suggests that they are feeling angry or annoyed at the person they are responding to.
+------------------------------------------------------------------------------------------------------------------------
+

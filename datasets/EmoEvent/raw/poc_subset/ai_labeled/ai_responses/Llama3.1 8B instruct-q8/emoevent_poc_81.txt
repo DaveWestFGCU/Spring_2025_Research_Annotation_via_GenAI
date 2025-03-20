@@ -1,0 +1,41 @@
+Record: "No, I definitely understand that feel and empathize. That can be hard to deal with. How have you been as of late?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is responding to a situation or emotion expressed by someone else.
+* They acknowledge the difficulty of dealing with it.
+* The tone appears to be supportive and concerned.
+
+The most relevant emotion label is **sadness**, as the author seems to be empathizing with the other person's difficult experience, which implies a sense of sorrow or concern for their well-being.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is responding to someone's emotional experience.
+* They express understanding and empathy for the person's feelings.
+* The tone is calm and supportive.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author appears to be responding to a situation that has caused sadness or distress in someone else. Their empathetic response suggests they are acknowledging and validating those negative emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is responding to someone else's experience or feeling.
+* They are acknowledging the difficulty of dealing with this situation.
+* Their tone appears supportive and inquiring.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+**sadness**
+
+The reason being that the author seems to be empathizing with the person they're talking to, which suggests a recognition of their pain or distress. The question about how the other person has been "as of late" implies concern for their well-being and possibly a desire to offer comfort, both hallmarks of sadness as an emotion.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "Why are they asking women and nonwhites specifically?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to a question that has sparked concern or controversy.
+* The speaker is highlighting a specific aspect of the question that seems discriminatory or exclusionary ("women and nonwhites").
+* The tone appears critical or questioning.
+
+Based on these observations, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be questioning the specificity of a question being asked.
+* The tone appears to be critical or objecting to something.
+
+Given these points, the most relevant emotion label is **anger**. The speaker's language implies a sense of strong disapproval and possibly outrage at the targeted nature of the question.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be expressing disapproval or frustration with the question being asked.
+* The tone of the comment is direct and confrontational, suggesting that the speaker is reacting strongly to the question.
+* The use of the phrase "specifically" implies a sense that the speaker finds the question discriminatory or biased.
+
+Most relevant emotion label: **anger**
+This label seems most fitting because the speaker's tone is confrontational and disapproving, which are common indicators of anger. While the comment could also be interpreted as expressing disgust (at the perceived bias or discrimination), the language used ("Why are they...") suggests a more direct and aggressive reaction, which is more characteristic of anger.
+------------------------------------------------------------------------------------------------------------------------
+

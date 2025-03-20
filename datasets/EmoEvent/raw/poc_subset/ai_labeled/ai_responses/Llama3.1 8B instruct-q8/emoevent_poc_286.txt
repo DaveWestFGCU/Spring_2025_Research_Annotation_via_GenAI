@@ -1,0 +1,34 @@
+Record: "I’m tired from working hard and I want someone to snuggle me to sleep"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions feeling tired, which suggests a need for comfort and relaxation.
+* The author expresses a desire for physical affection, specifically being snuggled, which implies a longing for emotional support.
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+
+Based on these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses a desire for physical comfort and affection.
+* They mention being tired, implying a need for rest or relaxation.
+
+Given these points, the most relevant emotion label is **sadness**. The author's tone suggests they are feeling vulnerable and in need of emotional support, which aligns with the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions being tired from working hard, which suggests physical exhaustion.
+* They express a desire for someone to snuggle them to sleep, implying a need for comfort and affection.
+
+Most relevant emotion label: **sadness**
+
+The author's expression of tiredness and desire for snuggling suggests a sense of emotional vulnerability and longing for human connection, which are common characteristics of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

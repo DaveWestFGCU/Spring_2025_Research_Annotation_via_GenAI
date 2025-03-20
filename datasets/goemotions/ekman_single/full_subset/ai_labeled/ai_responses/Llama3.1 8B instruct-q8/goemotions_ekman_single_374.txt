@@ -1,0 +1,35 @@
+Record: "Try to be rational instead of angry."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is advising someone to change their emotional state.
+* The tone is cautionary and instructive, implying that the person they're addressing may not be approaching the situation in a healthy way.
+
+Given these points, the most relevant emotion label is **neutral**. 
+
+Note: This response is because the speaker's comment doesn't express any emotion themselves; instead, they're offering advice on how someone else should feel or behave, which is characteristic of a neutral tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is advising someone else to manage their emotions.
+* They mention a specific emotion ("angry") that they believe the person should not feel.
+* The tone is instructive and cautionary.
+
+Given these considerations, the most relevant emotion label for the speaker's sentiment is **sadness**, but that doesn't fit. Instead, it seems more likely to be advising on how to manage anger in oneself or others. Thus, the speaker may be feeling a sense of exasperation or frustration with the situation, but given the options, the closest match would be **anger** as a response aimed at calming down someone else's anger rather than expressing their own.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is advising someone else to adopt a certain emotional state ("be rational").
+* The word "angry" is used in the phrase "instead of angry", suggesting that anger is what the person being addressed may be feeling.
+* The tone of the comment seems cautionary and encouraging, rather than confrontational or judgmental.
+
+Given these points, the most relevant emotion label for the speaker's likely sentiment is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

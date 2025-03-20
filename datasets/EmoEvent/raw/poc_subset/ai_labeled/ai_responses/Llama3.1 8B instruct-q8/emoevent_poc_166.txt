@@ -1,0 +1,32 @@
+Record: "It would be a crime to not invite him."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet uses the phrase "would be a crime", which suggests a strong negative connotation and moral obligation.
+* The tone is imperative, with a sense of urgency and importance.
+* There is no indication of positive emotions or neutral sentiment.
+
+Based on these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet suggests that excluding someone from an invitation is considered wrong.
+* The use of the word "crime" implies severity and moral obligation.
+
+Given these considerations, the most relevant emotion label is **joy**. The tone of the tweet conveys a sense of enthusiasm and positivity, suggesting that the author feels strongly about including the person in the invitation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Points to consider:
+
+* The author is using a strong phrase like "a crime", implying that not inviting someone is a serious mistake.
+* The tone of the statement seems imperative and urgent.
+
+Given these points, the most relevant emotion label is: **joy**. The use of the word "crime" in a positive context suggests that the author is enthusiastic about inviting this person, indicating joy.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,39 @@
+Record: "I rarely like or comment on YouTube. But I make hella playlists so I guess I use it more as a tool than a community."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that they rarely like or comment on YouTube, which implies that their engagement with the platform is not about social interaction.
+* They mention making "hella" playlists, suggesting a utilitarian use of the platform.
+* There's no tone of criticism or negativity in the comment.
+
+Given these points, the most relevant emotion label for this speaker's statement is:
+
+**neutral**
+
+The speaker is simply stating their usage habits and preferences without expressing any strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that they rarely like or comment on YouTube, which suggests that their usage of the platform is not driven by social interaction.
+* They instead focus on using YouTube as a tool for creating playlists.
+* The tone of the comment is straightforward and matter-of-fact.
+
+Given these considerations, the most relevant emotion label is: **neutral**
+
+The speaker's comment does not convey any strong emotions such as anger, disgust, fear, joy, sadness, or surprise. Instead, it presents their usage of YouTube in a factual and detached manner, which aligns with the characteristics of neutral emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions they don't often engage with the community aspect of YouTube, but do find value in its functionality.
+* They mention making "hella playlists", which suggests they have a positive experience using YouTube.
+
+Given these points, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

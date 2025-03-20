@@ -1,0 +1,37 @@
+Record: "The fire at #NotreDame reminded me of this paragraph from my work on the kingdom as a space.   People mourn because spaces are not static, but active. #NotreDameCathedralFire https://t.co/CLUNAL3iF0"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is referencing a tragic event (the Notre Dame Cathedral fire).
+* The author mentions people mourning.
+* The tone of the tweet appears to be reflective and contemplative.
+
+Given these points, the most relevant emotion label is:
+**sadness**
+
+The author's mention of people mourning suggests that they are acknowledging and empathizing with the emotional impact of the event on others. While the tone is not overtly sorrowful or grieving, it has a melancholic quality to it, which aligns with the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a tragic event (a fire at Notre-Dame Cathedral)
+* The author reflects on the significance of spaces and how people mourn when they are affected by change
+* There is no indication of anger, disgust, fear, joy, or surprise in the tone of the tweet
+* The author's focus is on the emotional response to the fire (mourn) rather than expressing their own emotion
+
+Based on this analysis, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is in response to the Notre Dame Cathedral fire.
+* The author mentions "mourn" and shares a related work, suggesting a somber tone.
+
+The most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

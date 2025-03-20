@@ -1,0 +1,18 @@
+Record: "I’m so disappointed that the Notre Dame didn’t burn all the way to the ground. #NotreDame #NotreDameCathedralFire"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out the primary emotion conveyed in this tweet about the Notre Dame fire. The user wrote, "I’m so disappointed that the Notre Dame didn’t burn all the way to the ground." 
+
+First, let's break down the words used. They mention being "disappointed," which directly relates to a feeling of dissatisfaction or unhappiness. The context is the Notre Dame Cathedral fire, which was a significant event. The user expresses that they're disappointed because the fire didn't completely destroy the cathedral.
+
+Looking at the emotion labels provided: anger, disgust, fear, joy, sadness, surprise. I need to map this to one of these. Disappointment often falls under sadness because it's related to unmet expectations or loss. In this case, the user feels let down that the destruction wasn't as complete as they might have hoped.
+
+I should consider if there are any other emotions present. There's no obvious anger or frustration beyond the disappointment, which is more about sorrow or unhappiness. So sadness seems like the most fitting label here.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

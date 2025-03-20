@@ -1,0 +1,42 @@
+Record: "10th Church vandalized in France this week... Why can’t people just chill? Fuck... #NotreDameCathedralFire #Frace #FreeFrance #Notre_dame_de_Paris #News #Online https://t.co/fI56U4qjgv"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a vandalism incident in France, which is related to the Notre-Dame Cathedral fire.
+* The author expresses frustration and uses strong language ("Why can’t people just chill?", "Fuck").
+* The tone seems to be one of exasperation and disappointment.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is mentioning vandalism in France, which suggests a negative tone.
+* The phrase "Why can't people just chill?" implies frustration or annoyance with the situation.
+* The use of profanity ("Fuck") adds to the intensity of the sentiment.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+
+**anger**
+
+The author's tone is one of frustration and exasperation with the vandalism and the apparent lack of civility in France, which aligns with the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions vandalism, which suggests a negative tone.
+* The phrase "Why can't people just chill?" implies frustration and exasperation.
+* The use of the word "Fuck" is an intensifier that emphasizes the author's strong feelings.
+* The hashtags include #NotreDameCathedralFire, but also mention a vandalized church, which suggests the author is connecting the fire to a broader pattern of violence or disrespect.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's use of strong language and emphasis on frustration and exasperation indicate that they are expressing anger at the vandalism and its implications.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,18 @@
+Record: "Well #GameofThrones was brilliant, having just watch the latest episode.  That's all I'm saying."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about Game of Thrones. Let me read it again: "Well #GameofThrones was brilliant, having just watched the latest episode. That's all I'm saying." 
+
+The user is talking about the show being "brilliant" and mentions they've just watched an episode. The word "brilliant" usually has positive connotations, which makes me think of joy or maybe surprise because it's a strong positive statement. But let's break it down more.
+
+Looking at the emotion labels: anger, disgust, fear, joy, sadness, surprise. I need to pick one. The tweet is expressing satisfaction and praise for the show. "Brilliant" is an enthusiastic word, so that leans towards joy because it's a positive feeling. Alternatively, could it be surprise? Maybe if they were unexpectedly impressed, but the wording doesn't suggest surprise; it's more of a straightforward compliment.
+
+Also, considering the context given about Game of Thrones being popular and the last season premiered in 2019, the tweet seems to reflect a fan's positive reaction. So, the emotion here is likely joy because they're expressing satisfaction and praise.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

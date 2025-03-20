@@ -1,0 +1,42 @@
+Record: "Now, every single impious modernist architects wants to take advantage of #NotreDameCathedralFire to redesign it as some futuristic shopping mall. https://t.co/utTM5Sq2Gn"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a negative event (the Notre-Dame Cathedral Fire)
+* The author expresses a strong opinion that modernist architects are taking advantage of the situation
+* The author uses the word "impious", which implies disapproval or disdain
+* The author links to an article, but the tone is critical and judgmental
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author appears to be annoyed and outraged by the idea that modernist architects would use the fire as an opportunity to redesign the cathedral in a way that they disagree with.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a devastating event (the Notre Dame Cathedral fire) but does not express a reaction typical of shock or horror.
+* The author implies that certain individuals would take advantage of the situation for their own gain, which suggests a negative attitude towards these people.
+* The use of the word "impious" and the phrase "take advantage" convey a sense of disapproval.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+This classification is based on the author's apparent frustration and displeasure with modernist architects who would exploit the situation for their own interests.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is reacting to the Notre Dame Cathedral Fire, a significant and tragic event.
+* The author mentions "impious modernist architects", implying criticism of their intentions or values.
+* The author suggests that these architects want to take advantage of the fire for personal gain.
+
+Given these points, the emotion label most relevant to this tweet is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

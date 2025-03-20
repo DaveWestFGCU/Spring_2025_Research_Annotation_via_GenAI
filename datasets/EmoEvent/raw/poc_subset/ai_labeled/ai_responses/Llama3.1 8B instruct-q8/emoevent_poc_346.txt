@@ -1,0 +1,35 @@
+Record: "I'm so sorry that your partner doesn't understand that you no longer want to put hormones in your body."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify this tweet, consider the following points:
+
+* The author is expressing sympathy and apology towards someone who has experienced a negative situation.
+* The situation involves a personal decision (not wanting to take hormones) being misunderstood by a partner.
+* There is no indication of the author's emotional state, but rather an expression of empathy.
+
+Given these points, the most relevant emotion label is **sadness**, as the author is showing sorrow for someone else's misfortune.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet is a sympathetic expression of apology towards someone who is in a difficult situation.
+- The author acknowledges the other person's emotional pain and frustration.
+- The tone is supportive and empathetic.
+
+**sadness**
+
+The context suggests that the author is expressing sorrow for someone else's distress, rather than experiencing any of the other emotions themselves.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is offering condolences and expressing sympathy.
+* They are acknowledging the person's decision not to use hormones.
+* There is a tone of understanding and validation.
+
+Given these points, the most relevant emotion label is **sadness**, as the author is empathizing with someone who is experiencing emotional distress.
+------------------------------------------------------------------------------------------------------------------------
+

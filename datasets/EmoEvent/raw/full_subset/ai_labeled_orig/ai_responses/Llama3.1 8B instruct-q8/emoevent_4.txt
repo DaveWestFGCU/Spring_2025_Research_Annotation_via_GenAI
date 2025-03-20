@@ -1,0 +1,40 @@
+Record: "I hope Salah scores a hat trick in the second leg! #ChampionsLeague #BARvLIV #LivBar #BARLFC"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet expresses a hopeful and optimistic tone.
+* The author is rooting for a specific team (Liverpool, implied by the hashtag "LivBar") and a player (Salah) to achieve a positive outcome.
+* There is no indication of negative emotions or criticism.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+This classification aligns with the author's enthusiastic and encouraging tone, wishing for a successful outcome in the Champions League match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is expressing a desire for a specific outcome in the UEFA Champions League.
+* The tone appears optimistic and enthusiastic.
+* There is no negative language or criticism mentioned.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+The author's enthusiasm and optimism about Salah scoring a hat trick convey joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a desire for a specific outcome (Salah scoring a hat trick).
+* The tone of the tweet appears enthusiastic and optimistic.
+* There are no negative or critical words used in the tweet.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

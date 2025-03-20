@@ -1,0 +1,43 @@
+Record: "Now you're lying. Suburbs = more than Bellevue and Kirkland."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to someone else's statement, indicating they may be disagreeing with the other person.
+* The speaker uses strong language ("Now you're lying"), which suggests a negative emotion.
+* The comparison between suburbs and Bellevue/Kirkland may indicate that the speaker has a strong opinion about the value or desirability of these places.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+The speaker's use of strong language and apparent disagreement with the other person suggests that they are feeling angry.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is directly accusing someone of lying.
+* The tone is confrontational, using the phrase "Now you're lying" which implies a strong sense of disagreement or dispute.
+* The comparison made by the speaker ("Suburbs = more than Bellevue and Kirkland") suggests a sense of superiority or defensiveness.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The tone of the comment suggests that the speaker feels strongly disapproved or antagonized by the original statement, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to a statement that they disagree with.
+* The tone of the response is direct and accusatory, using the word "lying".
+* The comparison made between suburbs and other specific locations (Bellevue and Kirkland) suggests a sense of familiarity or local knowledge, but also implies a disagreement.
+
+Most relevant emotion label: **anger**
+The speaker's use of the word "lying" and their direct response to someone else's statement suggest that they are feeling angry.
+------------------------------------------------------------------------------------------------------------------------
+

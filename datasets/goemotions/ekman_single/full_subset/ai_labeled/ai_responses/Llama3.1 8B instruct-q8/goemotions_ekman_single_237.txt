@@ -1,0 +1,32 @@
+Record: "It’s a shame there is no sound lol"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "It's a shame" which typically implies disappointment or regret.
+* The comment is made in a lighthearted and humorous tone, with the addition of "lol", which suggests that the speaker is not genuinely upset.
+
+Given these points, I would conclude that the speaker is expressing **sadness**. While the tone is playful, the sentiment behind it is still one of disappointment or wistfulness about something being missing (in this case, sound).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses a sentiment about something lacking, specifically sound.
+* The tone seems lighthearted and playful with the use of "lol".
+* There's no indication of strong emotion or negativity.
+
+Given these considerations, the most relevant emotion label is **surprise**, as the speaker appears to be expressing mild surprise or disappointment that there is no sound. However, it's worth noting that this surprise is not intense enough to be classified as a stronger emotion like fear or anger, and the tone is more playful than serious.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker says it's a "shame", which implies disappointment or dissatisfaction.
+* They mention the lack of something (sound), which could be unexpected or frustrating for them.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker seems disappointed that there is no sound, which suggests they had expected or wanted to hear it.
+------------------------------------------------------------------------------------------------------------------------
+

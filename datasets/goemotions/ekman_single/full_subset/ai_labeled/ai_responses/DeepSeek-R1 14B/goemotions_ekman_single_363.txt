@@ -1,0 +1,50 @@
+Record: "Been there, done that. Still alive and remarkably healthy at 51. The body is tremendously resilient"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break down this query. The user wants me to identify an emotion from a list based on a given comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, I'll read the comment: "Been there, done that. Still alive and remarkably healthy at 51. The body is tremendously resilient." 
+
+The speaker seems to be sharing their experience. They mention having gone through something, but they're still alive and in good health. Words like "remarkably healthy" and "tremendously resilient" have positive connotations.
+
+Looking at the emotion categories, joy includes feelings of happiness and pleasure. The tone here is appreciative and positive about overcoming challenges and maintaining health. There's no indication of anger, disgust, fear, sadness, or surprise. It doesn't sound neutral either since they're expressing a positive sentiment.
+
+So, putting it all together, the emotion that fits best is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. Let me read it carefully: "Been there, done that. Still alive and remarkably healthy at 51. The body is tremendously resilient." 
+
+First, breaking down the sentence. They're talking about an experience they've had before ("Been there, done that"), which suggests they might be referring to a challenging situation or perhaps something others are going through. Then they mention still being alive and healthy at 51, emphasizing their resilience.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The tone here seems positive but not overly excited. They're sharing a personal experience in a matter-of-fact way, highlighting their health and resilience. There's no indication of strong feelings like anger or fear. The use of words like "remarkably healthy" and "tremendously resilient" suggests pride or satisfaction, which could fall under joy, but it's more of a statement than an expression of intense emotion.
+
+Alternatively, they might be sharing this to inform others rather than expressing a primary emotion. Since the comment is more about stating facts with a positive twist without strong emotional language, I think neutral fits best because there's no clear display of any specific emotion beyond a factual and somewhat uplifting tone.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out the emotion the speaker is feeling based on their comment. Let me look at the sentence they said: "Been there, done that. Still alive and remarkably healthy at 51. The body is tremendously resilient." 
+
+First, let's break this down. The phrase "Been there, done that" usually indicates familiarity or experience with something. Then, they mention still being alive and healthy at 51, which is a positive statement about their well-being. They also highlight the resilience of the body.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. The tone here seems positive. Words like "remarkingl healthy" and "tremendously resilient" suggest satisfaction or approval. There's no indication of any negative emotions like anger or sadness. They're sharing a personal experience in a matter-of-fact way but with an uplifting message.
+
+So considering the emotion definitions, joy includes feelings of happiness and approval. The speaker seems to be expressing pride or satisfaction about their health and resilience, which fits under joy. There's no surprise element because it's a straightforward statement without any unexpected twist. No fear or sadness either; it's all positive.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

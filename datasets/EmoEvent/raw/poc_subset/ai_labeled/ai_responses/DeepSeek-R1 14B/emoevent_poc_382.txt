@@ -1,0 +1,54 @@
+Record: "As much as I love the dodgers, I can’t see them in the World Series 3 times in a row... so yeah, backwards."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out what emotion is conveyed in this tweet. The tweet says: "As much as I love the dodgers, I can't see them in the World Series 3 times in a row... so yeah, backwards."
+
+First, I notice that the author starts with expressing love for the Dodgers, which immediately makes me think of joy or positive feelings. But then the tone shifts—they mention not being able to see the Dodgers winning three times in a row and end with "so yeah, backwards." The use of "backwards" might indicate sarcasm or frustration.
+
+So, breaking it down: love (joy) is present at the beginning, but the overall message seems negative. Maybe the author is disappointed or frustrated because they expected more from the Dodgers but are skeptical about them winning three times consecutively. Disappointment can fall under sadness because it's a feeling of being let down.
+
+Alternatively, could it be anger? The frustration might lean towards anger, but the primary emotion expressed isn't rage—it's more about the unmet expectation leading to disappointment. So between joy and sadness, I think sadness is more appropriate here because the author is expressing a sense of loss or unfulfilled hope regarding their love for the team.
+
+I should also consider if there's any surprise. The tweet doesn't seem surprised; it's more of a commentary on expectations not being met. So surprise isn't the emotion here.
+
+Therefore, sadness seems to be the most fitting category because it captures the disappointment and perhaps grief over unmet hopes.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this tweet classification. The tweet is: "As much as I love the dodgers, I can’t see them in the World Series 3 times in a row... so yeah, backwards." 
+
+First, I need to understand the sentiment here. The author starts by expressing love for the Dodgers, which immediately makes me think of positive emotions, maybe joy or serenity. However, they quickly pivot to say they can't see them winning three times in a row, and end with "backwards," which seems negative.
+
+Breaking it down, the first part is clearly positive—loving something suggests happiness. But then there's doubt about their performance, which introduces a negative tone. The word "can’t see" might indicate skepticism or disappointment. The phrase "so yeah, backwards" adds to that negativity; perhaps they're frustrated or feel something isn't right.
+
+Now, considering the emotion categories: anger includes annoyance and rage, but I don't detect any strong irritation here. Disgust involves dislike or disinterest, which doesn't quite fit because the author still loves them. Fear is more about apprehension or anxiety—maybe, but it's not a direct threat. Sadness involves grief or pensiveness; while there's doubt, it's more frustration than sadness.
+
+Surprise includes amazement or distraction, but again, that's not the primary feeling here. The predominant emotion seems to be frustration with their performance, which is a form of anger or annoyance. So I'd classify this as anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let's try to figure out the emotion conveyed in this tweet. The user wrote: "As much as I love the dodgers, I can't see them in the World Series 3 times in a row... so yeah, backwards." 
+
+First, I notice they start with expressing love for the Dodgers, which immediately makes me think of positive emotions, possibly joy or serenity. But then their statement takes a negative turn. They say they "can’t see" the Dodgers winning three times in a row, and end with "so yeah, backwards." The word "backwards" here might be implying that it's not going to happen again, maybe even frustration.
+
+So, breaking it down: the first part shows love (joy), but the second part expresses doubt or disappointment. It feels more like they're frustrated or annoyed because their team isn't performing as expected. That points towards anger, which includes annoyance and rage.
+
+I don't see any signs of disgust, fear, sadness beyond maybe mild disappointment, or surprise. The main emotion seems to be frustration or dislike directed at the Dodgers' repeated appearances, suggesting anger.
+</think>
+
+The tweet expresses frustration or mild annoyance at the Dodgers' repeated World Series appearances, fitting under **anger**.
+
+**emotion:** **anger**
+------------------------------------------------------------------------------------------------------------------------
+

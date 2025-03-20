@@ -1,0 +1,33 @@
+Record: "YES [NAME], we're rooting for you! 🎉🎉"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet includes exclamation marks, indicating enthusiasm or excitement.
+- The use of "rooting for you" suggests support and encouragement.
+- The presence of emojis (🎉) further reinforces a celebratory tone.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text is a supportive message with celebratory language ("rooting for you", "we")
+* It includes enthusiastic punctuation (🎉) which suggests excitement and positivity
+* There is no language that indicates criticism, concern, or negativity
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The use of all capital letters and exclamation marks conveys a strong sense of enthusiasm and excitement.
+* The inclusion of party poppers (🎉) is a common symbol associated with celebration and joy.
+* The tone of the message is supportive and encouraging, indicating a positive sentiment towards the person being addressed.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

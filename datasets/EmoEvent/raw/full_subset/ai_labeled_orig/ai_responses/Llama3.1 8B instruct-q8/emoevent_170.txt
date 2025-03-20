@@ -1,0 +1,43 @@
+Record: "USER USER It must be said. #GretaThunberg has lit a fuse that will one day, I hope, be able to save every species of life on Earth. Otherwise, we really are doomed forever! Once we ignite the runaway greenhouse effect, game over people."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is discussing Greta Thunberg's efforts and their potential impact on saving life on Earth.
+* The tone is urgent and emphasizes a sense of impending doom if action is not taken.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+ 
+The author expresses frustration and concern for the consequences of inaction, but ultimately conveys a sense of desperation and urgency that aligns more with anger than other options.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions Greta Thunberg's actions as potentially saving "every species of life on Earth", indicating a dire situation that is being addressed.
+* The use of phrases such as "game over" and "doomed forever" convey a sense of impending disaster if no action is taken.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's tone is urgent and critical, expressing frustration and exasperation at the current state of climate change, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is discussing Greta Thunberg and her movement "Fridays for Future", which implies a serious and potentially catastrophic issue (climate change).
+* The author uses phrases like "doomed forever" and "game over people", indicating a sense of hopelessness and urgency.
+* The author expresses a desire to be proven wrong, hoping that the movement will be successful.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+The author's tone is one of frustration and desperation, as they are warning about the severe consequences of climate change. While there may be an element of fear, the overall tone is more focused on outrage and urgency than fear or any other emotion.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is defending someone named [NAME], implying a personal connection or loyalty.
+* The speaker is criticizing the Green Bay Packers organization and its front office, using strong language ("stopped trying").
+* The tone of the sentence suggests a sense of frustration and justification.
+
+Based on these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker's language and tone suggest a strong feeling of displeasure or antagonism towards the Packers organization, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The speaker is defending someone named [NAME].
+* They imply that the criticism towards [NAME] is misplaced.
+* The speaker shifts the blame from [NAME] to the Packers organization and its Front Office.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone appears to be defensive and assertive, suggesting that they are frustrated or annoyed by the criticism directed at [NAME]. This aligns with the characteristics of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is defending someone named [NAME].
+* The speaker is placing blame on an external entity (the Packers organization and Front Office).
+* The tone seems critical of others who are criticizing [NAME].
+
+Given these points, the most relevant emotion label for the speaker's sentiment is **anger**, as they seem to be strongly disagreeing with others' opinions and expressing frustration or annoyance.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+Record: "It's over!!!!  #Barcelona are #LaLiga champions again!!!!   #BarçaLevante"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out which emotion this tweet is conveying. The user provided a tweet that says, "It's over!!!! #Barcelona are #LaLiga champions again!!!! #BarçaLevante." I need to classify the emotion from the list: anger, disgust, fear, joy, sadness, surprise.
+
+First, looking at the content of the tweet, it's about Barcelona winning the La Liga championship again. The use of exclamation marks and hashtags related to their victory suggests excitement. The word "It's over!!!!" could be interpreted as something concluding in a positive way for them, ending a season with success.
+
+The emotion I feel here is definitely joy. The author is celebrating a win, which brings happiness and pride. There's no indication of anger or frustration; instead, it's all about triumph and excitement. No signs of fear or surprise either—just pure elation at the achievement.
+
+So, putting it together, the tweet clearly expresses joy because they're announcing their team's championship victory with enthusiasm.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm looking at this tweet: "It's over!!!! #Barcelona are #LaLiga champions again!!!! #BarçaLevante". The user is clearly expressing a strong emotion here. Let me break it down.
+
+First, the use of exclamation marks indicates excitement. They're using multiple '!' which usually conveys a high level of emotion. The words "It's over" might suggest that something significant has concluded, perhaps a long-awaited victory or the end of a challenging period for Barcelona fans.
+
+Then, they mention "#Barcelona are #LaLiga champions again!!!!" This repetition and the hashtag emphasize their pride and joy in the achievement. Being called champions again after some time implies a sense of victory and fulfillment.
+
+The hashtags used are all related to Barcelona's win, which shows they're sharing this moment with other fans, spreading excitement. The word "again" might also hint at overcoming obstacles or repeating past successes, which adds to the celebratory tone.
+
+Considering the emotion categories: anger is out because there's no sign of frustration. Disgust isn't present; instead, it's positive feelings. Fear? No, it's a happy announcement. Sadness? Definitely not; the language is upbeat. Surprise could be possible if it was unexpected, but given that they're calling them champions again, it seems more like an anticipated and celebrated outcome.
+
+So, joy fits best here because the author is celebrating a victory with excitement and pride.
+</think>
+
+The tweet expresses excitement and celebration about Barcelona winning LaLiga again, which conveys **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out the emotion in this tweet. The user provided a tweet: "It's over!!!! #Barcelona are #LaLiga champions again!!!! #BarçaLevante". I need to classify it into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, looking at the language used. The tweet is all caps and has multiple exclamation marks. That usually indicates strong positive emotion. Words like "It's over" could mean the competition is done, but paired with "champions again" suggests a victory. The use of hashtags related to Barcelona and LaLiga also points towards celebrating their success.
+
+So, the author is expressing excitement and happiness about Barcelona winning the league again. Among the options, joy fits best here because it's a celebration of a positive outcome. There's no sign of anger, disgust, fear, sadness, or surprise—just pure elation.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

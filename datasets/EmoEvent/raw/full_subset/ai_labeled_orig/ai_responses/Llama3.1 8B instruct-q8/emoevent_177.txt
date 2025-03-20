@@ -1,0 +1,42 @@
+Record: "I understand that the #NotreDameCathedralFire was sad but imagine that those millionaires donating more than a billion euros to reconstruct it would have the heart to use their money for a humanitarian crisis instead 🤷🏻‍♀️ #foodforthought"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet expresses sympathy and understanding towards the fire at Notre-Dame Cathedral.
+* The author mentions that they find it sad, indicating a negative emotional response.
+* The author also suggests an alternative use for the donations, implying that they think the donors could be doing better.
+
+Given these points, the most relevant emotion label is **sadness**, as the author explicitly states that they find the situation "sad" and their tone appears to be reflective and melancholic.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions that they "understand" the Notre Dame Cathedral fire is sad, indicating a recognition of its emotional impact.
+* However, the author's tone shifts towards criticism of wealthy individuals who are donating money for reconstruction, implying a sense of disapproval or disappointment.
+* The use of the phrase "#foodforthought" suggests that the author wants to spark critical thinking and consideration about the priorities of those involved.
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The author starts by acknowledging sadness, but their tone quickly shifts towards a more critical and disappointed attitude, which is still emotionally charged, but more closely related to sadness than other options.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions that the Notre-Dame Cathedral fire was "sad", indicating a negative emotional tone.
+* However, the author's primary focus is not on expressing sadness or grief, but rather on making a commentary about the wealthy individuals donating money for reconstruction.
+* The use of the phrase "food for thought" suggests a reflective and critical perspective.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's tone is indeed sorrowful, but their main intention is to convey disappointment and frustration with how the donated funds could be used more effectively.
+------------------------------------------------------------------------------------------------------------------------
+

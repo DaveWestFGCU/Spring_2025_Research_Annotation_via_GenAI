@@ -1,0 +1,33 @@
+Record: "Prayers for Dipo you guys. Just had a gruesome injury"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing concern and support for someone named Dipo.
+* The phrase "gruesome injury" suggests that the situation is serious and potentially distressing.
+
+Given these considerations, the most relevant emotion label is **sadness**. The author appears to be expressing sympathy and empathy for Dipo's situation, which is a key aspect of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing concern and sympathy for someone named Dipo.
+* They mention an injury, which implies that the situation is serious and potentially disturbing.
+* The use of the word "gruesome" suggests a strong negative emotional response.
+
+Based on these considerations, the most relevant emotion label is **sadness**, as the author is expressing empathy and concern for someone who has been hurt.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing support and concern for someone named Dipo.
+* They mention an "injury", which implies a negative event has occurred.
+* The use of the word "gruesome" suggests that the injury was severe or disturbing.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "Maybe she was having a bad day. But then again at least say hi."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to someone else's behavior or action, specifically not saying hello.
+* The tone of the sentence is questioning and somewhat critical.
+* The phrase "But then again" suggests a hint of annoyance.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker seems to be expressing disappointment or frustration with someone's lack of greeting, which can be interpreted as a sad or disappointing experience.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that "maybe she was having a bad day", suggesting some empathy and understanding.
+* However, the tone shifts with "But then again" which implies a criticism or expectation that wasn't met.
+* The phrase "at least say hi" indicates a sense of disappointment or unmet expectation.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's comment suggests they are feeling some level of sadness or disappointment due to an unmet expectation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be addressing someone who didn't respond or interact with them.
+* They mention the possibility of the person having a bad day, implying some level of understanding and empathy.
+* However, they also express a desire for a simple greeting, which could suggest a sense of being overlooked or disregarded.
+
+Given these points, the speaker's tone appears to be slightly disappointed or frustrated, but not strongly so. They are more likely expressing a mild expectation that was not met, rather than intense anger or disgust.
+
+**sadness**
+
+Reasoning: The speaker seems to be expressing a minor disappointment and possibly feeling overlooked by someone they were expecting to interact with. While it's not a strong expression of sadness, the tone is more melancholic than anything else, fitting the sadness category.
+------------------------------------------------------------------------------------------------------------------------
+

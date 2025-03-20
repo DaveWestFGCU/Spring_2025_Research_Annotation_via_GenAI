@@ -1,0 +1,35 @@
+Record: "350 calories The large is 20 oz and it’s 140 per 8 oz so 350"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment seems matter-of-fact and straightforward.
+* The speaker appears to be simply providing information about a product's nutrition facts, without expressing any opinion or emotion.
+* There is no language that suggests excitement, enthusiasm, or negative feelings.
+
+Based on these observations, the most relevant emotion label is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to someone who has mentioned a specific drink size, likely the "large" size.
+* The speaker provides mathematical calculations to support their point.
+
+Given these considerations, the speaker seems to be presenting factual information in a straightforward manner without expressing any strong emotions.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be calculating and providing information.
+* They are addressing the calorie count of a specific drink size (20 oz).
+* There is no apparent emotional language or tone in the comment.
+
+Given these points, the most relevant emotion label is **neutral**. The speaker's tone seems straightforward and factual, without any expression of emotion such as anger, disgust, fear, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+

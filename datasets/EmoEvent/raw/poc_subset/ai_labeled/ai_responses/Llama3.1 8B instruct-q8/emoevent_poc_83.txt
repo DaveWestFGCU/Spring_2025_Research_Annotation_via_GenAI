@@ -1,0 +1,36 @@
+Record: "Haha thanks for the warning but we met with her irl before :D"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a humorous tone, indicated by the use of "haha" and ":D".
+* The author is responding to a warning that turned out not to be necessary.
+* The author is sharing their experience of meeting someone in person, which suggests a casual and positive interaction.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains a smiley face (:) and a laughing face (😂) which are typically associated with positive emotions.
+* The tone of the tweet seems playful and lighthearted, with the use of colloquial language ("irl" for "in real life").
+* The author is responding to a warning, but their tone is not critical or negative.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains a smiling face emoticon (:D) which is commonly associated with positive emotions.
+* The language used is casual and lighthearted, suggesting that the author is joking or teasing about receiving a warning.
+* The phrase "Haha thanks" implies that the author appreciates the warning in a humorous way.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

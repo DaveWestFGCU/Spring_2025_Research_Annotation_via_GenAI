@@ -1,0 +1,37 @@
+Record: "It's over!!!!  #Barcelona are #LaLiga champions again!!!!   #BarçaLevante"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a championship win for Barcelona.
+* The language used is celebratory and emphatic ("It's over!!!!").
+* The hashtags "#BarçaLevante" also suggest a positive tone.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses multiple exclamation points, indicating excitement and enthusiasm.
+* The hashtags and team names suggest a positive affiliation with the team that won the championship.
+* There is no language or tone that implies criticism, disappointment, or negative emotions.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains celebratory language ("It's over!!!!", "#BarçaLevante") and references a championship title.
+* The tone is enthusiastic and triumphant.
+
+Given these factors, the most relevant emotion label is:
+
+**joy**
+
+The author appears to be expressing excitement and delight at Barcelona winning the La Liga championship.
+------------------------------------------------------------------------------------------------------------------------
+

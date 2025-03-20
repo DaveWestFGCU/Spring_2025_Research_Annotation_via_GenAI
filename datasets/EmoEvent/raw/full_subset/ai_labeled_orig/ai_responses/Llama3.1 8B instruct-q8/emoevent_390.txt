@@ -1,0 +1,36 @@
+Record: "Congrats to Messi on 600 goals. Glad he did it against USER  #BarcaLiverpool #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is informal and celebratory.
+* The author mentions being glad that an achievement happened.
+* There is no negative language or criticism.
+
+**joy**
+The author's use of "Congrats" (short for congratulations) and "Glad" indicates a positive emotional response, which aligns with the emotion category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet appears to be positive and celebratory.
+* The author is expressing congratulations and gratitude towards Lionel Messi.
+* The mention of "Glad" indicates a sense of happiness or satisfaction.
+
+**joy**
+
+Note: The use of sarcasm or irony cannot be ruled out, but given the context and language used, joy seems to be the most likely intended emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is congratulatory in nature.
+* It expresses a positive sentiment towards Messi's achievement.
+
+Given the tone and content of the tweet, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "it's basically summer here right now. these posts are clueless."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a strong opinion about something ("these posts" being clueless).
+* They use the phrase "basically summer", which implies a sense of familiarity or routine.
+* However, their tone seems dismissive and critical rather than celebratory.
+
+Based on these considerations, I would classify this tweet as:
+
+**disgust**
+ 
+The author's use of words like "clueless" and their dismissive tone suggest that they are expressing disdain or disgust towards the subject of their post.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author mentions it's "basically summer" which implies a positive or neutral weather condition.
+- They express disapproval of the "posts" being "clueless", suggesting that the content is inaccurate or uninformed.
+
+Most relevant emotion label: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions it being "basically summer" which implies a sense of dissatisfaction or disappointment with the current weather.
+* The phrase "these posts are clueless" suggests that the author is addressing something or someone they find frustrating or unhelpful.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

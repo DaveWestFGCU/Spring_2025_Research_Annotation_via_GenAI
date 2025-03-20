@@ -1,0 +1,37 @@
+Record: "the act of using private companies as platforms to push indoctrination is no less vile than state run companies"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the word "vile", which has a strongly negative connotation.
+* The author equates private companies with state-run companies, implying a sense of equivalence and moral condemnation.
+* The context suggests a critique of social media platforms being used for propaganda or indoctrination.
+
+Based on these points, the most relevant emotion label is:
+
+**disgust**
+This classification is chosen because the author's tone conveys a strong sense of moral distaste and revulsion towards the act of using private companies as platforms for indoctrination. The word "vile" specifically implies a feeling of disgust or loathing.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses strong language ("vile") to describe a particular action.
+* The comparison made between private and state-run companies suggests a sense of moral equivalence, implying that the author views both as equally reprehensible.
+* The tone is critical and judgmental.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses strong language ("vile") to describe the action they are criticizing.
+* The comparison between private and state-run companies implies a sense of equivalence in terms of the moral reprehensibility.
+* There is no indication of surprise, joy, sadness, or fear in the language used.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

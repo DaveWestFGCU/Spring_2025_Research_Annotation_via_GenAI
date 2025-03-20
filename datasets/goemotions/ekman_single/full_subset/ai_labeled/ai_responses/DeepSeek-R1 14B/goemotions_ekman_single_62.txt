@@ -1,0 +1,58 @@
+Record: "Let them argue. We've never done anything remotely as bad as MOST OF THE WORLD does routinely."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out which emotion this comment might convey. The user provided the sentence: "Let them argue. We've never done anything remotely as bad as MOST OF THE WORLD does routinely." 
+
+First, I need to break down what's being said here. The speaker is suggesting that others should engage in an argument and points out that their group hasn't acted as badly as much of the world does. This could imply a comparison where the speaker feels their actions are better or less harmful.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one.
+
+The statement doesn't show explicit happiness (joy) or clear sadness. There's no indication of fear or surprise. The mention that "we've never done anything as bad" might suggest a negative judgment about others, but it's more about disapproval rather than anger. Anger usually involves stronger expressions like hate or frustration, which I don't see here. Disgust is about revulsion, and while the speaker is criticizing others, it doesn't seem to be with a sense of disgust.
+
+So, considering all this, the emotion might be neutral because the statement is more factual or observational without showing strong emotion.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Let them argue. We've never done anything remotely as bad as MOST OF THE WORLD does routinely." 
+
+First, I'll break down the sentence. The speaker is saying that others should argue, implying they might be tired of it or not wanting to engage themselves. Then they mention that their group hasn't done anything as bad as most of the world does. This seems like a comparison, pointing out that whatever is happening where they are isn't as severe as elsewhere.
+
+Looking at the emotion categories: anger includes annoyance and disapproval. The speaker's tone here feels more dismissive or critical towards others' actions. They're not necessarily expressing fear, sadness, joy, disgust, surprise, or neutrality. Instead, it sounds like they're frustrated or annoyed with how others are behaving compared to their own group's behavior.
+
+So, the emotion that fits best is anger because the speaker seems to be disapproving of others and highlighting a negative comparison.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment is: "Let them argue. We've never done anything remotely as bad as MOST OF THE WORLD does routinely."
+
+First, I'll break down the sentence. The speaker starts with "Let them argue," which sounds a bit dismissive or perhaps indifferent. They're not really engaging in the argument themselves but allowing others to do so.
+
+Then they say, "We've never done anything remotely as bad as MOST OF THE WORLD does routinely." This part seems critical towards others. By comparing their actions (or lack thereof) to what most of the world does, they might be implying that others are worse or more deserving of criticism.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger is a strong feeling of displeasure. The speaker isn't explicitly angry; it's more of a comparison. Disgust involves revulsion towards something unpleasant. Their statement could be seen as disapproving, but not necessarily with disgust. Fear would imply worry or anxiety, which doesn't seem to be present here.
+
+Joy is about happiness and pleasure, which isn't evident in the comment. Sadness relates to sorrow or disappointment, which also doesn't fit. Surprise involves astonishment, which again isn't present.
+
+The speaker's tone seems neutral but critical. They're pointing out a fact without expressing strong emotions like anger or joy. So "neutral" might be the right category because they're stating something without showing much emotion themselves.
+
+Wait, but could it be disgust? The comparison might show disapproval, which is part of disgust. But the emotion definitions for disgust include revulsion towards unpleasant things. Here, the speaker is more making a factual statement rather than expressing revulsion.
+
+So I think "neutral" fits best because they're not showing strong positive or negative emotions, just stating a perspective.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

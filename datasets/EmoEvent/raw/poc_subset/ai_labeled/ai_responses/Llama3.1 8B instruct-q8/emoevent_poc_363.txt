@@ -1,0 +1,34 @@
+Record: "Been there, done that. Still alive and remarkably healthy at 51. The body is tremendously resilient"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a past experience but expresses no negative emotions about it.
+* They highlight their current physical health, implying a positive outcome.
+* The phrase "remarkably healthy" suggests a sense of satisfaction or pride.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions having a past experience ("been there, done that") but doesn't specify what it was.
+* They express their current physical well-being ("remarkably healthy").
+* They attribute this state of being to the resilience of the human body.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a past experience where they could have been harmed or died, but are still alive.
+* They express a sense of health and well-being.
+* There is a tone of matter-of-factness and possibly some positivity.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,43 @@
+Record: "You mean the millions of college grads living with their parents?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to a statement or question that is not present in the given text.
+* The tone of the response seems sarcastic and dismissive, implying annoyance or frustration.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The reason for this choice is that the speaker's response appears to be a defensive or annoyed reaction to an implied criticism or statement about individuals living with their parents. The use of "millions" in the response may also convey a sense of annoyance at being confronted with an idea or statistic that the speaker finds off-putting or frustrating.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to a statement made by someone else.
+* The tone of the response is blunt and direct.
+* The language used is straightforward, without emotional embellishments.
+
+Considering these points, the most relevant emotion label for this comment is:
+
+**anger**
+ 
+This conclusion is based on the fact that the speaker seems to be reacting strongly to what was likely a provocative or challenging statement made by someone else. The tone of the response is confrontational and dismissive, which are common characteristics of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be responding to someone else's comment or statement.
+* The tone is somewhat confrontational, as indicated by the use of a rhetorical question ("You mean...").
+* The speaker appears to be highlighting a contrast between two groups (college graduates living with their parents vs. others), which may imply some level of disapproval or criticism.
+
+Most relevant emotion label: **anger**
+
+The speaker's tone and language suggest that they are expressing annoyance or frustration at the idea of college graduates living with their parents, which is implied to be a common phenomenon. The use of a rhetorical question and the highlighting of this contrast may indicate that the speaker is feeling angry or displeased about this situation.
+------------------------------------------------------------------------------------------------------------------------
+

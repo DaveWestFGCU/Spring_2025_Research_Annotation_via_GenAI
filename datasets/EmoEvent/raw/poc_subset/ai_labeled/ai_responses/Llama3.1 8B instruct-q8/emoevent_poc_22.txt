@@ -1,0 +1,38 @@
+Record: "Thanks so much! I'll let you know how it goes when I get a chance to try it :)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the phrase "thanks so much" which is typically associated with gratitude.
+* The tone of the message is informal and friendly, indicating a positive relationship between the author and recipient.
+* The use of the smiley face :) at the end of the message suggests that the author is being lighthearted and cheerful.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing gratitude with the phrase "thanks so much"
+* They are also looking forward to sharing their experience ("let you know how it goes")
+* The tone is generally positive and polite
+* The use of ":)" suggests a lighthearted and casual tone
+
+**joy**
+
+Note: The author's intent is to convey a positive and optimistic tone, which aligns with the emotion of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is generally positive.
+* The use of "thanks" and "so much" indicates appreciation or gratitude.
+* The inclusion of an emoji :) suggests a lighthearted and friendly tone.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

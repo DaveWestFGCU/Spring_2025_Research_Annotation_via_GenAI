@@ -1,0 +1,42 @@
+Record: "Sicko mode is on a whole new level, it cant be compared."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is enthusiastic and admiring.
+* The language used is hyperbolic ("on a whole new level").
+* There is no negative emotion or criticism expressed.
+
+Given these points, the most relevant emotion label is **joy**. The speaker appears to be expressing excitement and admiration for the song "Sicko Mode", indicating that they are feeling joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the term "Sicko mode" which could refer to the song by Travis Scott, but given the context of comparing it to something else, it's likely they're referring to its increased popularity or impact.
+* The speaker says it's "on a whole new level", indicating an intense admiration or appreciation for the song's current state.
+* There is no criticism or negative language used in the comment.
+
+Given these points, the emotion that best fits the speaker's sentiment is:
+
+**joy**
+
+The speaker appears to be expressing enthusiasm and excitement about the song's current status, which aligns with the definition of joy. The tone is positive and celebratory, suggesting that the speaker is feeling happy or pleased about something.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a strong and enthusiastic tone when describing their opinion about the song "Sicko Mode".
+* They explicitly state that it's on a "whole new level" and can't be compared to anything else.
+* There is no mention of negative emotions or criticism.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker appears to be expressing admiration and excitement about the song, which falls under the category of joy. Their use of superlatives ("whole new level") and strong language suggests a positive emotional tone, consistent with feelings of joy and enthusiasm.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,39 @@
+Record: "#GretaThunberg minors please note potty language is used for puncuation! https://t.co/tmYUvXXo6w"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a warning about "potty language" being used in the link provided.
+* The tone of the warning suggests that the author is aware that the content may not be suitable for minors.
+
+Given these considerations, the emotion most likely intended by the author is **surprise**, as they are drawing attention to the unexpected or potentially off-putting nature of the linked content.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet appears to be in a playful or lighthearted tone.
+* The author mentions "potty language" which suggests that they are acknowledging potentially off-color content with a humorous intent.
+* The hashtag #GretaThunberg and the link provided suggests that the topic of the tweet is related to Greta Thunberg and her climate activism.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+
+**joy**
+This classification is based on the playful tone and lighthearted use of language in the tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions Greta Thunberg, a climate activist known for her strong convictions and protests.
+* The tone of the tweet seems lighthearted or playful, as it uses an exclamation mark and the phrase "potty language is used for punctuation".
+* The tweet appears to be sharing a link to a article or video.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+The use of an exclamation mark and the tone of the tweet suggests that the author intended to convey surprise or playfulness.
+------------------------------------------------------------------------------------------------------------------------
+

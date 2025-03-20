@@ -1,0 +1,68 @@
+Record: "They must have seen you."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to determine the emotion the speaker is feeling based on their comment. The comment is: "They must have seen you." Let me break this down step by step.
+
+First, looking at the sentence structure, it's a declarative statement. It doesn't express strong emotions through exclamation points or capitalization. So, no obvious signs of anger, joy, fear, etc., just a straightforward remark.
+
+The content itself is neutral. The speaker is making an assumption about someone else seeing another person. There are no negative words like "hate" or "disgusting," nor positive ones like "happy" or "excited." It's more of an observation than an expression of emotion.
+
+Comparing it to the emotion definitions:
+- Anger would involve strong displeasure, which isn't present here.
+- Disgust requires revulsion, not indicated in this statement.
+- Fear involves worry or anxiety; there's no indication of that.
+- Joy implies happiness or pleasure, which isn't shown.
+- Sadness includes sorrow or disappointment; none are evident.
+- Surprise would involve astonishment or realization, but the comment is too mild for that.
+
+Therefore, the emotion that fits best is neutral. The speaker isn't expressing any strong feelings; they're simply stating an observation.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The sentence given is "They must have seen you." Alright, let me break this down.
+
+First, I should consider the context. Since it's a Reddit comment, it's probably in response to something someone else said or did. The speaker is saying that others have noticed the person they're talking about. 
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to decide which one fits best.
+
+The statement "They must have seen you" doesn't express any obvious strong emotions like anger or joy. It's a declarative sentence without any overtly emotional language. There are no exclamation marks or words that indicate strong feelings. 
+
+Thinking about possible underlying emotions, maybe the speaker is expressing concern or worry, which could relate to fear. But the statement itself doesn't convey fear; it's more of an observation.
+
+Alternatively, if this was a surprising revelation, surprise might apply. However, without context indicating something unexpected, it's hard to pin it as surprise.
+
+The sentence seems straightforward and factual. It's not expressing approval or happiness (joy), nor is it showing sadness or disgust. There's no indication of anger either. 
+
+So, considering all the options, the most fitting emotion here would be neutral because there's no clear emotional language present. The speaker is simply stating a fact without any evident feelings attached.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "They must have seen you." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker is saying that someone else has noticed the person they're talking about. The phrase "must have seen" suggests a level of certainty or assumption. It doesn't express any strong emotion like anger or happiness. There's no indication of positive feelings (like joy) or negative ones (anger, disgust). 
+
+Looking at each emotion category:
+- Anger: There's no sign of irritation or disapproval here.
+- Disgust: No mention of anything offensive or revolting.
+- Fear: The statement doesn't convey worry or nervousness.
+- Joy: It's not expressing pleasure or happiness.
+- Sadness: There's no indication of sorrow or disappointment.
+- Surprise: The comment seems straightforward, not unexpected or astonishing.
+  
+So, the speaker is making an observation without any clear emotional tone. Therefore, the emotion is likely neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "The Champion of Spain!  Congratulations USER  #LaLiga"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text is a congratulatory message.
+* It mentions a championship title ("Champion of Spain").
+* The tone appears to be positive and celebratory.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+The author's intention is to express happiness and celebration towards the winner of the La Liga championship.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet mentions a championship title ("Champion of Spain").
+- The tone is celebratory and congratulatory.
+- There are no negative words or phrases.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet is a congratulatory message for a team's achievement in La Liga.
+- The tone is positive and celebratory.
+
+**joy**
+The author intended to convey joy and excitement for the champion's win, as indicated by the celebratory language and punctuation.
+------------------------------------------------------------------------------------------------------------------------
+

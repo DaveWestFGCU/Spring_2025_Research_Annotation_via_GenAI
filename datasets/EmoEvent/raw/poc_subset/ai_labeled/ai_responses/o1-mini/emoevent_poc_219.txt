@@ -1,0 +1,33 @@
+Record: "I was impressed by your company in the initial post, but now I see they tried to fire you for their mistake. Glad you had some backing!"
+o1-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+**Important Points:**
+- Initial impression of the company was positive ("impressed by your company").
+- Disappointment or disapproval arises from the company trying to fire someone due to their mistake.
+- Concluding sentiment is positive, expressing happiness for the person having support ("Glad you had some backing").
+
+**Emotion:** **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+**Important points to consider:**
+- The author initially expresses admiration for the company.
+- There's a shift in sentiment when revealing that the company tried to fire the individual for their own mistake.
+- The mention of being "glad you had some backing" shows support for the person affected.
+- The overall tone reflects frustration or disapproval towards the company's actions.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+**Important Points to Consider:**
+- **Initial Impression:** The author starts by expressing a positive view of the company ("impressed by your company").
+- **Negative Development:** They reveal a negative action by the company ("tried to fire you for their mistake"), indicating disapproval.
+- **Positive Note:** Despite the company's actions, the author is pleased the individual had support ("Glad you had some backing!").
+- **Overall Sentiment:** The shift from praise to criticism highlights a sense of disapproval or dislike towards the company's behavior.
+
+**Emotion:** **disgust**
+------------------------------------------------------------------------------------------------------------------------
+

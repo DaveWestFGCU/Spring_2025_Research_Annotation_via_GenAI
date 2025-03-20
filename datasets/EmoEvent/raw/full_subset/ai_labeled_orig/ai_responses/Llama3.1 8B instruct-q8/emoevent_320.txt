@@ -1,0 +1,41 @@
+Record: "Hello all   Thanks for following us  Means a lot toUSER channel  Please do subscribe to our YouTube channel football united tv :)  Many thanks   #football #championsleague #fifa #premierleague #laliga #soccer"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is formal and polite.
+* The author expresses gratitude towards their followers.
+* The language used is positive and encouraging, inviting users to subscribe to their YouTube channel.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+The author's tone and language convey a sense of happiness and appreciation for their audience, which aligns with the emotion of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is informal and conversational, with the author addressing their followers directly.
+* The language used is polite and grateful, with the author thanking users for following them.
+* The tone is friendly and inviting, with an emphasis on encouraging subscriptions.
+
+Given these characteristics, the most relevant emotion label is **joy**. The author appears to be feeling grateful and happy about having followers, which aligns with a joyful sentiment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is polite and courteous, with phrases like "Means a lot to" and "Many thanks".
+* The language used is friendly and inviting, encouraging readers to subscribe to their YouTube channel.
+* There is no criticism or negative commentary, only positive and appreciative language.
+
+Given these points, the emotion label that best fits this tweet is:
+
+**joy**
+
+The author appears to be expressing genuine gratitude and happiness about their followers and encourages engagement with their content.
+------------------------------------------------------------------------------------------------------------------------
+

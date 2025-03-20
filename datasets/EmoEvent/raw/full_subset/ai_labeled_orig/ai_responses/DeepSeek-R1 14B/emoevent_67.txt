@@ -1,0 +1,55 @@
+Record: "The real question everyone wants to know about last night's #GameofThrones episode.   "WHERE THE FUCK IS GHOST!?!?!""
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify this tweet based on the emotion it conveys using only the categories: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet is: "The real question everyone wants to know about last night's #GameofThrones episode. WHERE THE FUCK IS GHOST!?!??!"
+
+First, I'll break down the content of the tweet. The user is talking about a recent Game of Thrones episode and mentions that people are curious about where Ghost is. Ghost is a character in the show, right? So the user is expressing frustration or something about Ghost's absence.
+
+Looking at the language: "WHERE THE FUCK IS GHOST!?!??!" That's pretty strong. The use of profanity and the multiple exclamation marks indicate that the speaker is emotional. Now, I need to determine which emotion category this falls into.
+
+Let me go through each option:
+
+- **Anger**: This involves feelings like annoyance or rage. The tweet uses an expletive and questions where Ghost is, suggesting frustration.
+- **Disgust**: This includes dislike or loathing. While the user might be frustrated, I don't think disgust fits here because they're not expressing厌恶 towards something but rather anger at a situation.
+- **Fear**: Doesn't seem applicable. There's no indication of fear in the tweet; it's more about the absence of a character.
+- **Joy**: Definitely not. The tone is negative.
+- **Sadness**: While missing a character could be sad, the use of profanity and exclamations lean more towards anger than sadness.
+- **Surprise**: Surprise involves being amazed or distracted. Here, the user is clearly frustrated rather than surprised.
+
+So, putting it together, the emotion here is likely anger because of the strong language expressing frustration about Ghost's absence.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out how to classify this tweet's emotion. The user is talking about the last Game of Thrones episode and mentions "WHERE THE FUCK IS GHOST!?!??". 
+
+First, I notice they're using a lot of exclamations and the word "fuck," which shows strong emotions. They're clearly upset or frustrated because Ghost wasn't where everyone expected him to be. So, that makes me think it's anger.
+
+They might also feel some surprise because maybe they didn't expect Ghost to not show up, but the primary emotion seems to be frustration, which is a form of anger. I don't see elements of disgust, fear, joy, or sadness here. It's more about being annoyed or enraged.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let me try to figure this out. The tweet is about the last episode of Game of Thrones, specifically asking where Ghost is. The user wrote "WHERE THE FUCK IS GHOST!?!?!". So first, I need to understand what emotion they're expressing here.
+
+The tweet starts with a question that everyone probably wants to know, which might indicate curiosity or surprise, but the exclamation and the use of "WHERE THE FUCK" suggests frustration or anger. The word "fuck" is definitely strong language that usually conveys anger. They seem upset about Ghost's absence in the episode.
+
+Looking at the emotion categories: anger includes annoyance and rage, so this fits. Disgust might involve dislike, but the context here is more about being annoyed or frustrated rather than finding something disgusting. Fear would be if they were scared, which isn't the case. Joy is obviously not applicable here since they're expressing negative feelings. Sadness could relate to disappointment, but again, the intensity of the language points more towards anger.
+
+So putting it all together, the emotion being conveyed is likely anger because of the strong language and frustration expressed in the tweet.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

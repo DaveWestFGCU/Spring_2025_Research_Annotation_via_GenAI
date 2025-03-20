@@ -1,0 +1,41 @@
+Record: "Is she worse than [NAME] though?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet appears to be a question
+* It is being asked in response to someone or something that has been mentioned
+* The tone seems informal and conversational
+* The author is seeking comparison between two entities, implying a level of interest or concern
+
+Given these points, the most relevant emotion label is:
+ 
+**anger**
+ 
+This classification suggests that the author may be feeling annoyed or frustrated with one or both parties being compared.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+* The author is questioning whether someone is worse than another person.
+* There is no indication of a positive or celebratory tone.
+
+The most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a rhetorical question, which suggests that the author is expressing skepticism or doubt.
+* The comparison being made is between two individuals, implying that the author has some kind of opinion about both people.
+* The tone of the question implies that the author believes one person might be worse than the other.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+The author appears to be expressing annoyance or irritation towards one or both individuals being compared.
+------------------------------------------------------------------------------------------------------------------------
+

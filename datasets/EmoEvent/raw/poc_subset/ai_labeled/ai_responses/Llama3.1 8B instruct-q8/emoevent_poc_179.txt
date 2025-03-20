@@ -1,0 +1,37 @@
+Record: "Omg it’s like you’re taking the words from my mind."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts with "Omg", which is an abbreviation for "oh my god" and is often used to express strong emotions or excitement.
+* The phrase "it's like you're taking the words from my mind" suggests a sense of wonder, amazement, or being deeply resonated with what someone else has said.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The phrase "it's like" suggests a sense of synchronicity or connection with someone.
+* The use of the acronym "omg" indicates excitement or strong emotion.
+* The comparison to having someone "take the words from my mind" implies that the author feels understood or validated.
+
+**joy**
+
+This classification is based on the enthusiastic and excited tone conveyed by the use of "omg", which suggests that the author is feeling a positive emotional response, likely joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the phrase "omg", which is an expression often used to convey strong emotions or excitement.
+* The sentence structure suggests a sense of mirroring or echoing, with the author feeling that someone has understood them perfectly.
+* There is no negative language or tone in the tweet.
+
+**joy**
+
+The use of "omg" and the enthusiastic tone suggest that the author is experiencing joy or elation at being understood.
+------------------------------------------------------------------------------------------------------------------------
+

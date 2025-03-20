@@ -1,0 +1,33 @@
+Record: "Whoever told you that is lying."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a short and direct statement.
+* It denies the truth of something someone else said.
+* The tone is confrontational.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is responding to a statement they believe is false.
+* The tone of the response is brief and direct.
+* There is no indication of a positive or enthusiastic attitude.
+
+**anger**
+The author's use of the phrase "Whoever told you that" implies a sense of accusation, which suggests anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet contains a direct and dismissive statement.
+- The phrase implies mistrust or suspicion of someone's information.
+
+The author intended to convey **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

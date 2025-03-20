@@ -1,0 +1,37 @@
+Record: "Posts like these make it more and more clear how creepy [NAME] is"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that posts like this one are making them feel a certain way about someone.
+* They use the word "creepy", which implies a sense of unease or discomfort.
+* The tone is critical and judgmental, suggesting that the speaker has a negative opinion of the person in question.
+
+Given these points, it seems likely that the speaker is expressing a strong negative emotion. Considering the definitions provided, the most relevant emotion label is:
+
+**disgust**
+
+The word "creepy" implies a sense of revulsion or strong disapproval, which aligns with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that posts like the one they're responding to contribute to their perception of someone being "creepy".
+* The language used implies a negative opinion about the person in question.
+* There's no indication of excitement, enthusiasm, or positive emotions.
+
+Given these points, the most relevant emotion label is **disgust**. The speaker seems to be strongly disapproving and finding the behavior or actions of [NAME] to be unpleasant or offensive.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions that the type of posts they are referring to make them realize something about someone, implying a negative discovery.
+* They use the word "creepy", which has a strong connotation of unease or discomfort.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

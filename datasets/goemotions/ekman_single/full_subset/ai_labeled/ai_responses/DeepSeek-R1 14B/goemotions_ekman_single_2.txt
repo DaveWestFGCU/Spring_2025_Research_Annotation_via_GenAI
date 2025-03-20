@@ -1,0 +1,52 @@
+Record: "Still, it’s legal weed. Sorry, sad [NAME] here.."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their Reddit comment: "Still, it's legal weed. Sorry, sad [NAME] here.." The possible emotions are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, I'll break down the sentence. The speaker starts by saying "Still, it's legal weed." That part is just stating a fact, so probably neutral in tone. Then they add "Sorry, sad [NAME] here.." 
+
+The key part here is "sad [NAME]." Using "sad" explicitly indicates that the speaker is feeling down or unhappy about something. They're expressing their sorrow, which falls under sadness.
+
+I should consider if there's any other emotion involved. There's no indication of anger or frustration ("I don't like"), so it's not anger. Disgust usually involves finding something offensive, but the comment doesn't express that. Fear would involve worry or anxiety, which isn't present here. Joy is out because they're expressing sadness. Surprise is about astonishment, which isn't the case.
+
+Therefore, the emotion being conveyed is clearly sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out which emotion the speaker is feeling based on their comment. The text given is: "Still, it's legal weed. Sorry, sad [NAME] here.." 
+
+First, I'll break down what each part of this sentence might be conveying. The first part, "Still, it's legal weed," seems like a statement that doesn't necessarily carry strong emotion on its own. It's factual or just a remark about the topic at hand.
+
+Next, looking at the latter part: "Sorry, sad [NAME] here.." Here, the speaker is explicitly stating they're feeling "sad." They use the word "sad" directly, which clearly points to sadness as the emotion. The mention of "[NAME]" might be a placeholder for their own name or someone else's, but regardless, the key emotional indicator is "sad."
+
+I should consider if any other emotions could be applicable here. Anger? There doesn't seem to be any indication of that; no harsh words or expressions of dislike. Disgust? The speaker isn't expressing revulsion towards anything. Fear? No signs of worry or anxiety. Joy? Not really, since they're expressing sadness. Surprise? There's nothing unexpected mentioned here.
+
+So, putting it all together, the most relevant emotion is definitely sadness because the speaker explicitly states it.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "Still, it's legal weed. Sorry, sad [NAME] here.." Alright, let me break this down.
+
+First, looking at the sentence structure and the words used. They mention that it's legal weed, but then they quickly add a sorry and say they're sad. The use of "sad" is pretty straightforward—it's explicitly stated there.
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise, and neutral. Since the speaker says "sorry, sad," it points directly to sadness as the emotion. They might be expressing personal disappointment or sorrow about something related to legal weed, but regardless of the context, the explicit mention of feeling sad makes that the clear choice.
+
+I don't see any signs of anger, like strong disapproval or annoyed language. There's no disgust expressed towards anything unpleasant. Fear would involve being afraid or worried, which isn't indicated here. Joy and surprise aren't present either—no positive feelings or astonishment. Neutral is when there's no emotion shown, but sadness is clearly stated.
+
+So, putting it all together, the speaker is expressing sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

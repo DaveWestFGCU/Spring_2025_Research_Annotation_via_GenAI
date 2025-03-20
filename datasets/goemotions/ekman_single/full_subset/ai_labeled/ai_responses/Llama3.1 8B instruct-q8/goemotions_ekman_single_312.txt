@@ -1,0 +1,34 @@
+Record: "Reminds me of "It's your city!" back in The Flash 2X08."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is making a comparison between two things, specifically mentioning a TV show episode.
+* There doesn't seem to be any emotional language or tone used by the speaker.
+* The comment appears to be informative and observational rather than expressing a strong emotion.
+
+Given these points, the most relevant emotion label is **neutral**, as the speaker's comment lacks expressed emotion and comes across as a neutral statement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment appears to be nostalgic and reflective.
+* The speaker is referencing a specific TV show, The Flash, and a particular episode (Season 2, Episode 8).
+* The comment seems to be making a connection between the post or another commenter's statement and something from the show.
+
+Most relevant emotion label: **neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be referencing a specific episode and scene from a TV show.
+* They are making a comparison to something, indicating they're sharing an insight or observation.
+* The tone is informative and conversational.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **joy**. The speaker's comment appears to be enthusiastic and appreciative, as if they're excited to share their knowledge with others. The use of a pop culture reference suggests that the speaker is experiencing a positive emotional connection with the content they're discussing.
+------------------------------------------------------------------------------------------------------------------------
+

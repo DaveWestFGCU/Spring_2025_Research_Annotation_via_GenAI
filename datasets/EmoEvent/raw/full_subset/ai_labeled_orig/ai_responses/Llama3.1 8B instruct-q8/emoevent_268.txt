@@ -1,0 +1,38 @@
+Record: "USER Yes, the people of #Venezuela Reject #DC's selected #Guaido #HandsOffVenezuela https://t.co/47ZlHbjmSA"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet expresses a clear stance against Juan Guaido and in support of Nicolas Maduro.
+* The hashtags "#Reject" and "#HandsOffVenezuela" imply a sense of strong opposition or resistance.
+* The tone appears confrontational and assertive.
+
+Given these points, the most relevant emotion label is **anger**. The tweet's tone suggests that the author is angry or frustrated with the situation in Venezuela and with the recognition of Guaido as president by DC (presumably referring to the United States).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is expressing a strong stance in support of Nicolas Maduro and against Juan Guaido.
+* The hashtags "#Reject", "#HandsOffVenezuela" suggest opposition or resistance towards Guaido's recognition as president.
+* The tone is assertive, with the author making a clear statement about the people of Venezuela.
+
+Based on these points, the intended emotion appears to be anger, given the strong stance and assertive language used by the author. 
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is in support of Nicolas Maduro and against Juan Guaido.
+* The use of hashtags such as "#Reject" and "#HandsOffVenezuela" suggests a strong opposition to Guaido's legitimacy.
+
+Given the text, the most relevant emotion label is:
+**anger**
+
+The tone of the tweet appears to be one of indignation and opposition, which aligns with anger. The language used is assertive and confrontational, suggesting that the author is actively opposing Juan Guaido's claim to the presidency.
+------------------------------------------------------------------------------------------------------------------------
+

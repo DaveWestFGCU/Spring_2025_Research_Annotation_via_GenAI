@@ -1,0 +1,46 @@
+Record: "I know plenty of [NAME] that look down on 中国人 Like they’ve forgotten the whole reason Singapore exists"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions people looking down on others from China, indicating a sense of prejudice or bias.
+* The speaker references Singapore and its existence, suggesting a possible connection between the country's founding and the treatment of Chinese people.
+* The tone is critical and dismissive, with the phrase "Like they've forgotten" implying a sense of shame or ignorance.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone and language suggest a strong feeling of displeasure or antagonism towards people who look down on Chinese individuals. The use of phrases like "look down on" and "forgotten" implies a sense of anger and frustration with this behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions people looking down on others based on their ethnicity.
+* The phrase "look down" implies a sense of condescension or disdain.
+* The speaker also mentions Singapore, implying that the country's history and cultural context are relevant to the situation.
+
+Given these points, the most likely emotion being expressed by the speaker is:
+
+**anger**
+ 
+The speaker appears to be expressing anger towards people who look down on others based on their ethnicity, implying a strong sense of disapproval or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions that people they know ("plenty of [NAME]") look down on Chinese people.
+* The phrase "look down" implies a sense of superiority or disdain.
+* The speaker also mentions that these individuals have forgotten why Singapore exists, implying that their actions are ignorant or misguided.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone suggests frustration and annoyance at the behavior of people they know, which aligns with the definition of anger as a strong feeling of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+

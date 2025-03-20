@@ -1,0 +1,40 @@
+Record: "I love it. Probably my favorite game mode right now. Especially when playing with a buddy."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a positive phrase ("I love it") to express enthusiasm.
+* They mention a specific game mode, which suggests they are invested in the game and its mechanics.
+* They also mention playing with a buddy, implying social interaction and camaraderie.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's language and tone convey excitement and happiness about their gaming experience, indicating that joy is the primary emotion being expressed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is overwhelmingly positive.
+* The speaker uses the phrase "I love it," which indicates a strong affection for the subject matter (game mode).
+* They express enthusiasm by stating it's their favorite game mode, especially when playing with a buddy.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of positive language and expression of excitement suggests that they are feeling joy or happiness about the game mode.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is overwhelmingly positive.
+* The use of the word "love" implies strong affection.
+* The speaker mentions their favorite game mode, indicating enthusiasm and appreciation.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's comment expresses excitement, pleasure, and happiness, which are all characteristics of joy.
+------------------------------------------------------------------------------------------------------------------------
+

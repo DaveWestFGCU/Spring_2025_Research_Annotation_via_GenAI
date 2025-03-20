@@ -1,0 +1,52 @@
+Record: "#Climatecrisis. Call it what it is, I hope we’re not too late to undo what we’ve done. #GretaThunberg #Takeaction #Actionworks https://t.co/5x7H8oJ6BO"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify a tweet based on the emotion it conveys using one of six categories: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "#Climatecrisis. Call it what it is, I hope we’re not too late to undo what we’ve done. #GretaThunberg #Takeaction #Actionworks https://t.co/5x7H8oJ6BO"
+
+The main topic here is the climate crisis. The author expresses concern about being "too late" to reverse damage done, which indicates worry or anxiety. They also use hashtags related to taking action and Greta Thunberg, who's known for her activism.
+
+Looking at the emotion options, fear seems to fit because the author is worried about the situation getting worse if they don't act in time. It's not anger because there's no direct expression of irritation or revenge. Disgust isn't present; instead, it's more about the potential negative outcomes. Joy and surprise aren't applicable here. Sadness could be a contender since climate issues are often saddening, but fear captures the urgency better.
+
+So, the emotion conveyed is fear.
+</think>
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise. The tweet is "#Climatecrisis. Call it what it is, I hope we’re not too late to undo what we’ve done. #GretaThunberg #Takeaction #Actionworks https://t.co/5x7H8oJ6BO"
+
+First, let me read the tweet carefully. It starts with a hashtag about climate crisis and mentions Greta Thunberg, who's known for her activism. The content expresses concern about being too late to reverse damage done, which suggests worry or anxiety.
+
+The author uses terms like "call it what it is" which implies acknowledgment of a serious issue, but more importantly, the phrase "I hope we’re not too late" indicates fear that action might come too late. This conveys a sense of urgency and apprehension about the future.
+
+Looking at the emotion categories: anger isn't present here because there's no expression of frustration or rage. Disgust doesn't seem to fit either, as the tweet is more about concern than dislike. Fear does apply because the author expresses worry about the consequences of inaction. Joy and surprise are clearly not applicable since the tone is serious.
+
+So, putting it all together, the emotion here is fear due to the emphasis on timeliness and potential negative outcomes related to climate change.
+</think>
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out the emotion behind this tweet about Greta Thunberg and the climate crisis. The user wants me to classify it into one of six categories: anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's look at the tweet itself. It says "#Climatecrisis. Call it what it is, I hope we’re not too late to undo what we’ve done." Then there are some hashtags like #GretaThunberg and others. The link probably leads to more information about taking action against climate change.
+
+Breaking down the text: "I hope we're not too late" suggests a sense of urgency. The phrase "undo what we've done" implies regret or worry about past actions. These feelings point towards sadness because it's expressing concern and maybe even sorrow about the current state of the environment and the potential consequences.
+
+Could it be fear? Fear usually involves feeling threatened or anxious, but here it's more about hoping for a solution before it's too late, which is more of a lament than fear. Anger could be there if it's directed at inaction, but the tweet doesn't express frustration directly; it's more hopeful and concerned.
+
+So, I think sadness fits best because it captures the emotional weight of addressing climate change and the hope that actions are taken before it's too late.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

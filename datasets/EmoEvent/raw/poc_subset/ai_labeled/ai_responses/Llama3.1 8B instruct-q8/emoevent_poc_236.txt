@@ -1,0 +1,41 @@
+Record: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a "horrifying rotting smell", which suggests something unpleasant.
+* They express that an attempt to describe the smell comes up short, implying frustration or dissatisfaction.
+* The phrase "sounds sort of cute" is used in contrast to the actual experience of the smell, highlighting the difference between expectation and reality.
+
+Given these points, the author's intended emotion is likely a mix of disappointment and frustration with a tone of disgust at the attempt to downplay the severity of the smell. 
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author starts with a positive statement ("I like this")
+* However, they express a contradictory sentiment that something is missing or inaccurate
+* They use words with strong negative connotations such as "horrifying" and "rotting"
+* The tone shifts from a relatively lighthearted observation to one of disappointment
+
+The most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider given the text:
+
+* The author states that something is "horrifying" and "rotting", suggesting a strong negative reaction.
+* However, they also express a sense of incongruity between their own positive assessment and what they perceive as an inaccurate or misleading representation.
+* The phrase "sort of cute" suggests a tone of irony or sarcasm.
+
+Given these considerations, the most relevant emotion label is:
+
+**disgust**
+
+The author's negative reaction to the description of something being "horrifying rotting smell" aligns with disgust, even though their tone is more complex and nuanced.
+------------------------------------------------------------------------------------------------------------------------
+

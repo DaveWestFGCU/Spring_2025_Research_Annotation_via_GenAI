@@ -1,0 +1,22 @@
+Record: "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about Game of Thrones. The tweet says, "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit." 
+
+First, let's break down the words and hashtags used. The user mentions they "love" spending time squinting despite adjusting the TV brightness. On the surface, "love" might suggest joy or a positive emotion. However, the context here is about not being able to see properly on the TV, which is frustrating.
+
+The hashtags "#CantSeeShit" are pretty strong and clearly express frustration or annoyance. The user is likely expressing that they're annoyed because the show's quality is poor in terms of visibility, making it hard to watch. So even though they start with "love," the overall sentiment seems negative.
+
+Looking at the mapping guidelines: if the emotion is similar to annoyance or rage, it should be classified as anger. The frustration expressed through the hashtags fits into that category better than any other emotion like disgust, fear, joy, sadness, or surprise.
+
+I don't think it's disgust because they're not expressing dislike for the show itself but rather frustration with the viewing quality. It's not fear or surprise either; those emotions aren't really present here. Sadness might be a stretch unless they're sad about the show ending, but that doesn't seem to be the case.
+
+So putting it all together, the primary emotion is anger due to the frustration and annoyance expressed in the tweet.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

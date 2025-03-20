@@ -1,0 +1,46 @@
+Record: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify this tweet: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable." The possible emotions are anger, disgust, fear, joy, sadness, surprise.
+
+First, let me read the tweet carefully. It seems like someone is addressing another person, maybe a friend or acquaintance. The first part says they "weren't supposed to know," which implies that there was some expectation of privacy or that the other person shouldn't have found out something. Then it accuses them of being psychic, suggesting they can read minds or know things they shouldn't. Finally, the tweet concludes by stating that "He’s being unreasonable."
+
+So, putting this together, the author is expressing frustration with someone else for knowing something they weren't supposed to. The use of words like "unreasonable" indicates irritation or anger. There's also a sense of annoyance because the other person shouldn't have known, which might be making the speaker upset.
+
+Looking at the emotion categories: anger includes things like annoyance and rage, so this seems fitting. Disgust is more about dislike or disinterest, but I don't think that's the main feeling here. Fear would involve apprehension or anxiety, which isn't really present. Joy and surprise are clearly not applicable. Sadness might come into play if there's hurt feelings, but the primary emotion here seems to be frustration, which is under anger.
+
+I should also consider the tone. The tweet sounds exasperated, almost like a complaint. Words like "unreasonable" definitely lean towards frustration or irritation, both of which fall under anger. There's no indication of any other emotions dominating this message.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's figure out what emotion is in this tweet: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable." I need to choose from anger, disgust, fear, joy, sadness, or surprise.
+
+First, the first part of the tweet says "You weren't supposed to know. You're not psychic." That sounds like someone is frustrated because they thought something was private but the other person knew anyway. So maybe that's frustration, which falls under anger.
+
+Then the second sentence is "He’s being unreasonable," which definitely expresses irritation or even anger towards someone's behavior. The overall tone seems to be annoyed and upset, so anger makes sense here.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out how to classify this tweet's emotion. The tweet says: "You weren’t supposed to know. You’re not psychic. He’s being unreasonable." 
+
+First, I'll break down the words and the tone here. The user is addressing someone who knows something they weren't supposed to, calling them not psychic, which might imply that the other person shouldn't have known. Then, they mention that "He’s being unreasonable," which suggests frustration or exasperation.
+
+Looking at the emotion categories: anger includes annoyance and rage. The words used here don't show extreme anger like rage but more of an annoyed or frustrated tone. Disgust is about dislike, but I don't see clear signs of that here. Fear would involve anxiety or apprehension, which isn't really present. Joy and surprise are clearly not fitting the context.
+
+So, considering the frustration at someone knowing something they shouldn't and calling them unreasonable, it's leaning towards anger. Maybe the person is annoyed or upset because their expectation was broken. So I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

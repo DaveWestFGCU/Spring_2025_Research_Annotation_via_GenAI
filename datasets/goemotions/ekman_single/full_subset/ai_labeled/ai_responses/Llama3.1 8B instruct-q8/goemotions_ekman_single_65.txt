@@ -1,0 +1,38 @@
+Record: "How she used the entire video without any editing.... that’s copyright"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is making a statement about someone else's behavior (using an entire video without editing).
+* The tone of the comment is brief and matter-of-fact, but it implies disapproval.
+* The specific language used ("that's copyright") suggests that the speaker believes the person in question has committed a violation.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be criticizing someone's actions (using an entire video without editing).
+* The tone is more disapproving than aggressive.
+* There's no explicit mention of personal attack or emotional distress.
+
+Given these considerations, the most relevant emotion label is **disgust**, as the speaker expresses strong disapproval and revulsion towards the person's behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be expressing disapproval of the content creator's actions.
+* They mention a specific issue with how the content was presented (lack of editing).
+* The tone is critical and instructional, implying the speaker believes the content creator made an error.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+ 
+The speaker's disapproval and criticism suggest they are reacting to something unpleasant or offensive.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,48 @@
+Record: "I'm fully erect tho and I still don't like them"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being physically aroused ("fully erect") but explicitly states they don't like someone/them.
+* There's no indication of the speaker feeling threatened, scared, or anxious about this situation.
+* The tone is direct and matter-of-fact, without any emotional escalation.
+
+Most relevant emotion label: **neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions being "fully erect", which may imply a physical or intimate situation.
+* Despite this, the speaker explicitly states that they "still don't like" someone/them.
+* There is no indication of anger towards the person, nor any mention of fear or disgust.
+* The tone appears lighthearted and somewhat casual.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**, but more likely **neutral**, as there's no apparent strong emotional expression.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions their physical state ("fully erect") but quickly pivots to express a negative opinion about someone or something.
+* The tone of the statement is somewhat dismissive, implying that the speaker's physical state does not align with their emotional response.
+
+Given these points, it appears that the speaker is expressing a sense of **anger**. Despite being physically attracted, they still harbor a strong dislike for the subject in question. Their tone suggests annoyance and disapproval, which are key components of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker is expressing disagreement with something ("don't like them")
+* However, they are also mentioning their current physical state as being erect, which could be seen as irrelevant or incongruous in the context of a discussion
+* There is no clear indication of anger, disgust, fear, sadness, or surprise in the statement
+
+Given these points, I would say that the speaker's tone is neutral, as they are simply stating their opinion without any apparent emotion. The mention of being erect seems to be added for emphasis rather than to convey a specific feeling.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

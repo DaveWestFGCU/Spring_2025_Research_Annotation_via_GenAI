@@ -1,0 +1,50 @@
+Record: "Oh, a crow... Doh!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break this down. I need to classify the tweet "Oh, a crow... Doh!" into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, looking at the structure of the tweet. The author starts with an exclamation "Oh," which often indicates surprise or sudden realization. Then mentions "a crow" followed by "Doh!", which is an onomatopoeic expression typically used when someone realizes they've made a mistake or overlooked something. 
+
+Considering the emotions, "Doh!" is commonly associated with frustration or mild irritation, but in this context, it's more about surprise because the speaker didn't expect a crow to be there. There's no indication of strong anger, disgust, fear, or sadness. The primary emotion seems to be surprise due to the unexpected situation.
+
+I should make sure not to mix up "doh" with pure anger; sometimes people use it sarcastically, but here it's more about reacting to an unexpected event.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query. The user wants me to classify a tweet based on the emotion conveyed. The tweet is: "Oh, a crow... Doh!".
+
+First, I need to understand the context. The phrase "Doh!" is an expression of frustration or realization that something was forgotten or overlooked. It's often used when someone makes a mistake or realizes they could have done better.
+
+Now, looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise. I should pick the most relevant one from this list.
+
+The author seems to be expressing frustration with themselves for not remembering something important—like forgetting their keys or an appointment. Frustration is a form of anger because it's irritation or annoyance directed at oneself or others.
+
+I can rule out other options: there's no disgust, as the tweet isn't about dislike. It's not fear or surprise either. The emotion here isn't positive like joy, nor is it sadness. So, frustration fits best under the anger category.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm looking at this tweet: "Oh, a crow... Doh!" The user is expressing something here. Let me break it down.
+
+First, the phrase starts with an exclamation "Oh," which often indicates surprise or sudden realization. Then there's a mention of a crow, followed by "Doh!" That's a classic onomatopoeia sound typically used when someone realizes they've made a mistake or overlooked something. 
+
+Putting it together, it sounds like the person was expecting one thing but got another—maybe they were looking for something else and found a crow instead. The "Doh!" adds to that feeling of sudden realization, which is usually associated with surprise.
+
+I don't see any signs of anger here; the tone doesn't sound frustrated or enraged. It's more about being caught off guard rather than irritation. There's no disgust expressed towards crows either—just a moment of realization. Fear or sadness aren't present, and while "Oh" could hint at joy, the context doesn't fit that emotion. 
+
+So, considering all this, the emotion conveyed is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

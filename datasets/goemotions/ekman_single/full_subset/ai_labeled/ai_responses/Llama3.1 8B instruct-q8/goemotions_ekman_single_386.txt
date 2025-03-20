@@ -1,0 +1,40 @@
+Record: "I feel retarded because i laughed"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "retarded", which may indicate embarrassment or shame.
+* The speaker describes their reaction as laughing, but then immediately follows it with a negative adjective ("retarded").
+* The tone of the comment is self-deprecating and somewhat awkward.
+
+Given these points, I would say that the most relevant emotion label for this comment is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "retarded", which was previously considered an acceptable term but is now widely regarded as derogatory and hurtful.
+* The speaker expresses embarrassment or shame about their reaction, using the phrase "I feel".
+* The context of the comment suggests that the speaker is recalling a humorous moment, implying a sense of awkwardness or self-consciousness.
+
+Most relevant emotion label: **sadness**
+
+The speaker's use of the word "retarded" and their expression of embarrassment suggest a negative emotional tone. While some readers may interpret the comment as dismissive or flippant, it can also be seen as an admission of discomfort with one's own reaction, which is characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "retarded" which can be considered derogatory and offensive.
+* However, they also mention that they "laughed", which suggests a positive emotional response.
+* The tone of the comment is informal and conversational.
+
+Given these points, it's likely that the speaker is feeling...
+
+**surprise**
+ 
+Explanation: Although the use of the word "retarded" could be considered a neutral or even negative term in modern language, its presence alongside the admission of laughing suggests an unexpected or surprising reaction to something. The overall tone and content of the comment lean more towards surprise than any other emotion, especially given the speaker's sheepish admission of laughing.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,33 @@
+Record: "Posts like these make it more and more clear how creepy [NAME] is"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions that posts like the one being referred to are making them feel a certain way about someone.
+* The word "creepy" has a negative connotation, implying something unpleasant or unsettling.
+
+The most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet expresses a negative sentiment towards someone named [NAME].
+* The word "creepy" implies that the author finds the person or their behavior unsettling.
+* There is no indication of fear, sadness, joy, or surprise.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author is reacting negatively to someone's posts.
+* They use the word "creepy", which implies a sense of unease or discomfort.
+* The tone appears critical and disapproving.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

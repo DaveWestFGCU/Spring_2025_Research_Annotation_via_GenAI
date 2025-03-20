@@ -1,0 +1,64 @@
+Record: "My 2 year old loves Word Party. Story Bots is another good Netflix option."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker might be feeling based on their Reddit comment. The comment is: "My 2 year old loves Word Party. Story Bots is another good Netflix option." Alright, let's break this down step by step.
+
+First, looking at the sentence itself, it seems pretty straightforward. The speaker is sharing information about TV shows they think are suitable for a young child. They mention that their two-year-old enjoys "Word Party" and then suggest "Story Bots" as another good option on Netflix. 
+
+Now, I should consider each emotion category one by one to see which fits best.
+
+1. **Anger**: Anger involves strong feelings of displeasure or antagonism. The comment doesn't show any signs of frustration, irritation, or disapproval. It's more about sharing information rather than expressing anger.
+
+2. **Disgust**: Disgust is when someone feels revulsion towards something unpleasant. There's nothing in the statement that indicates dislike, offense, or anything negative. Instead, the speaker seems positive about the shows.
+
+3. **Fear**: Fear includes feelings of being afraid or worried. Again, there's no indication of anxiety or concern here; the comment is factual and positive.
+
+4. **Joy**: Joy encompasses happiness, pleasure, and related emotions. The speaker is recommending shows they think are good for their child, which could indicate approval or satisfaction. This seems like a possible fit.
+
+5. **Sadness**: Sadness involves emotional pain or sorrow. There's no sadness expressed here; the tone is neutral to positive.
+
+6. **Surprise**: Surprise involves being astonished or startled by something unexpected. The comment doesn't present any new information that would cause surprise; it's more of a recommendation.
+
+7. **Neutral**: If none of the other emotions fit, the emotion could be neutral. However, since the speaker is sharing positive recommendations, it leans towards joy rather than neutral.
+
+Considering all these points, the most fitting emotion here is joy because they're sharing something they think is good for their child, which likely brings them a sense of satisfaction or happiness.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "My 2 year old loves Word Party. Story Bots is another good Netflix option." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's look at the words used. They're talking about their child loving a show called Word Party and then suggesting another show, Story Bots. This sounds like they're sharing information or giving a recommendation. 
+
+I don't see any negative words here. No anger or frustration. There's no expression of fear or worry. Also, nothing indicates sadness or disappointment. Disgust is usually about something unpleasant, which isn't the case here.
+
+The tone seems positive because they're mentioning that their child loves something and are suggesting another good option. They might be happy to share useful information. However, it doesn't seem extremely joyful; more like a neutral, informative statement. There's no surprise element either—no unexpected news or astonishment.
+
+So, considering all this, the emotion here is likely neutral because they're simply sharing information without showing strong emotions.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment: "My 2 year old loves Word Party. Story Bots is another good Netflix option." Let's break this down step by step.
+
+First, I'll look at the content of the message. The speaker is talking about a show their child enjoys and then recommends another show, Story Bots, as a good Netflix option. There are no explicit words indicating any strong emotion like anger or joy here. It seems more informative or helpful.
+
+Next, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. The comment doesn't express any negative emotions like anger or disgust. It's not showing fear either because there's nothing suggesting worry or anxiety. Sadness isn't present since there's no indication of sorrow or disappointment. Surprise would require something unexpected, but the statement is straightforward.
+
+Looking at joy: While they're talking about their child loving a show, it doesn't necessarily express personal happiness beyond sharing information. Joy might be involved if they were expressing excitement about their child's enjoyment, but here it seems more neutral.
+
+The comment is providing information and suggesting another option, which is typical in discussions about media for kids without any strong emotional undertone. So, the emotion here is likely neutral because there's no clear expression of any specific emotion beyond sharing facts.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

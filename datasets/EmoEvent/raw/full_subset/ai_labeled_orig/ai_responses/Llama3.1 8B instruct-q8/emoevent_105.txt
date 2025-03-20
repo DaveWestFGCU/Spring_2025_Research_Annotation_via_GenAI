@@ -1,0 +1,37 @@
+Record: "A monument to human creation/achievement has been lost. That it's been used as a house of worship is irrelevant. That some in our community are behaving as reactionary tribalists shouldn't guide our response. Condolences. #NotreDame #NotreDameCathedralFire #NotreDameCathedral https://t.co/ZyrlwFNXOR"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a "monument to human creation/achievement has been lost", implying a sense of loss and value.
+* The author describes the cathedral's use as a house of worship as "irrelevant", indicating a neutral or detached tone.
+* The author expresses condolences, which is typically associated with sadness or sympathy.
+* The author criticizes some people in their community for being "reactionary tribalists", but this seems to be more of an aside and not the primary focus of the tweet.
+
+Given these points, I would classify the emotion as: **sadness**
+
+The author's tone is primarily one of condolences and loss, indicating a sense of sadness or sympathy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing sympathy for the loss of Notre-Dame Cathedral, indicating a sense of loss or sorrow.
+* The author mentions that "a monument to human creation/achievement has been lost", emphasizing the cultural and historical significance of the cathedral.
+* The tone of the tweet suggests a reflective and somber mood.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions the loss of a "monument to human creation/achievement", indicating a sense of mourning and regret.
+* They express condolences, which is a sympathetic response typically associated with sadness or grief.
+* There's no indication of anger, fear, joy, or surprise in the tone of the tweet.
+
+Given these points, the author intends to convey **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

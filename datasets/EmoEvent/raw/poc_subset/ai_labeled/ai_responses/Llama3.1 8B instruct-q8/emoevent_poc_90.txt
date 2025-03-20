@@ -1,0 +1,32 @@
+Record: "I can’t believe I’m agreeing with [NAME]."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a sense of surprise or unexpected agreement.
+* They seem to be acknowledging that their opinion has changed and they're now in alignment with someone else's.
+
+Given these points, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a sense of surprise or unexpected agreement with someone.
+* The tone is not necessarily positive or negative, but rather a neutral expression of surprise.
+
+Given these considerations, the most relevant emotion label is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a sense of unexpected agreement.
+* They are surprised that they share the same opinion as someone else.
+* The tone seems lighthearted and playful, rather than negative.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

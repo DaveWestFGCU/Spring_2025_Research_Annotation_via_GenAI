@@ -1,0 +1,36 @@
+Record: "On the #WorldBookDay , I would like every book lover/reader to please comment your favourite book here. I would love hear the names of all the good books &amp; would try to read them.  Thanks."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is inviting people to share their favorite books on World Book Day.
+* The tone of the message is enthusiastic and encouraging.
+* The language used is polite and appreciative.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The author's intention is to promote reading and celebrate World Book Day, which suggests a positive and joyful tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author is enthusiastic about World Book Day, as indicated by their use of a celebratory hashtag and an invitation for readers to participate.
+- The language used is positive and encouraging, with phrases such as "I would love" and "Thanks".
+- There is no mention of any negative emotions or criticisms.
+
+Given these points, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is inviting and encouraging.
+* The author is expressing enthusiasm for hearing about other people's favorite books.
+* The language used is polite and appreciative ("please", "I would love", "thanks").
+
+Based on these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

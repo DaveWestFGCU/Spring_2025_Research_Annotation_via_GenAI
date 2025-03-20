@@ -1,0 +1,32 @@
+Record: "LA LIGA CHAMPIONS 2018/19!!!!!! GET IN THERE USER ⚽️🏆 #LaLiga #Champions #FCB #FCBarcelona"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a football championship win.
+* The language used is enthusiastic and celebratory, with multiple exclamation marks.
+* The emojis 🏆 and ⚽️ are also indicators of excitement and celebration.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text contains multiple exclamation marks, indicating enthusiasm and excitement.
+* The use of "CHAMPIONS" in all capital letters emphasizes the importance and pride of being a champion.
+* The inclusion of emojis (⚽️🏆) adds to the celebratory tone.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The text is celebratory and focuses on a positive achievement (winning the championship).
+- It includes emojis that are typically associated with excitement and triumph (⚽️, 🏆).
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

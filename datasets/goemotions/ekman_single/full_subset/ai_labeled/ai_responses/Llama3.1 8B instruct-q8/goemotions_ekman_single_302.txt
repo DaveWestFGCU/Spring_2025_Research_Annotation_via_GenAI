@@ -1,0 +1,40 @@
+Record: "Yay, now we're only down by 7"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses an enthusiastic and celebratory tone ("Yay") to express their sentiment.
+* The phrase "now we're" suggests that something has happened recently or suddenly.
+* The context is likely a sports game or competition, given the language used.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The speaker's use of "Yay" and the celebratory tone suggest they are feeling joy or excitement about the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an exclamation mark at the end of their sentence, which suggests excitement or enthusiasm.
+* The tone appears to be optimistic and celebratory, as indicated by the word "Yay".
+* There is no language that suggests negative emotions such as anger, disgust, fear, sadness, or even neutral commentary.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's use of an exclamation mark and the word "Yay" suggest a positive and celebratory tone, which aligns with the emotion category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the speaker's comment appears to be enthusiastic and celebratory.
+* The use of the word "Yay" is often associated with excitement and joy.
+* The speaker seems to be focusing on a positive aspect (being "only down by 7") rather than expressing frustration or disappointment.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,58 @@
+Record: "Year 2030 Me: Anyone remember 2019 when Liverpool won the 91 points trophy? Everyone else: Nope  #mufc #ChampionsLeague #youryear #nextyear #LiverpoolBarca USER USER_red USER"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out what emotion is behind this tweet. The user wrote about a hypothetical future in 2030 where they ask if anyone remembers Liverpool winning the 91 points trophy back in 2019. Others don't remember and there are some hashtags like #mufc (Manchester United), #ChampionsLeague, etc.
+
+First, I'm trying to understand the context. The 91-point trophy refers to Liverpool's record-breaking Premier League season where they scored an unprecedented 91 points in a single campaign, winning the league title. So the user is reminiscing about that achievement.
+
+Looking at the structure of the tweet, it seems like a playful or nostalgic reflection on past success. They're imagining a future scenario where this memory might fade, but they still hold onto it. The tone doesn't seem negative; instead, there's a sense of pride and looking back with joy.
+
+The hashtags used include #ChampionsLeague, which relates to Liverpool's history in the competition, possibly indicating admiration or nostalgia for their achievements there too. There's also a mention of Manchester United (MUF C), but it's not clear if that's relevant here. The user mentions "USER_red," which might be a reference to Liverpool's nickname as the Reds.
+
+I'm considering possible emotions: anger doesn't fit because there's no sign of frustration. Disgust isn't present; the tweet is positive about Liverpool. Fear? No, it's more of a hypothetical and playful thought rather than something fearful. Sadness isn't evident either; the user seems content with their memory.
+
+That leaves joy or surprise. Since they're reminiscing fondly and highlighting a past success, joy makes sense because they're expressing pride and positive feelings about Liverpool's achievements. Surprise would imply unexpectedness, which isn't exactly what's happening here.
+</think>
+
+The tweet reflects nostalgia and pride regarding Liverpool's past success, indicating **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's break this down. The user provided a tweet about football, specifically mentioning Liverpool winning the 2019 Champions League. They also included several hashtags like #mufc and #ChampionsLeague.
+
+I need to classify the emotion in the tweet using only the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the text, it seems nostalgic. The person is talking about 2019 when Liverpool achieved something significant but then mentions others not remembering, maybe implying that their success isn't acknowledged anymore. They use hashtags like #nextyear and #youryear, which could hint at a desire for future recognition or a playful jab.
+
+The tone doesn't seem angry or fearful. There's no clear expression of disgust either. It's more about reminiscing and perhaps hoping for future achievements rather than expressing strong negative emotions. The mention of Liverpool winning might carry pride or joy, but the focus is on others forgetting, which could be a bit saddening but not necessarily sadness.
+
+Wait, maybe it's surprise? They're highlighting that people don't remember 2019, which is surprising. But I'm not sure if that's the main emotion here. Alternatively, the overall sentiment feels more like a longing or pride in their past success, which could be joy. However, since others aren't remembering, it might lean towards sadness because of unrecognition.
+
+I think the primary emotion here is sadness because they're pointing out that people have forgotten Liverpool's achievement, expressing a sense of loss or nostalgia. So, the classification would be sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this tweet and figure out what emotion the author is conveying. The user wrote, "Year 2030 Me: Anyone remember 2019 when Liverpool won the 91 points trophy? Everyone else: Nope #mufc #ChampionsLeague #youryear #nextyear #LiverpoolBarca USER USER_red USER." 
+
+First, I notice they're talking about a future year (2030) asking if people remember an event from 2019 where Liverpool won something. The mention of "91 points trophy" likely refers to the Premier League title Liverpool won in that season, which was a significant achievement.
+
+The author is imagining a scenario in the future where they ask others about this past accomplishment, but everyone else doesn't remember it. This paints a picture of someone reflecting on their team's past success with nostalgia. The use of hashtags like #ChampionsLeague and mentions of LiverpoolBarca suggest a football (soccer) context, possibly related to the Champions League.
+
+The emotion here isn't overtly expressed but is likely joy because the author is reminiscing about a positive achievement by their favorite team. They're looking back fondly, which indicates happiness or pride. There's no indication of anger, disgust, fear, sadness, or surprise—just a nostalgic feeling tied to a past victory.
+
+So, considering all this, the emotion conveyed in the tweet is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

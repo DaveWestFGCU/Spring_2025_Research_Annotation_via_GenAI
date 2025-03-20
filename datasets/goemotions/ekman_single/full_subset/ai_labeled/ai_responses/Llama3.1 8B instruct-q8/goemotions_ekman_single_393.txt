@@ -1,0 +1,38 @@
+Record: "I love to see the Celtics give up [NAME] and [NAME] only to have [NAME] walk to literally any other team"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that the Celtics give up two players, which implies a loss for the team.
+* The speaker uses the phrase "I love to see", which suggests a positive tone.
+* The speaker's comment is in response to a post or another commenter, implying they are reacting to something.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's use of the word "love" and the context of the sentence suggest that they are expressing pleasure or happiness at the Celtics' situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is lighthearted and sarcastic, with a hint of mocking.
+* The speaker seems to be amused by the Celtics' inability to keep their players.
+* The language used is playful and teasing.
+
+Most relevant emotion label: **joy**
+
+The speaker's sarcasm and playfulness suggest that they are experiencing joy or amusement at the Celtics' misfortune. The use of phrases like "I love to see" and "only to have" implies a sense of delight or pleasure, rather than anger, disgust, fear, sadness, surprise, or neutrality.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider:
+
+* The speaker's tone is informal, with colloquial expressions ("give up", "walk").
+* The speaker appears to be referencing a sports game (NBA), specifically the Celtics.
+* The language used implies criticism or disappointment with the Celtics' performance.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's tone and language suggest that they are experiencing pleasure or happiness when seeing their favorite team, likely the Celtics opponents, perform well.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "He always missed that key 3rd down catch to keep the drive alive"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone appears to be observational and matter-of-fact.
+* The language used is straightforward and lacks emotional intensity.
+* The comment does not express a strong opinion or personal connection to the topic.
+
+Given these considerations, I would identify the emotion as **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is referring to a past event (a football game or a play) where something went wrong.
+* The speaker mentions a specific action ("missed that key 3rd down catch") that they believe was crucial in determining the outcome of the game or the team's performance.
+* The tone of the statement suggests a sense of disappointment or frustration, but it is not extreme.
+
+Most relevant emotion label: **sadness**
+
+The speaker seems to be expressing disappointment or sadness about the missed opportunity, which likely affected the team's chances of winning.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement appears to be reflective and observational, rather than emotive or confrontational.
+* There is no language used that suggests strong negative emotions such as anger, disgust, fear, or sadness.
+* The speaker's comment seems to be focused on a specific aspect of a sports game (a missed catch), which implies a somewhat neutral or matter-of-fact tone.
+
+Given these considerations, the most relevant emotion label for this statement is:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

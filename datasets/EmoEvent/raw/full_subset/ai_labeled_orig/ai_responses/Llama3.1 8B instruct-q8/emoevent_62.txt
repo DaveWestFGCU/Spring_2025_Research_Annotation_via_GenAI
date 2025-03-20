@@ -1,0 +1,35 @@
+Record: "Democratic, socialist, who cares if your whole business plan is to rape and pillage other countries for their resources because your capitalistic system is a complete failure. #Venezuela https://t.co/x01hSkZOsp"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author criticizes the actions of Nicolas Maduro, implying that they are destructive and exploitative.
+* The use of phrases such as "rape and pillage" suggests a strong sense of condemnation.
+* The tone is negative and critical.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author criticizes the Venezuelan government's actions as "rape and pillage", implying a strong negative emotion.
+* The use of strong language ("rape" and "pillage") suggests a high level of intensity in the author's sentiment.
+* The reference to capitalism as a "complete failure" implies that the author sees it as having been superseded or proven ineffective.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet criticizes Maduro's economic policies as "rape and pillage", implying exploitation.
+* The author questions the relevance of Maduro's ideology, suggesting it is secondary to his actions.
+* The tone appears confrontational and accusatory.
+
+**anger**
+(The tweet expresses outrage and indignation towards Maduro's perceived wrongdoing.)
+------------------------------------------------------------------------------------------------------------------------
+

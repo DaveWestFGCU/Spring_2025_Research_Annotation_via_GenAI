@@ -1,0 +1,33 @@
+Record: "What a hilarious coincidence, the caption from this picture I posted 5 years ago 🙈 #NotreDameFire #NotreDameCathedralFire #Notre_dame_de_Paris https://t.co/vMld8gEjTy"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a "hilarious coincidence" related to the Notre Dame Cathedral fire.
+* The author seems to be making light of a serious event, using humor and sarcasm.
+
+Given these points, the most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is referencing a recent event (the Notre Dame Cathedral fire) in the context of an old picture.
+* They use the phrase "hilarious coincidence" which implies a lighthearted or humorous tone.
+* The tone is playful and tongue-in-cheek, suggesting that the author finds the connection between their old picture and the current event amusing.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider:
+
+* The author is referencing a past post with a picture of the Notre Dame Cathedral.
+* They mention that the fire occurred on the exact day they posted the picture 5 years ago.
+* The author uses the phrase "hilarious coincidence", which implies a lighthearted and playful tone.
+
+Given these points, it's likely that the author intended to convey a sense of **surprise**. The use of the word "coincidence" suggests an unexpected or astonishing connection between their past post and the current event.
+------------------------------------------------------------------------------------------------------------------------
+

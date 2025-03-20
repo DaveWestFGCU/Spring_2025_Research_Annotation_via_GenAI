@@ -1,0 +1,41 @@
+Record: "My 2 year old loves Word Party. Story Bots is another good Netflix option."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment appears to be informative and helpful.
+* The speaker mentions two specific TV shows that they think are suitable for a 2-year-old, indicating a positive recommendation.
+* There is no indication of conflict or disagreement with anyone else in the conversation.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker seems to be feeling joy and enthusiasm when recommending these TV shows, which suggests that they are pleased to share their opinion and help others find something suitable for a young child.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is sharing information about their child's preferences for TV shows.
+* The tone of the comment appears to be casual and helpful, as it provides suggestions for parents or caregivers looking for children's content on Netflix.
+
+Given these considerations, the emotion most people will feel the speaker may be feeling is **joy**. The speaker is enthusiastic about sharing something positive (their child's love for a TV show) and providing helpful information, which suggests they are feeling happy or joyful.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions two TV shows their 2-year-old enjoys, which suggests a positive and informative tone.
+* There is no language indicating strong emotions such as anger, disgust, or fear.
+* The speaker's response appears to be a helpful suggestion in the context of a discussion about suitable TV options for children.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's response is enthusiastic and optimistic, suggesting that they are happy to share their knowledge and help others (e.g., parents) find suitable content for their children. This tone aligns with the definition of joy as a feeling of pleasure and happiness.
+------------------------------------------------------------------------------------------------------------------------
+

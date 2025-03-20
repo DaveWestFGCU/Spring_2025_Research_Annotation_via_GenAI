@@ -1,0 +1,43 @@
+Record: "hit or miss would anybody care or miss huh..? aint nobody love me and ma dad also left me yuh..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that "ain't nobody love" them, indicating a lack of affection or connection with others.
+* They mention their father leaving them, which suggests a past emotional trauma or abandonment issue.
+* The tone is informal and casual, but the content suggests underlying emotions.
+
+Most relevant emotion label: **sadness**
+
+The speaker's statement implies a sense of emotional pain, sorrow, and possibly feelings of disappointment or rejection. The use of "ain't nobody love" and "ma dad also left me" suggests a deep-seated sadness, which is consistent with the definition of sadness as an emotion category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses self-doubt and lack of importance, questioning whether anyone will even notice their absence ("would anybody care or miss").
+* They mention being unloved by others ("ain't nobody love me") and having a troubled family life ("dad also left me").
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's tone and language convey feelings of emotional pain, sorrow, and disappointment, which are characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be questioning whether anyone cares about them, suggesting a lack of emotional connection.
+* They mention their father left them, which implies a negative experience or relationship.
+* The tone appears to be melancholic and introspective.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's words convey a sense of sadness and emotional pain, particularly with regards to feeling unloved and abandoned by their father.
+------------------------------------------------------------------------------------------------------------------------
+

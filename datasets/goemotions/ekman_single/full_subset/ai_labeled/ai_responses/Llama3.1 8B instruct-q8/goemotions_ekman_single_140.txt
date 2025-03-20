@@ -1,0 +1,36 @@
+Record: "Weird but interesting nonetheless."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker starts with the word "weird", which can imply a sense of surprise or unexpectedness.
+* The phrase "but interesting nonetheless" suggests that despite the initial reaction, the speaker finds value in whatever was discussed.
+* There is no strong negative emotion expressed, such as anger or disgust.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+The word "weird" and the context suggest that the speaker is surprised by something, but still manages to find it interesting.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement is matter-of-fact and observational.
+* The speaker uses the word "weird", which can imply a sense of unexpectedness, but it's not necessarily negative.
+* The phrase "but interesting nonetheless" suggests that despite initial reservations or surprise, the speaker finds value in what they've observed.
+
+Most relevant emotion label: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "weird", which can imply a sense of curiosity or ambivalence.
+* The phrase "but interesting nonetheless" suggests that despite the initial reaction, the speaker finds value or merit in the topic.
+
+Given these points, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+

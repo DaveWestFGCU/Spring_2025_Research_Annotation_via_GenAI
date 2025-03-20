@@ -1,0 +1,36 @@
+Record: "You simply cannot have a better occasion than the World Book Day to study for your exams. Dust off your books! It's high time! MindSpark wishes you all the luck for the End Semester Examinations. #WorldBookDay #MindSpark #COEP https://t.co/aA1tI0Fkkk"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet mentions an annual event (World Book Day) and encourages readers to study for their exams.
+- The tone is positive, mentioning luck and wishing the best for the exam.
+- There are no negative emotions or criticisms expressed.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet, let's consider the following points:
+
+* The author is promoting a positive event (World Book Day) and encouraging people to study.
+* The tone appears enthusiastic and motivational.
+* There is no indication of negativity or criticism.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's enthusiastic tone and encouragement to "Dust off your books!" suggest that they are conveying a sense of joy and excitement about the World Book Day occasion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is related to an event (World Book Day) and suggests a positive activity (studying).
+* The tone of the message is encouraging.
+* There are no negative words or phrases that could indicate any of the listed emotions.
+
+Given these points, the author intended to convey **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,45 @@
+Record: "#USA #America to donate #MILLIONS to #NotreDame #NotreDameCathedralFire rebuild &amp; #PuertoRico #American cant get some more #Donations without getting criticized by #Trump #TrumpAdministration &amp; kids in #US cant even have gym, music, spanish or any 2nd language classes, sad!!! 🙃 https://t.co/5JWKKB9Mn9"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a negative comparison between the donations received by Notre Dame and those that could be allocated to other causes in the US.
+* The author expresses frustration with President Trump's administration.
+* The author also laments the lack of funding for certain classes in US schools.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The author appears to be expressing sadness and disappointment about the perceived priorities of the Trump administration and the consequences for American children.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a significant donation from the USA to rebuild Notre Dame Cathedral.
+* The author expresses frustration with the Trump administration's criticism of donations.
+* The author contrasts this with issues facing kids in the US, specifically mentioning lack of funding for certain classes.
+
+Given these points, the most relevant emotion label is:
+**sadness**
+
+This is because the author explicitly states "sad!!!" and highlights a concern about children's education, which evokes feelings of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions the Notre-Dame Cathedral Fire and a potential donation from the USA.
+* The author expresses frustration with the Trump Administration's criticism of donations without mentioning any criticism related to the fire itself.
+* The author highlights a contrasting example of inefficiency in the US education system, using it as a contrast to the generosity being shown towards Notre-Dame.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The author expresses sadness and disappointment with the situation in the US education system compared to the potential generosity shown towards Notre-Dame.
+------------------------------------------------------------------------------------------------------------------------
+

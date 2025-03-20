@@ -1,0 +1,36 @@
+Record: "Huh. Similar things happen to me. Just my big brother believe that I got the wrong diagnoses and Dad think I am "cured"."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions their own experiences with similar situations.
+* They mention disagreements between family members, specifically their father's differing opinion on their health status.
+* The tone of the comment seems to be matter-of-fact and non-confrontational.
+
+Given these points, the emotion that stands out is **sadness**. The speaker appears to be discussing a sensitive topic related to their health, which has caused conflict within their family. Their calm and factual tone may be masking underlying emotional pain or disappointment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is sharing a personal experience of receiving conflicting opinions from family members about their health diagnosis.
+* They seem to be reflecting on this situation with a sense of surprise or unexpectedness.
+* There is no indication of strong emotions like anger, disgust, fear, or sadness.
+
+Given these considerations, the most relevant emotion label for the speaker's tone in this comment is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is sharing a personal experience related to medical diagnoses.
+* They mention disagreements with their family members, specifically their father's opinion on their health status.
+* The tone seems somewhat matter-of-fact or resigned rather than emotional.
+
+Given these considerations, the most relevant emotion label for this text is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

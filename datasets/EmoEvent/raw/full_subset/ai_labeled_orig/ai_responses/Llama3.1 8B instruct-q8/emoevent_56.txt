@@ -1,0 +1,37 @@
+Record: "Far right in a country that still hosts this pervert Franco memorial? Cannot be. #SpainElection"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions the "far right", which can imply a negative or disapproving tone.
+* The author expresses incredulity and strong disagreement with the idea of hosting a memorial for Franco, implying that they find it unacceptable.
+* The use of the word "pervert" is a strong pejorative term.
+
+Given these points, the most relevant emotion label is **anger**, as the author's tone suggests indignation and outrage at the situation described.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet's intended emotion, consider the following points:
+
+* The tweet mentions the "far right," which can be associated with strong negative emotions.
+* The author uses the phrase "pervert" to describe a memorial, which is a strong pejorative term indicating distaste or contempt.
+* The tone of the sentence is declarative, with an exclamation mark at the end, suggesting a sense of outrage or shock.
+
+Given these considerations, the most relevant emotion label for this tweet is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions the "far right", which implies a political stance or ideology.
+* The author uses strong language to describe Franco, implying criticism or disdain.
+* The phrase "Cannot be" suggests a sense of outrage or incredulity.
+
+Given these considerations, the most relevant emotion label is:
+**anger**
+
+This classification is based on the author's critical tone and use of strong language, which convey a sense of anger towards the presence of far-right ideology in Spain.
+------------------------------------------------------------------------------------------------------------------------
+

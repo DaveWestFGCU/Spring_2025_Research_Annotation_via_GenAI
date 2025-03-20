@@ -1,0 +1,52 @@
+Record: "I am only sharing what my friends said, what their experience was. I found that a bit surprising."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment says, "I am only sharing what my friends said, what their experience was. I found that a bit surprising." 
+
+First, let me break down the sentence. They're talking about sharing others' experiences and then mention that it's a bit surprising. The key word here is "surprising," which immediately makes me think of surprise as an emotion. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Since they explicitly used the word "surprising," that points directly to the surprise category.
+
+I should also check if any other emotions might fit. There's no indication of anger or frustration, so probably not anger. Disgust is about revulsion, which isn't present here. Fear involves worry or anxiety, but they're stating something surprising without expressing fear. Joy would be more about happiness, and sadness about sorrow, neither of which are indicated. Neutral is when there's no emotion, but since they used "surprising," that's not neutral either.
+
+Therefore, the most relevant emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment. The sentence given is: "I am only sharing what my friends said, what their experience was. I found that a bit surprising." 
+
+Let me break this down. First, they're stating that they're sharing others' experiences and opinions, which in itself doesn't indicate an emotion. But then the key part is at the end where they say "I found that a bit surprising." The word "surprising" directly relates to the emotion of surprise.
+
+Looking back at the emotion definitions provided, surprise includes feelings like astonishment or being startled by something unexpected. In this context, the speaker is expressing that something was unexpected or astonishing enough for them to notice it as surprising. 
+
+I should also consider if any other emotions could apply. For example, could this be fear? Well, fear involves feeling afraid or worried, which doesn't quite fit here. Disgust relates to revulsion, which isn't present. Anger is about displeasure, but the speaker isn't expressing irritation. Sadness would involve sorrow, which isn't indicated either. Joy would be happiness, and neutral means no emotion. 
+
+So, the most fitting emotion from the given options is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The comment says: "I am only sharing what my friends said, what their experience was. I found that a bit surprising."
+
+Breaking it down, the speaker mentions they're just sharing others' experiences and then adds that they found something "a bit surprising." The key word here is "surprising," which directly points to surprise.
+
+Looking at the emotion definitions, surprise includes feelings like astonishment or being startled by unexpected things. Even though it's described as "a bit" surprising, it still falls under the category of surprise because the speaker explicitly mentions it that way.
+
+I don't think it's any other emotion like joy or anger because there's no indication of happiness or irritation in the statement. The focus is on the unexpectedness of something, which aligns with surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

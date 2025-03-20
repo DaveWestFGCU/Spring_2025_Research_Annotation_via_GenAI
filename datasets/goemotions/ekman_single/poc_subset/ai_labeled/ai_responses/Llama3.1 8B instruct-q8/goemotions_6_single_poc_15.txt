@@ -1,0 +1,38 @@
+Record: "Maybe unpopular but I never eat pancakes with syrup. Way too damn sweet."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are some important points to consider:
+
+* The speaker is expressing their personal preference for not eating pancakes with syrup.
+* They use the word "too" which implies a strong feeling against something being excessive or overpowering.
+* The tone of the comment seems to be somewhat forceful, using the phrase "Way too damn sweet".
+
+Given these points, I would conclude that the speaker is expressing **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that they have an opinion on eating pancakes with syrup.
+* They express a strong sentiment against eating pancakes with syrup, using the phrase "Way too damn sweet".
+* There is no mention of pleasure or happiness associated with their opinion.
+
+Given these points, the most relevant emotion label is **disgust**. The speaker's use of the word "too" and the phrase "damn sweet" convey a strong sense of disapproval and revulsion towards the idea of eating pancakes with syrup. This aligns with the definition of disgust as "Revulsion or strong disapproval aroused by something unpleasant or offensive".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a strong preference for not eating pancakes with syrup, using the phrase "Way too damn sweet".
+* The tone is straightforward and assertive.
+* There's no apparent criticism or negativity directed at others.
+
+Most relevant emotion label: **disgust**.
+
+The speaker's use of the word "sweet" in the context of something they dislike suggests a strong reaction to an unpleasant sensation. However, disgust is not quite right either because there's no indication that the speaker finds the syrup disgusting. The correct answer would be closer to **surprise**, since the speaker implies that others might find pancakes with syrup acceptable, and this surprises them.
+
+However, considering the options, a more suitable emotion label could be: **disgust** is not the best fit here because it implies a strong aversion to something unpleasant.
+------------------------------------------------------------------------------------------------------------------------
+

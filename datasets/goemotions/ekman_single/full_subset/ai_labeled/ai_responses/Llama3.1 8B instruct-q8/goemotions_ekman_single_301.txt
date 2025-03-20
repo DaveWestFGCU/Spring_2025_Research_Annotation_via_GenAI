@@ -1,0 +1,70 @@
+Record: "Not really. Also it’s Winnipeg, sorry we don’t have the population of Tokyo..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to a comparison between Winnipeg and Tokyo.
+* The tone appears to be casual and slightly defensive.
+* The speaker mentions a specific reason for their response (population difference).
+
+Most relevant emotion label: **sadness**.
+
+The speaker's comment implies a sense of disappointment or apology, which are characteristics of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To determine the emotion the speaker may be feeling, let's consider some important points:
+
+* The speaker is responding to a comparison with Tokyo, implying that someone else has made a comment about Winnipeg being comparable to Tokyo.
+* The tone appears defensive or dismissive, as indicated by "Not really."
+* The phrase "sorry we don't have the population of Tokyo" seems to be a statement of fact rather than an expression of regret.
+
+Given these points, it's likely that the speaker is feeling annoyance or frustration with the comparison being made. However, the tone is more dismissive and less aggressive than in examples of anger, so I would categorize this as:
+
+**neutral**
+
+However, considering the specific context of the comment, it could also be argued that the speaker is expressing a hint of defensiveness, which might suggest a slightly stronger emotion.
+
+Upon reevaluation, I think a more suitable label for the emotion expressed in this comment would be:
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be responding to a comparison between two cities.
+* They mention a specific city (Winnipeg) and seem to be explaining or justifying something about it.
+* The tone is casual and somewhat defensive.
+
+Given these points, the most relevant emotion label is: **surprise**. The speaker's response suggests that they were surprised by the original comment or comparison, and are now responding to clarify or explain why Winnipeg shouldn't be compared to Tokyo in terms of population.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker responds with a dismissive tone ("Not really").
+* They mention a specific location, Winnipeg, and compare its population to Tokyo.
+* There is no apparent emotional language or strong emotion-inducing words.
+
+Given these points, it seems the speaker is expressing a lack of concern or enthusiasm for the topic being discussed. 
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 5:
+Important points to consider:
+
+* The speaker appears to be responding to a comparison or expectation that they disagree with.
+* They mention Winnipeg and Tokyo, which suggests they are making a geographical comment.
+* The tone is somewhat dismissive, using "Not really" as a response.
+
+Given these points, the most relevant emotion label is: **surprise** 
+
+However, this surprise seems to be driven by disagreement or lack of understanding rather than astonishment. A more fitting interpretation could be:
+
+The speaker seems to be reacting with mild frustration or annoyance at the expectation being placed upon them, which is better represented as: **anger**
+------------------------------------------------------------------------------------------------------------------------
+

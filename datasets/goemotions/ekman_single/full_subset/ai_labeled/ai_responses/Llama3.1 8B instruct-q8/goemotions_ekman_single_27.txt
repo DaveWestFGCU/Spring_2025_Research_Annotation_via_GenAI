@@ -1,0 +1,40 @@
+Record: "[NAME] damn it [NAME]!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The speaker uses an exclamation mark and the word "damn", which suggests strong emotion.
+* The speaker mentions two names, implying that they have some connection or relationship with these individuals.
+* The speaker's tone is informal and somewhat aggressive.
+
+Given these considerations, I believe the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used by the speaker includes an expletive ("damn") and an expression of frustration ("damn it").
+* The tone is abrupt and emphatic, suggesting strong emotions.
+* The comment is directed at a specific person ([NAME]), implying that there is a personal or interpersonal issue involved.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of profanity and exasperation ("damn it") suggests that they are feeling angry or frustrated with [NAME].
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses strong language ("damn"), indicating intense emotion.
+* The exclamation marks at the end of the sentence suggest emphasis and urgency.
+* The speaker is addressing two people by name, implying a personal or direct connection.
+
+Most relevant emotion label: **anger** 
+
+The use of strong language and exclamation marks suggests that the speaker is expressing anger towards the individuals being addressed.
+------------------------------------------------------------------------------------------------------------------------
+

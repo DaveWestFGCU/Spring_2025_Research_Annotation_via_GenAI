@@ -1,0 +1,41 @@
+Record: "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint. #NotreDameCathedralFire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a negative situation (a fire at a famous cathedral), but their tone seems to be positive.
+* They mention homeless and impoverished people being relieved, which suggests that they are highlighting a potential silver lining or unexpected benefit from the situation.
+* The author also takes a jab at the Catholic Church's financial situation.
+
+Given these points, the most relevant emotion label is **joy**. The author appears to be expressing a sense of joy or satisfaction that some good might come out of a difficult situation and that it could expose the perceived hypocrisy or weaknesses of an institution (the Catholic Church).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider given the text:
+
+* The tweet mentions a fire at Notre-Dame Cathedral, which is likely to evoke strong emotions.
+* However, the tone of the tweet does not appear to be mournful or sympathetic.
+* The language used in the tweet focuses on the perceived financial benefits of the fundraising efforts, specifically targeting the Catholic Church's wealth.
+
+Given these points, I would classify the emotion intended by the author as:
+
+**sarcasm, which is often linked to anger or annoyance in this context. However, since sarcasm can be a complex and multi-faceted emotion that doesn't perfectly fit into one category, and given the specific options provided, the closest match is:**
+
+* **anger**, as the tweet appears to express frustration and criticism towards the Catholic Church's wealth, despite the surface-level expression of relief for those in need.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions the homeless and impoverished people being "relieved" by the fundraising efforts, implying a sense of irony or critique.
+* The phrase "Especially as the Catholic Church is so skint" suggests that the author views the church's financial situation negatively.
+
+Given these points, the most relevant emotion label for this tweet would be:
+
+**sadness**
+ 
+The author appears to convey a sense of sadness and disapproval towards the wealthy church being able to raise money quickly in response to the fire, while implying that there are more pressing needs elsewhere.
+------------------------------------------------------------------------------------------------------------------------
+

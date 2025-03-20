@@ -1,0 +1,54 @@
+Record: "Omg it’s like you’re taking the words from my mind."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet's emotion. The tweet says, "Omg it’s like you’re taking the words from my mind." 
+
+First, let's break down the sentence. The user starts with "Omg," which is an exclamation indicating surprise or amazement. Then they say that someone seems to be reading their thoughts. That's a strong feeling because having one's thoughts read can be shocking or unexpected.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The most obvious here is surprise because of the "Omg" and the content about thoughts being read. It doesn't show any signs of fear (like dread), joy (happiness), or sadness (sadness). Disgust would involve dislike, which isn't present. Anger is about annoyance or rage, which also isn't here.
+
+So, surprise fits best because it's an exclamation of amazement.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify the tweet: "Omg it's like you're taking the words from my mind." The possible emotions are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the tweet. The user starts with "Omg," which is an exclamation of surprise. Then they say that someone is taking the words from their mind. That sounds like something unexpected and shocking. So the main emotion here seems to be surprise.
+
+Is there any chance it could be another emotion? Let me think. Could it be fear? Maybe if they're scared, but "taking the words" doesn't imply danger or threat. Disgust? I don't see any negative feelings expressed towards someone or something. Anger? No indication of frustration or rage. Sadness? The situation described isn't really conveying sorrow. Joy? Doesn't seem like it's a happy or ecstatic moment.
+
+So, the most fitting emotion from the list is surprise. The use of "Omg" and the statement itself both point to an element of astonishment or being amazed.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm looking at this tweet: "Omg it's like you're taking the words from my mind." The user starts with an exclamation and "Omg," which is a common expression of surprise. They say that someone is taking their words, which might mean they were thinking about something and now it's being expressed or acknowledged. 
+
+I need to classify this emotion into one of the categories: anger, disgust, fear, joy, sadness, or surprise. The options include broader feelings, but I should pick the most relevant.
+
+The tweet uses "Omg," which immediately suggests a strong reaction, likely positive or unexpected. "Taking the words from my mind" indicates that something is being said that they were thinking, so it's a form of connection or recognition. This feels more like a positive surprise rather than anything negative.
+
+Looking at each category:
+- Anger: No signs of irritation or rage.
+- Disgust: Doesn't relate to dislike or aversion.
+- Fear: There's no indication of anxiety or fear here.
+- Joy: While it's a positive emotion, the reaction feels more about being surprised by something unexpected.
+- Sadness: Not applicable; the tone isn't sad.
+- Surprise: Fits perfectly because they're expressing that something happened unexpectedly and in a way that resonated with them.
+
+So, the emotion conveyed is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

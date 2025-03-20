@@ -1,0 +1,18 @@
+Record: "The uprising in #Venezuela is failing https://t.co/7P5Y8yZA9s"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet. The tweet says, "The uprising in #Venezuela is failing https://t.co/7P5Y8yZA9s." First, let me understand the context given. There's a crisis in Venezuela regarding who the legitimate president is, between Maduro and Guaido.
+
+Now, looking at the tweet itself: it mentions an "uprising" that is "failing." The word "failing" suggests that something intended to succeed isn't working out. So, what emotion does this convey? Well, when someone says their efforts are failing, they might feel disappointment or maybe even sadness because things didn't turn out as hoped.
+
+I should consider the mapping guidelines provided. Sadness is associated with emotions like pensiveness or grief. The tweet doesn't express anger, disgust, fear, joy, or surprise directly. It's more about the outcome not being positive, which aligns with sadness.
+
+So, putting it all together, the primary emotion here seems to be sadness because the author is expressing that an effort (the uprising) isn't succeeding, which can lead to feelings of sorrow or disappointment.
+</think>
+
+sadness
+------------------------------------------------------------------------------------------------------------------------
+

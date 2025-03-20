@@ -1,0 +1,52 @@
+Record: "This dvd must be pretty hard to come by if it’s going for $49... thank you though I appreciate it."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out the emotion behind this comment. The user wrote, "This dvd must be pretty hard to come by if it’s going for $49... thank you though I appreciate it." 
+
+First, looking at the sentence, they're talking about a DVD that's priced at $49, which is quite expensive. They mention it's hard to find because of the price and then express gratitude with "thank you" and "I appreciate it." 
+
+The emotion definitions say that joy includes appreciation, gratitude, etc., so their tone here seems positive and thankful. There's no sign of anger, disgust, fear, sadness, or surprise. They're not neutral either since they're expressing a clear feeling.
+
+So, the most relevant emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "This dvd must be pretty hard to come by if it's going for $49... thank you though I appreciate it." 
+
+First, I'll break down the sentence. The speaker is talking about a DVD that's priced at $49, which they find expensive and probably rare because of the high price. They mention that it's "hard to come by," implying scarcity or difficulty in obtaining it.
+
+Then, the speaker says "thank you though I appreciate it." This part shows gratitude towards someone who provided the DVD. The words "thank you" and "appreciate" are clear indicators of positive emotions.
+
+Looking at the emotion categories: anger is about displeasure, which doesn't fit here. Disgust involves revulsion, not applicable. Fear is about being afraid, which isn't present. Joy includes happiness, gratitude, etc., so that's a match. Sadness would be sorrow or pain, which isn't shown. Surprise is astonishment, but the speaker seems to express thanks without surprise.
+
+So, the emotion here is joy because of the gratitude expressed.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "This dvd must be pretty hard to come by if it's going for $49... thank you though I appreciate it." 
+
+Let me break this down. First, the speaker is talking about a DVD being expensive at $49 and says it's probably hard to find. Then they add "thank you though I appreciate it." So, the main parts here are mentioning the price and expressing gratitude.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The speaker isn't showing any signs of anger or frustration because they're not complaining about the price; instead, they're acknowledging that it's expensive. There's no disgust either—disgust usually involves finding something offensive or unpleasant, which doesn't apply here. Fear would involve feeling scared or anxious, but the comment is more about appreciation.
+
+Joy might be a possibility because they are expressing thanks and appreciation, which can indicate positive feelings. Sadness isn't present since there's no sorrow or disappointment mentioned. Surprise isn't either—there’s nothing unexpected here. The speaker is simply commenting on the price and thanking someone.
+
+So, the emotion that fits best is joy because of their thankful and appreciative tone.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,33 @@
+Record: "Recover well. (Argh, my english is too terrible 🇲🇫)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author apologizes for their English proficiency in a lighthearted manner.
+* They express frustration with their language skills using the phrase "Argh," which typically indicates annoyance or frustration.
+* The use of an emoji representing a country (🇲🇫) adds a playful touch, but doesn't necessarily influence the primary emotion.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses a colloquial expression ("Argh") which can indicate frustration or annoyance.
+* The author expresses regret over their English skills, which may suggest disappointment or sadness.
+* The tone seems to be lighthearted and somewhat humorous, given the use of the flag emoji.
+
+Most relevant emotion label: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author includes a phrase with emotive language ("Argh") which typically conveys frustration or annoyance.
+* The use of "(Argh)" also suggests that the author may be self-deprecating and expressing embarrassment about their English skills.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

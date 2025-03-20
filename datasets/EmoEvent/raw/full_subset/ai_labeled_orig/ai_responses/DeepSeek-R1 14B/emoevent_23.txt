@@ -1,0 +1,54 @@
+Record: "Struggling #Madrid held to goalless draw by Getafe - Gulf Times #GetafeCF 🇪🇸 #LaLiga  https://t.co/8Td299jwFP"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I'm trying to classify the emotion in this tweet about a football match. The tweet says that Madrid struggled and ended up with a goalless draw against Getafe. Let me break it down.
+
+First, "Struggling" indicates that Madrid had a tough time during the game. That word alone suggests some difficulty or challenge, which might evoke negative feelings. Then, "held to goalless draw by Getafe"—so Madrid didn't win, and neither did Getafe; it was a tie. 
+
+I'm thinking about what emotions people usually feel when their favorite team doesn't win. It's often disappointment or sadness because they were hoping for a victory. The word "struggled" adds to that sense of letdown because it implies Madrid tried hard but couldn't overcome Getafe.
+
+Looking at the emotion categories, anger is possible if someone is frustrated about the loss, but the tweet doesn't mention anything about anger specifically. It's more about the outcome being less than ideal. Disgust isn't really fitting here because that would involve dislike or aversion towards something, which isn't clearly expressed. Fear might relate to anxiety, but there's no indication of fear in the tweet.
+
+Joy is unlikely because a draw, especially after struggling, wouldn't typically bring happiness unless it was a point preservation scenario, but that's not evident here. Sadness makes sense because the fans would feel letdown or sorrow about the result. Surprise could be if the outcome was unexpected, but the tweet states it as a fact without expressing shock.
+
+So putting it all together, the emotion conveyed is likely sadness because of the disappointing result for Madrid.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "Struggling #Madrid held to goalless draw by Getafe - Gulf Times #GetafeCF 🇪🇸 #LaLiga https://t.co/8Td299jwFP". The key words here are "struggling," "held to goalless draw," and the overall tone seems neutral but with a hint of something not so positive.
+
+Madrid is the team mentioned, which I know is usually a strong club. If they're struggling, it implies they didn't perform well. A goalless draw means no goals were scored, so both teams didn't manage to score. For Madrid fans, this might be disappointing because they probably expected a win.
+
+Looking at the emotion categories: anger would involve frustration or rage, but the tweet doesn't express strong irritation. Disgust is about dislike or disinterest, which could fit if the author feels disappointment. Fear isn't really present here. Joy and surprise are positive emotions that don't seem to apply. Sadness makes sense because a disappointing result can cause sorrow or letdown.
+
+So, putting it all together, the emotion conveyed is sadness due to the underwhelming performance of Madrid.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down this tweet and figure out the emotion behind it. The user is talking about a match where Madrid struggled and ended up in a goalless draw against Getafe. 
+
+First, I notice the word "struggling" which immediately makes me think of difficulty or hardship. This suggests that Madrid didn't perform well, which might be disappointing to their fans. The term "held to goalless draw" indicates that despite efforts, neither team scored, leading to a frustrating outcome.
+
+Considering the possible emotions: anger could come into play if someone is upset about the result, but the tweet doesn't explicitly express intense frustration or rage. Disgust might relate to disliking the performance, but again, it's more about the disappointment. Fear isn't really applicable here since there's no sense of threat or anxiety. Joy and serenity are out because the outcome wasn't positive. Sadness seems fitting because a draw after struggling suggests a letdown or sorrow for not achieving a win.
+
+So, putting it all together, the emotion conveyed is likely sadness due to the underwhelming performance and disappointing result.
+</think>
+
+**sadness**
+
+The tweet conveys **sadness** as it describes Madrid's struggle and the disappointing goalless draw.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,47 @@
+Record: "I like this, but it doesn’t quite convey the horrifying rotting smell. It sounds sort of cute! She was not lol "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing a sense that the description is incomplete or inaccurate.
+* They mention a specific aspect (the smell) that they believe would make the situation more severe.
+* They use the word "horrifying" to describe the smell, which implies a strong negative emotion.
+
+Given these points, it's likely that the speaker is feeling **sadness**. The speaker seems disappointed and possibly frustrated that the description doesn't capture the full extent of the unpleasant situation, but there isn't a strong sense of anger or disgust towards the person who posted the comment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language to describe the smell they are trying to convey.
+* They express disappointment that the description does not accurately capture the intensity of the smell, using the phrase "horrifying rotting smell".
+* The speaker's tone suggests frustration and possibly annoyance.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a strong reaction to something
+* They mention that the description does not convey the full extent of the smell's intensity
+* The word "horrifying" is used, which implies a sense of shock or disgust
+* The phrase "rotting smell" suggests something unpleasant and repulsive
+
+Most relevant emotion label: **surprise** 
+
+The speaker seems to be surprised that someone would think the description sounds "cute", implying that they themselves find it jarring or unexpected.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker expresses a strong negative reaction to a description that they find insufficient.
+* They use the word "horrifying" and "rotting", which implies a strong sense of disgust or revulsion.
+* However, their tone is more playful and humorous than outright angry or fearful.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+

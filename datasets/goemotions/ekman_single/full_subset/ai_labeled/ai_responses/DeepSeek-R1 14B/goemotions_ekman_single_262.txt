@@ -1,0 +1,65 @@
+Record: "The University of Essex was a mistake. They're not even good at sports."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break down this problem step by step. The task is to identify the emotion the speaker is feeling based on their comment. The comment is: "The University of Essex was a mistake. They're not even good at sports." 
+
+First, I'll consider each emotion category and see if they fit.
+
+1. **Anger**: Anger involves strong displeasure or antagonism. The statement shows dissatisfaction but doesn't express intense anger like insults or threats. It's more of a criticism.
+
+2. **Disgust**: Disgust is about revulsion or disapproval. While the speaker is critical, there's no explicit language indicating disgust, such as words like "gross" or "disgusting."
+
+3. **Fear**: Fear involves worry or anxiety. The comment doesn't express any fears but rather a critique of the university's performance.
+
+4. **Joy**: Joy is happiness or pleasure. Clearly not applicable here as the tone is negative.
+
+5. **Sadness**: Sadness includes sorrow or disappointment. The speaker might feel disappointed, but the statement isn't about personal loss or emotional pain; it's more factual criticism.
+
+6. **Surprise**: Surprise involves astonishment. There's no indication of unexpectedness in the comment.
+
+7. **Neutral**: If none fit, this would be the choice. However, the speaker is expressing a negative opinion, so neutral might not capture the sentiment accurately.
+
+Considering all options, "anger" seems closest as it captures the strong dissatisfaction expressed about the university.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is, "The University of Essex was a mistake. They're not even good at sports." 
+
+First, let me read through each emotion category and see which one fits best. Anger involves strong displeasure or antagonism, so if the speaker is really upset about something, that might fit. Disgust is revulsion or strong disapproval towards something unpleasant. Fear is about being afraid or worried. Joy is happiness or pleasure. Sadness is emotional pain or sorrow. Surprise is astonishment or unexpected feelings. Neutral means no emotion is expressed.
+
+Looking at the comment, they're calling the University of Essex a mistake and saying they aren't good at sports. This sounds like criticism. The word "mistake" suggests that the speaker feels it was a wrong choice, which could be related to disappointment. However, disappointment is under sadness. But wait, the example for anger includes disapproval, so maybe this is more about being annoyed or upset.
+
+The statement doesn't express fear or surprise because there's no indication of worry or astonishment. There's also no clear sign of joy or neutral feelings here; it's clearly a negative comment. So between anger and sadness, I think it leans towards anger because the speaker is expressing disapproval and possibly frustration about their experience with the university.
+
+I'm not entirely sure if it's sadness because sometimes disappointment can fall under that, but the strong wording like "not even good at sports" sounds more like active dislike rather than just being sad. So probably anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "The University of Essex was a mistake. They're not even good at sports." 
+
+First, let's break down what they're saying. They mention that attending the university was a mistake and criticize its athletic abilities. The word "mistake" implies some sort of negative experience or dissatisfaction. The criticism about sports could indicate frustration or disapproval.
+
+Looking at the emotion categories:
+
+- Anger: This often involves strong feelings like displeasure or antagonism. The speaker's statement shows frustration with their choice and the university's performance, which fits into anger.
+- Disgust: This is more about revulsion towards something unpleasant. While they are critical, it doesn't sound like they're disgusted by the university itself but rather disappointed.
+- Fear: There's no indication of fear or worry here; the comment is straightforward criticism.
+- Joy, Sadness, Surprise, Neutral: None of these emotions seem to fit the context.
+
+So, the emotion that best fits is anger because of the frustration and disapproval expressed in calling the university a mistake and criticizing its sports performance.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

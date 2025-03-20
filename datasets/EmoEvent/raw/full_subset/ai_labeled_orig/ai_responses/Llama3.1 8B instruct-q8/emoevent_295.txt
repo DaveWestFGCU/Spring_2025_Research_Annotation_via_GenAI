@@ -1,0 +1,39 @@
+Record: "Luis Suarez 1-0! Alba 👏 Best left back in the world #BarçaLFC #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a soccer player, Luis Suarez, scoring a goal.
+* The tone of the tweet seems positive and celebratory.
+* The use of "👏" and "#Best left back in the world" suggests admiration and praise.
+
+Given these considerations, the most relevant emotion label is **joy**, as the author appears to be celebrating the achievement of Luis Suarez and expressing admiration for his skills.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text is a tweet from a Barcelona (Barça) fan
+* The tone appears celebratory and supportive of Luis Suarez and Barça
+* The language used is positive, with words like "Best" and "👏"
+
+Given these points, the author's intended emotion is likely one of celebration or praise.
+
+**joy**
+
+Note: While there may be an element of surprise in the tweet (Luis Suarez scoring a goal), it's not the primary emotion conveyed. The tone is overwhelmingly positive and celebratory, which aligns with joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tone of the tweet appears enthusiastic and celebratory.
+- The use of emojis such as 👏 is typically associated with praise or admiration.
+- The mention of a specific player (Suarez) who scored, suggests that the author is expressing support for him.
+
+**joy**
+
+Note: This emotion label encompasses a range of positive feelings, which aligns well with the celebratory and enthusiastic tone of the tweet.
+------------------------------------------------------------------------------------------------------------------------
+

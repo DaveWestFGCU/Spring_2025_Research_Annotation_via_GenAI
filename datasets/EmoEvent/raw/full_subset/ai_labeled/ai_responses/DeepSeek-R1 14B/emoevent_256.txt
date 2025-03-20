@@ -1,0 +1,12 @@
+Record: "Lots of great games today, including #ChampionsLeague.   #Barcelona has not lost at home in the Champions League since 2013. #BarçaLFC USER"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about the Champions League. The user mentioned "Lots of great games today" which sounds positive. They also highlighted that Barcelona hasn't lost at home since 2013, which is impressive and something to be proud of. The hashtags used are #ChampionsLeague and #BarçaLFC, both related to football and their team. There's no negative language here; everything seems upbeat and celebratory. So the emotion here is likely joy because they're expressing excitement and pride about the games and Barcelona's performance.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

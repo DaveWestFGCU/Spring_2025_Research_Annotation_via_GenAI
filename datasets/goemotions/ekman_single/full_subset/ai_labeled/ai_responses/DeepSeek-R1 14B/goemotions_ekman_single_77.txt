@@ -1,0 +1,78 @@
+Record: "Whoever told you that is lying."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "Whoever told you that is lying." The options are anger, disgust, fear, joy, sadness, surprise, or neutral. Let me break this down.
+
+First, looking at the sentence itself. The speaker is calling someone a liar because they were told something by another person. So, the speaker doesn't believe what was said and accuses the source of it as a liar.
+
+Now, considering each emotion:
+
+- Anger: This usually involves strong displeasure or antagonism. If someone is angry, they might express frustration or irritation. The speaker's statement seems more about disbelief rather than immediate anger.
+  
+- Disgust: This is when something makes you feel revulsion or strong disapproval. Maybe if the information was gross or offensive, but the comment here doesn't seem to be about that.
+
+- Fear: Involves being afraid or worried. The speaker doesn't sound fearful; they're making an accusation instead.
+
+- Joy: Unlikely since joy is about pleasure and happiness. Accusing someone of lying isn't a joyful situation.
+
+- Sadness: This includes emotional pain or sorrow. While the comment could be hurtful, it's more about distrust rather than sadness.
+
+- Surprise: If something unexpected happened, surprise would fit. But here, the speaker seems proactive in dismissing the information, not surprised by it.
+
+So, putting this together, the emotion that fits best is anger. The speaker isn't just disagreeing but also accusing someone of lying, which shows a strong negative feeling towards what was said.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me figure out which emotion the speaker is feeling based on their comment. The statement is "Whoever told you that is lying." 
+
+First, I'll break down the words used. The speaker is calling someone a liar, which indicates they believe the information shared was false or deceptive. Now, considering the emotion categories provided.
+
+Anger could be a possibility because being lied to can make someone angry. However, the comment doesn't explicitly show signs of anger like strong swear words or expressions of frustration. It's more of a straightforward accusation.
+
+Disgust involves revulsion or disapproval. While lying is something that might disgust someone, the statement itself isn't expressing that feeling; it's making an accusation without showing disgust.
+
+Fear involves worry or anxiety. There's no indication here that the speaker feels threatened or worried. The comment is direct and assertive.
+
+Joy and surprise are clearly not applicable since the tone isn't positive or astonished.
+
+Sadness usually relates to sorrow or disappointment, which doesn't seem to be present here either.
+
+Neutral would mean there's no emotion expressed, but in this case, the speaker is making a strong statement about someone lying, so it's more than neutral.
+
+Comparing the options, anger seems most fitting because accusing someone of lying can stem from frustration or irritation. However, I'm also considering if it might fall under disgust since lying can be seen as offensive, but the emotion definitions suggest that anger includes annoyance and disapproval, which aligns well with this statement.
+
+I think the best choice is anger because the speaker is expressing dissatisfaction and disapproval towards the person they're accusing of lying.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion best fits the sentence "Whoever told you that is lying." from the given options. Let me break this down.
+
+First, looking at the sentence itself, the speaker is calling someone a liar. That usually indicates some form of negative emotion. Now, considering the categories: anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+Anger is often associated with strong displeasure or antagonism. The statement sounds confrontational, which could be due to anger. But let's see other possibilities.
+
+Disgust involves revulsion or disapproval. If someone is lying, the speaker might feel disgusted by their dishonesty, but the primary emotion here seems more like anger because of the direct accusation.
+
+Fear isn't really applicable here since there's no indication of worry or anxiety; it's a statement of fact.
+
+Joy and surprise are positive emotions, which don't fit because the speaker is expressing negativity towards someone else.
+
+Sadness involves emotional pain, but this doesn't seem to be about loss or disappointment. It's more about confronting another person's lie.
+
+So, between anger and disgust. Anger seems more fitting because the speaker is expressing strong disapproval and irritation by calling them a liar. Disgust might come into play if the lie was particularly repulsive, but the primary emotion here is likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

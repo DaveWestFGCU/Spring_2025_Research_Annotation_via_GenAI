@@ -1,0 +1,38 @@
+Record: "YES [NAME], we're rooting for you! 🎉🎉"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment appears to be enthusiastic and supportive.
+* The use of emojis (🎉🎉) suggests a celebratory or congratulatory atmosphere.
+* The speaker is addressing someone by name, indicating familiarity or personal connection.
+
+Given these considerations, the most relevant emotion label for this comment is: **joy**
+
+Reasoning: The tone of the comment and the use of enthusiastic language suggest that the speaker is feeling positive emotions, specifically joy or happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses enthusiastic language, including capital letters and multiple exclamation marks.
+* The speaker expresses support for the person they are addressing.
+* The tone of the comment is celebratory, with the use of party emojis (🎉).
+
+Given these points, it's clear that the speaker is expressing a positive emotion towards the person they are supporting.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses enthusiastic language ("YES", "we're rooting for you!", and multiple emojis) to express their sentiment.
+* The speaker appears to be supportive and encouraging towards someone named [NAME].
+* There is no negative tone or criticism in the comment.
+
+Given these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

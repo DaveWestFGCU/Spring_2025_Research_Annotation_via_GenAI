@@ -1,0 +1,56 @@
+Record: "USER I'm monitoring the LİES off #USA in #Venezuela vey closely. The united states didn't stand with the people and their FREEDOM!! NEVER did #Venezuela or #Golanheights The world needs to stop #USA  #IsraeliCrimes #Myanmar if we where all together THEY CAN'T push FORCE,#racismo &amp;hate"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query. So, the user wants me to classify a tweet based on the emotion it conveys. They provided six categories: anger, disgust, fear, joy, sadness, and surprise. My response should be just one label within two asterisks.
+
+Looking at the tweet: "USER I'm monitoring the LIES off #USA in #Venezuela vey closely. The united states didn't stand with the people and their FREEDOM!! NEVER did #Venezuela or #Golanheights The world needs to stop #USA #IsraeliCrimes #Myanmar if we where all together THEY CAN'T push FORCE,#racismo & hate"
+
+First, I notice the use of uppercase letters like "LIES", "VEY CLOSELY", "FREEDOM!!". That's a strong indicator of emotion. The words "lies" and "force" imply deception and coercion.
+
+The user mentions #USA in Venezuela and talks about freedom, which suggests they're upset with U.S. actions. They also tag other issues like Israeli crimes and Myanmar, but the main focus is on Venezuela.
+
+Emotionally, the tweet feels angry. The words chosen are strong and assertive. Phrases like "monitoring closely" and "NEVER did" show frustration and determination to confront the US.
+
+I don't see elements of disgust, fear, joy, sadness, or surprise. It's primarily about expressing anger towards perceived injustices by the US.
+
+So, the emotion here is clearly anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query step by step. The user provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, I'll read the tweet carefully to understand its content and tone. The tweet says, "I'm monitoring the LIES off #USA in #Venezuela very closely." The use of uppercase letters for "LIES" suggests emphasis and strong negative feelings. Words like "lies" indicate distrust or contempt.
+
+Next, the author mentions that the U.S. didn't stand with people and their freedom. Phrases like "FREEDOM!! NEVER did" show frustration and a sense of betrayal. The hashtags include #USA, #Venezuela, and others related to what seems like ongoing issues.
+
+Looking deeper, the author is expressing strong opposition against the USA's actions in Venezuela and mentions other countries like Golan Heights, Myanmar, and Israel with negative connotations. The mention of "force," "racismo," and "hate" indicates concern about oppressive tactics and discrimination.
+
+Analyzing the emotion: anger seems to be present because of the strong language and accusations against the USA. There's frustration and irritation towards what the author perceives as lies and unfair actions. Disgust is also possible, given the negative view of the U.S., but I think anger is more prominent here due to the explicit criticism and emphasis on "lies."
+
+Fear isn't really present; it's more about confrontation rather than worry. Sadness might be underlying but not the primary emotion. Surprise doesn't fit as there's no unexpected information being presented.
+
+So, the main emotion conveyed is anger, directed at the perceived wrongdoings of the USA in Venezuela and other regions.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's take a look at this tweet and figure out the emotion behind it. The user is talking about monitoring lies from the USA in Venezuela. They mention that the US didn't stand with the people and their freedom, which seems pretty strong. Words like "lies" and "force" are used, along with hashtags against USA, Israeli crimes, and racism.
+
+So, breaking this down: the author is clearly upset about the situation in Venezuela and feels that the US isn't supporting the right side. The use of strong language and accusations suggests anger or frustration. I don't see any signs of fear or sadness here; it's more about expressing outrage towards the actions of the USA.
+
+The hashtags also emphasize their stance against certain policies, which adds to the feeling of anger rather than something like disgust or surprise. They're not just complaining but actively showing opposition, which points more towards anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

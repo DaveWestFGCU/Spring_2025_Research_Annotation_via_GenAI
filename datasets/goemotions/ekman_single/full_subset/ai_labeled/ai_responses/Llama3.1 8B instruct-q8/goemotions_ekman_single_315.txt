@@ -1,0 +1,55 @@
+Record: "Don't get your hopes up; apparently car seats also cause autism:"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone seems critical and dismissive.
+* They are expressing skepticism about a potential solution to a problem.
+* They seem to be referencing a widely-debunked conspiracy theory that has been used to justify discriminatory behavior.
+
+Given these points, the speaker appears to be attempting to dash hopes and discourage optimism, which is often accompanied by a sense of skepticism or frustration. However, this does not necessarily align with strong negative emotions like anger or disgust. Instead, the speaker's tone seems more subdued and cautionary.
+
+The most relevant emotion label for this response is **sadness**. The speaker may be implying that false hope can lead to disappointment or despair, which falls under the category of sadness. However, it's also possible that the correct answer could be **anger**, as the speaker might be subtly criticizing or mocking someone who has been misled by misinformation.
+
+However, given the context and tone, I'm leaning towards **sadness** as the most fitting emotion label.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to an idea that has been previously discussed, suggesting they have some knowledge of the topic.
+* The tone is cautionary, with a warning not to be optimistic about something (car seats not causing autism).
+* The comment implies a skepticism or doubt about a claim being made.
+
+Most relevant emotion label: **sadness**
+The speaker's tone suggests that they may be responding to a false or misleading claim, which could lead to disappointment or sadness for those who are affected by it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be responding to a claim that has been debunked as a myth.
+* They use a dismissive tone with the phrase "apparently" and a warning not to "get your hopes up".
+* The claim being responded to is related to a conspiracy theory or misinformation.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+ 
+This classification is based on the speaker's strong disapproval of the claim they are responding to, which is likely unpleasant and offensive to them.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker is responding to an expectation or idea that might be considered optimistic or hopeful.
+* The speaker introduces a negative and unexpected claim ("car seats also cause autism").
+* The tone of the statement is cautionary and dismissive.
+
+Most relevant emotion label: **sadness**
+ 
+The speaker's response has a somewhat downbeat quality, tempering another person's optimism with a pessimistic idea. This seems to be an expression of sadness or disappointment in that it acknowledges and highlights something negative, rather than expressing joy, surprise, anger, disgust, fear, or neutrality.
+------------------------------------------------------------------------------------------------------------------------
+

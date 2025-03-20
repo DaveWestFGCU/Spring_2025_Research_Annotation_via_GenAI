@@ -1,0 +1,31 @@
+Record: "My [NAME]. If only"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The phrase "If only" often implies longing or regret, suggesting a sense of missed opportunities or unfulfilled desires.
+- The use of "[NAME]" indicates a personal connection, which may suggest that the sentiment is tied to someone significant in the author's life.
+- The overall tone seems reflective, potentially hinting at feelings of sadness or nostalgia.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:  
+- The phrase "If only" typically indicates a sense of longing or regret, suggesting a missed opportunity or a desire for a different outcome.  
+- The use of "My [NAME]" denotes a personal connection and possibly a sense of loss or sadness regarding that relationship or situation.  
+- The overall tone expresses a sentiment that aligns more with a feeling of grief or yearning rather than any other emotions such as anger or joy.  
+
+Based on these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Points to consider:
+- The tweet expresses a sense of longing or regret with the phrase "If only," which often conveys an unrealized desire or a missed opportunity.
+- The phrase "My [NAME]" suggests a personal or sentimental connection, which may indicate feelings of nostalgia or sadness relating to that individual.
+- The lack of additional context makes it hard to determine a specific incident or action that would trigger a different emotion.
+
+Given these points, the most relevant emotion label for this tweet is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

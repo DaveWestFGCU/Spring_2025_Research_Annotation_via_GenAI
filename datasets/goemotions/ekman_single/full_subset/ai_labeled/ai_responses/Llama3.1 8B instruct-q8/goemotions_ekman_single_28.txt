@@ -1,0 +1,36 @@
+Record: "There will *always* someone gaming the system. Always. I still donate food for the other 999 people that really need assistance to get over a tough time."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions "someone gaming the system", implying that they believe some individuals are taking advantage of the system.
+* They express frustration with this idea, using an absolute phrase ("always").
+* However, the tone shifts as they mention donating food for others who need assistance.
+
+Given these considerations, the most relevant emotion label is **sadness**, as the speaker seems to be lamenting the existence of people gaming the system and expressing a sense of helplessness or frustration. The fact that they still choose to donate food for those in need suggests a sense of empathy and compassion, which is often associated with sadness rather than anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions "gaming the system", which implies that they are aware of some individuals exploiting or manipulating the system.
+* They express a sense of resignation, using phrases like "*always*" and "will always" to convey a feeling of inevitability.
+* Despite this, the speaker mentions continuing to donate food for others in need, indicating that they still care about helping those who genuinely require assistance.
+
+Based on these points, the most relevant emotion label is: **sadness**.
+
+The speaker seems to be acknowledging a negative reality (people gaming the system) and expressing emotional pain or sorrow over it. Their continued donation of food suggests that they are still motivated by kindness, but their tone implies a sense of disappointment and frustration with the system's flaws.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions "gaming the system," which implies a sense of frustration or annoyance with a particular behavior.
+* However, they immediately follow this statement by saying they still donate food for those who genuinely need it, indicating that they are taking positive action despite their frustration.
+* The tone is not aggressive or confrontational, but rather matter-of-fact and perhaps even slightly exasperated.
+
+Given these points, the most relevant emotion label is **sadness**. The speaker seems to be expressing a sense of disappointment or sadness about the existence of people who "game the system," but their subsequent statement shows that they are taking action to help those who truly need it, which suggests that they are not consumed by anger or frustration.
+------------------------------------------------------------------------------------------------------------------------
+

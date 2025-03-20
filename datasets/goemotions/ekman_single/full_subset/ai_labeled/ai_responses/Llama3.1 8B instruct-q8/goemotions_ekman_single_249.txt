@@ -1,0 +1,39 @@
+Record: "Omg I’d happily live in Cape Town instead of the US!! It’s literally one of my favorite cities on earth!!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses enthusiastic language ("Omg"), indicating strong feelings.
+* The speaker expresses a clear preference for living in Cape Town over the US.
+* The tone is positive and admiring, with phrases like "one of my favorite cities on earth".
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's use of enthusiastic language and admiring tone suggests that they are feeling joy or happiness when thinking about living in Cape Town.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses enthusiastic language ("happily", "literally one of my favorite cities on earth")
+* The tone is overwhelmingly positive
+* The speaker expresses a strong preference for Cape Town over the US
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses enthusiastic language ("happily", "one of my favorite cities"), indicating a strong positive feeling.
+* They express a preference for living in Cape Town over the US, which suggests they have a strong affection for the city.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of excited language and their expressed enthusiasm for Cape Town suggest that they are experiencing joy.
+------------------------------------------------------------------------------------------------------------------------
+

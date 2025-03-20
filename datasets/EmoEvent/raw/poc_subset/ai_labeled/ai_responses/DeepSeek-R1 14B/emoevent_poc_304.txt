@@ -1,0 +1,60 @@
+Record: "100% yes. My sister's ex is an actual monster but my niece still sees his family."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion in this tweet. The user says, "100% yes. My sister's ex is an actual monster but my niece still sees his family." 
+
+First, I notice that the person starts with a strong affirmation, "100% yes," which might indicate agreement or emphasis on their point. Then they call the sister's ex a "monster," which clearly shows some negative feelings—probably anger because labeling someone as a monster is a harsh statement.
+
+Next, they mention that despite this, the niece still interacts with his family. This part makes me think about the emotions involved. The speaker might feel frustrated or upset that their niece doesn't see the ex for who he is. Maybe there's some sadness too because of the broken family dynamics or the child being influenced negatively.
+
+But looking at the emotion categories provided—anger, disgust, fear, joy, sadness, surprise—the strongest emotion here seems to be anger. The use of "monster" and the overall tone suggest frustration and strong dislike, which fall under anger. Sadness is also present, but the primary emotion conveyed is likely anger because of the intense language used.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet says, "100% yes. My sister's ex is an actual monster but my niece still sees his family." 
+
+Breaking it down, the author is talking about their sister's ex being called a "monster," which suggests strong negative feelings towards him. The mention of the niece seeing his family despite this could imply that the situation is upsetting or frustrating for the author.
+
+The emotion words allowed are anger, disgust, etc. Anger fits here because calling someone a monster and expressing strong disapproval indicates anger. There's no clear element of fear, joy, sadness (though some might argue), or surprise.
+
+So, I think the primary emotion conveyed is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet based on the emotions listed: anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet says, "100% yes. My sister's ex is an actual monster but my niece still sees his family." 
+
+First, let me break down the content. The author is talking about their sister's ex being referred to as a "monster," which clearly indicates strong negative feelings towards him. Using words like "actual monster" suggests anger or intense dislike.
+
+Then, the tweet mentions that despite this, the niece still interacts with his family. This might evoke some disgust because the author seems disapproving of the situation. Disgust can include feelings of disapproval or dislike, which fits here.
+
+I don't see elements of fear, like threats or anxiety, so maybe not fear. There's no indication of joy or surprise. Sadness could be a possibility if thinking about family dynamics, but the primary emotion seems more directed at the ex rather than sadness over the situation itself.
+
+Between anger and disgust: "monster" is a strong word implying anger, but the overall sentiment also reflects disapproval towards the niece's interaction, which might lean towards disgust. However, considering the intensity of calling someone a monster, it's likely more about anger.
+
+Wait, but sometimes when people express strong dislike or disapproval, that falls under disgust. So maybe it's better to categorize this as disgust because it's about the situation being repulsive rather than outright anger.
+
+Hmm, I'm a bit torn. Let me think again. The use of "monster" is definitely an angry outburst. But the context might also be showing disapproval towards the niece's actions, which could be disgust. However, the primary emotion seems to be expressing strong anger towards the ex.
+
+I think it's safer to go with **anger** here because "monster" conveys a lot of that.
+</think>
+
+The tweet expresses strong negative feelings towards the sister's ex, using the word "monster," which indicates anger. While there is some disapproval, the primary emotion conveyed is **anger**.
+
+**Answer:** **anger**
+------------------------------------------------------------------------------------------------------------------------
+

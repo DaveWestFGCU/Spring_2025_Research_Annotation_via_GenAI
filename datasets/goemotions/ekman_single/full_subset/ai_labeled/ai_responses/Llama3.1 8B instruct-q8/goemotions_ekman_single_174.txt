@@ -1,0 +1,43 @@
+Record: "I like where you’re going with this...."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a phrase that could be interpreted as encouraging or supportive.
+* The tone appears to be positive and uplifting.
+* There is no apparent criticism, anger, or negativity in the statement.
+
+Most relevant emotion label: **joy**. 
+
+The speaker's comment suggests they are pleased with the direction of the conversation and appreciate the other person's perspective, which aligns with characteristics of joy such as approval and happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts their comment with a positive phrase, indicating a generally approving tone.
+* There are no negative words or phrases that suggest strong emotions such as anger, disgust, fear, or sadness.
+* The speaker is responding to another commenter's idea or post, which suggests they are engaging in a collaborative or constructive conversation.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The phrase "I like where you're going with this" implies that the speaker is pleased and supportive of the other person's idea, which aligns with the category definition for joy (approval).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker starts their sentence with "I like", which suggests a positive tone.
+* The phrase "where you're going with this" implies that the speaker is being led somewhere new or unexpected, but in a good way.
+
+Given these points, the most relevant emotion label for this speaker's comment would be:
+
+**joy**
+
+This emotion fits because the speaker's words convey pleasure and approval, which are key characteristics of joy. The tone is positive and supportive, suggesting that the speaker is happy with the direction the conversation or post is heading.
+------------------------------------------------------------------------------------------------------------------------
+

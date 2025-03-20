@@ -1,0 +1,40 @@
+Record: "what a game USER USER USER ! Lived up to the hype and expectation of the game. Hoping for the 2nd leg to be as exciting as this ! #ChampionsLeague #BARLIV https://t.co/CilhtHGhAE"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is using enthusiastic language, such as "USER USER USER" and exclamation marks.
+* They mention that the game "lived up to the hype and expectation", implying a positive outcome.
+* They express hope for an equally exciting second leg.
+
+Given these points, the most relevant emotion label is:
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains enthusiastic language ("USER USER USER", "what a game")
+* The author expresses excitement and anticipation for the upcoming second leg
+* The tone is positive and optimistic
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+This is because the author's use of enthusiastic language and positive tone indicates that they are experiencing joy or happiness about the game.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses enthusiastic language ("what a game", "USER USER USER"), indicating a strong positive emotional response.
+* They express excitement and anticipation for the next leg of the match, implying a high level of engagement with the competition.
+* There is no criticism or negative commentary about the game.
+
+**joy**
+
+The author's use of enthusiastic language and anticipation for the next leg suggests that they are experiencing joy and excitement about the match.
+------------------------------------------------------------------------------------------------------------------------
+

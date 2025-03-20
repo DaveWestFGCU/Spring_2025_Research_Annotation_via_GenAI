@@ -1,0 +1,56 @@
+Record: "We see #Billionaires rushing to donate money to #NotreDameFire #NotreDameCathedralFire. But I would wager they are not contributing to groups like USER. Why not? Simple. Most of them likely became billionaires profiting from the corporations who have created this mess."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I've got this tweet about the Notre Dame Cathedral fire, and I need to figure out what emotion the author is conveying. Let me start by reading it carefully.
+
+The tweet says: "We see #Billionaires rushing to donate money to #NotreDameFire #NotreDameCathedralFire. But I would wager they are not contributing to groups like USER. Why not? Simple. Most of them likely became billionaires profiting from the corporations who have created this mess."
+
+Okay, breaking it down. The author is pointing out that billionaires are donating money to the Notre Dame fire relief but aren't helping "groups like USER." They then question why and suggest that these billionaires made their money through corporations responsible for creating problems.
+
+So, what's the emotion here? Let's look at the categories: anger, disgust, fear, joy, sadness, surprise. The author is clearly frustrated with the billionaires' priorities. They're pointing out a disparity in donations and implying corruption or unfair business practices. This frustration likely stems from seeing the wealthy not contributing to less visible causes, perhaps ones that are more socially impactful.
+
+Frustration can be tied to anger. But is it more disgust? Disgust involves feelings of dislike or revulsion. The author's language suggests they're disgusted by the billionaires' behavior—donating to a high-profile event but ignoring others in need. The tone isn't just annoyed; it's more about disapproval and judgment.
+
+Alternatively, could it be surprise? The tweet doesn't express shock but rather critique. Fear or sadness don't seem to fit here because there's no indication of fear for safety or sadness over the loss itself. Joy is obviously not applicable.
+
+So between anger and disgust. Anger is more about irritation or annoyance, which might come from the situation being unfair. Disgust is about disliking something as morally wrong. The tweet seems to critique the moral stance of the billionaires, which leans towards disgust.
+
+Yeah, I think disgust fits better because the author is expressing a dislike for how the money is being allocated and the underlying reasons behind it.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query step by step. The user has provided a tweet about the Notre Dame Cathedral fire and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. The author is pointing out that billionaires are donating to the Notre Dame fire relief but aren't supporting other groups like USER. They question why this is happening, suggesting it's because these billionaires likely made their money through corporations causing messes.
+
+The tone here seems critical and questioning. The author is expressing skepticism about the billionaires' motivations. This indicates a sense of distrust or disapproval towards their actions, which falls under disgust. Disgust can include feelings like dislike or disapproval. 
+
+I considered other emotions: anger could be a possibility since they're criticizing, but the focus isn't on rage but more on the judgment and disapproval. Fear and surprise don't seem applicable here. Sadness might relate to同情, but it's not the primary emotion. Joy is out of place entirely.
+
+So, after evaluating the content and tone, I conclude that the tweet conveys disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify the emotion in this tweet about the Notre Dame Cathedral fire. Let me read it carefully.
+
+The user is talking about how "Billionaires" are donating money to the fire's relief but aren't contributing to groups like the one they mention. They suggest that these billionaires probably became rich by profiting from corporations causing environmental issues, hence not supporting such causes. The tone here seems critical and disappointed towards the wealthy individuals.
+
+Looking at the emotion categories: anger is about annoyance or rage, disgust involves dislike or disinterest, fear is about apprehension, joy is positive feelings, sadness relates to grief, and surprise is about amazement. 
+
+The tweet expresses frustration towards the billionaires' priorities, which points more towards anger rather than other emotions like disgust or sadness. The author isn't just stating facts but expressing irritation at the situation.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

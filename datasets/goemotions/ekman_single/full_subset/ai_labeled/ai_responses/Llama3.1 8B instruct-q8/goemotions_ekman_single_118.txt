@@ -1,0 +1,37 @@
+Record: "Oh, a crow... Doh!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses an exclamation mark and includes an interjection ("Doh!") which suggests a strong emotional reaction.
+* The tone is informal and conversational, indicating that the speaker is expressing a personal reaction rather than stating a fact.
+* The phrase "Oh" can indicate surprise or realization.
+
+Most relevant emotion label: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an exclamation mark ("Doh!") which can indicate surprise or frustration.
+* The tone of the phrase "Doh!" is informal and colloquial, suggesting that the speaker is not trying to convey a serious or negative emotion.
+* The comment seems to be a reaction to seeing a crow in a context where it might be unexpected or unwanted.
+
+Given these points, the most relevant emotion label for this text is:
+
+**surprise**
+ 
+The use of "Doh!" suggests that the speaker was caught off guard by the appearance of the crow, and the informal tone implies a sense of mild annoyance or frustration rather than intense anger or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses an expression of disappointment ("Doh!"), which is often used to express frustration or annoyance.
+* The tone is lighthearted and playful, but still implies a sense of regret or mistake.
+
+Most relevant emotion label: **surprise** (with a hint of disappointment or frustration), however the overall sentiment seems more like a gentle reprimand or playfully annoyed rather than outright anger.
+------------------------------------------------------------------------------------------------------------------------
+

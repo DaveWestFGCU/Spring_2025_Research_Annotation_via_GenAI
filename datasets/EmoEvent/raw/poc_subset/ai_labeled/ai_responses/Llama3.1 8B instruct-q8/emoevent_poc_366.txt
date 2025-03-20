@@ -1,0 +1,43 @@
+Record: "Ha jokes on you guys we still use paper charts"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is lighthearted and playful, indicated by the phrase "jokes on you".
+* The author appears to be poking fun at a situation or expectation.
+* The phrase "still use paper charts" suggests that the author is expressing a sense of irony or humor.
+
+Based on these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet starts with a playful phrase ("Ha jokes on you guys"), which suggests that the author is being lighthearted and humorous.
+* The language used is casual and conversational, indicating that the tone is informal.
+* The content of the tweet appears to be poking fun at the idea of still using paper charts.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+ 
+The author's playful tone and use of humor suggest that they are trying to convey a sense of amusement or playfulness, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is lighthearted and playful.
+* The language used is casual and informal ("jokes on you guys").
+* The message appears to be a humorous comment about an outdated practice (using paper charts).
+* There is no indication of strong negative emotions such as anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

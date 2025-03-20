@@ -1,0 +1,47 @@
+Record: "I got over 900 responses, so it is taking more time that I expected, hopefully will be done by this Sunday."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions a specific deadline (this Sunday) and expresses hope that they will meet it.
+* The tone of the comment seems somewhat frustrated or inconvenienced due to the delay.
+* There is no mention of strong emotions, negative reactions, or conflict.
+
+Given these considerations, the most relevant emotion label is:
+
+**neutral**
+ 
+This classification suggests that the speaker is simply providing an update on the status of their response and expressing a mild expectation for completion by a certain date. The tone is not particularly positive or negative, but rather matter-of-fact.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions an unexpected delay ("taking more time than I expected")
+* They express a desire for the situation to resolve soon ("hopefully will be done by this Sunday")
+* There is no apparent criticism or negative emotion towards others in the post
+* The tone seems somewhat frustrated, but also calm and matter-of-fact
+
+Given these points, the most relevant emotion label would be:
+
+**neutral**
+
+The speaker's language and tone suggest a sense of impatience or frustration due to the delay, but it is not intense enough to qualify as anger. There is no apparent disgust, fear, joy, sadness, or surprise in the post either. The speaker seems to be simply stating a fact about the expected completion time and expressing a desire for it to happen soon, without any strong emotions attached.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions receiving a large number of responses, which may indicate some level of effort or investment on their part.
+* They express a sense of delay or setback, as the project is taking longer than expected.
+* Despite this, they remain hopeful and optimistic about completing it by a specific deadline.
+
+Given these points, the most relevant emotion label for the speaker's comment is:
+
+**joy**
+ 
+The speaker's tone suggests a sense of anticipation and hopefulness, which is consistent with feelings of joy. While they acknowledge that things are taking longer than expected, their language ("hopefully will be done") implies a positive outlook and enthusiasm for completing the task.
+------------------------------------------------------------------------------------------------------------------------
+

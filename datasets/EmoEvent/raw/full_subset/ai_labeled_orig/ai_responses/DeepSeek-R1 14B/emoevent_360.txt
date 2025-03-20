@@ -1,0 +1,66 @@
+Record: "Such an inspiration #GretaThunberg , she will be remembered in history as a great example to follow, now it’s up to the rest of us if we want to be with her, on the right side of history #ClimateActionNow #ClimateCrisis #FridaysForFuture https://t.co/GaDCpm2vBG"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I'm trying to figure out how to classify this tweet's emotion. The tweet is about Greta Thunberg and the movement "Fridays for Future." Let me read it carefully.
+
+The tweet says: "Such an inspiration #GretaThunberg , she will be remembered in history as a great example to follow, now it’s up to the rest of us if we want to be with her, on the right side of history #ClimateActionNow #ClimateCrisis #FridaysForFuture https://t.co/GaDCpm2vBG"
+
+First, I notice words like "inspiration" and phrases that praise Greta. Words like "great example," "remembered in history," and being on the "right side of history" all sound positive. The hashtags also relate to climate action, which is a cause people care about.
+
+So, the author is expressing admiration and respect for Greta Thunberg. They're encouraging others to join her movement. This seems like a supportive and uplifting message, not something negative or neutral.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet isn't showing any of the negative emotions. It's definitely not fear or anxiety because it's about taking positive action. There's no anger or disgust here; instead, it's all praise and encouragement.
+
+The tone is hopeful and encouraging. When someone praises someone else and calls others to join a cause, that usually conveys joy or serenity. But in this case, the emotion might be more about inspiration and motivation. However, the available categories don't include "inspiration" directly, so I need to match it to one of the given options.
+
+Joy seems appropriate because the author is expressing happiness and support for Greta's actions. They're uplifted by her example and are rallying others, which aligns with joy.
+
+I don't think it's surprise because there's no unexpected information; it's a straightforward message of support. Sadness isn't present either, as the overall tone is positive.
+
+So, putting it all together, the emotion conveyed here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: It starts with "Such an inspiration" which sounds positive. Then mentions Greta Thunberg and says she'll be remembered as a great example. The author is encouraging others to join her for climate action now. There's also a hashtag about Fridays for Future.
+
+The language here is definitely praising and supportive. Words like "inspiration," "great example," and "right side of history" all have positive connotations. So the emotion seems to be joy or maybe something related to admiration, but since the options don't include that, I need to pick from the given list.
+
+Joy fits because it's about inspiration and positivity. Alternatively, could it be surprise? But there's no element of surprise in the tweet—it's more of an affirmation and call to action. So joy makes sense as the primary emotion.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion conveyed in this tweet about Greta Thunberg. Let me read it carefully.
+
+The tweet says: "Such an inspiration #GretaThunberg , she will be remembered in history as a great example to follow, now it’s up to the rest of us if we want to be with her, on the right side of history #ClimateActionNow #ClimateCrisis #FridaysForFuture https://t.co/GaDCpm2vBG"
+
+Alright, breaking this down. The author starts by calling Greta an inspiration, which is a positive term. They mention she'll be remembered as a great example, so that's also admiration and respect. Then they talk about being on the right side of history if we join her in climate action.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. So I need to choose which one fits best.
+
+The language is appreciative and hopeful. Words like "inspiration" and "example" show admiration. The hashtags reinforce positive intent around climate action. There's no negative emotion here—no signs of anger or disgust. It's more about respect and encouragement.
+
+So, the emotion seems to be joy or maybe something related to inspiration. But the categories don't include inspiration directly. However, "joy" includes serenity and ecstasy, but I'm not sure if that's exactly it. Alternatively, this could also relate to pride or admiration, which might fall under surprise? Wait, no—surprise is more about unexpected events.
+
+Wait, maybe I should think differently. The tweet isn't expressing a basic emotion like joy; instead, it's more about respect and calling others to action in a positive light. So perhaps the closest category is "joy" because it's a positive sentiment, even if not necessarily happiness.
+
+Alternatively, could it be surprise? I don't think so. There's no element of surprise here. It's more about praise and encouragement.
+
+So, yeah, considering all that, the emotion conveyed is likely joy because it's expressing admiration and positivity.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

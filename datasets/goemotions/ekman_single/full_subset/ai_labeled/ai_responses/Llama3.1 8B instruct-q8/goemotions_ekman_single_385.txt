@@ -1,0 +1,39 @@
+Record: "Ooh! I quite like the swimming pool of makeup as well."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment appears positive and enthusiastic.
+* The use of "Ooh!" suggests excitement or delight.
+* The phrase "I quite like" indicates a pleasant feeling towards the subject.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The speaker's tone and language suggest that they are expressing pleasure and happiness about the subject being discussed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a enthusiastic and expressive tone with the phrase "Ooh!"
+* They express a positive sentiment towards the swimming pool of makeup, using the word "like" which typically connotes approval or admiration.
+* There is no indication of negative emotions such as anger, disgust, fear, sadness, or surprise.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**joy**
+
+The speaker's use of an enthusiastic tone and expression of admiration towards the swimming pool of makeup suggests that they are feeling joy or happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses an enthusiastic tone ("Ooh!") and exclamation point, indicating excitement or approval.
+* They are commenting on something related to beauty/makeup, which might be perceived positively.
+
+Given these considerations, the most relevant emotion label is **joy**, as it aligns with enthusiasm and approval for something pleasant (the swimming pool of makeup).
+------------------------------------------------------------------------------------------------------------------------
+

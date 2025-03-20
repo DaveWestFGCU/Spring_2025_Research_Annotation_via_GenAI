@@ -1,0 +1,41 @@
+Record: "Yeah for me it takes me weeks to get over s relapse"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions a relapse, which implies a setback or a negative experience.
+* The speaker states that it takes them weeks to recover from this relapse, suggesting a significant impact on their well-being.
+
+Given these considerations, the most relevant emotion label is: **sadness**
+
+The speaker's tone and language suggest that they are struggling with a difficult situation (the relapse) and are expressing a sense of emotional pain or sorrow. The use of the word "relapse" implies a negative outcome, and the statement that it takes them weeks to recover suggests a prolonged period of discomfort or distress. Overall, the speaker's tone is one of sadness or disappointment rather than anger, disgust, fear, joy, surprise, or neutrality.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions "a relapse," which implies a setback or failure.
+* The speaker expresses the duration of their recovery time, stating that it takes them "weeks" to overcome the relapse.
+* The tone is matter-of-fact and lacks emotional language.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's comment suggests they are reflecting on a negative experience (a relapse) and expressing the duration of their recovery time. While not explicitly stated, the implication of a setback can evoke feelings of sadness or disappointment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions a relapse, which implies a setback or failure.
+* The speaker says it takes them weeks to get over the relapse, implying that the experience has a significant emotional impact on them.
+* There is no indication of excitement, positivity, or enthusiasm in the comment.
+
+Most relevant emotion label: **sadness**
+
+Reasoning: The speaker's tone and language suggest that they are reflecting on a difficult experience (the relapse) and expressing a sense of emotional pain or sorrow. This aligns with the definition of sadness as "Emotional pain, sorrow" and is consistent with the examples provided under the sadness category.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,43 @@
+Record: "Your work is amazing! Really like the Rugrat one. The melting style is so cool. Prices are very reasonable for the quality too"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses positive language, such as "amazing", "really like", and "cool".
+* They express appreciation for the artist's work.
+* They mention a specific piece they enjoy ("The Rugrat one").
+* They highlight the value of the artwork ("prices are very reasonable").
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This is because the speaker's tone is overwhelmingly positive and enthusiastic, indicating that they feel joy or pleasure in response to the artist's work.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses positive language such as "amazing", "really like", and "so cool" to express their admiration.
+* They mention a specific artwork ("The Rugrat one") and appreciate its style ("melting style is so cool").
+* The speaker also mentions the quality of the work and finds it reasonable for the price.
+
+Most relevant emotion label: **joy**
+
+This response aligns with the examples of Joy provided, which include admiration, approval, and excitement. The speaker's use of positive language and appreciation for the artwork suggests that they are feeling a sense of joy or pleasure in response to the post.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker starts their sentence with "Your work is amazing", which indicates a positive tone.
+* They mention liking two specific pieces of art ("Rugrat one" and mentioning a "melting style"), indicating admiration and appreciation.
+* They also comment on the prices being "very reasonable for the quality", suggesting that they are pleased with both the artistic value and the affordability.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The speaker's use of positive language, such as "amazing" and "really like", suggests a sense of joy or pleasure in their response. They also express admiration and approval for the artwork, which further reinforces this interpretation.
+------------------------------------------------------------------------------------------------------------------------
+

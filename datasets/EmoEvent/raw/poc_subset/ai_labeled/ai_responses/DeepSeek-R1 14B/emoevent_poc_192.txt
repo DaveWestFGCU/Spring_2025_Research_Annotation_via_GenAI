@@ -1,0 +1,60 @@
+Record: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this classification task step by step. The tweet provided is: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for ". 
+
+First, I need to understand the context and the emotion conveyed here. The author mentions feeling ashamed if their partner did something they're referring to as "that". The use of "ashamed" directly points towards negative emotions.
+
+Looking at the options: anger, disgust, fear, joy, sadness, surprise. The word "ashamed" is closely related to feelings like embarrassment or disgrace, which fall under the broader category of sadness or possibly disgust. However, in this context, it's more about emotional discomfort due to someone else's actions, which aligns with disgust because it involves a strong dislike or disapproval.
+
+I should consider whether it might be fear or surprise, but those don't seem to fit here. The tweet isn't expressing fear of something happening or surprise at an event. It's more about the reaction to another person's potential behavior, which is better captured by disgust due to disapproval.
+</think>
+
+The emotion conveyed in the tweet is **disgust** because the author expresses strong disapproval and shame regarding the actions mentioned.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out what emotion this tweet is conveying. The tweet says: "Oh [NAME], even if I had a bf I would be ashamed to have him do that for". Hmm, okay, first, the user is addressing someone by name, which might indicate they're talking directly to them or sharing their thoughts.
+
+The main part of the sentence is about being ashamed. The author is saying that even if they had a boyfriend, they'd feel ashamed if he did something (though it's not specified what). So the emotion here seems to be related to shame, but looking at the options provided: anger, disgust, fear, joy, sadness, surprise.
+
+Wait, shame isn't directly one of the listed emotions. But let me think deeper. Shame often relates to embarrassment or feeling bad about oneself. In terms of the given categories, maybe it's closest to sadness because sadness includes pensiveness and grief. Alternatively, could it be disgust? Disgust is more about disliking something, perhaps not directly about personal feelings.
+
+Another angle: The user is expressing a strong negative emotion towards an action someone else would take. They feel that such behavior would make them ashamed, which implies they have low regard for the action or maybe the person's behavior. That could also tie into disgust because it's a feeling of disapproval or aversion.
+
+But I'm not entirely sure. The primary emotion here is about being ashamed, which isn't listed but relates to sadness. However, sometimes in these classifications, expressions like "ashamed" can be linked to feelings of embarrassment or guilt, which might fall under sadness as it's a form of negative emotional state.
+
+Alternatively, maybe the tweet could also hint at surprise if the action was unexpected, but I don't think that's the case here. The author is clearly expressing disapproval and personal discomfort, so disgust seems more fitting because it's about feeling something is repulsive or unacceptable.
+
+Wait, but disgust is more when you feel something is wrong or offensive. If the author is ashamed of what a boyfriend would do, maybe it's more about their own feelings rather than being disgusted by someone else's actions. So perhaps sadness makes more sense here as it's about personal regret or emotional pain.
+
+Hmm, I'm a bit torn between disgust and sadness. The key words are "ashamed" and the context of a potential boyfriend's actions. If it's about disliking what the boyfriend would do, then disgust might be better. But if it's more about feeling bad or upset for oneself, then sadness fits.
+
+I think I'll go with disgust because the focus is on being ashamed of someone else's behavior, which indicates a dislike or aversion towards that action.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion is in this tweet. The tweet says, "Oh [NAME], even if I had a bf I would be ashamed to have him do that for..." Hmm, okay.
+
+First, I notice the use of "ashamed." That usually relates to feelings of embarrassment or disgrace. But looking at the emotion categories provided, I don't see "embarrassment" listed. The options are anger, disgust, fear, joy, sadness, surprise.
+
+Ashamed can sometimes tie into disgust because it's about feeling something is wrong or repulsive. Disgust in this context could mean disapproval or dislike of someone's actions. So maybe the emotion here is disgust.
+
+Wait, let me double-check. The sentence expresses that having a boyfriend do something makes them ashamed. This suggests they're upset with the action, which might be seen as inappropriate or unacceptable. That does fit more under disgust rather than anger because it's about disapproval rather than rage.
+
+So, considering all this, I think the emotion conveyed is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

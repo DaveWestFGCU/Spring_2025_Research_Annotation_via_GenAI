@@ -1,0 +1,33 @@
+Record: "Henderson getting bitched by that Rat 🐀 Alba  #ChampionsLeague #BarcaLiverpool"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses derogatory language ("bitched", "Rat") towards a specific player (Alba)
+* The tone is informal and negative
+* The context is a football match between Liverpool and Barcelona in the Champions League
+
+Given these points, the most relevant emotion label is **anger**, as the author's use of strong language suggests a negative emotional state, likely anger or annoyance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses derogatory language ("bitched" and calling someone a "Rat") which suggests a strong negative sentiment.
+* The context is a football match, where the author seems to be expressing frustration or disappointment with an opposing player's behavior.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses a derogatory term ("Rat") to describe Alba.
+* The author expresses disappointment or frustration with the referee's decision, as implied by "getting bitched".
+* The tone is confrontational and negative.
+
+Given these considerations, the most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+

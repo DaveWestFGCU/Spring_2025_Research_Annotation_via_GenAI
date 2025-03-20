@@ -1,0 +1,41 @@
+Record: "Ohh it gets even more interesting:"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is informal and slightly teasing.
+* The phrase "it gets even more interesting" suggests that something unexpected or intriguing has been revealed.
+* There is no clear expression of negativity, fear, sadness, disgust, or anger.
+
+Given these points, I would conclude that the speaker is likely feeling:
+
+**surprise**
+ 
+The speaker's tone and language suggest that they are excited to share a new development or revelation, which aligns with the emotion of surprise. The phrase "Ohh it gets even more interesting" implies that something unexpected has been revealed, which also supports this interpretation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an interjection ("Ohh") that typically indicates excitement or anticipation.
+* The phrase "it gets even more interesting" suggests that the speaker is expecting something unexpected or surprising to happen.
+
+Given these considerations, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone is light and playful with the use of the word "Ohh" and the phrase "it gets even more interesting".
+* There is no indication of criticism, disapproval, or negative emotion.
+* The language used suggests a sense of anticipation or excitement.
+
+Given these points, the most relevant emotion label is:
+
+**Surprise**
+ 
+The speaker's tone and language suggest that they are expecting something unexpected or exciting to happen, which aligns with the definition of surprise as feeling astonished or startled by something unexpected.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "If you use one of those two I automatically hate you"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses a strong absolute statement ("I automatically hate you") which suggests a high level of intensity.
+* The author implies that using the mentioned options will lead to hatred, indicating a negative emotional response.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses a strong and absolute statement ("automatically hate") which suggests a strong emotional response.
+* The phrase "if you do something" implies that the author is setting a condition for their reaction, implying a sense of provocation or offense.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the word "hate" which implies a strong negative sentiment.
+* The phrase is written in an imperative tone ("If..."), suggesting a sense of warning or threat.
+* There is no indication of fear, sadness, or surprise.
+
+Given these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

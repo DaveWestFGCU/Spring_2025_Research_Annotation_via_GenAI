@@ -1,0 +1,42 @@
+Record: "Don't worry, nobody expects much from you people anyways."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be making a dismissive and condescending statement.
+* The use of the phrase "nobody expects much from you" implies a lack of respect or high expectations for the recipient's capabilities or contributions.
+* The tone is sarcastic, which often indicates a negative emotion.
+
+Most relevant emotion label: **anger**
+ 
+Reasoning: While anger encompasses annoyance and disapproval, this statement seems to lean more towards annoyance and disdain rather than a full-blown angry outburst.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is dismissive and condescending.
+* The phrase "nobody expects much from you people anyways" implies a lack of respect or expectation for the abilities or achievements of the person or group being addressed.
+* The use of the word "anyways" suggests a casual, almost careless attitude.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone and language suggest that they are annoyed or irritated with the person or group they are addressing, and are expressing this displeasure in a somewhat aggressive manner. While not strictly anger, there is also a hint of disdain and disrespect, which aligns more closely with anger than any other emotion category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment seems condescending and belittling.
+* The phrase "nobody expects much from you" implies that the speaker has low expectations for the person or group they are addressing.
+* The word "anyways" is a casual, informal tone that suggests the speaker is not taking their target seriously.
+
+Most relevant emotion label: **anger**
+
+The comment seems to convey annoyance and disapproval, which are characteristics of anger. While it's possible to interpret the comment as simply a joke or sarcastic remark, the underlying tone and language suggest that the speaker may be feeling angry or irritated with the person they are addressing.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,70 @@
+Record: "It's not *literally* the same investigation."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet: "It's not *literally* the same investigation." The user wants me to determine the emotion conveyed from a list including anger, disgust, fear, joy, sadness, and surprise. 
+
+First, let me look at the sentence itself. The speaker is pointing out that something isn't exactly the same as another. They emphasized "literally" with italics and an asterisk, which might indicate sarcasm or emphasis.
+
+Sarcasm can often be linked to several emotions. Sometimes it's used to express frustration or mockery, which could fall under anger or disgust. But I need to see if there are other cues. The sentence doesn't show any obvious signs of fear, joy, sadness, or surprise. 
+
+The use of "literally" might suggest that the speaker is correcting someone else or highlighting a misunderstanding. This could be frustration with how something was perceived, which leans towards anger. Alternatively, it might be more about the tone than the content itself.
+
+I should also consider if there's any indication of surprise. Surprise would usually come from unexpected news or an amazing revelation, but here it seems like a clarification rather than something surprising. 
+
+Another angle is that sometimes people use sarcasm to express disgust or disapproval. But in this case, since the statement is about an investigation not being exactly the same, it's more about correcting a misunderstanding than expressing dislike.
+
+So, weighing the options: anger because of frustration with someone's incorrect assumption, or perhaps surprise if the correction was unexpected. However, given the context, it seems more likely that the speaker is annoyed or frustrated, which falls under anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet: "It's not *literally* the same investigation." into one of these emotions: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, let me read the tweet carefully. The author is saying that something isn't literally the same as another investigation. They're using the word "literally" in italics and with an asterisk, which often indicates emphasis or correction. Sometimes people use that to add a sarcastic twist.
+
+So, when someone adds emphasis like that, especially around words like "literally," they might be implying that something isn't exactly what it seems. The phrase "not the same investigation" suggests doubt or skepticism about whether the two investigations are comparable or if one is being misrepresented as similar to another.
+
+Now, considering the emotion categories: anger usually involves frustration or rage, but I don't feel that's the case here. Disgust would be more like dislike or aversion, which doesn't quite fit. Fear would involve anxiety or dread, which isn't present here. Joy is about happiness or serenity, so no. Sadness relates to grief or pensiveness; the tweet isn't sad. 
+
+That leaves surprise. The author might be pointing out something unexpected or highlighting a discrepancy in a way that's attention-grabbing, hence surprising. Alternatively, maybe the sarcasm involved can be seen as a form of surprise because it's unexpected or meant to make someone take notice.
+
+I think "surprise" is the best fit here because the emphasis and structure suggest that the author wants to highlight something notable or perhaps call out an oversight, which would be surprising.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion is conveyed in this tweet: "It's not *literally* the same investigation." The user wants me to classify it into one of six categories: anger, disgust, fear, joy, sadness, or surprise. 
+
+Let me start by reading the tweet again. The author uses an asterisk before "literally," which might be emphasizing something. In English, when someone adds emphasis with words like "literally" especially in a sarcastic way, it can indicate frustration or exasperation. So maybe that's a clue towards anger.
+
+But wait, could it also be another emotion? Let me think about each category:
+
+1. Anger: This is often shown through sarcasm, raised voice, or exaggerated expressions. The use of "literally" here might be sarcastic because in everyday language, people rarely mean it literally when they say that something isn't the same.
+
+2. Disgust: That usually involves feelings towards something being unpleasant. I don't think this tweet is expressing dislike but more frustration about a comparison.
+
+3. Fear: Not sure if there's any indication of fear here. The statement seems more like a response to a misunderstanding rather than fear.
+
+4. Joy: Doesn't seem right. There's no positive emotion expressed here, just a correction or clarification.
+
+5. Sadness: Again, the tweet doesn't convey sadness; it's more about correcting a perception.
+
+6. Surprise: Maybe if the comparison was unexpected, but I don't think that's the case here. The author is clarifying, not expressing surprise.
+
+So focusing on anger, the sarcastic use of "literally" suggests frustration or mild irritation. That fits under the anger category which includes annoyance and exasperation.
+
+I should also consider if there are any other possible interpretations. Maybe someone could think it's a straightforward clarification without emotion, but given the emphasis with asterisks, it leans more towards sarcasm, hence anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

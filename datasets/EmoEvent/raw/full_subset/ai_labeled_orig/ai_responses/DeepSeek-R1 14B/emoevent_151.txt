@@ -1,0 +1,52 @@
+Record: "#NotreDameCathedralFire has deeply moved France &amp; other countries all around the 🌍. In these times when our empathy awakens our generosity, we must be careful. Disasters and humanitarian crisis are often subject to false appeals for donations. https://t.co/eIV0WGgUWk"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise. The tweet is about the Notre Dame Cathedral fire.
+
+First, let me read the tweet carefully. It says that the fire has deeply moved France and other countries around the world. They mention empathy awakening generosity but caution against false donation appeals during disasters and crises.
+
+The key words here are "deeply moved," which usually relates to sadness or grief. Also, the context is a tragic event, so it's likely expressing sorrow. The caution about false appeals adds a layer of concern, which could tie into fear, but the primary emotion seems to be sadness because of the loss caused by the fire.
+
+So, I think the emotion conveyed here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+First, let me read the tweet carefully. It says that the Notre-Dame Cathedral fire has deeply moved France and other countries around the world. The author mentions empathy awakening generosity but advises caution because disasters can lead to false donation appeals.
+
+The keywords here are "deeply moved" and "disasters." "Deeply moved" suggests a strong emotional response, likely sadness or grief. The mention of disasters aligns with feelings of loss or sorrow. There's no indication of anger or fear; instead, the focus is on empathy and caution regarding generosity. So, the primary emotion conveyed seems to be sadness.
+</think>
+
+The tweet expresses **sadness** due to the emotional impact of the fire and the call for cautious generosity.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet's emotion based on the given categories: anger, disgust, fear, joy, sadness, surprise. The tweet is about the Notre-Dame Cathedral fire and its impact.
+
+First, I'll read the tweet carefully. It says that the fire has "deeply moved" France and other countries around the world. That word "moved" can imply a strong emotional response. Then it mentions that in these times, empathy awakens generosity, but also warns about being careful because disasters often lead to false donation appeals.
+
+The overall tone seems serious and concerned. The author is highlighting the emotional impact on people (hence moving) but is cautioning against scams related to donations. So, there's a sense of empathy and worry, which ties into sadness or maybe fear?
+
+Looking at the emotion categories: sadness includes grief and pensiveness. The tweet expresses that this event has caused significant emotional movement in many people, leading them to feel and potentially donate. But it also brings up the darker side where people might be exploited with false appeals.
+
+I don't see any elements of anger or disgust here. Fear isn't really captured either because it's more about the consequences rather than fear itself. Joy and surprise are clearly not applicable since the event is tragic.
+
+So, sadness seems to fit best because it's conveying a somber, empathetic response to a disaster affecting many people.
+</think>
+
+The tweet expresses empathy towards the victims and concern about scams, which conveys **sadness** due to the tragedy and its impact on people. 
+
+**emotion**: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+

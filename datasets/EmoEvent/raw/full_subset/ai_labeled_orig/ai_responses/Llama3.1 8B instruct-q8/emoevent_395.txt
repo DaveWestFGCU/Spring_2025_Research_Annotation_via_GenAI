@@ -1,0 +1,41 @@
+Record: "I’ve watched episode 3, the battle for winterfell 3 times today!! It is f**king epic!! #GameOfThrones #BattleForWinterfell #GOT"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the tweet, consider the following important points:
+
+* The author has watched the same episode multiple times, indicating enthusiasm and interest.
+* They use a strong expletive ("f**king") which suggests emphasis and passion rather than negative emotions.
+* The language used to describe the episode is extremely positive ("epic").
+
+Given these considerations, the most relevant emotion label is **joy**, as the author's tone is celebratory and enthusiastic.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author has watched an episode multiple times, indicating a high level of engagement and enthusiasm.
+* The use of the word "f**king" suggests strong emphasis and excitement.
+* The phrase "It is f**king epic!!" implies a sense of awe and admiration.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+This is because the author's language and actions suggest unbridled enthusiasm and excitement, which are key characteristics of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions watching an episode multiple times in one day, indicating enthusiasm and a strong emotional response.
+* The use of profanity ("f**king") suggests excitement and emphasis on the author's positive feelings.
+* The text describes the episode as "epic", which typically connotes admiration and awe.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This classification is based on the author's enthusiastic language and evident delight in watching the episode.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "100% yes. My sister's ex is an actual monster but my niece still sees his family."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses strong language to describe someone ("actual monster"), indicating a negative emotional tone.
+* The author seems concerned about the impact on their niece, implying empathy and care for her well-being.
+
+Based on these considerations, the most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses strong language ("actual monster"), which suggests a negative emotional tone.
+* The author expresses concern for their niece's well-being and perception of her uncle's family.
+* The tweet implies that the author is upset about the situation but acknowledges that it may be difficult or complex.
+
+**anger**
+The author's use of strong language and expression of concern for their niece's well-being suggests that they are primarily feeling anger towards the sister's ex, who they perceive as a threat to their niece.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses strong language to describe the person ("actual monster"), implying a negative emotional tone.
+* The author expresses concern for their niece, who may be impacted by this situation.
+* The sentence structure and phrasing suggest a sense of sadness or worry about the situation.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

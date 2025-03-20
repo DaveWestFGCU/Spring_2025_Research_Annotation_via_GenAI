@@ -1,0 +1,33 @@
+Record: "Haha, no I mean the kind of disposable powerups in a mobile game. Not console/PC games."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses a humorous tone ("Haha") and mentions it's not what they meant initially.
+* They clarify their intention by specifying it's related to mobile games, implying a difference from other types of games.
+
+Based on the text, the most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the phrase "Haha", which typically indicates that they are joking or being playful.
+* They clarify their original statement with a specific example (mobile game) and explicitly rule out another context (console/PC games), indicating a sense of correction or clarification rather than strong emotion.
+
+**joy**
+The tone of the tweet appears to be lighthearted and humorous, suggesting that the author intended to convey joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Points to consider:
+
+* The tweet contains laughter (indicated by "Haha"), which is often associated with amusement or joy.
+* The author seems to be correcting someone's misunderstanding about their interests, but in a lighthearted way.
+* There is no indication of negative emotions such as anger, disgust, fear, sadness, or surprise.
+
+Given these points, the most relevant emotion label for this tweet is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

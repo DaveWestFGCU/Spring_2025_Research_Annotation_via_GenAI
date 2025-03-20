@@ -1,0 +1,35 @@
+Record: "sorry should clarify ... have dinner / drinks and then go our separate ways to other events that night."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be addressing a previous misunderstanding or miscommunication.
+* They are providing clarification on their plans for the evening.
+* There is no indication of strong emotions, such as anger or disgust.
+
+Given these points, it appears that the speaker is not expressing any strong negative emotions. They seem to be providing a neutral and explanatory response to clarify their previous statement.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with an apology, indicating they may be acknowledging a miscommunication or misunderstanding.
+* They provide clarification on their intentions, stating they plan to have dinner/drinks with the person before going their separate ways.
+* There is no explicit expression of strong emotions, negative opinions, or surprise.
+
+Given these points, the most relevant emotion label is: **neutral**. The speaker's tone appears apologetic and explanatory, but there is no indication of a strong emotional state such as anger, fear, sadness, or joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to a previous message, indicating they want to clarify something.
+* They mention having dinner/drinks together and then going their separate ways, implying they are trying to manage expectations or avoid conflict.
+
+Given these points, the most relevant emotion label is **neutral**. The speaker's tone appears to be matter-of-fact and attempting to clear up a misunderstanding, rather than expressing any strong emotions such as anger, disgust, fear, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+

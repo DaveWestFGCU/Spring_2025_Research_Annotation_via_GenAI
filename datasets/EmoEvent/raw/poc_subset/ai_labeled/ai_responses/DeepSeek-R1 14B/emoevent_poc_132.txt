@@ -1,0 +1,60 @@
+Record: "Good job! Next, I recommend going NO contact."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the author of this tweet is conveying. The tweet says: "Good job! Next, I recommend going NO contact." Let's break this down step by step.
+
+First, the beginning of the tweet is positive. They're saying "Good job!" which sounds like praise or encouragement, so that might suggest joy or maybe even surprise because it's a commendation. But then comes the second part: "Next, I recommend going NO contact." 
+
+The word "NO" is capitalized here, which could emphasize the point they're making. The advice given is about not contacting someone anymore, perhaps ending a relationship or communication. This might imply some sort of warning or advice based on negative experiences.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one that best fits the overall sentiment.
+
+The first part is positive ("Good job!") but the second part is more about a recommendation, which might not carry an explicit emotion like anger or disgust. However, the context of ending contact could relate to negative feelings, but it's phrased as advice rather than expressing personal emotion.
+
+But wait, the user instructed to classify based on the intended emotion from the author. The positive part is definitely joy/satisfaction in praising someone, and the second part is a recommendation without necessarily showing anger or disgust unless we infer that the reason for no contact is due to negative feelings towards that person. But since it's not explicitly stated, maybe the primary emotion here is still the positive one.
+
+Alternatively, if "no contact" implies something negative about the other person, like they're being advised to avoid someone because of their unpleasantness, then disgust might be involved. But without explicit negative words, it's hard to say.
+
+Given that, I think the main emotion conveyed by the author is joy, as in congratulating someone and giving advice. The second part doesn't necessarily carry a strong emotion on its own but is more informative.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's try to figure out what emotion is in this tweet: "Good job! Next, I recommend going NO contact." Hmm. So first, the author says "Good job!" which sounds positive, like they're praising someone. That might indicate joy or maybe even surprise because sometimes when people are surprised by something good happening, it can be positive.
+
+But then the next part is "Next, I recommend going NO contact." The word "NO" is in uppercase, so that could emphasize the recommendation. Maybe the author is suggesting to stop contacting someone, which might imply a negative situation. But does that affect the emotion?
+
+Looking at the options: anger, disgust, fear, joy, sadness, surprise. The initial part is positive, but the second part might be giving advice, not necessarily showing an emotion like anger or disgust.
+
+Wait, maybe the entire tweet is meant to encourage someone, so the overall feeling is positive. "Good job" usually conveys happiness or approval. The second part could be a suggestion without any negative emotion attached. So perhaps it's joy because of the praise given.
+
+Alternatively, maybe surprise? But I don't think so. It seems more like straightforward encouragement. So I'm leaning towards joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out which emotion this tweet is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet says: "Good job! Next, I recommend going NO contact." 
+
+Breaking it down, the first part "Good job!" sounds positive, like praise or encouragement. That's probably joy because it's a compliment. Then, the second part is suggesting "going NO contact." The emphasis on "NO" might indicate some frustration or annoyance. Maybe the person is advising someone to stop contacting, perhaps because they're tired of it.
+
+So there are two parts here: positive praise and then a recommendation that might imply stopping something, possibly due to negative feelings like frustration or anger.
+
+Now, looking at the emotions: joy seems to fit the first part, but the second part could be anger (frustration) or maybe surprise if they're unexpectedly telling someone to stop contacting. But I think the primary emotion is more about the positive praise because that's the first and main part of the message. The second part might be a suggestion rather than an emotional outburst.
+
+Alternatively, maybe it's mixed emotions, but since we have to pick one from the list, joy seems more prominent in this case because the first part is clearly positive.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,56 @@
+Record: "Makes me glad I'm almost 50, and all this is stuff I will never ever experience, and frankly can hardly fathom."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The sentence is: "Makes me glad I'm almost 50, and all this is stuff I will never ever experience, and frankly can hardly fathom."
+
+First, let's break down the words used. They start with "Makes me glad," which immediately hints at joy or happiness. The word "glad" is a strong indicator of positive emotion. 
+
+Next, they mention being almost 50, which could be a reference to their age, and then talk about not experiencing certain things in the future. The tone here seems reflective but positive because they're expressing relief or satisfaction that they won't go through whatever "stuff" is being referred to.
+
+The phrase "frankly can hardly fathom" suggests some surprise or astonishment, but since it's paired with a glad feeling, the primary emotion still leans towards joy. The speaker is happy about avoiding certain experiences, which aligns with joy rather than surprise or another category.
+
+Looking at the definitions provided, joy includes feelings like gratitude and satisfaction. The speaker seems grateful for their current situation and satisfied that they won't have to deal with whatever "stuff" is mentioned. There's no indication of anger, disgust, fear, sadness, or surprise; it's more about a positive outlook.
+
+So putting it all together, the emotion here is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their Reddit comment. The comment is: "Makes me glad I'm almost 50, and all this is stuff I will never ever experience, and frankly can hardly fathom."
+
+First, let's break down the sentence. The speaker starts with "Makes me glad," which immediately suggests a positive emotion. "Glad" usually relates to joy or happiness. They mention being almost 50 and that they're happy about not experiencing certain things anymore.
+
+The next part is "all this is stuff I will never ever experience." This could imply that the speaker is reflecting on past experiences or aspects of life they've left behind, which might evoke nostalgia but in a positive way since they express gladness. The phrase "can hardly fathom" indicates surprise or astonishment at how things have changed or developed.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Joy seems to fit because of the word "glad." However, there's also an element of surprise in not being able to fully grasp current trends ("can hardly fathom"), which might point towards surprise. 
+
+But wait, let me think again. The primary emotion expressed is gladness or happiness, so joy should take precedence over surprise here. The surprise element is more about the content they're referring to rather than their own emotional state.
+
+So considering all that, I would say the emotion is **joy**.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Makes me glad I'm almost 50, and all this is stuff I will never ever experience, and frankly can hardly fathom." 
+
+First, let's break down the sentence. The speaker starts with "Makes me glad," which immediately suggests a positive emotion. Glad usually relates to joy or happiness. Then they mention being almost 50 and that certain experiences ("all this stuff") are things they won't experience. They also say they can hardly fathom it, indicating something beyond their current understanding.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Joy seems to fit because "glad" is a word associated with joy. The other words in the sentence don't indicate any negative emotions like anger or sadness; instead, they express satisfaction and relief that they won't have to deal with these experiences.
+
+I should also consider if there's any hint of another emotion. The part about not experiencing something could be surprising, but the overall tone is positive because they're glad about it. Surprise usually involves being astonished by an unexpected event, but here, the speaker seems content rather than surprised.
+
+So, putting it all together, the emotion is likely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

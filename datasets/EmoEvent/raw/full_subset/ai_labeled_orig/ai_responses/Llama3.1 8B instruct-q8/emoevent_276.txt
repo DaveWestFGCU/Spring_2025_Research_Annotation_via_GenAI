@@ -1,0 +1,41 @@
+Record: "Twitter-Fun: Almost every single one of my tweets concerning #GretaThunberg has been reported &amp; EVERY TIME Twitter tells me "We have investigated the reported content and could not identify any violations of the Twitter Rules".  #FridaysForFuture #ClimateChange"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions that almost every single one of their tweets about Greta Thunberg has been reported.
+* They express frustration with Twitter's response, stating that they have investigated and found no violations.
+* The tone suggests a sense of injustice or unfairness.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The author appears to be annoyed and frustrated with Twitter's handling of their tweets, which suggests a strong negative emotional tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing frustration with Twitter's response to their tweets.
+* They mention that almost every single one of their tweets has been reported, implying a high level of scrutiny and potential censorship.
+* The author questions the legitimacy of Twitter's investigation, suggesting that it may not be thorough or fair.
+
+Based on these points, the emotion conveyed by the author is likely **anger**, as they are expressing frustration and annoyance with Twitter's actions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing frustration with Twitter's handling of their tweets related to Greta Thunberg.
+* The author mentions that almost every single tweet has been reported, implying a high level of scrutiny or censorship.
+* The tone seems to be critical and skeptical towards Twitter's response.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+This category fits because the author appears to be annoyed and frustrated with Twitter's handling of their tweets.
+------------------------------------------------------------------------------------------------------------------------
+

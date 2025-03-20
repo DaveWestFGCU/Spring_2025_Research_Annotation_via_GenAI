@@ -1,0 +1,42 @@
+Record: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion. Let's read it: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back". The user is expressing sadness and feeling down, wanting someone specific to come back. The emotions available are anger, disgust, fear, joy, sadness, surprise.
+
+First, the tweet starts with "I'm sad", which clearly indicates sadness. They mention feeling like crap and wanting someone back, both of which reinforce a sense of sorrow or unhappiness. There's no indication of any other emotion like anger or fear. It doesn't seem surprising or joyful. So, the most fitting category is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet's emotion. The user wrote, "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back." 
+
+First, the word "sad" is explicitly used, which directly points to sadness. They mention feeling down and wanting someone specific to make them feel better, indicating low mood and possibly longing.
+
+Looking at other emotions: anger? No, there's no indication of that. Disgust or dislike? Not here. Fear or anxiety? Doesn't seem so. Joy? Definitely not. Surprise? Unlikely. 
+
+So the emotion conveyed is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list. The tweet is: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back." 
+
+First, let's break down what's being said here. The author explicitly mentions feeling "sad" and describes their current state as feeling like "shit," which reinforces the sadness. They also express a desire to have someone specific back, suggesting they're longing for that person, which ties into feelings of loss or unhappiness.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise. The most obvious one here is sadness because the author directly states it and uses negative language to describe their emotional state. There's no indication of any other emotions like anger or fear; instead, the focus is on feeling down and seeking comfort.
+
+I should also consider if there are any hints of other emotions, but in this case, everything points to sadness. The mention of wanting someone back could imply longing, which sometimes relates to love-related sadness rather than anger or another emotion. So, it's clear that the primary emotion conveyed is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

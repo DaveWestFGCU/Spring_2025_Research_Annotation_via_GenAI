@@ -1,0 +1,90 @@
+Record: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to determine the emotion the speaker is feeling based on their comment: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress." 
+
+First, let me break down the sentence. The speaker mentions that someone spent $35k, which they find unbelievable or excessive, using the word "crazy." They then compare it to their own experience, spending under $2k for a similar item—the wedding dress.
+
+Looking at the emotion categories: anger involves displeasure or antagonism; disgust is revulsion towards something unpleasant; fear is about being afraid or worried; joy is happiness-related; sadness is emotional pain; surprise is astonishment; neutral means no emotion.
+
+The speaker's use of "crazy" suggests they are surprised by the higher amount. They might not be angry because there's no direct expression of displeasure towards another person, just a comparison of spending habits. It's more about reacting to something unexpected rather than feeling disgusted or fearful. There’s also no indication of joy, sadness, or neutrality.
+
+So, the emotion here is surprise because they're reacting to an unexpected and presumably high expenditure.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out what emotion this comment might be conveying. The user is looking at someone else's Reddit comment and wants to identify the emotion based on the given categories.
+
+The comment is: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress."
+
+First, I'll break down the content. The speaker is comparing their own experience (wedding costs) with someone else's. They mention that their expenses were much lower—less than $2k—and highlight that even the wedding dress was included in that budget.
+
+The key words here are "crazy" and the comparison of expenses. Using "crazy" suggests that they find the other person's amount (35k) unreasonable or excessive. This likely reflects a judgment about the other person's spending habits or choices, which could be interpreted as disapproval.
+
+Looking at the emotion categories:
+
+- Anger: The comment doesn't show any direct expression of anger like threats or strong accusations.
+- Disgust: The use of "crazy" and the comparison implies a strong disapproval, which aligns with disgust. They're expressing distaste for the other person's expenditure.
+- Fear: There's no indication of fear or worry here.
+- Joy: No positive emotions are expressed.
+- Sadness: The comment isn't about loss or disappointment.
+- Surprise: While the amount might be unexpected, the response is more critical than surprised.
+- Neutral: The speaker clearly has an opinion, so it's not neutral.
+
+Therefore, disgust seems to fit best because of the disapproving tone and use of negative language towards someone else's actions.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker might be feeling based on their comment. The sentence is: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress."
+
+First, let me break down what this person is saying. They're talking about a price tag of $35k, which they find to be excessive—they use the word "crazy." Then they mention their own experience where it cost less than $2k, including the wedding dress.
+
+Looking at the emotion categories:
+
+1. **Anger**: This involves strong displeasure or antagonism. The speaker is clearly expressing that $35k is unreasonable, showing frustration. But is this anger?
+
+2. **Disgust**: Disgust is about revulsion towards something unpleasant. They don't seem disgusted but rather annoyed.
+
+3. **Fear**: There's no indication of fear or worry here; the comment is more about comparison.
+
+4. **Joy**: This is happiness or pleasure, which isn't present here.
+
+5. **Sadness**: Sadness involves emotional pain. The speaker might be disappointed if they expected a lower cost, but the tone seems more annoyed than sad.
+
+6. **Surprise**: Surprise includes astonishment. While $35k is unexpected, the reaction here is more frustration than surprise.
+
+7. **Neutral**: Not applicable since there's an expressed emotion.
+
+The key words are "crazy" and comparing their own lower cost. This suggests frustration or annoyance, which falls under anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+<think>
+Alright, let me try to figure out what emotion this speaker might be feeling based on their comment. The text given is, "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress." 
+
+First, I'll break down the sentence to understand the context and tone. They're talking about a price of $35k and find it "crazy." Comparing it to their own experience where they spent less than $2k, including the wedding dress. So, they seem to be discussing some kind of expenditure, possibly related to an event like a wedding.
+
+The speaker is expressing surprise at how much someone else spent, contrasting it with their own more economical approach. The word "crazy" here isn't necessarily negative in a harmful way; instead, it's used to express astonishment or disbelief. They're highlighting that the other person's expense is significantly higher than what they deemed necessary.
+
+Looking at the emotion categories: anger would involve strong displeasure, but the speaker doesn't seem angry, just surprised. Disgust involves revulsion, which isn't evident here either. Fear and sadness don't fit because there's no indication of worry or sorrow. Joy isn't present as there's no happiness expressed. Neutral is when there's no emotion, but clearly, they're reacting to the situation.
+
+So, the emotion that stands out is surprise. The speaker is surprised by the high amount spent and is pointing it out, which aligns with the definition of surprise involving astonishment or realization.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

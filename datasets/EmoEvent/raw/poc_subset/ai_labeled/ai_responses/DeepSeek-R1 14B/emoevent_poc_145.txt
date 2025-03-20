@@ -1,0 +1,65 @@
+Record: "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion this tweet conveys from the given list: anger, disgust, fear, joy, sadness, or surprise.
+
+Let me read the tweet again: "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey."
+
+The author is talking about their goal to play Brawlhalla and mentions that it's going to take a lot of time based on others' experiences. The tone here doesn't seem angry or annoyed; instead, they're acknowledging the effort required without expressing frustration.
+
+They don't show any signs of disgust, dislike, or disinterest towards the game or others. There's no fear or anxiety mentioned—just an awareness that it'll be a long journey. They aren't expressing joy or serenity about it either; it's more about accepting something challenging.
+
+The key part is "But after hearing how many hours people have, its gonna be a long journey." This sounds more like a realization or acceptance of the effort needed, which might lead to feelings of pensiveness or contemplation. Pensiveness falls under sadness in the given categories.
+
+So, even though the tweet isn't expressing overt sadness, the acknowledgment of a tough journey leans towards sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I've got this tweet to classify into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet carefully and break it down.
+
+The tweet says: "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey"
+
+First, I notice that the author mentions not being in a hurry but then talks about having to put in a lot of time ("many hours") towards their goal. The word "long journey" suggests they're anticipating something challenging or tedious.
+
+Looking at the emotions:
+
+- Anger: Not directly mentioned, no signs of frustration or rage.
+- Disgust: Doesn't seem like dislike or disinterest here.
+- Fear: There's a sense of apprehension about the long hours, maybe some anxiety about how much time it will take.
+- Joy: No positive feelings expressed.
+- Sadness: Maybe a hint, but more about the daunting task rather than grief.
+- Surprise: Not really, unless it's surprising that it takes so long.
+
+So the main emotion here seems to be fear or perhaps apprehension about the journey ahead. They're aware it's going to take a lot of time and effort, which might make them feel anxious or worried about starting.
+
+I think fear is the most fitting because it captures the underlying concern about the commitment involved.
+</think>
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's try to figure out what emotion is being conveyed in this tweet. The user wrote: "Im not in a hurry, its my goal for brawlhalla. But after hearing how many hours people have, its gonna be a long journey". 
+
+First, I'll break down the sentence. They mention not being in a hurry and having a goal for Brawlhalla. That sounds positive or at least neutral. However, they then say that after realizing how much time others have spent, it's going to be a long journey. The key here is the shift from positivity to something more concerning.
+
+The phrase "it's gonna be a long journey" suggests that they're anticipating a difficult or time-consuming task. While this doesn't express outright anger or sadness, there's a hint of disappointment or maybe even a bit of worry. They might feel overwhelmed by the realization of how much effort is required.
+
+Looking at the emotion categories: anger isn't present here, nor is disgust or fear. Joy and surprise don't fit either because the tone shifts to something more challenging. That leaves us with sadness or perhaps surprise. However, the feeling isn't exactly joy or surprise but more of an acknowledgment of a tough road ahead, which could be associated with pensiveness—a component under sadness.
+
+So, considering all this, I think the emotion here is sadness, specifically pensiveness because they're contemplating the long journey ahead.
+</think>
+
+The tweet expresses a sense of realization about the challenges ahead, which aligns with pensiveness, a subcategory of sadness. 
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

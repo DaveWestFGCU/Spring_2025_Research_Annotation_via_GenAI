@@ -1,0 +1,58 @@
+Record: "USER USER USER "..that’s what USER wants.". Good to see you've given up the pretence that this is about the #Venezuelan people.  Now about the make up of those pro opposition demonstrators, maybe not so representative of #Venezuela... https://t.co/EPxRboaHno"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet based on the emotion conveyed. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "Good to see you've given up the pretence that this is about the #Venezuelan people." The user seems critical, pointing out someone's hypocrisy in claiming to care about Venezuelans. This sounds like sarcasm and criticism, which usually falls under anger or disgust.
+
+The next part mentions questioning whether opposition demonstrators are representative of Venezuela. This could be expressing doubt or disdain, which supports the idea of disgust because it's a negative judgment about the situation.
+
+The overall tone is confrontational, calling out someone for not being genuine. That leans more towards disgust rather than anger because disgust often involves disapproval based on perceived moral standards.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's take a look at this query. The user wants to classify a tweet based on emotion from a predefined list: anger, disgust, fear, joy, sadness, surprise.
+
+First, I'll read the tweet carefully. It says, "that’s what USER wants." followed by "Good to see you've given up the pretence that this is about the #Venezuelan people." The user then questions if the opposition demonstrators are representative of all Venezuelans and includes a link.
+
+Breaking it down: The tone seems critical. Words like "pretence" suggest the author feels deceived or frustrated. They're pointing out that the pro-opposition group might not be broadly representative, which indicates skepticism or disappointment.
+
+Looking at the emotion categories:
+- Anger could fit if there's frustration.
+- Disgust involves disapproval or dislike.
+- The tweet doesn't express fear or surprise.
+- It's definitely not joy or sadness.
+
+The key here is the author's perception of pretence and lack of representation, which conveys a sense of disgust. They're showing disdain for the opposition's claims, feeling they're not genuine or representative.
+
+So, the emotion that best fits is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify the emotion in this tweet. Let's break it down.
+
+The user starts with "USER USER USER "..that’s what USER wants." which seems repetitive and possibly mocking or dismissive towards someone else, maybe Maduro supporters. Then they say, "Good to see you've given up the pretence that this is about the #Venezuelan people." This part suggests that the author is calling out others for not genuinely caring about Venezuelans, implying hypocrisy.
+
+Next, they mention, "Now about the make up of those pro opposition demonstrators, maybe not so representative of #Venezuela..." Here, the author is questioning whether the opposition demonstrators are truly representative. It sounds like they're skeptical or critical of the opposition's stance and composition.
+
+The overall tone seems critical and disapproving. The author is pointing out that others have stopped pretending their actions are for the Venezuelan people and are now being open about their true motives, which might be self-serving rather than altruistic.
+
+Looking at the emotion categories: anger includes annoyance and rage, disgust includes dislike and loathing. The tweet isn't filled with overt anger but shows disdain or distrust towards those in power or the opposition. It's more of a sarcastic critique, pointing out hypocrisy, which aligns with disgust because it's about disliking the actions or motives of others.
+
+So, putting it together, the emotion conveyed is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

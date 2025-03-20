@@ -1,0 +1,50 @@
+Record: "HAPPY #WORLDBOOKDAY FROM YOUR FAVORITE NEW YORK TIMES BEST SELLING BOOK TWITTER!!!!   and shoutout to our dads USER &amp; USER_Manuel!! we love you guys!! go read! https://t.co/p0psoXCsvF"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the emotion of this tweet about World Book Day. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "HAPPY #WORLDBOOKDAY..." The word "HAPPY" is in uppercase letters, which usually indicates emphasis and positive feelings. They're celebrating World Book Day, promoting reading, and mentioning love towards dads. The use of exclamation marks also adds to the enthusiastic tone.
+
+They're encouraging people to read with "go read!" which is a cheerful call to action. The overall message seems upbeat and celebratory. There's no indication of any negative emotions like anger or sadness.
+
+So, putting it all together, the emotion here is definitely joy.
+</think>
+
+The tweet uses words like "HAPPY" and exclamation marks, celebrating reading and expressing love, which conveys joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet based on the emotion the author intended. The options are anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet carefully.
+
+The tweet says: "HAPPY #WORLDBOOKDAY FROM YOUR FAVORITE NEW YORK TIMES BEST SELLING BOOK TWITTER!!!! and shoutout to our dads USER &amp; USER_Manuel!! we love you guys!! go read! https://t.co/p0psoXCsvF"
+
+First, I notice the word "HAPPY" right at the beginning. That's a strong indicator of joy. The author is celebrating World Book Day, which makes sense because it's meant to promote reading and books. They're using exclamation marks, which adds to the enthusiastic tone.
+
+They mention their dads with usernames and express love towards them, saying "we love you guys!!" This shows affection and positive emotions. Also, they encourage others to go read, which is a happy and encouraging message.
+
+Looking at the structure, the tweet is full of excitement and positivity. There's no sign of any negative emotions like anger or sadness. The use of emojis (though not shown) would typically be celebratory in such tweets.
+
+So, considering all these elements—explicit mention of happiness, celebration of a book-related event, expressions of love, and encouragement—the emotion here is clearly joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let's break this down. The task is to classify a tweet based on the emotion conveyed by the author. I need to choose from six categories: anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet, it starts with "HAPPY #WORLDBOOKDAY..." which immediately uses the word "HAPPY." That's a strong indicator of joy. The rest of the message continues this positive tone—mentioning favorite New York Times best-selling books, giving shoutouts to dads, expressing love, and encouraging others to read. All these elements are upbeat and celebratory.
+
+I don't see any signs of other emotions like anger or disgust. There's no indication of fear, sadness, or surprise. The language is enthusiastic and positive throughout.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,52 @@
+Record: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I'm trying to figure out what emotion the speaker is feeling based on their comment. The sentence given is: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good." 
+
+First, I'll break down the words and tone used here. The phrase "I’d have to say" suggests that they're expressing a strong opinion. Then mentioning it as their "favorite place to eat" indicates a positive sentiment towards the restaurant. They also use "So good," which is an exclamation that adds emphasis to their approval.
+
+Looking at the emotion categories provided, I need to see which one fits best. Anger seems out of place because there's no indication of frustration or annoyance. Disgust isn't present either; instead, the speaker is expressing satisfaction. Fear doesn't apply here since there's no mention of worry or anxiety. 
+
+Joy is a strong candidate because they're clearly enjoying and praising the restaurant. Sadness isn't applicable as there are no negative emotions expressed. Surprise would involve an unexpected event, which isn't the case here either. Neutral is too vague and doesn't capture the positive feeling.
+
+The use of "So good" and calling it their favorite place to eat leans heavily into joy because they're expressing happiness and satisfaction. There's no doubt in their tone; it's clearly a positive sentiment.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the speaker is expressing based on their comment about the new restaurant. The comment is: "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good."
+
+First, let's break down the sentence. They're talking about a restaurant they really like and mention it's their favorite. The words "so good" at the end are positive. There's no negative language here; instead, they seem excited or pleased.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger doesn't fit because there's no indication of frustration or irritation. Disgust is about revulsion, which isn't present either. Fear would imply anxiety or worry, but the speaker sounds happy. Sadness is related to sorrow or disappointment, which isn't here. Surprise involves astonishment, but the speaker seems content rather than surprised.
+
+That leaves joy and neutral. Joy includes positive emotions like happiness and approval. The comment expresses satisfaction and praise for the restaurant, so it's definitely a positive emotion. Neutral would mean no emotion, but clearly, they're expressing enjoyment.
+
+So, the emotion here is joy because they're sharing their pleasure about the restaurant.
+</think>
+
+The speaker is expressing joy because they are complimenting the restaurant and showing approval.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me figure out the emotion behind this comment. The user wrote, "Right now I’d have to say [NAME] new restaurant UB Preserve is my favorite place to eat. So good." 
+
+Looking at the words, they're talking about a restaurant and expressing that it's their favorite. Using positive adjectives like "favorite" and "so good" indicates a positive feeling. The emotion categories include joy, which includes happiness and approval.
+
+There's no sign of anger, disgust, fear, sadness, or surprise here. They seem genuinely pleased. So the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

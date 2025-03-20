@@ -1,0 +1,39 @@
+<think>
+Okay, so I need to classify this tweet's emotion based on the given list: Anger, Disgust, Fear, Joy, Sadness, Surprise. The tweet is about the Notre-Dame Cathedral fire.
+
+First, let me read the tweet carefully. The user says, "I am sad about what happened to Notre-Dame because I love art and historical buildings but I still don't get the way society is setting priorities." They also include hashtags related to the cathedral fire and another cyclone. 
+
+The emotion expressed here is explicitly stated as sadness. The user mentions feeling sad about the event, which directly points to Sadness as the primary emotion. Even though they bring up societal priorities, that's more of a commentary or an observation rather than another emotion like anger or surprise.
+
+Looking at the other options: there's no indication of Anger because it's not expressed in terms of annoyance or rage. Disgust isn't present either since they don't show dislike towards anything specifically. Fear and Joy are also out of place here, and Surprise doesn't fit because the tweet isn't about being amazed or distracted.
+
+So, the most relevant label is Sadness.
+</think>
+
+Sadness
+<think>
+Okay, so I need to figure out which emotion this tweet is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "I am sad about what happened to Notre-Dame because I love art and historical buildings but I still don't get the way society is setting priorities." 
+
+The author explicitly mentions feeling "sad" about the event. They express love for art and historical buildings, which likely contributes to their sadness over the destruction of Notre-Dame. Additionally, they're questioning society's priorities, which might add another layer of disappointment or concern but doesn't change the primary emotion expressed.
+
+So, even though there's an element of frustration regarding societal priorities, the main emotion here is sadness because the author directly states it and connects it to their love for art and history.
+</think>
+
+5. Sadness
+<think>
+Okay, so I need to classify this tweet based on the emotion it conveys. The options are Anger, Disgust, Fear, Joy, Sadness, or Surprise. Let me read the tweet again.
+
+The user says, "I am sad about what happened to Notre-Dame because I love art and historical buildings but I still don't get the way society is setting priorities." They also include hashtags about the fire and a cyclone. 
+
+First, they explicitly state that they are "sad" about the event. That directly points me towards Sadness as the emotion. The mention of loving art and historical buildings shows their personal connection to the loss, which would naturally lead to feelings of sadness.
+
+Additionally, the user expresses confusion or frustration about societal priorities. While this part could hint at some underlying emotions like Disgust or Anger, the primary emotion expressed is Sadness because they clearly state it. The other aspects are more about the reasoning behind their sadness rather than expressing a different emotion.
+
+I don't see any signs of Fear (they aren't scared), Joy (it's a sad event), Surprise (no indication of that), or Disgust beyond maybe frustration, but Sadness is the strongest and most direct feeling here.
+</think>
+
+The tweet conveys Sadness because the author explicitly states their sadness about the Notre-Dame fire. 
+
+Answer: 5. Sadness

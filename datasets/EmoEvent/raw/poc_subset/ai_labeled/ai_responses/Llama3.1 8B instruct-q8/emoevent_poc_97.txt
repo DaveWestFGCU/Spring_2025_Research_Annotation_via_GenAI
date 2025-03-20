@@ -1,0 +1,34 @@
+Record: "Oh wow okay, where can I get a wind proof lining beaning or scarf? And do I have to cover my eyes or anything?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is searching for a specific product, indicating they are in need of something.
+* They express a sense of wonder and curiosity with "Oh wow okay".
+* However, the tone is not overly excited or enthusiastic, suggesting that the situation may be somewhat unpleasant.
+
+Most relevant emotion label: **surprise**. The author's use of "Oh wow okay" suggests that they are surprised by their own need for a windproof lining or scarf, and are seeking information to address this unexpected situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author's tone is one of inquiry and uncertainty.
+* They are asking for advice on how to protect themselves from the weather.
+* There is no indication of strong negative emotions such as anger, disgust, or fear.
+
+Given these considerations, the most relevant emotion label is **surprise**. The author's use of "Oh wow" suggests a sense of surprise or astonishment at discovering that they need protection from the wind, and their subsequent questions reflect this initial reaction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author is searching for information on how to protect themselves from the wind.
+* They seem unsure about what they need (e.g. "beaning" instead of "beanie") and are asking questions.
+* There's a sense of uncertainty or confusion in their tone.
+
+Given these points, I would classify the emotion as **surprise**. The author seems to be caught off guard by the wind and is reacting with a mix of curiosity and uncertainty, which is consistent with surprise.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,52 @@
+Record: "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them." 
+
+First, let's break down the content. The author mentions seeing "two inflated peacocks" which seems to be a metaphor or analogy for something, maybe people who are behaving arrogantly or foolishly. The words "inflated" and "dumb" suggest that the author thinks these individuals are either overblowing their importance or acting stupid.
+
+Next, the phrase "disgusting look in their face" uses the word "disgusting," which directly points towards disgust. This emotion category includes not just physical repulsion but also moral disgust, dislike, or aversion. So the author seems to have a strong negative feeling towards these people's appearance or behavior.
+
+The latter part of the tweet says, "But unfortunately I am not the gender evaluating them." This might be suggesting that the evaluation is being done by someone else, perhaps implying that the author isn't making the judgment themselves but feels it regardless. However, this doesn't change the primary emotion expressed earlier, which is disgust.
+
+Looking at the other emotions: anger could involve frustration or irritation, but the explicit use of "disgusting" makes me think disgust is more fitting. Fear would imply anxiety or dread, which isn't present here. Joy and surprise are positive emotions that don't fit with the negative language used. Sadness might relate to grief or pensiveness, but again, the tweet is expressing aversion rather than sadness.
+
+So putting it all together, the main emotion conveyed is disgust because of the explicit use of the word and the overall tone of disapproval towards the individuals described.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, let's take a look at this tweet: "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them." 
+
+First, I notice that the author is describing peacocks as "inflated" and having a "dumb and disgusting look." The use of words like "disgusting" directly points towards the emotion disgust. Disgust can include feelings like dislike or aversion, which seems to fit here since the author clearly expresses a negative opinion about the peacocks' appearance.
+
+Looking at the other emotions: anger is related but usually involves more direct expressions of irritation or rage. The word "disgusting" fits better under disgust than anger. Fear would imply anxiety or apprehension, which isn't evident in this tweet. Sadness might come into play if there was a sad tone, but the focus here is on the peacocks' appearance being offensive. Surprise usually involves something unexpected that catches someone off guard, but again, the primary emotion seems to be disgust.
+
+The second sentence mentions not being the gender evaluating them, which could indicate some frustration or maybe even a touch of surprise about the situation, but it doesn't change the main emotion conveyed in the first part of the tweet. So overall, the strongest emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again to understand the sentiment.
+
+The tweet says, "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them." Hmm, so the author is talking about seeing peacocks that look dumb and have a disgusting appearance. The use of words like "inflated," "dumb," and "disgusting" definitely convey a negative emotion.
+
+Looking at the options, anger includes annoyance and rage. Disgust includes disinterest, dislike, and loathing. Fear is more about apprehension or anxiety, which doesn't seem to fit here. Joy and surprise are positive emotions, so those can be ruled out immediately.
+
+The author expresses strong aversion with "disgusting," which points towards the disgust category. They also mention that they're not evaluating them because of their gender, but I don't think that adds more emotion beyond the initial negative feelings expressed about the peacocks.
+
+So, the primary emotion here is disgust. The words chosen clearly show dislike and aversion, fitting perfectly under the disgust category.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

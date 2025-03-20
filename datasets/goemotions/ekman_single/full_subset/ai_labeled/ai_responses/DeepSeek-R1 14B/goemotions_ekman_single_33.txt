@@ -1,0 +1,78 @@
+Record: "Pretty poor shots mostly. Couple of great saves from [NAME] though."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Pretty poor shots mostly. Couple of great saves from [NAME] though." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. They're talking about shots being "pretty poor," which suggests they didn't think much of them—maybe a bit disappointed. But then they mention that "[NAME]" had "couple of great saves." So while the overall performance might be seen as lacking, there were亮点 (highlights) in terms of saves.
+
+I should consider each emotion category:
+
+- Anger: The speaker seems critical but not necessarily angry. There's a mix of negative and positive observations.
+- Disgust: No strong negative feelings expressed beyond criticism.
+- Fear: Doesn't seem related; no indication of worry or fear.
+- Joy: There's some positive note about the saves, but overall the sentiment isn't purely joyful.
+- Sadness: Maybe a hint of disappointment, but not intense sadness.
+- Surprise: Not really, unless the saves were unexpected. But the comment doesn't indicate surprise.
+- Neutral: The speaker is giving feedback with both negative and positive points without strong emotion.
+
+So, while there's a bit of criticism, it's tempered by acknowledgment of good parts. It might lean towards neutral because they're providing constructive feedback rather than expressing a strong emotion like anger or joy.
+</think>
+
+The speaker provides balanced feedback, indicating some disappointment but also acknowledging positives. The tone isn't strongly emotional but analytical.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "Pretty poor shots mostly. Couple of great saves from [NAME] though." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let me break down the sentence. The speaker starts by saying the shots were "pretty poor," which sounds negative. But then they mention a couple of great saves from someone named [NAME]. So there's a mix here—some criticism and some praise.
+
+I need to consider each emotion category. Anger would involve strong displeasure, but the tone here doesn't seem extremely angry. It's more about evaluating performance. Disgust is revulsion or disapproval; maybe if they were disgusted by something, but again, it's not explicit.
+
+Fear involves being afraid or worried. There's no indication of fear in this comment. Joy would be happiness and pleasure—maybe if someone did well, but the overall tone isn't joyous. Sadness relates to sorrow or disappointment; perhaps if they were sad about poor performance, but they also acknowledge good saves.
+
+Surprise is astonishment or realization. The mention of great saves from [NAME] could imply surprise, especially if it's unexpected. However, the initial part about poor shots doesn't express surprise. Neutral would be if there's no clear emotion—just a statement without much feeling.
+
+Looking at both parts: criticizing the shots but praising the saves. This seems like an evaluation rather than expressing a strong emotion. So the speaker is giving feedback with both negative and positive points, but not showing any of the specific emotions listed except maybe neutral since it's more observational.
+</think>
+
+The speaker's comment evaluates performance without expressing a dominant emotion beyond observation.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "Pretty poor shots mostly. Couple of great saves from [NAME] though." Let me break this down step by step.
+
+First, looking at the sentence structure, it seems like a mixed评价. The first part says "Pretty poor shots mostly," which indicates disappointment or disapproval about something—maybe sports performance? Then they mention "[NAME]" made some "great saves," so there's appreciation there.
+
+I should consider each emotion category: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger usually involves strong displeasure. The speaker is pointing out poor shots but also acknowledging the positives. It doesn't sound angry; more like critique with a positive note.
+
+Disgust would be revulsion towards something unpleasant. The comment isn't expressing repulsion but rather an assessment of performance.
+
+Fear is about being afraid or worried. There's no indication of fear here; it's more about evaluating outcomes.
+
+Joy involves happiness and positive feelings. While the speaker appreciates [NAME]'s saves, the overall tone isn't overly joyful—it's balanced with criticism.
+
+Sadness relates to emotional pain or sorrow. The speaker doesn't seem sad but rather analytical.
+
+Surprise is about astonishment. There's no unexpected element here; it's a straightforward evaluation.
+
+Neutral means lacking emotion. But wait, the comment has both negative and positive elements—does that mean mixed emotions? Or maybe it's just an observational tone without strong feelings?
+
+I think the speaker isn't expressing any single dominant emotion but is providing feedback with both criticism and praise. So maybe the emotion here is neutral because it's a balanced assessment rather than displaying one specific emotion.
+
+Yes, I'll go with neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "Lots of great games today, including #ChampionsLeague.   #Barcelona has not lost at home in the Champions League since 2013. #BarçaLFC USER"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a sports competition and mentions several teams.
+* The tone appears to be positive and celebratory.
+* The author is sharing interesting information about the teams.
+
+Given these points, the emotion label that best fits the intended message of the tweet is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions "great games", which is a positive phrase.
+* The user is referencing specific teams and matches, suggesting they are engaged and interested in the competition.
+* The tone of the tweet appears casual and enthusiastic.
+
+Given these points, the emotion that best fits is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text describes a positive event, mentioning "great games" and referencing a successful team (#Barcelona).
+* The author is expressing enthusiasm for the match.
+* The tone is optimistic.
+
+Given these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+Record: "Hi I'm a Thrashers fan! My family was 33rd to pick tickets in Atlanta in for the '99 inaugural season"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The tone of the comment is casual and enthusiastic, suggesting excitement rather than negativity.
+* The speaker is sharing personal information about their team affiliation and a positive experience with their family.
+* There is no indication of criticism, complaint, or disapproval in the comment.
+
+Given these considerations, the most relevant emotion label for this speaker's sentiment is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions their team affiliation, but there is no mention of conflict or disagreement with others.
+* The tone appears enthusiastic and nostalgic rather than critical or negative.
+
+Given these observations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be sharing a personal experience or piece of information about their life.
+* They mention a specific event (the '99 inaugural season) and a team they support (Thrashers).
+* There is no apparent criticism, complaint, or negative tone in the comment.
+
+Given these points, the most relevant emotion label for this speaker's comment is:
+
+**neutral**
+ 
+The speaker appears to be sharing a neutral piece of information about their life as a Thrashers fan without expressing any strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+

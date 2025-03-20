@@ -1,0 +1,34 @@
+Record: "I just got got and I like it"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a colloquial phrase "got got" which suggests they are referencing a slang term, possibly implying that someone has been deceived or manipulated.
+* The tone of the sentence is casual and playful, with a hint of irony.
+
+Given these considerations, the most relevant emotion label for this comment is **surprise**, as the speaker seems to be expressing amusement or delight at being "got" in some way. The use of the phrase "and I like it" suggests that they are taking pleasure in being tricked or outsmarted, which is a surprising and unexpected reaction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a colloquial expression "got got" which implies being pranked or outsmarted.
+* The speaker's tone is likely lighthearted and playful, as they are acknowledging being tricked and enjoying the experience.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses informal language ("just got" as an expression of being outsmarted or tricked).
+* The phrase "got and I like it" is typically associated with enjoying a sense of triumph, often in a playful or competitive context.
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker appears to be expressing a feeling of pleasure and happiness at being outsmarted or tricked, likely in a lighthearted or humorous context.
+------------------------------------------------------------------------------------------------------------------------
+

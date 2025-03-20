@@ -1,0 +1,36 @@
+Record: "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is lighthearted and playful.
+* The speaker uses a colloquial expression ("lol") indicating humor or amusement.
+* The speaker expresses enthusiasm for their chosen team.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence appears lighthearted and playful.
+* The speaker mentions a specific achievement ("axe toss competition") that they seem to admire or enjoy.
+* There is no mention of conflict, criticism, or negative emotions.
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The phrase "lol" at the end also reinforces this interpretation, suggesting that the speaker is expressing amusement and playfulness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment appears lighthearted and playful.
+* The use of "lol" at the end suggests humor or amusement.
+* The speaker is expressing a positive opinion about [NAME] since his win in the axe toss competition.
+
+Given these considerations, the most relevant emotion label is **joy**, as the speaker's tone and language suggest happiness and excitement about [NAME]'s achievement.
+------------------------------------------------------------------------------------------------------------------------
+

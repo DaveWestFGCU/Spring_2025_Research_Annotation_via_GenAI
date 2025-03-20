@@ -1,0 +1,44 @@
+Record: "We are #champion again. 👏👏👏👏👏👏👏👏   We have the USER   Cup once again.  USER are  CHAMPIONS 2018-2019!  8 leagues in 11 years.  Final score 1-0 USER scores in the 62nd minute. #barcelona #laliga https://t.co/88Aw8q69BC"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is celebrating a championship win
+* The tone is enthusiastic and congratulatory
+* The language used is positive, with words like "champion" and "congratulations"
+* The use of emojis (👏) adds to the celebratory atmosphere
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+This is because the tweet is clearly expressing happiness and excitement about the championship win.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is about a football team winning a championship.
+* The author uses enthusiastic language, such as "We are #champion again" and multiple clapping hands emojis (👏).
+* The text also mentions specific achievements, like winning the USER Cup for the 8th time in 11 years.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's tone suggests excitement, pride, and celebration, which are all characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is announcing a championship win.
+* The tone of the language is celebratory, with multiple emphatic statements and enthusiastic emojis (👏).
+* The use of "we" suggests a sense of shared pride and accomplishment.
+
+**joy**
+
+Note: The author's intention is likely to convey excitement and happiness about their team winning a championship title.
+------------------------------------------------------------------------------------------------------------------------
+

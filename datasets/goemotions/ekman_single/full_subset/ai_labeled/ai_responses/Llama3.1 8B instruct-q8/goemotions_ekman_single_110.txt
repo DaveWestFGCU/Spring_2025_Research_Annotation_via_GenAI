@@ -1,0 +1,43 @@
+Record: "That's great! You got this!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses an exclamation mark at the end of their sentence, which is often associated with strong emotions.
+* The speaker says "That's great!", which suggests that they are expressing a positive opinion or sentiment.
+* The tone of the comment is uplifting and encouraging.
+
+Most relevant emotion label: **joy**
+The speaker's use of an exclamation mark and their expression of approval ("That's great!") suggest that they are feeling joy or happiness in response to whatever was said or posted.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider for the given text:
+
+* The tone of the comment is positive and encouraging.
+* The language used is enthusiastic and celebratory, with the phrase "great" and "You got this!" conveying a sense of optimism and support.
+* There is no criticism or negative sentiment expressed in the comment.
+
+Based on these points, the most relevant emotion label for the speaker's response is:
+
+**joy**
+
+The tone and language used by the speaker suggest that they are feeling joy and excitement about the situation being referred to. The enthusiasm and encouragement convey a positive emotional state, consistent with the definition of joy as a feeling of pleasure and happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the sentence is positive and encouraging.
+* The language used is uplifting and supportive.
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+
+Given these observations, the most relevant emotion label for this comment is:
+
+**joy**
+
+The speaker's words convey a sense of excitement and approval, which are key components of the joy emotion category.
+------------------------------------------------------------------------------------------------------------------------
+

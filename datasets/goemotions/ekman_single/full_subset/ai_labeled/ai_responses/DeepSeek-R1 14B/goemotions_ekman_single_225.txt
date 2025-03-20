@@ -1,0 +1,76 @@
+Record: "I know from personal experience that that can be the end of any good relationship."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The sentence is: "I know from personal experience that that can be the end of any good relationship." 
+
+Let me break this down. First, the speaker is talking about personal experience, which suggests they're sharing something that's happened to them. They mention that something (presumably discussed in a post or another comment) can lead to the end of a good relationship. 
+
+The emotion categories are anger, disgust, fear, joy, sadness, surprise, and neutral. I need to choose the most relevant one.
+
+Looking at the definitions:
+
+- Anger: Strong displeasure or antagonism.
+- Disgust: Revulsion towards something unpleasant.
+- Fear: Feeling afraid or worried.
+- Joy: Pleasure or happiness.
+- Sadness: Emotional pain or sorrow.
+- Surprise: Astonishment or realization.
+- Neutral: No emotion.
+
+The sentence expresses knowledge about the negative outcome of a relationship. The speaker is sharing a personal experience that resulted in the end of a good relationship. This sounds like it's related to loss, which is often associated with sadness. They might be feeling sad because they've gone through something similar and understand the potential negative consequences.
+
+I don't see signs of anger or disgust; there's no strong disapproval expressed. Fear isn't indicated either since they're not expressing worry about future events but rather sharing past experience. Joy and surprise are unlikely as the context is negative, and neutral is when no emotion is present, which isn't the case here.
+
+So, sadness seems to fit because they're talking about the end of a good relationship, implying emotional pain or sorrow.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "I know from personal experience that that can be the end of any good relationship." 
+
+First, let me break this down. The speaker is talking about an experience they've had personally where something ended a good relationship. The word "end" here could imply that something negative happened, leading to the termination of a positive relationship.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one.
+
+Anger often involves expressions like dislike or annoyance. The speaker isn't necessarily expressing anger here; it's more about an outcome they've experienced.
+
+Disgust is usually about something unpleasant causing revulsion. This comment doesn't seem disgusted but rather reflective of past events.
+
+Fear involves worry or anxiety, but the statement doesn't indicate fear; it's a recounting of past outcomes.
+
+Joy is about happiness, which isn't present here. The speaker is talking about ending a good relationship, which sounds negative.
+
+Sadness is about emotional pain or sorrow. Ending a good relationship implies that there was loss involved, so sadness might fit because the speaker is recalling something that led to the end of a positive relationship.
+
+Surprise is about astonishment or unexpected events. The comment isn't expressing surprise but rather stating a known outcome from experience.
+
+Neutral would be if there were no emotion, but since they're talking about ending relationships, it's likely not neutral.
+
+So putting it all together, the emotion that best fits this statement is sadness because the speaker is reflecting on an experience that resulted in losing something positive—a good relationship. This suggests they might feel sorrow or disappointment.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion the speaker is feeling based on their comment. The comment is, "I know from personal experience that that can be the end of any good relationship." 
+
+First, let me break down the sentence. The speaker is talking about personal experience regarding something ending a good relationship. It sounds like they're sharing a piece of advice or a realization they've had. They're not expressing strong positive or negative emotions; instead, it's more of a statement based on their own knowledge.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I don't detect any signs of anger or frustration here. There's no expression of dislike or irritation, so probably not anger or disgust. The speaker isn't expressing fear or anxiety about a situation; they're stating a fact from their experience.
+
+Joy would involve happiness or approval, but the comment doesn't convey that. Instead, it seems more reflective and serious. Sadness might come into play if they were expressing grief or disappointment, but again, the tone here is matter-of-fact rather than emotional.
+
+Surprise usually involves astonishment or realization, but the statement isn't unexpected; it's a personal observation. Neutral, on the other hand, fits because the speaker is simply sharing information without displaying any strong emotion. They're informative and detached in their delivery.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,45 @@
+Record: "The #NotreDameCathedralFire is tragic. It obviously should be rebuilt but surely it was insured? Perhaps all those wealthy donors pledging money towards it, should instead set up a fund to help the victims of the Catholic paedophile network. They need rebuilding too."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author describes the fire as "tragic", indicating a negative emotional tone.
+* The author mentions that the cathedral should be rebuilt and implies that wealthy donors who pledged money for its reconstruction could instead support victims of a Catholic paedophile network, suggesting a sense of moral outrage or frustration.
+* There is no indication of fear, joy, surprise, or disgust in the text.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The author's tone is mournful and critical, focusing on the tragedy of the event rather than expressing anger, disgust, fear, joy, or surprise. The criticism directed towards wealthy donors who pledged money for the cathedral's reconstruction suggests a sense of sadness and frustration that the resources could be better used to support victims of abuse.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author describes the Notre-Dame Cathedral fire as "tragic", indicating a negative emotional tone.
+* The author suggests that wealthy donors who pledged money for the cathedral's rebuilding should instead help victims of a Catholic paedophile network, implying criticism and dissatisfaction with how resources are being allocated.
+* There is no apparent language or tone that suggests excitement, happiness, fear, anger, or surprise in relation to the fire.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+The author's description of the situation as "tragic" and their focus on the negative consequences of the fire suggest a somber and sorrowful emotional tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions the fire as "tragic", indicating a negative tone.
+* The author questions whether the cathedral was insured and criticizes wealthy donors for not focusing on helping victims of a related issue (Catholic paedophile network).
+* There is no expression of concern or alarm about the immediate consequences of the fire.
+
+Given these points, the most relevant emotion label is:
+ 
+**sadness**
+
+This classification is based on the author's lamentation of the tragic event and their focus on the negative consequences for others.
+------------------------------------------------------------------------------------------------------------------------
+

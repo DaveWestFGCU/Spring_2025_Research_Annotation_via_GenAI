@@ -1,0 +1,30 @@
+Record: "Please go to urgent care and get some antibiotics if you have not already. UTIs can become serious if they go untreated."
+o3-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points:
+• The comment offers practical, medically oriented advice.
+• The tone is factual and instructive rather than emotionally charged.
+• There is no strong display of emotion such as anger, fear, or joy.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+• The speaker is providing advice regarding medical treatment, specifically urging the listener to visit urgent care.
+• The comment is factual and informative, warning about the potential seriousness of untreated UTIs.
+• There isn’t any personal expression of strong negative or positive emotions; the tone remains helpful and pragmatic.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+• The comment is primarily informative and instructive, offering straightforward health advice.
+• The tone is factual and neutral, without obvious emotional charge despite the cautionary nature of the advice.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

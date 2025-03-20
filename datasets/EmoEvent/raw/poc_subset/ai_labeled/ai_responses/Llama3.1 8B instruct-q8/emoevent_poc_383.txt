@@ -1,0 +1,39 @@
+Record: "I don’t have a problem with diversity, I just wish it wasn’t so **obvious**"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a sentiment about diversity being "obvious", which could imply that they find this quality off-putting or unpleasant.
+* There is no mention of a negative experience or event related to diversity, but rather a general statement of preference.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions they don't have a problem with diversity, which suggests they are not entirely opposed to the concept.
+* They express a desire for diversity to be less "obvious", implying that they find its current visibility off-putting or unpleasant.
+* There is no indication of aggression, fear, or sadness in their statement.
+
+Based on these points, it appears that the author's tone is one of distaste or displeasure with the way diversity is being presented. 
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author expresses a preference for diversity not being noticeable.
+* The use of the word "obvious" implies that the author finds current levels of diversity to be too prominent or in-your-face.
+* There is no indication of strong negative emotions like anger, disgust, fear, or sadness.
+
+Based on these points, the most relevant emotion label is:
+
+**disgust**
+ 
+This classification suggests that the author finds current displays of diversity to be distasteful or off-putting, which aligns with the disgust category.
+------------------------------------------------------------------------------------------------------------------------
+

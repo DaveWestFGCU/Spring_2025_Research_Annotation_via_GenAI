@@ -1,0 +1,78 @@
+Record: "The comment thread is a hot mess and wouldnt be out of place in 2016. How do things not change...."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure this out. The user has given me a task where I need to identify the emotion someone might be feeling based on their comment. They provided specific categories like anger, disgust, fear, joy, sadness, surprise, and neutral.
+
+The speaker's comment is: "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...." 
+
+First, I should break down the sentence. "Hot mess" suggests chaos or disorder. The mention of it being similar to 2016 implies that nothing has changed over time. The user is expressing disappointment because they expected some improvement but didn't see any.
+
+Looking at the emotion categories, I need to match these feelings. Anger involves strong displeasure, which this seems close to. The speaker isn't just stating a fact; they're reacting with frustration. Disgust would involve revulsion, which might not fit as well here. Fear is about being afraid or worried, but there's no indication of fear in the comment. Joy and surprise are clearly out of place. Sadness could be possible if it's about disappointment, but anger feels more fitting because they're expressing irritation at the lack of change.
+
+So, putting it all together, I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, I'll look at the content of the comment. They're talking about a comment thread being a "hot mess," which suggests it's chaotic or messy. Then they compare it to something from 2016, implying that things haven't changed and are still as bad. The tone seems critical or disapproving.
+
+Now, let's consider each emotion category:
+
+- Anger: This usually involves strong displeasure or antagonism. The comment is more about frustration with a lack of change rather than direct anger.
+- Disgust: This is revulsion or strong disapproval. The speaker is clearly expressing dislike for the state of the thread and that things haven't improved, which could fit.
+- Fear: There's no indication of fear or worry in the comment; it's more about frustration.
+- Joy: Clearly not applicable here as there's no positive emotion.
+- Sadness: This involves sorrow or disappointment. While the speaker is disappointed that things haven't changed, disgust might be a better fit because they're expressing strong disapproval.
+- Surprise: There's nothing surprising mentioned.
+- Neutral: Not applicable since emotions are present.
+
+So, between anger and disgust, I think disgust fits better because it's about strong disapproval of something unpleasant (the messy comment thread). The speaker is frustrated that things haven't changed, showing revulsion towards the situation.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out which emotion this comment is conveying. The speaker says, "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...." 
+
+First, the phrase "hot mess" suggests that the speaker is expressing frustration or disappointment with how chaotic the situation is. They're comparing it to 2016, which might imply that they expected some improvement over time but haven't seen any. The rhetorical question at the end, "How do things not change....", indicates a sense of bewilderment or astonishment.
+
+Looking at the emotion categories, I need to decide between possible options like anger, sadness, surprise, etc. While frustration is present, which could relate to anger, the speaker isn't explicitly expressing irritation or hostility. Instead, they seem more surprised that there's no change, highlighting an element of surprise rather than pure anger.
+
+Disgust doesn't quite fit because there's no explicit revulsion mentioned. Fear isn't indicated either; the comment doesn't express worry or anxiety. Joy and neutral are clearly not applicable here. Sadness might be a possibility due to disappointment, but the emphasis on the lack of change leans more towards surprise.
+
+So, considering all this, the emotion that best fits is surprise because the speaker is reacting to something unexpected—namely, the persistence of a messy situation without any improvement over time.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment is: "The comment thread is a hot mess and wouldn't be out of place in 2016. How do things not change...." 
+
+First, let's break down the words used. They mention that the comment thread is a "hot mess." That phrase usually conveys frustration or anger because something isn't as it should be. Then they compare it to 2016, which was known for some chaotic events, especially around politics and social media discussions. The speaker seems surprised or disappointed that things haven't changed since then.
+
+The next part is "How do things not change...." This question expresses bewilderment or frustration about the lack of progress. It's more than just a neutral observation; it shows an emotional response to the situation.
+
+Looking at the emotion categories, I have to choose from anger, disgust, fear, joy, sadness, surprise, or neutral. The speaker isn't expressing happiness (joy) or fear. They're not showing disgust towards something offensive but rather frustration about stagnation. Surprise could be a possibility because they seem taken aback by how things haven't changed, but the overall tone leans more towards anger or frustration.
+
+Anger is often tied to strong feelings of displeasure, which fits here since the speaker is clearly annoyed that the comment thread hasn't improved and remains chaotic. Disgust usually involves something revolting, but here it's about a lack of change, not necessarily finding it repulsive.
+
+Sadness might come into play if there was a sense of loss or disappointment, but the frustration seems more prominent. Surprise is possible because of the unexpected stagnation, but I think anger is the primary emotion here because they're expressing irritation and disapproval.
+
+So, putting it all together, the speaker is feeling frustrated and annoyed, which falls under anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

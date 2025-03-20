@@ -1,0 +1,39 @@
+Record: "Can't wait till the home game in March... And a portland okc playoff series would be "lit af" "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions an upcoming event (home game in March)
+* They use colloquial language and slang ("Can't wait", "lit af")
+* The tone appears to be enthusiastic and anticipatory
+
+Given these points, the most relevant emotion label is **joy**, as the speaker's language and tone suggest excitement and pleasure about a future event.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses enthusiastic language, indicating excitement and eagerness.
+* The phrase "Can't wait" suggests anticipation and pleasure.
+* The use of colloquial expressions like "lit af" implies a sense of fun and energy.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's tone and language convey enthusiasm and excitement, which are characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The speaker uses enthusiastic language, such as "Can't wait" and "would be 'lit af'" which suggests excitement.
+* The context is a sports event, specifically a home game in March, indicating anticipation and enthusiasm for the team's performance.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The speaker's use of excited language and anticipation for an upcoming sporting event aligns with the characteristics of joy.
+------------------------------------------------------------------------------------------------------------------------
+

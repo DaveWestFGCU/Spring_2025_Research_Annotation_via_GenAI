@@ -1,0 +1,60 @@
+Record: "No seriously, why do you have the Daily Mail app on your phone?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to classify this tweet's emotion. The tweet is: "No seriously, why do you have the Daily Mail app on your phone?" 
+
+First, let me break down the content. The person is asking about the Daily Mail app being on someone's phone. The use of "No seriously" suggests they're surprised or maybe a bit shocked that the app is there.
+
+The Daily Mail is known for its sensationalist and sometimes controversial news coverage. So if someone has it on their phone, the speaker might find it surprising or unexpected, especially if they don't align with the publication's tone. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The question seems to express surprise rather than any negative emotion like anger or disgust. There's no indication of fear, joy isn't really applicable here, nor is sadness.
+
+So the emotion conveyed is likely **surprise** because the speaker is taken aback by the presence of the app.
+</think>
+
+The tweet expresses surprise at the presence of the Daily Mail app on someone's phone.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet: "No seriously, why do you have the Daily Mail app on your phone?" The emotions I can choose from are anger, disgust, fear, joy, sadness, or surprise. Let me break it down step by step.
+
+First, looking at the tweet, the user is asking someone why they have the Daily Mail app on their phone. The use of "No seriously" suggests that this might be a follow-up to something previous, maybe the person was already questioning or making fun of having such an app. 
+
+I know that the Daily Mail is often criticized for sensationalist news and sometimes controversial content. So if someone has it on their phone, others might find it surprising or unbelievable. The speaker seems shocked or surprised by this choice.
+
+Now, considering the emotion categories: anger would imply frustration or irritation, but I don't think that's the main feeling here. Disgust could relate to disliking something, but again, surprise seems more fitting because of the incredulous tone. Fear doesn't seem applicable, nor does joy or sadness. 
+
+So putting it all together, the emotion is most likely surprise because the speaker is expressing disbelief about someone having the Daily Mail app.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's break down how I approached classifying this tweet's emotion.
+
+First, the tweet is: "No seriously, why do you have the Daily Mail app on your phone?" 
+
+I started by looking at the content. The user is questioning someone about having the Daily Mail app, which often has controversial or sensationalist content. 
+
+The phrase "No seriously" indicates that the speaker might be reacting to something unexpected or perhaps the other person had already mentioned it in a previous context. This could imply surprise because maybe the presence of the app wasn't anticipated.
+
+I considered the emotion categories: anger, disgust, fear, joy, sadness, surprise. I ruled out anger because there's no overtly aggressive language here. Disgust might come into play if the Daily Mail is seen as negative, but the main reaction seems more about unexpectedness rather than dislike.
+
+Fear and anxiety weren't present either; there’s no indication of danger or worry. Sadness wasn’t applicable since the tweet doesn’t convey any grief or pensiveness.
+
+That leaves surprise and joy. The tone suggests curiosity or disbelief, which fits under surprise. Joy usually involves positive emotions, so it didn't seem to fit here.
+
+So, weighing all these factors, I concluded that the emotion conveyed is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

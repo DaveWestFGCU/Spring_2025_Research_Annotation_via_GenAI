@@ -1,0 +1,40 @@
+Record: "i met the only girl on the planet who can deal with my headass and still look at me and tell me she loves my anyway"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a positive sentiment about someone they've met.
+* They're acknowledging their own flaws, using colloquial language ("headass"), but frame it as something that's endearing rather than off-putting.
+* The tone suggests affection and appreciation for this person.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing appreciation for someone's ability to tolerate their flaws.
+* The tone is affectionate and positive, indicating a strong connection between the speaker and the person they're addressing.
+* The use of colloquial language ("headass") suggests a lighthearted and informal tone.
+
+**joy**
+
+The emotion label "joy" is most relevant because the author's tone is overwhelmingly positive and celebratory. They're expressing gratitude for finding someone who can accept them unconditionally, which suggests a feeling of happiness and elation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a positive sentiment towards the person they met.
+* They are acknowledging their own flaws (referred to as "headass") but emphasizing that this person accepts them unconditionally.
+* The tone appears enthusiastic and affectionate.
+
+**joy**
+
+Note: This tweet suggests a strong feeling of happiness, elation, or euphoria due to finding someone who loves and accepts the author for who they are.
+------------------------------------------------------------------------------------------------------------------------
+

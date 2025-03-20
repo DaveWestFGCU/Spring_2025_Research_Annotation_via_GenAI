@@ -1,0 +1,35 @@
+Record: "I wouldn't be surprised if the Cheetos dust was coming out of his sweat."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a statement that implies something unusual or unexpected about someone.
+* The tone is informal and humorous, with a touch of sarcasm.
+* The speaker seems to be poking fun at or making light of the situation.
+
+Given these points, the most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains a phrase suggesting something unusual or unexpected ("I wouldn't be surprised")
+* The phrase also implies a sense of disgust or revulsion towards someone's sweaty condition
+* The tone is somewhat sarcastic and observational, rather than strongly negative
+
+Given these considerations, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The author is expressing a hypothetical scenario, using the phrase "I wouldn't be surprised".
+- The content of the tweet implies that the person being referred to has a lot of Cheetos dust on them.
+- There's no indication of strong negative emotions like anger or disgust.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

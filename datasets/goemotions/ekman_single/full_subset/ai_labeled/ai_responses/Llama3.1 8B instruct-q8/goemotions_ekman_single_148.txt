@@ -1,0 +1,45 @@
+Record: "Them or me? I like to catch up on it in the afternoon and drinking helped with the last few."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is responding to a question ("Them or me?")
+* They mention catching up on something, but don't specify what
+* They mention drinking as a way to cope with the task, implying that it may be challenging or unpleasant
+* The tone of the comment seems casual and matter-of-fact
+
+Given these points, the speaker's response appears to convey a sense of resignation or acceptance, rather than any strong emotion. However, the fact that they mention drinking as a way to cope suggests that they may be experiencing some level of discomfort or stress related to the task.
+
+**neutral**
+
+The reason I've chosen neutral is that the speaker doesn't express any overt emotion in their response. They don't seem angry, disgusted, fearful, joyful, sad, or surprised. Instead, they offer a practical solution (drinking) to help cope with the challenge at hand, without expressing any strong feelings about it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is discussing whether they watch TV show "Them" alone or not, but that's not the main point.
+* The speaker mentions catching up on the show in the afternoon and using drinking as a coping mechanism for the last few episodes.
+* There's no apparent criticism, complaint, or strong emotion expressed.
+
+Given these points, the speaker seems to be expressing a relatively calm and matter-of-fact statement about their viewing habits. They're not showing any strong emotions like anger, disgust, fear, joy, sadness, or surprise. Therefore:
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions "drinking" as something that helped them cope with stress.
+* They mention catching up on a show in the afternoon, suggesting they may be looking forward to this time of day.
+* There is no explicit criticism or complaint about someone or something.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+ 
+The speaker's tone appears to be matter-of-fact and casual, without any indication of strong emotions such as anger, disgust, fear, joy, sadness, or surprise. They are simply stating their preference for watching a show in the afternoon while drinking, which suggests a neutral emotional state.
+------------------------------------------------------------------------------------------------------------------------
+

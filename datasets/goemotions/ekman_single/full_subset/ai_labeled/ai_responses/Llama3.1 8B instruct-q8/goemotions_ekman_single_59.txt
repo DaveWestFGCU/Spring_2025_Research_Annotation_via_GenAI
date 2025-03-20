@@ -1,0 +1,45 @@
+Record: "I do not see how that is disgusting. She's cleaning her self and had a discharge, so what? "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is reacting to someone else's claim that something is "disgusting".
+* They explicitly state that they do not see why it would be considered disgusting.
+* They provide a justification for their opinion by explaining the context of the situation (someone cleaning themselves and having a discharge).
+
+Given these points, the speaker appears to be defending or disagreeing with someone else's opinion, which suggests a sense of frustration or disagreement.
+
+**anger**
+
+This label is chosen because the speaker seems to be responding strongly to another person's claim, using words like "I do not see how" and implying that they think the other person is being unreasonable. The tone comes across as defensive and argumentative, which are hallmarks of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to something they find disagreeable or unexpected.
+* They are expressing disagreement with the original poster (OP) or another commenter.
+* The speaker seems to be defending someone (the person cleaning themselves).
+* The tone appears to be matter-of-fact and explanatory.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+
+The reason for this classification is that the OP or other commenter found something disgusting, but the speaker disagrees with this assessment. The speaker's response is not necessarily joyful, sad, angry, fearful, or neutral; rather, it appears to be a reaction against a negative opinion or value judgment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to something they perceive as disgusting
+* They are defending someone or something against a perceived judgment
+* Their tone is assertive and corrective
+
+Given these points, the most relevant emotion label is **disgust**. However, considering that the speaker is reacting against a perceived judgment of disgust, it's possible that their underlying emotion is actually a response to another person's emotional expression, rather than a direct expression of disgust themselves.
+
+However, since the primary function of the comment appears to be pushing back against a judgment of disgust, I would argue that **disgust** is still the most relevant emotion label.
+------------------------------------------------------------------------------------------------------------------------
+

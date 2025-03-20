@@ -1,0 +1,41 @@
+Record: "#SpainElection  The Left trounces the Right. Well done Spain https://t.co/MBSnwSfiSH"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about the outcome of an election in Spain.
+* The language used is celebratory and positive, with the phrase "Well done Spain".
+* There is no indication of negative emotions or critical tone.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's tone suggests a sense of happiness and satisfaction with the outcome of the election.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is about a election outcome.
+* The tone of the tweet seems celebratory and positive.
+* The phrase "Well done Spain" suggests approval.
+
+Given these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a clear outcome of an election ("The Left trounces the Right").
+* The tone is positive, as indicated by "Well done Spain".
+* There are no negative or critical words.
+
+Given these considerations, the most relevant emotion label is:
+**joy**
+
+This is because the tweet expresses approval and congratulations towards Spain for the election result, which suggests a sense of happiness and satisfaction.
+------------------------------------------------------------------------------------------------------------------------
+

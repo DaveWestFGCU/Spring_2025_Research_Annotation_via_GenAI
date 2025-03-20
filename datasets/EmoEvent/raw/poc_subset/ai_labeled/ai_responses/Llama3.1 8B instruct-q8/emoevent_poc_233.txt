@@ -1,0 +1,33 @@
+Record: "Really? I only remember the one in the movie (which did kinda weird me out)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The author is referring to an event or situation from a movie.
+- They mention that it "kinda weirded them out," indicating a negative reaction.
+
+**surprise**
+ 
+The author's use of surprise is indicated by the phrase "Really?" which implies a sense of astonishment or incredulity. The tone seems more amused than alarmed, suggesting surprise rather than fear or disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is making a comparison between their memory and what they know from a movie.
+* They mention that the movie "did kinda weird me out", which suggests a negative emotional response.
+
+Given these points, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is referencing a specific event or scene from a movie.
+* They use the word "weird" which implies a sense of unease or discomfort.
+* The tone is casual and conversational, but also slightly hesitant.
+
+Given these points, I would classify the tweet as **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

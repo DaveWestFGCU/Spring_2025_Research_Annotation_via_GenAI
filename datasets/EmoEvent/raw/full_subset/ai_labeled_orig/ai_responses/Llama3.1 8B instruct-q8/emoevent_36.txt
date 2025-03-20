@@ -1,0 +1,45 @@
+Record: "Alright this isn’t fair tell him to stop cheating. Idk how he’s cheating but he’s cheating. USER #BARLIV #messi #UCL #Championsleague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing a strong sentiment towards an individual, referred to as "him", who is accused of cheating.
+* The use of phrases such as "this isn't fair" and "tell him to stop cheating" indicate a sense of injustice or wrongdoing.
+* The author's tone is confrontational and accusatory.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+This classification is based on the author's clear expression of frustration and accusation towards another player, which are key characteristics of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is addressing someone or something, implying a sense of injustice.
+* The use of the phrase "it's not fair" and "cheating" suggests that the author feels wronged in some way.
+* The tone is assertive and direct, indicating a strong emotion.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author appears to be frustrated and upset about the situation, which aligns with the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a strong reaction to a situation, indicating that they feel strongly about the issue at hand.
+* The language used, such as "this isn't fair" and "tell him to stop cheating", suggests a sense of injustice or wrongdoing.
+* The use of phrases like "Idk how he's cheating but he's cheating" implies a sense of frustration and confusion.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+The author appears to be annoyed and frustrated by the situation, which is a key component of anger.
+------------------------------------------------------------------------------------------------------------------------
+

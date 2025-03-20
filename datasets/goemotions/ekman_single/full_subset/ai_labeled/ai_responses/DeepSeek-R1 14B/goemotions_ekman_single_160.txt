@@ -1,0 +1,68 @@
+Record: "He really do be like that."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "He really do be like that." Let me break this down.
+
+First, I'll consider each emotion category and see which one fits best.
+
+1. **Anger**: This involves strong displeasure or antagonism. If someone was angry, they might use harsh words or express frustration. But the speaker here seems more observational rather than angry.
+
+2. **Disgust**: This is about revulsion or strong disapproval. The comment doesn't indicate any disgust; it's more neutral in tone.
+
+3. **Fear**: Fear involves being afraid or worried. There's no indication of fear in this statement.
+
+4. **Joy**: Joy includes happiness and positive emotions. The speaker isn't expressing excitement or pleasure here, so probably not joy.
+
+5. **Sadness**: This is about emotional pain or sorrow. Again, the comment doesn't show any signs of sadness; it's more matter-of-fact.
+
+6. **Surprise**: Surprise involves being astonished or startled by something unexpected. The speaker seems to be acknowledging a behavior without expressing surprise.
+
+7. **Neutral**: If none of the other emotions fit, neutral is the category for lacking expressed emotion. The comment "He really do be like that" sounds more like an observation without any strong emotion attached.
+
+So, considering all this, the speaker doesn't seem to express any specific emotion like anger, joy, or surprise. It's a statement that accepts or points out someone's behavior in a neutral way. Therefore, the most fitting emotion here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm trying to figure out what emotion someone might be feeling when they say, "He really do be like that." First, let me break down the sentence. The structure is a bit informal and conversational, which makes sense for Reddit comments where people often use casual language.
+
+The phrase "He really do be like that" seems to be expressing an observation about someone's behavior or habits. It doesn't explicitly convey strong emotions like anger, fear, or joy. Instead, it sounds more like a acknowledgment of something the person does consistently.
+
+Looking at the emotion categories: anger would involve strong displeasure, which I don't see here. Disgust is usually about revulsion, and that's not indicated either. Fear would imply worry or anxiety, but the statement doesn't suggest any fear. Joy would be happiness or pleasure, which isn't clearly present. Sadness involves sorrow or disappointment, again, nothing in the sentence points to that.
+
+Surprise is about being astonished or surprised by something unexpected, but this seems more like a statement rather than a reaction to something new. Neutral, on the other hand, fits because it's a matter-of-fact observation without any overt emotion.
+
+I think the speaker is just pointing out a behavior without expressing strong feelings, so the emotion here should be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "He really do be like that." First, I should consider what this sentence means and the context in which it's used.
+
+The phrase "He really do be like that" is a casual way of saying someone consistently behaves in a certain manner that the speaker has observed before. It doesn't express strong positive or negative emotions, but rather a statement of fact or acknowledgment about someone's behavior.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that best fits this comment.
+
+- Anger: The sentence doesn't show any signs of irritation or displeasure.
+- Disgust: There's no indication of revulsion or disapproval here.
+- Fear: No feelings of worry or anxiety are expressed.
+- Joy: The comment isn't expressing happiness or excitement.
+- Sadness: There's no sorrow or disappointment conveyed.
+- Surprise: It doesn't seem to be an astonishment or unexpected revelation.
+- Neutral: This fits because the speaker is simply stating a fact without any emotional charge.
+
+So, I think "neutral" is the most appropriate emotion here. The speaker isn't expressing any strong emotion but is making an observational statement.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

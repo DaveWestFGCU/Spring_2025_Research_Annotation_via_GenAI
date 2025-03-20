@@ -1,0 +1,43 @@
+Record: "Only the fools would call Saigon the Pear of the Orient, haha. Stop sleeping on the past too much. And stop betraying your country"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses sarcasm and mocking tone towards those who call Saigon the "Pear of the Orient", implying that they are foolish.
+* The speaker criticizes others for being oblivious to history ("Stop sleeping on the past too much").
+* The speaker accuses others of betraying their country.
+
+Given these points, it appears that the speaker is expressing a strong negative emotion towards those they are criticizing. This suggests that the emotion label should be one that reflects a strong sense of displeasure or antagonism.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone is critical and dismissive.
+* The speaker uses sarcasm ("haha") to express contempt.
+* The language is harsh and confrontational ("fools", "betraying your country").
+* The comment appears to be a response to someone who has made a comment that the speaker disagrees with.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of strong language and sarcasm suggests a sense of indignation and frustration, which are key components of anger. While there may also be elements of disgust or sadness in the speaker's tone, the dominant emotion appears to be anger towards what they perceive as a mistake or betrayal.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is criticizing someone's description of Saigon as the "Pear of the Orient".
+* The speaker uses a dismissive tone with the phrase "Only the fools would call...".
+* The speaker also expresses a sense of betrayal and criticism towards the person they are addressing, using the phrase "stop betraying your country".
+
+Given these points, it appears that the speaker is expressing disapproval and strong feeling of displeasure or antagonism. 
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,20 @@
+Record: "Rule number 1......If the U.S government say its right then it is most definately WRONG #Venezuela"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet. The tweet says, "Rule number 1......If the U.S government say its right then it is most definately WRONG #Venezuela." 
+
+First, let's break down the content. The user is talking about a rule where if the US government says something is right, they consider it wrong. This seems to be a reaction against the US government's stance on Venezuela's situation.
+
+The context given mentions that there's been a crisis in Venezuela regarding who is the legitimate president since January 10th, 2019. The nation and the world are divided between supporting Nicolas Maduro or Juan Guaido. So, this tweet is likely expressing an opinion about the US government's position on this issue.
+
+The emotion here seems to be frustration or opposition towards the US stance. Words like "definately WRONG" indicate strong disagreement. This could fall under anger because it shows irritation or resentment towards the US government's decision.
+
+Looking at the mapping guidelines, if the tweet conveys a secondary emotion similar to annoyance or rage, we classify it as anger. In this case, the user is expressing strong opposition and frustration, which aligns with anger.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

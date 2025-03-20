@@ -1,0 +1,42 @@
+Record: "Could you imagine the outrage if Canada rescued one of our citizens from the Saudi courts"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is making a comparative statement about how people might react to a hypothetical scenario.
+* The tone seems to be critical and disapproving, suggesting that the speaker thinks something is not being done or considered properly.
+* The phrase "outrage" implies that the speaker believes there should be strong emotional response, which could indicate their own emotional state.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+The speaker's comment suggests a sense of indignation and disapproval, which are key components of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is commenting on a hypothetical situation involving outrage.
+* The speaker is contrasting Canada with an unspecified "our" in relation to being rescued, implying some distinction or difference between the two.
+* The tone is sarcastic and rhetorical, inviting the reader to imagine a scenario that is unlikely to occur.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+This is because the speaker is trying to elicit surprise from the reader by asking them to consider the hypothetical outrage of Canada rescuing one of their citizens. The tone and language used suggest that the speaker expects the outcome of such an event to be unlikely or unprecedented, which aligns with the emotion category of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is expressing a rhetorical question, implying that they believe there will be significant backlash or anger if Canada rescues an American citizen.
+* The phrase "outrage" suggests strong negative emotions.
+* The comparison between Canada and the United States implies a sense of indignation or frustration.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

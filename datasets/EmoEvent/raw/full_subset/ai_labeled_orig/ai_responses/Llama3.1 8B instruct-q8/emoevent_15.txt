@@ -1,0 +1,44 @@
+Record: "#NotreDameCathedralFire the people that are saying that Notre Dame is “just a building”, are heartless. i pray you realize the bigger picture here."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a tragic event (the fire at Notre-Dame Cathedral).
+* The author expresses outrage towards people who downplay the significance of the cathedral.
+* The tone is critical and disapproving.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The author's use of phrases like "heartless" and "bigger picture" indicates a strong sense of indignation and frustration, which aligns with anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses disapproval towards people who think Notre Dame is "just a building", implying they have a negative opinion of those individuals.
+* The word "heartless" suggests that the author views these people as lacking empathy or compassion.
+* The phrase "the bigger picture here" implies that the author wants to shift attention away from the superficial view that Notre Dame is just a physical structure, and towards its cultural, historical, or spiritual significance.
+
+Based on this analysis, the most relevant emotion label is:
+
+**sadness**
+
+The author's tweet conveys sadness due to the destruction of a significant cultural and historical landmark, as well as disappointment and frustration towards people who fail to appreciate its importance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is responding to comments from others who downplay the significance of the fire.
+* The author uses strong language, calling them "heartless", indicating a negative emotional tone.
+* The author expresses concern and empathy for Notre Dame's cultural significance, implying a sense of loss or distress.
+
+**sadness**
+ 
+The author's use of prayer and emphasis on the "bigger picture" suggests they are mourning the potential loss of a historic landmark.
+------------------------------------------------------------------------------------------------------------------------
+

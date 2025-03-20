@@ -1,0 +1,53 @@
+Record: "Alright this isn’t fair tell him to stop cheating. Idk how he’s cheating but he’s cheating. USER #BARLIV #messi #UCL #Championsleague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, let's try to figure out the emotion in this tweet. The user is saying something like, "This isn't fair, tell him to stop cheating." They mention not knowing exactly how he's cheating but that he is. There are hashtags related to soccer, like BARLIV, Messi, UCL, and Champions League.
+
+So, first, I need to understand the context. The UEFA Champions League (UCL) is a big European football competition, so maybe this tweet is about a game or something happening in it. The mention of cheating suggests there's some kind of wrongdoing in the game, perhaps related to a match-fixing scandal? Because hashtags like BARLIV might be referring to that—Barcelona and Real Madrid are two major clubs, and I think there was an investigation into match-fixing involving those teams around 2013.
+
+The user is expressing frustration because they feel it's unfair that cheating is happening. They're demanding action against the person cheating but don't have all the details on how exactly it's being done. So, looking at the emotions: anger is about feeling annoyed or upset. Disgust could be about disliking something. Fear might involve worry, but here the emotion seems more direct.
+
+The language used—calling it unfair and telling someone to stop cheating—is strong and shows irritation or frustration. They're not just stating a fact; they're expressing their feelings about the situation. So, I think this is anger because of the unfairness and the demand for action.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify the emotion in this tweet: "Alright this isn’t fair tell him to stop cheating. Idk how he’s cheating but he’s cheating. USER #BARLIV #messi #UCL #Championsleague". The options are anger, disgust, fear, joy, sadness, surprise.
+
+Let me break it down. The user is saying that something isn't fair and tells someone else to stop cheating. They mention not knowing how the cheating is happening but assert that it's occurring. This kind of language—accusing someone of cheating and finding it unfair—points towards frustration or irritation.
+
+Looking at the emotion categories, anger includes annoyance and rage. The user seems annoyed and upset about the situation. There's no sign of disgust, which would involve dislike or aversion, but here it's more about unfairness due to cheating. Fear isn't present because there's no indication of anxiety or apprehension. Joy and surprise are clearly not applicable here as the tone is negative.
+
+So, putting it all together, the emotion conveyed is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I'm trying to figure out the emotion behind this tweet: "Alright this isn’t fair tell him to stop cheating. Idk how he’s cheating but he’s cheating. USER #BARLIV #messi #UCL #Championsleague". The user is asking someone to stop cheating and seems upset about it, so I think anger might be the emotion here.
+
+First, the tweet starts with "this isn’t fair", which immediately sounds like frustration or unfairness. Then they tell someone else to stop cheating, using strong language like "tell him to stop". They also mention that they don't know how he's cheating but are certain it's happening. The use of words like "cheating" and the emphasis on fairness suggests irritation or anger.
+
+Looking at the hashtags: #BARLIV might refer to a football rivalry (Barcelona vs Liverpool), #messi is about Lionel Messi, a famous player, and #UCL/Championsleague are related to the UEFA Champions League. Maybe the user is upset about cheating in a match they care about, perhaps Messi's involvement or something unfair happened.
+
+The emotions listed are anger, disgust, fear, joy, sadness, surprise. The tweet doesn't express happiness, fear, surprise, or sadness. It's more about frustration and unfairness, which points to anger. There's no indication of disgust, so it's not that. They're reacting strongly, but not in a fearful way, just upset.
+
+So, putting it all together, the emotion conveyed is likely **anger** because of the frustration expressed towards cheating.
+</think>
+
+The tweet expresses frustration and irritation regarding unfair behavior, specifically cheating. The use of strong language and emphasis on fairness indicate anger.
+
+**emotion**
+- anger
+
+**Answer:** **anger**
+------------------------------------------------------------------------------------------------------------------------
+

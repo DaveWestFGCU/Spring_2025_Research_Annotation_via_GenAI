@@ -1,0 +1,36 @@
+Record: "As a History Nerd I am beyond horrified at the tragic fire that has burnt down a work of history. Pray for France and the magnificent Cathedral that was lost. It was a dream of mine to be able to see Notre Dame. #NotreDameCathedralFire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the phrase "beyond horrified", indicating strong distress and emotional shock.
+* The author expresses disappointment and loss, specifically mentioning that it was their dream to see the cathedral in its original state.
+* The tone is somber and reflective.
+
+The most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions being "beyond horrified" which suggests a strong negative emotional response.
+* The author expresses sadness and loss at the destruction of a historic work of art.
+* The tone is one of reverence and respect for the cathedral.
+
+Given these points, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is referring to a "tragic fire" which indicates a negative event.
+* The author mentions being "beyond horrified", which suggests a strong emotional response.
+* The author expresses sadness and loss, using phrases like "lost" and "burnt down".
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,18 @@
+Record: "#Donations pledged as crews assess the damage to #NotreDameCathedral #NotreDameCathedralFire #NotreDameFire #NotreDameCathedralFire #NotreDameCathedralParis #Paris #ParisIsBurning #France USER https://t.co/klaLkESWHR"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about the Notre Dame Cathedral fire. The tweet is using a lot of hashtags related to the event: "#Donations pledged as crews assess the damage..." and then several hashtags like #NotreDameCathedralFire, #ParisIsBurning, etc.
+
+First, I should consider what emotions are typically associated with such events. A major fire at a historic cathedral would likely evoke strong feelings. The mention of donations suggests people are responding to help, which could indicate concern or empathy. However, the tweet itself doesn't express any explicit emotion words; it's more about reporting the situation and encouraging action.
+
+Looking at the guidelines, if there's no clear emotion expressed, or multiple emotions without a dominant one, I should classify it as 'other'. The tweet seems informative rather than emotional. It's sharing information and directing people to donate but isn't expressing personal feelings like anger, fear, or sadness directly.
+
+So, since the primary purpose is to inform about donations and assess damage without showing a clear emotion, the best classification would be 'other'.
+</think>
+
+other
+------------------------------------------------------------------------------------------------------------------------
+

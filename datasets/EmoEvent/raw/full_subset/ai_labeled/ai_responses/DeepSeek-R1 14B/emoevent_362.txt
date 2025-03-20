@@ -1,0 +1,28 @@
+Record: "USER is prepared for a big celebration, hope not prematurely. Could clinch #LaLiga title tonight.💥💥💥 https://t.co/D6ESeDBDSS"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet and classify it into one of the given categories: anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet says: "USER is prepared for a big celebration, hope not prematurely. Could clinch #LaLiga title tonight.💥💥💥 https://t.co/D6ESeDBDSS"
+
+First, I'll break down the content. The user mentions being prepared for a big celebration but expresses hope that it's not premature. They also say they could clinch the La Liga title tonight and include some explosion emojis.
+
+The key words here are "big celebration," "hope not prematurely," and "could clinch the title." These phrases indicate excitement and anticipation about possibly winning something significant, which is a positive event. The emojis used (💥) are often associated with excitement or fireworks, which adds to that feeling.
+
+Looking at the emotion categories:
+- Anger: Doesn't seem related.
+- Disgust: No signs of dislike or aversion.
+- Fear: There's no indication of worry or anxiety.
+- Joy: This fits because they're excited about a potential victory and celebration.
+- Sadness: Not present here; the tone is positive.
+- Surprise: While surprise could be part of winning, the primary emotion seems more like excitement leading to joy.
+
+So, considering all this, the primary emotion is joy. The user is expressing happiness and eagerness about a possible achievement.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

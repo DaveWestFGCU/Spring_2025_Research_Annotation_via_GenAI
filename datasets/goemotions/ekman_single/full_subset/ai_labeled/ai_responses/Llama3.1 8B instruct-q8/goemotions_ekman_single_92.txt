@@ -1,0 +1,36 @@
+Record: "I’m super proud of him. Great guy!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses positive language such as "super proud" and "Great guy", indicating a strong sense of admiration.
+* The tone is enthusiastic and celebratory, with an emphasis on the person's accomplishments.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "super proud", which suggests a positive emotional state.
+* The speaker describes the person as a "great guy", indicating admiration and approval.
+
+Given these points, the most relevant emotion label is **joy**. The speaker's use of enthusiastic language ("super proud") and their expression of admiration and approval for someone suggests that they are feeling joy or happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement is overwhelmingly positive.
+* The use of the phrase "super proud" indicates a strong sense of admiration and affection.
+* The word "Great guy!" further emphasizes a positive evaluation.
+
+Given these points, the most relevant emotion label for this speaker's comment is:
+
+**joy**
+
+This is because the statement contains elements of approval, admiration, and happiness, which are all characteristic of the joy category.
+------------------------------------------------------------------------------------------------------------------------
+

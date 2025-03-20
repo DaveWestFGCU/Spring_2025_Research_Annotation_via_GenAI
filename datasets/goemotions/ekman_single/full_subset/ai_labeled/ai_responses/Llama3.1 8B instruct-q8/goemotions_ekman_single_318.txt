@@ -1,0 +1,40 @@
+Record: "[NAME] I wish that was a more active sub :("
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is addressing someone named [NAME].
+* They express a sentiment about the subreddit being "inactive".
+* The tone appears to be disappointed and somewhat longing.
+
+The most relevant emotion label is **sadness**. The speaker's comment implies that they were expecting more activity from the sub, which suggests a sense of disappointment or emotional pain (i.e., sadness).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a sad emoticon 🙂 at the end of their sentence.
+* They express a wish, but it's not fulfilled ("I wish that was a more active sub"), indicating disappointment or dissatisfaction.
+* The tone is lighthearted and informal, which could suggest a lack of strong emotion.
+
+Most relevant emotion label: **sadness**
+
+Reasoning: While the speaker's comment has a lighthearted tone, the expression of disappointment and use of a sad emoticon indicate that sadness is the most fitting emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses a sentiment related to the subreddit not being as engaging as they would like.
+* The tone is somewhat melancholic, with the use of "I wish" and a trailing emoticon representing disappointment or sadness.
+* There is no overtly negative language towards another person or entity.
+
+Given these points, the most relevant emotion label for this speaker's sentiment is:
+
+**sadness**
+
+The speaker's comment conveys a sense of disappointment and wistfulness about the subreddit not meeting their expectations, which aligns with the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

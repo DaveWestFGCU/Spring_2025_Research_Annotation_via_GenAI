@@ -1,0 +1,38 @@
+Record: "Love the cheese!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a enthusiastic phrase, which suggests a strong positive emotion.
+* The context of a Reddit comment about food, specifically cheese, indicates that the speaker is expressing appreciation or approval.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This is because the speaker's use of "Love" and their enthusiastic tone (indicated by all capital letters) suggests a strong positive emotion, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment seems informal and enthusiastic.
+* The language used is positive and affectionate ("Love").
+* There is no criticism, complaint, or negative emotion expressed.
+
+Given these considerations, the most relevant emotion label is **joy**. The speaker's use of "Love" and the overall tone of the comment suggest a feeling of pleasure and happiness, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses an expression of affection ("Love") towards cheese.
+* There is no negative tone or language used by the speaker.
+
+Given these considerations, the emotion that best fits this sentiment is joy, as it is a positive and enthusiastic response to something (cheese). 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

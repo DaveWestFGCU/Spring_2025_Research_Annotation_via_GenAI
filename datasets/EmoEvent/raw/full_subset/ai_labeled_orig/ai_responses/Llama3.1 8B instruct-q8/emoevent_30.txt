@@ -1,0 +1,40 @@
+Record: "Such a masterpiece of a free kick. That is what Messi is made of.  #messi messing with USER.  #BarcaLiverpool #ChampionsLeague #BarçaLFC #BarcelonaLiverpool"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is discussing a football event and appears to be celebrating a remarkable performance by Lionel Messi.
+* The use of words like "masterpiece" and phrases like "that is what Messi is made of" suggest admiration and appreciation for the player's skill.
+* The hashtags indicate that the tweet is related to the UEFA Champions League, further emphasizing the celebratory tone.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+
+This classification is because the author is expressing excitement and admiration for Messi's performance, which is a hallmark of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is overwhelmingly positive.
+* The language used, such as "masterpiece" and "what Messi is made of", suggests admiration and appreciation.
+* The hashtags suggest a celebratory atmosphere.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is praising a football player (Messi) and using words like "masterpiece" which indicates admiration.
+* The tone of the tweet seems enthusiastic and celebratory, with the author clearly expressing their excitement about Messi's skill.
+* The hashtags used are related to football and specific teams, further indicating that the tweet is focused on a positive aspect of the sport.
+
+Based on these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

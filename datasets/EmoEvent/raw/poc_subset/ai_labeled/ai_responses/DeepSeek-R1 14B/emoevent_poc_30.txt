@@ -1,0 +1,57 @@
+Record: "So thankful for the conclusion. Having no idea how this played out was definitely going to haunt me"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's see. I need to classify the emotion in that tweet. The tweet says: "So thankful for the conclusion. Having no idea how this played out was definitely going to haunt me." 
+
+First, looking at the words used: "thankful" is a positive emotion, which might point towards joy or serenity. But then the second part talks about haunting and uncertainty—words that suggest worry or fear.
+
+So there's a mix here. The person is relieved but also anxious about what happened. Since relief can sometimes be seen as joy, but the anxiety is more prominent because they're worried about how things played out.
+
+I think the main emotion here is fear because of the haunting and uncertainty. Even though there's gratitude, the overall feeling seems to be apprehension or anxiety.
+</think>
+
+The tweet expresses a mix of relief (joy/serenity) and anxiety/fear due to uncertainty. However, the emphasis on haunting and uncertainty leans more towards fear.
+
+**fear**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion is conveyed in this tweet: "So thankful for the conclusion. Having no idea how this played out was definitely going to haunt me." The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the tweet. The author starts by expressing gratitude, saying they're "thankful for the conclusion." That sounds positive, so maybe joy is involved here. But then the second part says that not knowing how it played out was haunting them. Haunting suggests worry or fear about the outcome, which indicates fear.
+
+So there's a mix of emotions here: gratitude and fear. Since the main feeling expressed in the latter part seems more impactful—fear about the unknown—I think fear is the primary emotion being conveyed.
+</think>
+
+**fear**
+
+The tweet expresses relief at the conclusion but also uncertainty that caused worry, indicating fear.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify the given tweet into one of the specified emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "So thankful for the conclusion. Having no idea how this played out was definitely going to haunt me." 
+
+First, let's break down the components of the tweet. The author starts by expressing gratitude ("so thankful"), which immediately points towards a positive emotion. Gratitude often aligns with joy or serenity, as per the categories provided.
+
+Next, they mention that not knowing how things would turn out was haunting them. The word "haunt" suggests something troubling or causing distress, which relates to sadness or anxiety. However, the overall sentiment seems mixed but leans more on the positive side because of their thankfulness.
+
+Looking at the emotion categories:
+
+- **Anger**: There's no indication of frustration or rage here.
+- **Disgust**: No signs of dislike or aversion.
+- **Fear**: While "haunt" does imply worry, the primary emotion expressed is gratitude, which might overshadow fear.
+- **Joy**: The word "thankful" strongly suggests joy.
+- **Sadness**: Although there's a hint of concern, it's not the main emotion conveyed.
+- **Surprise**: There's no element of astonishment or unexpectedness.
+
+Therefore, despite the mention of haunting thoughts, the predominant emotion is gratitude and relief, which fall under joy. So, the most relevant emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

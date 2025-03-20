@@ -1,0 +1,44 @@
+Record: "VVD ball watching again 😂 you love to see it #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is lighthearted and playful, indicated by the use of a smiling face emoji (😂)
+* The author seems to be commenting on a player's ball-watching behavior during a Champions League match
+* There is no indication of negativity or criticism in the tweet
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author appears to be expressing amusement and enjoyment at seeing a particular moment from the Champions League.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text describes a humorous situation where someone is "ball watching", implying they are not actively participating in the game.
+* The tone of the tweet seems lighthearted and playful, using an emoji to convey amusement.
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**joy**
+The use of a laughing emoji (😂) and a playful tone suggests that the author intends to express amusement or joy at the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is lighthearted and playful, indicated by the use of a laughing face emoji (😂).
+* The text expresses admiration or enjoyment towards VVD's performance.
+* The hashtag "#ChampionsLeague" suggests that the context is related to the UEFA Champions League competition.
+
+Given these considerations, the emotion conveyed by the author appears to be one of amusement and appreciation. Therefore:
+
+**joy**
+
+The tone is positive and celebratory, indicating that the author is enjoying or finding it entertaining that VVD is "ball watching again".
+------------------------------------------------------------------------------------------------------------------------
+

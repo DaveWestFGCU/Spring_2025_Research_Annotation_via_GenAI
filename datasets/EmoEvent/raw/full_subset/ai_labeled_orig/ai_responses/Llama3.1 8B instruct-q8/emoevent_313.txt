@@ -1,0 +1,37 @@
+Record: "BREAKING: multi-nationals worth billions pitch in to save Notre Dame — Presumably so the multi-billionaire Catholic Church can save its funds to pay off victims of sex abuse.  (Psst! Am I being too real again?)  #NotreDameCathedralFire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is referencing a serious news event, the Notre Dame Cathedral Fire.
+* However, they are also mentioning the Catholic Church's financial situation and its handling of sex abuse allegations.
+* The tone appears sarcastic and critical.
+
+Given these considerations, I would classify the emotion as **anger**. The author seems to be expressing frustration and criticism towards the Catholic Church's priorities and actions, using sarcasm to convey their anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a negative event (the fire at Notre Dame) and a serious issue (child sex abuse within the Catholic Church)
+* The author appears to be critical of the Church's response to the crisis
+* The use of "Psst! Am I being too real again?" suggests that the author is expressing their opinion in a bold or confrontational manner
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+This classification is based on the tone and language used by the author, which appears to be critical and confrontational. The mention of child sex abuse within the Church also adds to the sense of outrage and anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a negative event (the Notre Dame Cathedral Fire) but does not express shock, horror, or sadness.
+* The author questions the motivations of the multi-billionaire Catholic Church in responding to the fire.
+* The tone is critical and sarcastic.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

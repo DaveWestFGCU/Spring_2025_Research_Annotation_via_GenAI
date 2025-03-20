@@ -1,0 +1,33 @@
+Record: "If #Guaido succeeds in #Venezuela we should try it here in the U.S. as well.  #DeposeTrump"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet and classify it into one of the given categories: anger, disgust, fear, joy, sadness, surprise, or other.
+
+The tweet says: "If #Guaido succeeds in #Venezuela we should try it here in the U.S. as well.  #DeposeTrump"
+
+First, I'll break down what's being said. The user is referencing Juan Guaido, who was a key figure in the Venezuelan political crisis, claiming him as the legitimate president against Nicolas Maduro. They're suggesting that if Guaido succeeds in Venezuela, then similar actions should be taken in the U.S., specifically to depose Trump.
+
+So, the context here is about political upheaval and leadership challenges. The user seems to support the idea of removing a current leader (Trump) by referencing the situation in Venezuela.
+
+Now, looking at the emotion: The tweet is making a comparison between two countries' situations and advocating for the removal of a sitting president. This could indicate frustration or dissatisfaction with Trump's presidency. The use of hashtags like #DeposeTrump suggests an active stance against him.
+
+Considering the mapping guidelines:
+- Anger includes annoyances or rage.
+- Disgust involves disinterest or dislike.
+- Fear is about apprehension or anxiety.
+- Joy relates to serenity or ecstasy.
+- Sadness is pensiveness or grief.
+- Surprise is distraction or amazement.
+- Other if no emotion or multiple emotions without a dominant one.
+
+The tweet seems to express frustration and possibly anger towards Trump. The suggestion to depose him implies a desire for change, which can stem from anger or dissatisfaction. There's also an element of criticism towards the current political situation in the U.S., aligning with feelings of annoyance or rage.
+
+I don't see elements of disgust, fear, joy, sadness, or surprise here. It's more about expressing a strong negative feeling towards Trump's leadership, which fits under anger.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

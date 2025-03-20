@@ -1,0 +1,33 @@
+Record: "Who's all coming out for the Barcelona v Liverpool game tonight? Got free pool and tunes on the jukebox as well for those of you who fancy a few pints and tunes with the football. 😁  #teamfish #championsleague… https://t.co/kQbHO88bdN"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The author is inviting people to watch a game.
+- They mention free pool, food, and drinks, indicating a welcoming atmosphere.
+- The tone appears casual and enthusiastic.
+
+**joy**
+The presence of emojis like 😁 suggests excitement and enthusiasm, which align with the emotion label "joy".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The tweet is about an upcoming sports event, specifically a Champions League game.
+- The author is inviting others to join them for the event and mentions free food and drinks.
+- The tone of the tweet appears lighthearted and enthusiastic.
+
+Given these factors, the emotion label that best fits is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about an event, specifically a football game.
+* The author mentions free food and drinks (pool and pints), which implies a welcoming or celebratory tone.
+* The use of a smiling face emoji (😁) suggests a positive sentiment.
+
+Given these points, the most relevant emotion label is **joy**, as the tweet conveys excitement and enthusiasm for the event.
+------------------------------------------------------------------------------------------------------------------------
+

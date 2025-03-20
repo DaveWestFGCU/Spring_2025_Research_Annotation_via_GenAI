@@ -1,0 +1,50 @@
+Record: "12 years, that's it? Psh I've been dating my gf for 20 and engaged for 10 years"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "12 years, that's it? Psh I've been dating my gf for 20 and engaged for 10 years." 
+
+First, let me break down what's happening here. The user is responding to something someone else said about being together for 12 years. They seem surprised because they've been with their girlfriend for much longer—20 years of dating and 10 years engaged. The reaction "Psh" suggests a dismissive or maybe playful tone, but the emphasis on their longer relationship might indicate a sense of surprise.
+
+I need to figure out which emotion from the list fits best here. The options are anger, disgust, fear, joy, sadness, or surprise. Since the user is highlighting how much longer they've been together compared to someone else's 12 years, it seems like they're expressing that they didn't expect this comparison and might be finding it amusing or unexpected.
+
+Looking at "surprise," it can include distraction and amazement, which fits because the tweet seems to express astonishment at how short the other person's relationship is compared to theirs. There's no clear sign of anger or disgust; it doesn't seem like they're annoyed or disliking something. Fear or anxiety isn't present either. Joy might be a stretch unless they're happy about their long-term status, but surprise seems more accurate because of the comparison and the exclamation.
+
+So, putting it all together, the emotion conveyed here is likely surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's tackle this query. The user wants me to classify a tweet based on the emotion conveyed. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "12 years, that's it? Psh I've been dating my gf for 20 and engaged for 10 years." 
+
+Hmm, so the author is responding to something someone else said about 12 years. They seem dismissive with "Psh," which indicates they don't agree or think it's not much. They're pointing out their longer relationships as if it's more impressive.
+
+So, what emotion does that convey? Dismissive often ties into either anger or disgust. Since they're showing a sense of superiority or disapproval about the shorter time frame, it's probably disgust. They don't like that someone else had a relationship for only 12 years compared to theirs. It's more about their distaste for that timeframe rather than being angry.
+
+I think the emotion here is disgust because it's about disliking something (the other person's experience) and showing superiority.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out the emotion in this tweet. The user wrote, "12 years, that's it? Psh I've been dating my gf for 20 and engaged for 10 years." Hmm, so they're comparing their own long-term relationship with someone else's which only lasted 12 years. 
+
+The word "Psh" at the beginning is an interjection that usually shows dismissal or contempt. So the person might be expressing disdain towards the shorter duration of another couple's relationship compared to theirs. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't seem angry because it's not about frustration but rather a judgment on others' experiences. Disgust could fit here because they might be expressing dislike or disapproval of the shorter time frame. Fear isn't present since there's no indication of worry or anxiety. Joy and surprise are also unlikely as the tone seems negative. Sadness doesn't quite capture it either; it's more about judgment than sorrow.
+
+So, putting it all together, the emotion conveyed is disgust because they're showing disapproval of the shorter relationship duration compared to theirs.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

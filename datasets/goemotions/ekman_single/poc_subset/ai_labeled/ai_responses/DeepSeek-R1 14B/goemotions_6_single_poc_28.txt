@@ -1,0 +1,84 @@
+Record: "She tried playing the “I know a secret” game during the hearing. It blew up in her"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "She tried playing the 'I know a secret' game during the hearing. It blew up in her." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker is talking about someone (she) who attempted to play a "secret" game during a hearing. The phrase "It blew up in her" suggests that what she did backfired or had unintended negative consequences. 
+
+Now, considering the emotion categories:
+
+1. Anger: This would involve strong displeasure or antagonism. The speaker doesn't seem angry; they're describing an event rather than expressing anger.
+
+2. Disgust: This is about revulsion or disapproval. There's no indication of disgust in the comment; it's more about the outcome of her action.
+
+3. Fear: Nervousness or anxiety isn't evident here. The speaker is talking about something that happened, not expressing fear themselves.
+
+4. Joy: Pleasure or happiness isn't shown. Instead, the situation seems negative for "her."
+
+5. Sadness: Emotional pain or sorrow might come into play if there's a sad outcome, but the comment is more about the failure of her plan rather than sadness.
+
+6. Surprise: Astonishment or realization. The speaker could be expressing surprise that she tried such a tactic and it backfired, which seems to fit because "blew up" implies an unexpected negative outcome.
+
+7. Neutral: No emotion expressed. But since there's a reaction to the event, neutral might not apply here.
+
+The key part is "It blew up in her," which suggests that something unexpected happened. The speaker is pointing out that her plan didn't work as intended and possibly caused problems. This indicates surprise because it's an unforeseen turn of events. So, the emotion here is likely surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "She tried playing the 'I know a secret' game during the hearing. It blew up in her."
+
+First, let's break down what this sentence means. The speaker is talking about someone (she) who attempted to play a game during a hearing where she claimed to know a secret. The outcome was that it "blew up," which usually means something exploded or happened unexpectedly and disastrously.
+
+The emotion categories we have are anger, disgust, fear, joy, sadness, surprise, and neutral. I need to determine the most fitting one here.
+
+Looking at the sentence, it seems like the speaker is describing an event where someone's attempt didn't go as planned and resulted in failure or disaster. The phrase "It blew up" suggests that things went wrong unexpectedly, which might cause a reaction of surprise or astonishment because it was unexpected.
+
+Let me consider each emotion:
+
+- **Anger**: This would imply the speaker is upset or annoyed about what happened. But the comment doesn't express frustration; it's more about the outcome.
+  
+- **Disgust**: This would involve disapproval of something unpleasant. Here, the focus isn't on the action being bad but rather on the surprising result.
+
+- **Fear**: This relates to being afraid or worried. The speaker isn't expressing fear but rather a reaction to an unexpected event.
+
+- **Joy**: Happiness or pleasure is unlikely here since the situation seems negative.
+
+- **Sadness**: Sorrow or disappointment isn't indicated; the speaker is reacting to an event, not expressing personal grief.
+
+- **Surprise**: This fits because "blew up" implies something unexpected and startling happened. The speaker might be amazed or astonished by how things turned out.
+
+- **Neutral**: If there were no emotion expressed, but here we have a reaction, so it's probably not neutral.
+
+So, the key clue is the phrase "It blew up," which suggests an unexpected negative outcome. This leads me to think the speaker is surprised by what happened.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "She tried playing the 'I know a secret' game during the hearing. It blew up in her."
+
+First, let's break down the sentence. They're talking about someone (she) who attempted to play a "secret" game during a hearing. Then they say it "blew up," which usually means something exploded or happened unexpectedly.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+Anger would involve strong displeasure, maybe frustration. Disgust is revulsion. Fear is about being afraid or worried. Joy is happiness. Sadness is sorrow. Surprise is astonishment. Neutral is no emotion.
+
+The phrase "blew up" suggests that something went wrong suddenly and unexpectedly. The speaker might be implying that the plan backfired, leading to a bad outcome. This could indicate surprise because it's an unexpected turn of events. Alternatively, maybe there's some disapproval, but I'm not sure if that leans more towards anger or disgust.
+
+Looking at examples: Surprise includes astonishment and realization. The speaker seems to be pointing out the failure of her plan, which might have been unforeseen. So the emotion is likely surprise because it highlights an unexpected outcome.
+</think>
+
+The comment suggests that a situation unexpectedly went wrong, indicating **surprise**. 
+
+**emotion**: surprise
+------------------------------------------------------------------------------------------------------------------------
+

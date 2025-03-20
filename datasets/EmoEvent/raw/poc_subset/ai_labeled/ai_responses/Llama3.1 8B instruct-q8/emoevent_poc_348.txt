@@ -1,0 +1,34 @@
+Record: "Hi I'm a Thrashers fan! My family was 33rd to pick tickets in Atlanta in for the '99 inaugural season"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet appears to be nostalgic and casual.
+* The author is expressing enthusiasm and belonging by stating their loyalty to the Thrashers team.
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet appears lighthearted and nostalgic.
+* The author is expressing enthusiasm for their favorite hockey team, the Thrashers.
+* There are no negative or critical words used.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing enthusiasm and excitement about their team, the Thrashers.
+* They are sharing a personal experience related to their fandom.
+* There is no negative tone or language used.
+
+Given these points, the most relevant emotion label is: **joy**. The author's use of "Hi" and an exclamation mark suggests a positive and energetic tone, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+

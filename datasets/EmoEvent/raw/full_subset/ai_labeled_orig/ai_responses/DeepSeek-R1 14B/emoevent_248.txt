@@ -1,0 +1,82 @@
+Record: "Please look at this beauty 😱😭♥️ https://t.co/F7wL80clrz #WorldBookDay"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the given tweet's emotion from the specified list. Let me break it down step by step.
+
+First, looking at the tweet: "Please look at this beauty 😱😭♥️ https://t.co/F7wL80clrz #WorldBookDay". The author is sharing something and using emojis.
+
+The emojis used are 😱 (surprised face), 😭 (crying or sad face), and ♥️ (heart). So, multiple emotions might be present here. But I need to pick the most dominant one from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+The text says "beauty," which is a positive word suggesting joy. The emojis 😱 is shock or surprise, 😭 could indicate sadness or maybe emphasis on beauty, and ♥️ is love or affection, again positive.
+
+But looking at the order of the emojis: first comes 😱 (surprise), then 😭 (sadness). Maybe the author is expressing a strong reaction to something beautiful. Sometimes people mix emojis for emphasis, but the primary emotion might be surprise because of the "beauty" and the shocked face.
+
+Wait, but beauty often evokes joy or serenity. The tweet is about World Book Day, which is related to promoting reading and books—something positive. So maybe the author is expressing joy at finding something beautiful.
+
+But considering the emojis: 😱 is surprise, then 😭 could be due to beauty making them emotional, possibly sadness isn't fitting here. Alternatively, they might be overwhelmed with happiness, but in that case, why use a sad emoji? Or maybe it's more about excitement and love.
+
+Hmm. The presence of "beauty" suggests joy, and the heart emoji adds to that positive feeling. But the shocked face is also there—maybe indicating surprise at something beautiful. So which emotion is dominant?
+
+Alternatively, perhaps the author is overwhelmed with happiness, so both surprise and joy are present, but since the list includes 'joy' as a category, maybe that's more appropriate.
+
+Wait, but sometimes when people use 😱 it can be due to shock or surprise, but in this context, it's about beauty. Maybe they're expressing both surprise and joy, but I have to pick one.
+
+Given the options, I think the primary emotion here is surprise because of the shocked face, but also there's a lot of positive sentiment which could lean towards joy. However, the tweet starts with "Please look at this beauty," which is an invitation to admire something, suggesting excitement or joy.
+
+But the emojis are 😱 (surprise), then 😭 (sadness), and ♥️ (love). Maybe they're expressing mixed emotions but leaning towards surprise because of the shocked face first. Alternatively, the sad emoji could be part of expressing strong positive emotion, like tears of joy, but that's not one of the categories here.
+
+Wait, no, tears in this context might indicate sadness, unless it's used for another reason. So perhaps the author is both surprised and moved to tears by something beautiful—so maybe a mix of surprise and sadness? But I have to choose only one emotion from the list.
+
+Alternatively, considering that the tweet is about World Book Day, which is positive, the primary emotion is likely joy because they're celebrating books and beauty. The emojis are mixed but the overall sentiment seems positive, so joy makes more sense than surprise.
+
+Wait, no—the presence of 😱 (surprise) could indicate that the author is surprised by something, maybe a beautiful book or a special World Book Day event. But again, it's about promoting reading, which is joyful.
+
+I'm a bit torn between surprise and joy here. The text says "beauty," which suggests joy, but the emojis include both surprise and sadness, making me unsure. However, since the primary action is sharing something beautiful, I think joy is more fitting.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the author of this tweet is conveying. The tweet says: "Please look at this beauty 😱😭♥️ https://t.co/F7wL80clrz #WorldBookDay". 
+
+First, let's break down the components of the tweet. The text itself is a request to look at something described as "beauty." Then there are three emojis: 😱 (a face with raised eye brows, which often indicates surprise or shock), 😭 (crying eyes, usually expressing sadness or maybe even relief), and ♥️ (a heart symbol, typically representing love or affection).
+
+Looking at the emojis, I see a mix of surprise, sadness, and love. The word "beauty" itself is positive and often associated with joy or appreciation. So combining these elements: the text is asking others to appreciate something beautiful, which sounds joyful, while the emojis add layers of emotion.
+
+The 😱 emoji suggests surprise—maybe the beauty was unexpected. The 😭 could indicate that seeing such beauty moved them to tears, which might be a positive kind of sadness, like being touched or overwhelmed by beauty. The ♥️ reinforces a positive emotion, likely love for whatever is being shown.
+
+Considering the context is World Book Day, which celebrates books and reading, it's probably about sharing a beautiful book or literature. So the author is likely expressing joy in appreciating something beautiful related to books.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The primary emotion here seems to be joy because of the appreciation for beauty and the positive context of World Book Day. Although there's an element of surprise (from 😱) and sadness (from 😭), the overall sentiment leans more towards joy.
+
+So I think the most relevant emotion is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify the emotion in the given tweet. The tweet is: "Please look at this beauty 😱😭♥️ https://t.co/F7wL80clrz #WorldBookDay". Let me break it down step by step.
+
+First, I notice that the author uses several emojis: 😱 (startled or amazed), 😭 (crying, possibly from joy), and ♥️ (heart symbol, indicating love). These emojis are strong indicators of emotion. The word "beauty" also suggests something positive or aesthetically pleasing.
+
+Looking at the structure of the tweet, it's a request to look at something described as beautiful, which is likely linked to World Book Day. The use of multiple emojis conveys strong emotions rather than just one.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to determine which one fits best.
+
+The emojis used are 😱 (surprise/amazement), 😭 (joy or maybe sadness but in context likely joy), and ♥️ (love/joy). The word "beauty" also aligns with positive emotions.
+
+So the primary emotion here seems to be joy. The combination of emojis and the wording all point towards a feeling of happiness, admiration, or excitement related to World Book Day.
+</think>
+
+The tweet expresses **joy** through the use of heart eyes and crying emojis, which typically convey strong positive emotions like love, admiration, or excitement.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

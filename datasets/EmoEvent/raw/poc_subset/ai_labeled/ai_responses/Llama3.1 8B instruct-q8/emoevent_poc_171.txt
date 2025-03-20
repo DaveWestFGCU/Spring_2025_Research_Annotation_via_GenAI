@@ -1,0 +1,39 @@
+Record: "I used to be subscribed to [NAME] channel. I know we all have troubled pasts, but man..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The author mentions a negative experience with the person's channel.
+- They bring up the concept of "troubled pasts," which implies that they are not surprised or pleased by the person's actions.
+- The use of "man" at the end is an expression of frustration or disappointment.
+
+**anger**
+
+This emotion label best captures the tone of the tweet, as it conveys a sense of frustration and disappointment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider given the text:
+
+* The author mentions a specific instance of being subscribed to someone's channel and then not being any longer.
+* They seem to acknowledge that everyone has troubles in their past, which implies they're aware that others might have similar issues as the person they're addressing.
+* However, the author immediately shifts to expressing frustration with the subject ("man..."), suggesting a negative tone.
+
+Given these points, the most relevant emotion label is **anger**. The author seems to be expressing annoyance or frustration towards someone or something, likely related to their past behavior on the channel.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify this tweet, consider the following points:
+
+* The author mentions they were previously subscribed to a specific channel, implying some level of investment or connection.
+* The phrase "we all have troubled pasts" is used to soften the tone and potentially explain or justify their previous actions or involvement with the channel.
+* However, the word "man" is used as an interjection to express surprise or frustration rather than enthusiasm.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**surprise**
+ 
+The author seems surprised by something related to their past association with the channel.
+------------------------------------------------------------------------------------------------------------------------
+

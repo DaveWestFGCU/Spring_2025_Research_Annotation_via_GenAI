@@ -1,0 +1,54 @@
+Record: "Sadly, it was not"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is "Sadly, it was not." Alright, let me break this down.
+
+First, I look at the word " Sadly," which immediately makes me think of sadness because it's a common way people express that emotion. Using "sadly" as an adverb usually modifies a verb or describes manner, but in this context, it's part of the speaker's emotional response. So right off the bat, sadness is a strong contender.
+
+Next, the phrase "it was not." This could be a response to something expected or hoped for that didn't happen. For example, if someone asked, "Was the event enjoyable?" and the speaker responds with, "Sadly, it was not," they're expressing disappointment or sorrow about the outcome.
+
+Looking at the emotion definitions again: Sadness includes feelings like disappointment, which aligns perfectly here. The speaker is likely indicating that something didn't go as planned or wasn't as expected, leading to a feeling of letdown or sorrow.
+
+I should also consider other emotions just to be thorough. Anger? Well, "sadly" doesn't indicate anger; it's more about the absence of positive feelings rather than irritation or rage. Disgust? There's no indication of something offensive or revolting here. Fear? No signs of worry or nervousness. Joy? Definitely not, since "sadly" negates that. Surprise? The statement is straightforward and doesn't suggest anything unexpected. Neutral? Well, the use of "Sadly" implies some emotion, so it's more than neutral.
+
+So putting it all together: The speaker uses "Sadly" to convey a negative emotional response, likely due to something not meeting their expectations or causing disappointment. This points directly to sadness as the emotion.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is " Sadly, it was not." Let me break this down.
+
+First, looking at the sentence structure, it starts with "Sadly," which immediately makes me think of sadness because "sadly" is an adverb that often conveys a feeling of sorrow or unhappiness. The phrase "it was not" likely refers to something being negative or disappointing, reinforcing the idea of sadness.
+
+Now, considering the emotion categories: anger involves displeasure, disgust is about revulsion, fear is related to worry, joy is happiness, sadness is emotional pain, surprise is astonishment, and neutral is no emotion. Since the speaker begins with "Sadly," they're expressing a feeling that's linked directly to sadness.
+
+I should also check if any other emotions could fit here. Could it be surprise? The statement doesn't seem unexpected; instead, it's a straightforward negative response. Fear or anxiety doesn't seem to apply because there's no indication of worry. Disgust is more about something offensive, which isn't mentioned. Anger might come into play if the speaker is upset, but "sadly" points more towards sorrow than anger.
+
+Therefore, putting it all together, the emotion conveyed is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure this out. The user has given me a task where I need to identify the emotion someone is feeling based on their comment. The emotion has to be chosen from a list: anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+The comment provided is "Sadly, it was not." So first, I'll break this down. The word "sadly" immediately catches my attention because it's an adverb that usually modifies a verb but can also indicate the speaker's emotional state. In English, when someone starts a sentence with "Sadly," they're often expressing regret or disappointment.
+
+Looking at the emotion categories, sadness includes feelings like sorrow, grief, and disappointment. The word "sadly" directly relates to sadness. Also, the phrase "it was not" suggests that something didn't go as expected or desired, which aligns with disappointment, a component of sadness.
+
+I should consider if there's any possibility it could be another emotion. Could it be surprise? Well, surprise is more about astonishment or unexpectedness. The comment doesn't indicate anything surprising; it's more about a negative outcome. Disgust usually involves revulsion, which isn't present here. Anger would likely have stronger language. Fear would imply worry or anxiety, but "sadly" points more to an emotional letdown.
+
+So putting it all together, the emotion is sadness because of the use of "sadly" and the context suggesting disappointment.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

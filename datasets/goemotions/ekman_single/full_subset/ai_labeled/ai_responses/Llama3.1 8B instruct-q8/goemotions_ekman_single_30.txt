@@ -1,0 +1,49 @@
+Record: "So thankful for the conclusion. Having no idea how this played out was definitely going to haunt me"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "thankful" which suggests a positive sentiment.
+* However, they also mention that not knowing the outcome would have "haunted" them, implying a negative emotional consequence of their uncertainty.
+* The tone is introspective and personal.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker's use of the word "haunt" suggests a sense of emotional pain or sorrow associated with not knowing the outcome, which fits with the definition of sadness as including disappointment and emotional pain.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions being "thankful" for the conclusion, which suggests a positive outcome.
+* They also mention that not knowing the outcome would have "haunted" them, implying a sense of relief or anxiety alleviation.
+
+Given these points, the most relevant emotion label is **relief**, but since relief isn't an option, the closest match is **joy** (specifically, gratitude), as it encompasses feelings of appreciation and positivity.
+
+However, considering the context, I'd argue that **sadness** is a less likely choice because the speaker expresses gratitude rather than regret or sorrow. 
+
+Since the best fit from the given options isn't perfect, but still suitable, I'll choose:
+
+**joy**
+
+But keep in mind that relief would be an even more fitting emotion label if it were an option!
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses gratitude ("So thankful") which suggests a positive emotion.
+* The phrase "Having no idea how this played out" implies a sense of uncertainty or unease, but is resolved by the conclusion.
+* The word "haunt" typically has a negative connotation, implying a lingering fear or anxiety.
+
+Given these points, the most relevant emotion label is:
+
+**relief** (not listed as an option, but closest to joy which involves relief)
+
+However, since relief isn't an available option and we need to choose from the provided categories, I will select the one that is most closely related to joy, considering that relief is often a component of joy.
+
+**joy**
+
+Note: If you'd like me to explain why I didn't choose a different emotion, please let me know!
+------------------------------------------------------------------------------------------------------------------------
+

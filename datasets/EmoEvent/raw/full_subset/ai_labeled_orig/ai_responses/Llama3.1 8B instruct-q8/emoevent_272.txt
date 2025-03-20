@@ -1,0 +1,35 @@
+Record: "Simple question: Is it the end of #opera, when artists cannot fly anymore? Sad, would love to see you perform around the world USER. USER #GretaThunberg  https://t.co/zrgSCQk6WG"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a response to Greta Thunberg, indicating that it's related to climate change.
+* The author mentions "artists cannot fly anymore", suggesting that they are worried about the impact of climate change on industries or activities that rely on air travel.
+* The author expresses a desire to see opera performances around the world.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+The author's tone suggests that they are expressing concern and loss (in this case, the potential loss of global opera performances), which aligns with feelings of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is responding to a tweet from Greta Thunberg.
+* The context is about climate change and its potential impact on art and travel (specifically opera performances).
+* The author is expressing concern for the future of opera performances.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The tweet is a response to Greta Thunberg, implying that it's in reference to her movement and concerns about climate change.
+- The question posed by the author mentions opera artists not being able to fly anymore, which seems related to potential travel restrictions due to environmental concerns.
+
+The most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

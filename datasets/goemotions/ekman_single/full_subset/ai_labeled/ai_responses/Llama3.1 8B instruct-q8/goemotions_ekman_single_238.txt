@@ -1,0 +1,33 @@
+Record: "That was glorious."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "glorious", which has a positive connotation.
+* There is no indication of negative emotions such as anger, disgust, fear, or sadness.
+* The tone appears enthusiastic and celebratory.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "glorious", which typically has a positive connotation.
+* There is no indication of criticism, complaint, or negativity in the text.
+* The tone appears celebratory and enthusiastic.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The word "glorious" is often associated with excitement and triumph.
+* There is no negative language or tone in the sentence, suggesting that the speaker is not expressing displeasure or disapproval.
+
+Given these considerations, I would conclude that the speaker is likely feeling a strong positive emotion. This aligns with the definition of **joy**, which includes emotions such as pleasure, happiness, and approval.
+------------------------------------------------------------------------------------------------------------------------
+

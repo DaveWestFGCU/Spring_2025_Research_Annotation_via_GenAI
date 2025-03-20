@@ -1,0 +1,62 @@
+Record: "Yeah I know u irl you look like ur 36."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker's tone appears to be mocking or teasing.
+* The comment is directed at someone they claim to know in real life (u/irl), implying a personal relationship or familiarity with the person.
+* The comment contains a comparison, stating that the person looks older than their age.
+
+Given these points, the most relevant emotion label for this speaker's tone is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone appears to be mocking or teasing.
+* The language used is informal and slightly derogatory ("u" instead of "you", "irl" for "in real life").
+* The comment seems to be making a comment about the other person's appearance.
+
+Given these points, the most relevant emotion label would be:
+
+**disgust**
+ 
+This classification is based on the speaker's apparent distaste or revulsion towards the person they are commenting on. Although anger could also be a possible interpretation, the tone of the comment seems more dismissive and mocking than angry.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is informal and slightly mocking.
+* The speaker is addressing someone they claim to know in real life ("u irl").
+* They make a comment about the person's appearance, specifically their age.
+
+Given these points, it appears that the speaker is making a lighthearted but also somewhat critical or teasing remark. 
+
+**surprise**
+
+However, given the tone and content of the comment, it seems more likely that the speaker is being playful rather than genuinely surprised. But among the options provided, **surprise** might be the closest match due to the unexpected nature of the comment.
+
+A closer examination suggests an alternative emotion label: **anger**'s related categories (disapproval or annoyance) are at play here, as the speaker seems to be making a slightly mocking remark about the person's appearance. 
+
+An alternative choice is: **disgust**, but that would imply stronger revulsion than what the comment conveys.
+
+Another possible interpretation is that the speaker's tone could be seen as somewhat **anger**ous due to the teasing or mocking nature of the comment, despite its lighthearted tone.
+
+However, considering the context and tone, a more fitting label might actually be: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The tone of the comment seems mocking and condescending.
+* The language used implies that the speaker has made an assumption about the person's appearance, specifically their age.
+* The tone does not express empathy or concern for the other person.
+
+Given these points, the most relevant emotion label is **disgust**, as the speaker's tone appears to be one of revulsion or strong disapproval towards the person they are referring to.
+------------------------------------------------------------------------------------------------------------------------
+

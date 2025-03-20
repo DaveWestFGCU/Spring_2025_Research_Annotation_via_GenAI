@@ -1,0 +1,62 @@
+Record: "Thank goodness for that!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The sentence given is "Thank goodness for that!" 
+
+First, I'll break down the words used. "Thank" usually indicates gratitude or appreciation, which falls under positive emotions. "Goodness" suggests something favorable or fortunate. Putting it together, the speaker seems to be expressing relief or happiness about a situation.
+
+Looking at the emotion categories: joy includes feelings like gratitude and happiness, which fit here. The phrase doesn't show any signs of anger, disgust, fear, sadness, surprise, or neutrality. It's clearly a positive expression.
+
+So, the most relevant emotion is joy.
+</think>
+
+The speaker expresses relief and gratitude, which indicates joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion the speaker is expressing with their comment. The sentence given is: "Thank goodness for that!" 
+
+First, let me break down what this phrase means. "Thank goodness" is an expression of gratitude or relief. When someone says something like that, they're usually reacting positively to a situation where things turned out better than expected or after some difficulty.
+
+Looking at the emotion categories provided:
+
+- Anger: Doesn't seem to fit because there's no sign of displeasure or antagonism here.
+- Disgust: Again, no indication of revulsion or disapproval.
+- Fear: The speaker doesn't appear worried or anxious; instead, they're expressing a positive feeling.
+- Joy: This seems like a possible match. Gratitude and relief can fall under joy as per the definition provided.
+- Sadness: There's no sorrow or disappointment in this statement.
+- Surprise: While "thank goodness" might be a reaction to something unexpected, surprise is more about astonishment rather than gratitude.
+- Neutral: Definitely not neutral since there's an expressed emotion.
+
+So, considering all these, the emotion here is joy because the speaker is expressing relief and gratitude. They're happy that whatever situation they were referring to has a positive outcome.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The sentence given is "Thank goodness for that!" Alright, let me break this down.
+
+First, I know the possible emotions are anger, disgust, fear, joy, sadness, surprise, and neutral. So, I'll go through each one and see which fits best.
+
+"Thank goodness" is a common expression used when someone is relieved or happy about something positive happening. It usually comes from feeling grateful or pleased because things turned out better than expected. For example, if someone was worried about something and then it didn't happen, they might say "Thank goodness!" So that sounds like joy because joy includes feelings of happiness and relief.
+
+Looking at the examples provided for each emotion: Joy's examples include gladness and expressions of approval or pleasure. The speaker here is expressing gratitude and relief, which aligns with joy.
+
+I don't think it's surprise because there's no indication of something unexpected happening. It's more about a positive outcome they're happy about. Fear? No, fear would involve worry or anxiety, not relief. Sadness is about sorrow, so that doesn't fit either. Disgust and anger are negative emotions, which don't match the tone here.
+
+Neutral is when there's no emotion expressed, but clearly, "Thank goodness" has a positive connotation, so it's definitely not neutral.
+
+So, putting it all together, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

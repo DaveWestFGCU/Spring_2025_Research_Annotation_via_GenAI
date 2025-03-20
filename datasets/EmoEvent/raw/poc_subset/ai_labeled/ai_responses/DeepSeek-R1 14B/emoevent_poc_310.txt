@@ -1,0 +1,48 @@
+Record: "Yep California, I would've been surprised if they cleared him."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me figure out how to classify this tweet. The user wants me to determine the emotion conveyed by the author using only the given list: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet: "Yep California, I would've been surprised if they cleared him." 
+
+The key word here is "surprised". The author is expressing that getting surprised was expected regarding someone being cleared. So, the emotion being conveyed is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I have to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "Yep California, I would've been surprised if they cleared him." 
+
+First, let me parse what the tweet is saying. The author is responding to something about California and expressing their reaction. They're saying that it wouldn't have been a surprise if someone (probably a public figure) was cleared of something—maybe an accusation or charge.
+
+The key word here is "surprised." That immediately makes me think of the surprise emotion category. But I should check if there's any other possible emotion involved.
+
+Looking at the context, "I would've been surprised if they cleared him" suggests that it was expected that he wouldn't be cleared, so the surprise comes from the unexpected outcome. It doesn't seem to indicate anger or disgust because those emotions usually have more intense language. Fear might not apply here unless there's a sense of worry, but that's not evident. Sadness could be involved if there's disappointment, but the primary emotion expressed is about being surprised.
+
+So, considering all this, the emotion conveyed here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I have this tweet to classify into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "Yep California, I would've been surprised if they cleared him." 
+
+First, I need to understand the context and the sentiment here. The author is talking about an event where someone (maybe a public figure) was cleared of something, perhaps an accusation or charge. They're saying that being surprised by this outcome suggests that it wasn't expected.
+
+The key word here is "surprised." That immediately points towards the surprise category. But I should check if there's any underlying emotion that might be more prominent than just surprise. Sometimes people use "surprise" to mask other emotions like anger or disappointment, but in this case, the statement seems straightforward.
+
+Looking at the structure: "I would've been surprised if they cleared him." The implication is that it was unexpected for them to be cleared, which aligns with surprise. There's no indication of any negative emotion like anger or disgust; it's more about the unexpectedness of the situation.
+
+So considering all options, surprise seems to fit best because the author explicitly mentions being surprised by the outcome.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

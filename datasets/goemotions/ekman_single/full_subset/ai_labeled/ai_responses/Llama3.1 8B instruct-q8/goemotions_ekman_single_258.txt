@@ -1,0 +1,40 @@
+Record: "This video is so very Polish."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be expressing a positive opinion about something.
+* They use an adjective ("Polish") that suggests cultural appreciation.
+* There's no indication of any negative emotions, criticism, or conflict.
+
+Given these observations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's tone and language suggest they are expressing admiration and approval for something (the video), which aligns with the joy category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is light and casual.
+* There is no apparent criticism or negativity towards anything.
+* The word "Polish" is used as an adjective to describe something positive about a video.
+
+Given these considerations, the speaker seems to be expressing admiration or appreciation for the Polish aspect of the video. 
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the sentence seems casual and matter-of-fact.
+* There are no negative words or phrases that convey strong emotions like anger, disgust, fear, or sadness.
+* The phrase "so very" could imply a sense of admiration or appreciation.
+
+Given these considerations, I would label the emotion as **joy**. The speaker's comment appears to be a positive and approving statement about the video being Polish, suggesting that they enjoy or appreciate it in some way.
+------------------------------------------------------------------------------------------------------------------------
+

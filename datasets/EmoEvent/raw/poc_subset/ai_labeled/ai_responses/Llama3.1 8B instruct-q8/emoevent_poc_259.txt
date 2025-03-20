@@ -1,0 +1,36 @@
+Record: "Some aren't. Either way it's a mystery how they obrained so many M1s."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Points to consider:
+- The tweet is expressing frustration or puzzlement at something specific (obtaining many M1s).
+- There is no indication of strong negative emotions like fear, disgust, or anger towards people in general.
+- The tone seems more confused and possibly slightly annoyed than happy.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet appears to be critical or questioning.
+* The author seems to be expressing skepticism about how certain individuals obtained a large number of M1s (a specific type of firearm).
+* There is no apparent display of strong emotions like anger, fear, or disgust.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+Note that while not explicitly stated in the text, the tone suggests annoyance, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is neutral/inquiring rather than strongly emotional.
+* The author seems to be questioning or expressing puzzlement about a situation, rather than expressing a strong emotion.
+
+Given these points, the most relevant emotion label is: **surprise**. The author appears to be surprised by the fact that some people have obtained many M1s, and is expressing this surprise through their tone of inquiry.
+------------------------------------------------------------------------------------------------------------------------
+

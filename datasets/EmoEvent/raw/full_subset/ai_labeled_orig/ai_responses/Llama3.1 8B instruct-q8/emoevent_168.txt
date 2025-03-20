@@ -1,0 +1,41 @@
+Record: "Am I the only one who thinks what is happening in #venezuela is a major #wagthedog situation?  U.S. on one side Russia on the other.  Prince with his mercenaries.  This seems to be a distraction that will potentially cost American lives and tax payer $."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a "major #wagthedog situation", implying a deception or manipulation by a powerful entity (US, Russia, etc.)
+* The author expresses concern for potential consequences of this situation, specifically American lives and taxpayer dollars
+* The tone is critical and skeptical towards the US involvement in Venezuela
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's tone suggests annoyance and outrage at what they perceive as a deceitful and potentially costly intervention.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author questions whether they are alone in their opinion, implying a sense of doubt or skepticism.
+* They use phrases like "major #wagthedog situation" and "potential distraction", which convey a critical tone.
+* The mention of potential consequences for American lives and tax payer dollars suggests concern and worry.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The author's use of the phrase "Am I the only one" implies that they find it surprising or unexpected that others may not share their opinion. Additionally, their critical tone and concern for potential consequences suggest a sense of surprise at the unfolding events in Venezuela.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author expresses skepticism about the situation in Venezuela, comparing it to a "wag the dog" scenario (a phrase meaning a diversion from more important issues).
+* The author mentions potential negative consequences for Americans, including loss of life and financial burden.
+* The tone is critical of the U.S. involvement in the conflict.
+
+Based on these points, the author's intended emotion is **anger**, as they are expressing frustration and disapproval towards the situation, particularly with regards to the involvement of powerful nations and mercenaries.
+------------------------------------------------------------------------------------------------------------------------
+

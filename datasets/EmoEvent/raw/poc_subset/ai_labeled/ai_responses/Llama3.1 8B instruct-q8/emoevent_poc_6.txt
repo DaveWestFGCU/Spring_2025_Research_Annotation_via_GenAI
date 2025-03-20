@@ -1,0 +1,35 @@
+Record: "She got me into it so not wrong lol"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the emotion in this tweet, consider the following points:
+
+* The author is referencing a situation that they were involved in due to someone else's actions.
+* They use the phrase "not wrong" which can be interpreted as a neutral or even positive statement.
+* The inclusion of "lol" at the end suggests that the author finds some humor in the situation.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author seems to be referencing a situation or activity they were involved in.
+* The phrase "not wrong" suggests that the author is taking responsibility for their involvement.
+* The use of "lol" at the end indicates a lighthearted or playful tone.
+
+Given these points, it appears that the author is expressing **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet appears to be a response or comment on something that happened.
+* The phrase "not wrong" is followed by "lol", which is an abbreviation for "laugh out loud".
+* The tone seems lighthearted and casual.
+
+Given these points, the most relevant emotion label is:
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+Record: "Such a cool pic! Really wish the moon was in the dead middle though 🙃🙃"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses enthusiastic language ("Such a cool pic!") indicating a positive tone.
+* They express a slight disappointment with the photo's composition, specifically wishing the moon were centered.
+* The use of smiling face emojis (🙃🙃) suggests a lighthearted and playful attitude.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker appears to be expressing genuine enthusiasm and appreciation for the photo, tempered by a minor disappointment. This combination of positive emotions with a hint of mild dissatisfaction aligns with the characteristics of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts their comment with "Such a cool pic!", indicating that they are making a positive statement.
+* They express a slight disappointment or regret with the placement of the moon, using the phrase "Really wish".
+* They use emojis (🙃🙃) at the end, which often convey a lighthearted and playful tone.
+
+Given these points, it is clear that the speaker is expressing a minor annoyance or disappointment, but overall their comment is positive and not strongly negative.
+
+**joy**
+
+The speaker's initial statement about the picture being "cool" suggests a sense of admiration and approval, which falls under the joy category. Their subsequent expression of regret about the moon's placement does not significantly alter the overall tone of the comment, which remains lighthearted and positive.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses positive language, such as "cool" and "wish," indicating a favorable attitude towards the situation.
+* They express a desire for something specific (the moon being in the dead center of the picture), which suggests they are enthusiastic about the photo.
+* The use of emojis 🙃🙃 adds a lighthearted tone to their comment.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's positive language and enthusiasm for the photo suggest that they are feeling joy or happiness.
+------------------------------------------------------------------------------------------------------------------------
+

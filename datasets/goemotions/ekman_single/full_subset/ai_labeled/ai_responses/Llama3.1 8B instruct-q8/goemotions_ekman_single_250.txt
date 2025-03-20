@@ -1,0 +1,37 @@
+Record: "> and no one but angry community fanboys have pushed back against his statements."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing frustration towards "angry community fanboys" who are defending someone's statements.
+* The tone of the statement suggests that the speaker finds their behavior or attitude to be problematic.
+* The use of the phrase "fanboys" implies a sense of annoyance and exasperation.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker implies that some people have not been critical of someone's statements.
+* They use the term "angry community fanboys" in a derogatory manner, which suggests a negative tone.
+
+Given these points, the emotion most relevant to the speaker's sentiment is **anger**, as they appear to be frustrated or upset by the lack of criticism and are directing their emotions towards those who have not pushed back.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions "angry community fanboys", which implies that they are contrasting a certain group of people with the speaker's own perspective.
+* The phrase "pushed back" suggests that the speaker is disagreeing or contesting someone's opinions or statements.
+* The tone appears to be critical and dismissive towards one particular group.
+
+Given these points, the most relevant emotion label for this text is:
+
+**anger**
+
+The speaker seems to be expressing a sense of disapproval or annoyance towards the "angry community fanboys" who are pushing back against someone's statements. This indicates a strong negative feeling, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

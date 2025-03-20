@@ -1,0 +1,59 @@
+Record: "Looks like modern art tbh but its good"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a phrase commonly associated with expressing disapproval or dislike ("looks like modern art"), which might suggest a negative tone.
+* However, the speaker immediately follows this statement with a positive phrase ("but its good"), indicating that they actually appreciate the subject.
+
+Given these considerations, the most relevant emotion label is:
+
+**neutral**
+ 
+Although the speaker's comment starts off in a somewhat critical manner (like modern art), it quickly resolves into a neutral or even slightly positive assessment ("but its good"). The tone remains matter-of-fact and doesn't express strong emotions like anger, disgust, fear, joy, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "looks like modern art," which often implies that something is confusing, pretentious, or unimpressive.
+* However, they immediately follow this statement with "tbh" (to be honest), suggesting a slightly more genuine tone.
+* They then conclude their comment by saying "its good," indicating a somewhat positive assessment of the subject.
+
+Given these points, the speaker's tone appears to be playful and tongue-in-cheek, rather than genuinely angry or disgusted. While they might be poking fun at modern art, there is no indication that they are truly upset or offended.
+
+Most relevant emotion label: **joy**
+
+The speaker's use of "tbh" and their conclusion with "its good" suggests a lighthearted and approving tone, which aligns with the joy category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is referring to something as "modern art", which is often perceived as pretentious or overhyped.
+* The use of "tbh" (to be honest) suggests a tone that could be ironic, sarcastic, or ambivalent.
+* The phrase "its good" seems to soften the initial criticism, indicating that despite initial reservations, the speaker actually finds value in what they're looking at.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's tone and language suggest a mix of skepticism (due to the modern art reference) and appreciation (with "its good"). This contrast implies a sense of surprise or even delight at discovering something that exceeded their initial expectations.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker uses the phrase "modern art," which often carries a negative connotation.
+* However, they immediately follow it with "tbh" (to be honest), which suggests that their intention is not to be completely dismissive or negative.
+* They then express a positive sentiment by stating that the thing in question ("it") is "good."
+
+Given these points, it seems that the speaker is expressing a neutral-to-positive tone. However, they are also using a phrase that is often associated with irony or sarcasm.
+
+**neutral**
+
+Note: While the speaker's tone may be playful or ironic, the overall sentiment expressed is more akin to a matter-of-fact observation rather than a strong emotion.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "Quit serving money and [NAME] will feed you."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is direct and assertive.
+* The language used implies a sense of warning or threat.
+* The phrase "[NAME] will feed you" suggests that the speaker is offering an alternative to what they perceive as an undesirable situation.
+
+Based on these considerations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the points to consider:
+
+* The tweet appears to be a warning or threat rather than a statement of fact.
+* The use of the phrase "serve" implies a relationship between the person being addressed (likely an employee or subordinate) and the speaker, with the speaker holding power over them.
+* The tone is assertive and commanding.
+
+Based on these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a statement from someone who appears to have control or influence over food provision.
+* The tone is direct and assertive.
+* The use of the phrase "feed you" implies that the author has the ability to provide sustenance.
+
+Given these points, it seems that the author intends to convey **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

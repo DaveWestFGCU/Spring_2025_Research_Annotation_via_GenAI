@@ -1,0 +1,39 @@
+Record: "Huh. Similar things happen to me. Just my big brother believe that I got the wrong diagnoses and Dad think I am "cured"."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a disagreement with family members about their health diagnosis.
+* The tone appears neutral, but slightly dismissive or matter-of-fact.
+* The use of "huh" at the beginning suggests a sense of non-chalance or indifference.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a situation where their diagnosis is questioned by family members.
+* They express a sense of recognition or shared experience ("Huh, similar things happen to me").
+* The tone seems casual and matter-of-fact.
+
+Based on these observations, the most relevant emotion label is:
+
+**sadness**
+
+This classification is based on the author's casual and resigned tone when discussing their family members' doubts about their diagnosis. The mention of being questioned by family members may evoke feelings of sadness or frustration, rather than any other listed emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a personal experience involving medical diagnoses.
+* They express uncertainty with phrases like "huh" and "Similar things happen to me", indicating a sense of confusion or skepticism.
+* The author quotes their big brother as believing they have the wrong diagnosis, which suggests a negative interaction or conflict.
+* The father's attitude is also mentioned as dismissive, using the term "cured".
+
+Given these points, the most relevant emotion label appears to be **sadness**, likely due to the author's uncertain and potentially un-supported medical situation, as well as the negative interactions with their family members.
+------------------------------------------------------------------------------------------------------------------------
+

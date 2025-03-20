@@ -1,0 +1,44 @@
+Record: "Leo oh Leo. Totally out of the world. The god of the game. 600 goals for the man. And one free kick from top tier. #Dios #BarçaLFC #FCBLIV #FCBLive #ChampionsLeague #SemiFinals #UCL #UEFAChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is written in a celebratory tone, using words and phrases such as "out of the world", "god of the game", and "totally".
+* The author is expressing admiration for a football player named Leo.
+* There are several hashtags related to football clubs and competitions.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The tweet appears to be written in a enthusiastic and admiring tone, indicating that the author is feeling joy or excitement about Leo's achievements.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is enthusiastic and admiring.
+* The language used is superlative, with words like "out of the world", "god of the game", and "totally".
+* The mention of a remarkable achievement ("600 goals for the man") suggests excitement and awe.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+ 
+The author's intent is to express admiration and celebration of Leo's incredible achievement, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is celebratory and admiring, with the author using superlatives such as "totally out of the world" and "god of the game".
+* The language used is enthusiastic and praise-worthy, with no negative or critical comments.
+* The hashtags suggest a connection to football (soccer), Barcelona, Liverpool FC, and the Champions League.
+
+**joy**
+
+The tweet's tone and language are consistent with expressing joy and admiration for a remarkable achievement in football.
+------------------------------------------------------------------------------------------------------------------------
+

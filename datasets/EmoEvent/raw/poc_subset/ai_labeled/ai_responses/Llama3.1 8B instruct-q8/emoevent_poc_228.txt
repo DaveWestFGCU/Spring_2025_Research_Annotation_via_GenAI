@@ -1,0 +1,39 @@
+Record: "Right? That's news to me. I'll be excited when that happens, I wonder how that works."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author expresses skepticism or doubt ("That's news to me")
+* They express a future positive emotion ("I'll be excited when that happens")
+* They display curiosity about the situation ("I wonder how that works")
+
+Given these points, the most relevant emotion label is **surprise**, as the author appears to be surprised by new information and is expressing a mixture of skepticism and curiosity.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider given the text:
+
+* The author expresses skepticism about a recent piece of information they've just learned.
+* They indicate that they will be happy or enthusiastic once the situation changes.
+* They seem curious about the details behind this new development.
+
+Given these points, the most relevant emotion label is:
+**surprise**
+
+The author's tone suggests that they are taken aback by the news and are seeking clarification on the details, which aligns with the emotion of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider and the most relevant emotion label:
+
+* The author expresses skepticism or uncertainty about a piece of information ("That's news to me").
+* They also express a lack of current excitement or enthusiasm for the situation.
+* However, they mention being excited in the future when something happens.
+
+**surprise**
+
+The author seems to be surprised by the new information and is responding with a mix of skepticism and curiosity. Their tone suggests that this is unexpected news, but they're not yet showing strong emotions about it.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "Mad respect for Deborah Riley the production designer of #GameOfThrones this woman designs the set.. thats mad!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing admiration and appreciation for Deborah Riley's work.
+* The use of phrases such as "mad respect" and "that's mad" implies a strong positive emotion.
+* There is no negative language or tone present in the tweet.
+
+Based on these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text mentions a positive experience with Game of Thrones.
+* The author uses enthusiastic language ("mad respect", "that's mad!").
+* The tone is celebratory and admiring.
+
+Most relevant emotion label: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about a specific person, Deborah Riley, and her work as a production designer on Game of Thrones.
+* The tone is positive and appreciative.
+* The language used includes an exclamation mark and phrases like "mad respect" and "that's mad", which suggest enthusiasm and admiration.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

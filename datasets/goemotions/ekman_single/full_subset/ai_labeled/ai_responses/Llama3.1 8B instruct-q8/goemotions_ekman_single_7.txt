@@ -1,0 +1,37 @@
+Record: "You can't be serious."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To identify the emotion most people will feel the speaker may be feeling, I consider the following points:
+
+* The phrase "You can't be serious" implies that the speaker is shocked or incredulous about something.
+* The tone of the sentence suggests a strong reaction, but it's not explicitly aggressive or hostile.
+* The speaker is expressing skepticism or doubt, rather than outright disapproval.
+
+Given these considerations, I believe the most relevant emotion label is **surprise**. The phrase "You can't be serious" is often used to express surprise or astonishment at someone's statement or behavior, and it implies a sense of incredulity that something could be true or happening.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be expressing disbelief or incredulity at something.
+* The tone of the statement is short and direct, without any elaboration or explanation.
+* There's no apparent emotional intensity or aggression in the language used.
+
+Given these considerations, I would say that the emotion most people will feel the speaker may be feeling is **surprise**. The speaker seems to be expressing astonishment or incredulity at something they've just heard or seen, which aligns with the definition of surprise as a feeling of being astonished or startled by something unexpected.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The phrase "can't be serious" implies that the speaker finds the other person's statement or suggestion ridiculous or unbelievable.
+* The tone is abrupt and dismissive, which may indicate strong negative emotions.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's response suggests they are taken aback by the other person's statement, implying a sense of astonishment or disbelief. This aligns with the definition of surprise as feeling astonished, startled, or bewildered by something unexpected.
+------------------------------------------------------------------------------------------------------------------------
+

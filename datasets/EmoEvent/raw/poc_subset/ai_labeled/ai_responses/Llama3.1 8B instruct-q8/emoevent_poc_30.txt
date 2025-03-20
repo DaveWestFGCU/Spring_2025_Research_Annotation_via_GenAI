@@ -1,0 +1,39 @@
+Record: "So thankful for the conclusion. Having no idea how this played out was definitely going to haunt me"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions being "thankful" which indicates a positive sentiment.
+* However, they also mention being "haunted" by not knowing the outcome, which implies a sense of relief or tension release.
+* The tone is more introspective than overtly emotional.
+
+Given these considerations, the most relevant emotion label is:
+
+**relief/satisfaction**, but it's not among the options. The closest match would be **joy**, as the author seems to be relieved that the uncertainty has ended and they can now move forward with a sense of closure.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions being "thankful" which suggests a positive sentiment.
+* However, they also mention that not knowing the outcome "was definitely going to haunt" them, implying a negative emotional consequence.
+* The use of "haunt" implies a sense of anxiety or unease.
+
+Given these points, the most relevant emotion label is:
+
+**fear**
+(Fear includes apprehension and anxiety, which aligns with the author's implied worry about not knowing the outcome.)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions being thankful for a conclusion, implying relief.
+* They also mention the uncertainty of an outcome having a negative impact on them.
+* The use of "haunt" suggests a lingering and potentially unpleasant experience.
+
+Given these points, the most relevant emotion label is **fear**.
+------------------------------------------------------------------------------------------------------------------------
+

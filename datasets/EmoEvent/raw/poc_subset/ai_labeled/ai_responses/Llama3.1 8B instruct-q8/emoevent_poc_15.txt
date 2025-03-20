@@ -1,0 +1,43 @@
+Record: "I got over 900 responses, so it is taking more time that I expected, hopefully will be done by this Sunday."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions a delay in completing something they are working on.
+* They mention an expectation ("hopefully") of meeting a deadline (this Sunday).
+* There is no language indicating strong negative emotions or excitement.
+
+Given these points, the author's tone appears to be calm and slightly frustrated, but not excessively so. This suggests that the emotion label should reflect a sense of anticipation or mild disappointment rather than intense negative feelings like anger or fear.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a delay in completing something
+* They express hope for a specific deadline (this Sunday)
+* There's no overtly negative language or emotional tone
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+
+This classification comes from the fact that the tweet implies a delay and a missed expectation, which can evoke feelings of disappointment, frustration, or sadness in the author.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a delay in their project or task ("taking more time than I expected")
+* They express a sense of uncertainty about meeting the deadline ("hopefully will be done by this Sunday")
+* There is no mention of strong negative emotions such as anger, disgust, fear, or sadness
+* The tone seems to be one of caution and polite expectation rather than excitement or anxiety
+
+**sadness**
+ 
+The author's expression of a delay and uncertainty about meeting the deadline suggests a sense of disappointment or frustration, which falls under the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

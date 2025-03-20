@@ -1,0 +1,54 @@
+Record: "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint. #NotreDameCathedralFire"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet: "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint. #NotreDameCathedralFire"
+
+The author is making a sarcastic comment, pointing out that while Notre-Dame Cathedral received a lot of funding, there are still people in need like the homeless and impoverished. The use of words like "bet," "relieved," and "skint" (which means short of money) shows irony and mockery towards the situation.
+
+Sarcasm often conveys disgust or frustration. Here, the author is expressing disdain for the disparity between the funds raised for the cathedral and the needs of the less fortunate. They're not happy about the situation; instead, they're showing dislike towards how resources are being allocated.
+
+So, the emotion here is disgust because it's a reaction to something perceived as unfair or repulsive.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint."
+
+The author is making a sarcastic comment about the situation. They're suggesting that the poor would be relieved, which doesn't make sense because if Notre-Dame Cathedral was destroyed, it's unlikely they'd feel relief. The mention of the Catholic Church being "so skint" (a slang term meaning broke or short on money) adds to the sarcastic tone.
+
+Sarcasm and irony often convey disgust or frustration. Here, the author is expressing frustration towards how resources are prioritized, possibly showing disgust at the situation where a wealthy institution like the Catholic Church receives so much attention and funds, while the homeless might not get as much support. Alternatively, it could also be seen as anger, but given the categories, I think disgust fits better because it's more about disapproval or aversion towards the perceived unfairness.
+
+So, the emotion here is likely disgust.
+</think>
+
+The tweet uses sarcasm to criticize the prioritization of funds for Notre-Dame over the needs of the homeless. This conveys **disgust** due to the frustration and disapproval expressed.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet says, "I bet all the homeless and impoverished people in Paris and around the world are relieved that so much money could be raised so quickly for such an important cause. Especially as the Catholic Church is so skint." The user mentions homelessness and poverty, pointing out irony because while Notre-Dame got a lot of funds, others are struggling. 
+
+The emotion here seems to be more about frustration or disappointment. But looking at the categories, "anger" includes annoyance and rage, which fits. The sarcastic tone suggests irritation towards the situation.
+
+Wait, could it be disgust? Maybe, but disgust is more about feeling something is wrong or repulsive. Here, it's more about being annoyed by what's happening.
+
+So I think anger is the best fit.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

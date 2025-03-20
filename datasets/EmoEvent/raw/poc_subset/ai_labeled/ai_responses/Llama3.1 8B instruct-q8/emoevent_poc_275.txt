@@ -1,0 +1,36 @@
+Record: "I wish they had what they advertised. The end of that era was sometime in my teens."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet expresses a sense of disappointment and longing for something lost.
+* The author mentions an "era" coming to an end, which implies a nostalgic tone.
+* There is no indication of anger, disgust, or surprise in the language used.
+
+Given these considerations, the most relevant emotion label is **sadness**. The author's tone is melancholic and reflective on something that has passed, indicating a sense of loss or longing.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Points to consider:
+
+* The author is expressing a sense of disappointment and loss.
+* They are referring to something that did not meet their expectations.
+* There is no mention of strong negative emotions such as anger, disgust, or fear.
+
+Given these points, the most relevant emotion label is: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author expresses a sense of disappointment or unfulfilled expectation.
+* They mention an advertisement, implying a promise was made but not kept.
+* The phrase "the end of that era" suggests a nostalgic tone.
+
+Given these considerations, the most relevant emotion label is: **sadness**
+
+This classification is based on the author's expression of disappointment and loss (implied by "the end of that era") which are both aspects of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

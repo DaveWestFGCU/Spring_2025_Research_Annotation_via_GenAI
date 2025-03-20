@@ -1,0 +1,52 @@
+Record: "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. Let me read the comment again: "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them." 
+
+Hmm, breaking this down. The speaker is talking about two people they refer to as "inflated peacocks" which might mean they think those people are vain or attention-seeking. Using words like "dumb" and "disgusting look" indicates negative feelings towards these individuals. So, the speaker is clearly expressing dislike or distaste.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. The words "dumb" and "disgusting" point towards disgust because they show revulsion or strong disapproval. Disgust usually involves finding something unpleasant or offensive, which fits here since the speaker is using those terms to describe others' appearance.
+
+Wait, could it be anger? Anger is more about displeasure or antagonism. While the speaker does express dislike, the use of "disgusting" leans more towards disgust than pure anger. There's no indication of fear, joy, sadness, surprise, or neutral here. The focus is on disapproval and revulsion.
+
+So yeah, I think the emotion is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out which emotion the speaker is feeling based on this Reddit comment. The comment says, "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them." 
+
+First, let's break down what's being said here. The speaker refers to two people as "inflated peacocks" which sounds like a metaphor or maybe a way to mock them. Using words like "dumb" and "disgusting look in their face" clearly shows negative feelings towards these individuals. So, that points more towards anger or disgust.
+
+Looking at the emotion categories: anger involves displeasure or antagonism, while disgust is about revulsion or strong disapproval. The word "disgusting" directly relates to disgust, but the speaker also expresses a dislike with words like "dumb," which could tie into anger as well.
+
+However, the mention of not being the gender evaluating them might be implying that they're not in a position to judge or that others are responsible for assessing these people. This adds context but doesn't change the primary emotion expressed, which is still negative towards the peacocks.
+
+Between anger and disgust, the use of "disgusting" seems more indicative of disgust rather than just anger. So I think the emotion here is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion behind this Reddit comment. The speaker says, "I just see two inflated peacocks with a dumb and disgusting look in their face. But unfortunately I am not the gender evaluating them." Let me break this down.
+
+First, the mention of "inflated peacocks" might be a metaphor or slang for something else, maybe people who are seen as boastful or pretentious. The words "dumb" and "disgusting" clearly carry negative emotions. Using "dumb" suggests someone is foolish or unintelligent, while "disgusting" indicates strong dislike or aversion.
+
+The second sentence seems to be a play on words regarding gender evaluation, but it's a bit confusing. Maybe the speaker is implying that they don't feel qualified to judge others based on their own gender identity? Or perhaps they're deflecting criticism by pointing out their lack of authority to evaluate others.
+
+Putting this together, the strong negative adjectives like "dumb" and "disgusting" point towards feelings of anger or disgust. Since "disgust" is specifically about revulsion or disapproval, it might fit better here because the speaker seems to be expressing strong dislike towards the people described as peacocks.
+
+I should consider if it's fear, but there's no indication of being afraid. Joy and surprise are clearly not present either. Sadness might involve more sorrow or disappointment, which isn't exactly captured here. The main emotion seems to be disgust because of the explicit use of "disgusting" and the overall negative tone towards others.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

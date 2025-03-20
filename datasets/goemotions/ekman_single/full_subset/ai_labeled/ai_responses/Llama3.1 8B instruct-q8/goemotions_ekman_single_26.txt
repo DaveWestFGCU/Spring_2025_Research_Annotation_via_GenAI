@@ -1,0 +1,40 @@
+Record: "That's capitalism for you, don't worry though. There's another recession on the way."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be commenting on a social or economic issue related to capitalism.
+* They use a phrase "don't worry though" which could indicate a tone of resignation or cynicism.
+* They mention an impending recession, which suggests they have a negative outlook.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+ 
+The speaker's comment seems to convey a sense of despair and hopelessness about the economic system, which aligns with the definition of sadness as emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions a negative aspect of capitalism ("recession").
+* However, they use a somewhat dismissive and matter-of-fact tone ("don't worry though").
+* They seem to be commenting on a larger economic issue rather than expressing personal concern or anxiety.
+
+Most relevant emotion label: **neutral**
+
+The speaker's comment comes across as observational and detached, rather than emotionally invested in the topic. The mention of a recession is presented as a neutral fact, without any apparent emotional response from the speaker.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement seems somewhat dry and matter-of-fact.
+* The speaker appears to be accepting of the situation rather than expressing outrage or concern.
+* The phrase "don't worry though" could be seen as slightly sarcastic, but it's more likely intended to convey a sense of resignation.
+
+Given these points, the emotion that best fits this statement is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

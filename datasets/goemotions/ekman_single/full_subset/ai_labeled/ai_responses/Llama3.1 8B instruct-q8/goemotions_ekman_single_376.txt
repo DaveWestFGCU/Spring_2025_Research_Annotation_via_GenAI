@@ -1,0 +1,58 @@
+Record: "Funny how it do"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "Funny how" which can be an expression of irony or sarcasm.
+* The tone of the sentence seems somewhat casual and dismissive, with no strong emotional language used.
+* The commenter is responding to a previous post or comment, suggesting they are reacting to something that has been said.
+
+Given these points, I would say the speaker's emotion is likely **neutral**, as there is no clear indication of strong feeling or emotional tone in their response.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is informal and casual.
+* The sentence appears to be a brief response to someone else's comment or post.
+* There is no explicit language or content that suggests strong emotions like anger, disgust, fear, or sadness.
+* The phrase "Funny how it do" seems to convey a sense of lightheartedness and playfulness.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The speaker's use of the word "funny" implies amusement or delight, which aligns with the definition of joy. Additionally, the casual tone and brevity of the response suggest a lighthearted and positive emotional state.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement is brief and lacks explicit emotional language.
+* The phrase "Funny how" can be an idiomatic expression indicating irony, sarcasm, or surprise.
+* The lack of a clear subject for the humor implies that the speaker might be commenting on something unexpected or ironic.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+
+The comment's brevity and use of "Funny how" suggest a tone of mild astonishment or irony, which aligns with surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The tone of the sentence seems casual and somewhat sarcastic.
+* The speaker is responding to a situation or a previous comment with a seemingly ironic remark.
+* There's no apparent anger, disgust, fear, sadness, or surprise in the tone.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The reason for this choice is that the speaker seems to be expressing amusement or playfulness, which falls under the category of joy. The use of "Funny how it do" with a casual and somewhat sarcastic tone suggests a lighthearted and humorous intent, which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+

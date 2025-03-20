@@ -1,0 +1,70 @@
+Record: "Is that his thing? (I honestly don't know what his thing is)"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Is that his thing? (I honestly don't know what his thing is)". Let's break this down.
+
+First, I'll look at the words used. The speaker is asking a question and then expressing uncertainty. They mention not knowing something about someone else. This seems more like confusion or maybe curiosity rather than any strong emotion.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. None of these seem to fit because the comment isn't expressing a strong feeling like anger or joy. It's more about not knowing something, which is more neutral.
+
+The speaker doesn't express any positive or negative feelings here. They're just stating they don't know, so there's no indication of happiness, sadness, fear, etc. It's an honest statement without any emotional charge.
+
+So, considering all this, the emotion is likely 'neutral' because there's no expressed feeling beyond uncertainty.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment. The comment is: "Is that his thing? (I honestly don't know what his thing is)" 
+
+First, let me break this down. The speaker is responding to something someone else said or did, probably in a Reddit post or another comment. They're asking if that's the other person's "thing," which I think refers to their usual behavior or habit. Then they admit they don't know what his thing is.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The speaker doesn't express any strong positive or negative feelings here. They're asking a question and stating that they don't know something about the other person. This seems more like curiosity or confusion rather than any of the specific emotions listed.
+
+Curiosity is part of surprise because it's about being astonished or confused by something unexpected. So maybe surprise is the emotion here. But wait, the speaker isn't expressing shock or astonishment; they're just stating that they don't know. That sounds more neutral because there's no clear positive or negative emotion.
+
+Alternatively, could it be sadness? No, because there's no indication of sorrow or disappointment. Fear? There's no sign of worry or anxiety. Joy? Definitely not, since there's no happiness expressed. Disgust and anger are out too because there's no厌恶 or displeasure.
+
+So between surprise and neutral. Since the speaker is expressing confusion about someone else's behavior, it's more on the lines of surprise but maybe leaning towards neutral because they're just stating a lack of knowledge without any strong emotion.
+
+But wait, in the examples provided, surprise includes curiosity and realization. The speaker seems to be realizing that they don't know something, which might fit under surprise as a feeling of being confused or astonished by their own ignorance.
+
+However, since the comment is more about not knowing rather than reacting strongly, maybe it's actually neutral because there's no expressed emotion—just an observation.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "Is that his thing? (I honestly don't know what his thing is)." Let me break this down.
+
+First, the structure of the sentence: the speaker starts with a question about whether something is someone's 'thing.' Then they add in parentheses that they don't know what his 'thing' is. The word "honestly" suggests they're being sincere or perhaps a bit exasperated.
+
+Looking at the emotion categories:
+
+- Anger: The comment doesn't show any signs of dislike or irritation.
+- Disgust: There's no mention of anything unpleasant or strong disapproval.
+- Fear: No indication of worry or nervousness.
+- Joy: Doesn't seem happy or excited.
+- Sadness: No sorrow or disappointment detected.
+- Surprise: They express uncertainty but not astonishment.
+- Neutral: The comment is more than just a statement, but it's not expressing a clear emotion.
+
+Wait, the speaker seems confused or unsure about what the person's 'thing' is. They're asking and then clarifying they don't know. This could be surprise because they might be realizing something unexpected or maybe confusion, which can fall under surprise in some contexts. But sometimes confusion is neutral if it's not a strong emotion.
+
+But "honestly" adds a bit of emphasis, maybe implying that the speaker is trying to express their genuine lack of knowledge but isn't particularly surprised or confused beyond that. So perhaps it's more about being uncertain without a strong emotional response. 
+
+I think the closest fit might be neutral because there's no clear positive or negative emotion expressed—it's more of an observation or question.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

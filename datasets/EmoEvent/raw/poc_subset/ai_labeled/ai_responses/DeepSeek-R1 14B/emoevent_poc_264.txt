@@ -1,0 +1,64 @@
+Record: "And then another guy comments to congratulate him on getting a comment from her, wishing he could one day get the same. Maaan o man. "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I'm trying to figure out the emotion in this tweet: "And then another guy comments to congratulate him on getting a comment from her, wishing he could one day get the same. Maaan o man." 
+
+First, let's break down what's happening here. There's someone who got a comment from a girl, and another guy is congratulating him for that. The responder wishes he could achieve the same thing. Then they end with "Maaan o man," which sounds like an expression of surprise or maybe amazement.
+
+The emotion list I have to choose from is anger, disgust, fear, joy, sadness, or surprise. So, let's go through each possibility. 
+
+Anger: The tweet doesn't seem to show any signs of frustration or rage. It's more about someone else's achievement and a personal wish rather than something that would provoke anger.
+
+Disgust: There's no indication of dislike or aversion here. The situation is positive, not negative.
+
+Fear: I don't see any signs of anxiety or apprehension in the tweet. The context seems light-hearted.
+
+Joy: While congratulations are involved, which can be a happy thing, the responder isn't expressing their own happiness but rather a wish and ends with an expression that's more about surprise.
+
+Sadness: There's no sadness here; it's all about someone else's achievement and a hopeful wish.
+
+Surprise: The use of "Maaan o man" is key. This phrase typically expresses surprise or amazement. It shows that the responder finds it remarkable or unexpected that someone got a comment from her, especially since he wishes he could too.
+
+So, putting it all together, the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's break this down step by step. The user provided a tweet and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully: "And then another guy comments to congratulate him on getting a comment from her, wishing he could one day get the same. Maaan o man." 
+
+So, the situation here is that someone received a comment from a girl, and another guy is congratulating him but also expressing some envy or longing, ending with "Maaan o man." That phrase sounds familiar; it's often used to express frustration or exasperation, like "Man oh man."
+
+Looking at the emotions listed, I need to map this reaction. The main emotion seems to be sadness because the guy is feeling envious and maybe a bit down that he hasn't received similar attention. Alternatively, could it be surprise? But the tweet doesn't indicate any unexpected event; it's more about personal longing.
+
+I should consider if there's any other emotion involved. There's no clear sign of anger or fear here. Disgust seems unlikely because it's not about dislike but more about unmet desire. Joy isn't present since he's not happy for himself. Surprise doesn't fit either; the event is foreseeable, so his reaction isn't surprising.
+
+So, sadness fits best because of the underlying envy and unfulfilled wish. The use of "Maaan o man" adds to that sense of lamentation or regret.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me figure out how to classify this tweet's emotion. The tweet is: "And then another guy comments to congratulate him on getting a comment from her, wishing he could one day get the same. Maaan o man."
+
+First, I need to understand the context and the sentiment being conveyed here. So, someone got a comment from a girl, which is positive, and another guy is congratulating him. He also expresses a wish that he could achieve the same, which shows he's envious or maybe longing.
+
+The phrase "Maaan o man" seems to be an exclamation of surprise or amazement. It's like saying "Man oh man," which typically conveys shock or astonishment. So, this part is leaning towards surprise.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet isn't expressing any negative emotions like anger or sadness. There's no indication of disgust or fear. It's more about reacting to someone else's achievement with a sense of disbelief or amazement, which points towards surprise.
+
+I should make sure it's not happiness because while congratulations can be happy, the exclamation "Maaan o man" is more about being surprised rather than just joy. So, putting it all together, the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

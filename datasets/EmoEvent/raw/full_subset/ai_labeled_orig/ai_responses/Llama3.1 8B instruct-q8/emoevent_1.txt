@@ -1,0 +1,34 @@
+Record: "#WorldBookDay To some amazing books that have been reading pleasures as well as influencers: 3- Animal Farm - George Orwell  https://t.co/JL6lGxpYTj"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is a positive statement about World Book Day.
+* The author mentions "reading pleasures" and "influencers", which suggests a positive association with books.
+* The tone of the tweet is informative, but also celebratory.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is short and straightforward.
+* It does not express a negative sentiment, nor does it imply conflict or discomfort.
+* The tone appears celebratory and appreciative.
+
+Based on these considerations, the most relevant emotion label is: **joy**. The tweet's purpose is to recommend books that have been enjoyable and influential, which suggests a positive and enthusiastic tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Given the text of the tweet, here are important points to consider:
+
+* The tone appears to be informal and conversational.
+* The language used is positive and celebratory ("amazing books", "reading pleasures as well as influencers").
+* There is no indication of negative emotions or criticism.
+
+Based on these considerations, the most relevant emotion label is **joy**, as the tweet seems to convey a sense of happiness and enthusiasm for World Book Day.
+------------------------------------------------------------------------------------------------------------------------
+

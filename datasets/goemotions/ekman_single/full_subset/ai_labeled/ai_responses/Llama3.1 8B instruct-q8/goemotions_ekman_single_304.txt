@@ -1,0 +1,37 @@
+Record: "100% yes. My sister's ex is an actual monster but my niece still sees his family."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions that their sister's ex is an "actual monster", which implies a negative sentiment.
+* The speaker expresses empathy or concern for their niece, who still has a relationship with the ex's family.
+* The tone of the comment is not celebratory or humorous.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+ 
+The speaker seems to be expressing sadness and possibly worry about the situation their niece is in, having to deal with her ex-stepfather's family.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language ("actual monster") to describe their sister's ex, which suggests a negative emotional tone.
+* The speaker expresses concern for the well-being of their niece, implying that they are worried about her situation.
+* The comment is a response to another post or commenter, suggesting that the speaker may be reacting to something specific in the conversation.
+
+Given these points, I would categorize the emotion as **sadness**. The speaker's use of strong language and concern for their niece's well-being suggest a sense of emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is discussing their sister's ex, who they describe as an "actual monster", which implies a strong negative opinion.
+* The speaker expresses concern for their niece, who may be affected by her mother's relationship with the ex.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker appears to be expressing empathy and concern for their niece, implying that they are feeling a sense of emotional pain or sorrow due to the situation.
+------------------------------------------------------------------------------------------------------------------------
+

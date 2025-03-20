@@ -1,0 +1,38 @@
+Record: "What I think of when I see the donation pledges for #NotreDameCathedral already well into the BILLIONS. #NotreDameCathedralFire https://t.co/sL0brqCHel"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is referencing a significant financial response (BILLIONS) to a disaster.
+* The tone of the tweet appears sarcastic or ironic.
+* The hashtags suggest that the author is reacting to news about the Notre-Dame Cathedral fire.
+
+Given these considerations, the most relevant emotion label for this tweet is:
+
+**surprise**
+ 
+This label fits because the author's comment implies a sense of astonishment at the massive financial response, which is likely intended to be ironic or sarcastic rather than genuinely surprised.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions a large amount of money being pledged for Notre-Dame Cathedral's restoration.
+* The language used is sarcastic, with emphasis on the word "BILLIONS".
+* The tone appears critical or mocking.
+
+Based on these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a large amount of money, specifically billions.
+* The context is a devastating fire at Notre-Dame Cathedral, which might evoke strong emotions.
+* The tone seems sarcastic or ironic.
+
+Given these points, the most relevant emotion label is **anger**, as the author appears to be annoyed by the excessive focus on donations and financial pledges in response to the tragic event.
+------------------------------------------------------------------------------------------------------------------------
+

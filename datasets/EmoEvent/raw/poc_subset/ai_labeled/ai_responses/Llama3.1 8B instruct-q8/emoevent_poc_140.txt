@@ -1,0 +1,33 @@
+Record: "Weird but interesting nonetheless."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the word "weird", which can have a negative connotation.
+* However, they immediately follow it with the phrase "but interesting nonetheless", which implies that despite the weirdness, there's something redeeming or valuable about it.
+
+Given these points, the most relevant emotion label is **surprise**. The author seems to be acknowledging that something unexpected (weird) has happened, and while they may not fully understand or appreciate it, they're willing to give it a neutral or even positive evaluation ("interesting nonetheless").
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author describes something as "weird", which can be a positive or negative trait depending on context.
+* They use the word "interesting" immediately after, indicating that they are drawn to whatever it is they're talking about.
+
+The tone of the tweet suggests that the author's curiosity and interest outweigh their initial surprise or discomfort at what they found weird. Therefore:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author describes the situation as "weird", which could imply a sense of unease or discomfort.
+* However, they follow it with "but interesting nonetheless", which suggests that despite their initial reaction, they still find value or fascination in it.
+
+Given these points, I would classify the tweet as **surprise** because the author's tone is more neutral and observational than strongly negative. The word "weird" doesn't seem to elicit a strong emotional response, but rather a sense of curiosity or puzzlement that is later tempered by interest.
+------------------------------------------------------------------------------------------------------------------------
+

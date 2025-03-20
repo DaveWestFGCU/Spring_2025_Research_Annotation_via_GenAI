@@ -1,0 +1,33 @@
+Record: "I'm more than sure we [NAME] lovers feel the same way, her outfits are awful"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider from the tweet:
+- The author expresses a strong negative opinion about someone's outfits.
+- The use of "awful" indicates a strong sense of disapproval.
+- The phrase "we [NAME] lovers feel the same way" suggests a shared sentiment of dislike among a group.
+
+Given these points, the most relevant emotion conveyed is one of strong negative judgment and distaste.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author expresses a strong opinion about someone's outfits, indicating a negative perception.
+- The use of "awful" signifies strong disapproval and a negative evaluation of the outfits.
+- The phrasing suggests a collective sentiment among a group (indicating potential frustration or annoyance).
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The use of "awful" to describe someone's outfits indicates a strong negative sentiment.
+- The phrase "feel the same way" suggests a shared dislike among a specific group, further emphasizing displeasure.
+- The overall tone indicates annoyance or disapproval toward the subject's fashion choices.
+
+Based on these points, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

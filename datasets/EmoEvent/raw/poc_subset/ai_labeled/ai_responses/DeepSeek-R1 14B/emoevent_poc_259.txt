@@ -1,0 +1,52 @@
+Record: "Some aren't. Either way it's a mystery how they obrained so many M1s."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion in this tweet. The user wrote, "Some aren't. Either way it's a mystery how they obtained so many M1s." 
+
+First, I need to analyze the words and tone used here. The phrase starts with "Some aren't," which is neutral but might imply that not everyone has something, possibly leading into a comparison or critique. Then, the next part says it's a "mystery" how they got so many M1s. Using "mystery" suggests curiosity or bewilderment.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The word "mystery" leans towards surprise because it's expressing something unexpected or puzzling. There's no indication of strong negative emotions like anger or disgust. It doesn't seem to evoke fear, sadness, or joy. 
+
+So, putting it together, the author is probably feeling surprised or amazed by how they got so many M1s.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out the emotion in this tweet: "Some aren't. Either way it's a mystery how they obtained so many M1s." 
+
+First, I'll look at the words used. The author mentions something being a "mystery" and refers to obtaining "so many M1s." Now, M1 could be a reference to MacBooks or some other product, but regardless, the key here is the use of "mystery."
+
+When someone describes something as a mystery, they're often expressing uncertainty or surprise. They might not understand how something happened or why it's the case. So, in this context, the author seems surprised by the situation described.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, and surprise. The phrase "it's a mystery" suggests confusion or astonishment, which fits under surprise rather than other emotions like anger or sadness.
+
+I don't think it's any of the others. There's no indication of negative feelings like anger or disgust; instead, it's more about being perplexed. Fear would involve anxiety or dread, which doesn't seem to be present here either. Joy and serenity aren't fitting because the tone is more puzzled than happy.
+
+So, putting it all together, the emotion conveyed is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm trying to figure out the emotion in this tweet: "Some aren't. Either way it's a mystery how they obtained so many M1s." First, let me break down what the tweet is saying.
+
+The author starts with "Some aren't," which seems like a response or a follow-up to something else. Then they mention that regardless of that, it's a mystery about how someone got many M1s. I'm not sure what M1 refers to here—it could be a product, a model number, or maybe something else entirely.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't express any overtly positive emotions like joy or serenity. It's more contemplative or puzzling. The phrase "mystery how they obtained so many M1s" suggests confusion or bewilderment about the situation.
+
+I don't detect any strong negative emotions like anger or disgust. There's no indication of fear or anxiety, nor is there a clear sense of sadness. However, the use of "mystery" and the overall tone feels more like surprise or amazement. The author seems surprised that someone managed to get so many M1s, which could be because it's unexpected or unusual.
+
+So, considering all this, I think the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

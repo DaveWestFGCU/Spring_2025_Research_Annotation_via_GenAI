@@ -1,0 +1,40 @@
+Record: "HUGE game tonight for many! Who gets the win?   #LivBar #Liverpool #Barcelona #Football #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is light and casual.
+* The language used is enthusiastic and excited ("HUGE game").
+* There is no negative or critical content.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+The author's excitement about the upcoming game conveys a sense of joy and anticipation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is informal and enthusiastic.
+* The language used is energetic and encouraging ("HUGE game").
+* There is no negative or critical language.
+
+Given these points, the most relevant emotion label is **joy**. The author appears to be excited and enthusiastic about the upcoming game, which suggests a positive emotional state.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is enthusiastic and encouraging.
+* The language used ("HUGE game") suggests excitement and anticipation.
+* The author is expressing a neutral or positive opinion about the upcoming game, rather than criticizing or condemning it.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's enthusiasm and encouragement suggest that they are looking forward to the game and are excited to see what happens, which is consistent with the emotion of joy.
+------------------------------------------------------------------------------------------------------------------------
+

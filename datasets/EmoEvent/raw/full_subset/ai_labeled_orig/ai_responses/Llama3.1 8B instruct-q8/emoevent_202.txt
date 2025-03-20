@@ -1,0 +1,32 @@
+Record: "Important message from New Brunswick Student #Fridaysforfuture rep. #ClimateStrike #cdnpoli #GretaThunberg #FridayForFuture https://t.co/nGgxD8hpwL"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Points to consider:
+* The text is a brief notification or announcement about an important message from New Brunswick Student, referencing the "Fridays for Future" movement.
+* There is no apparent emotional language used in the tweet.
+
+The most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider given the text:
+
+* The tweet is a notification about an "important message" from a student representative, suggesting that it may be related to a pressing issue.
+* The hashtags #Fridaysforfuture and #ClimateStrike indicate that the topic is climate change and activism.
+* The fact that the tweet mentions Greta Thunberg, a prominent environmental activist, further suggests that the content will be related to climate action.
+
+Given these points, it's likely that the author intended to convey **joy**, as the tone of the tweet appears to be positive and informative, suggesting excitement or enthusiasm about sharing an important message.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify the tweet's emotion, let's consider the following points:
+
+* The message is labeled as "important", which suggests that it may convey a sense of urgency or seriousness.
+* It mentions #Fridaysforfuture and #ClimateStrike, indicating that it is related to the climate change movement, which often involves protests and activism.
+* The tweet includes a link, but there's no mention of what it leads to, making it difficult to infer the tone from this aspect alone.
+
+Given these points, I would classify the emotion as **surprise**. This is because the tweet appears to be an announcement or notification about something important, which may prompt surprise in the reader (e.g., "Oh, there's a new update from Fridays for Future"). The seriousness and importance of the topic also align with surprise rather than other emotions like joy, sadness, or disgust, which might imply a more personal connection or strong emotional reaction.
+------------------------------------------------------------------------------------------------------------------------
+

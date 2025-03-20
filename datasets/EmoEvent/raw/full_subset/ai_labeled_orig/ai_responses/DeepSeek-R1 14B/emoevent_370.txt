@@ -1,0 +1,46 @@
+Record: "USER USER USER Give them a date &amp; time, I'm certain volunteers would be swarming to help sweep &amp; clean up at #NotreDameCathedralFire to lift the hearts of our Brothers and Sisters in Paris. That's how we roll! #MormonHelpingHands https://t.co/8P29G0DZJH"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out the emotion conveyed in this tweet about the Notre Dame Cathedral fire. The user is suggesting that volunteers would come swarm to help clean up and lift the hearts of people in Paris. They also mention "That's how we roll!" which sounds positive. The hashtags used are #MormonHelpingHands, which implies a desire to assist.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The tweet is offering help and showing willingness to support, so it seems like a positive sentiment. "Joy" includes serenity and ecstasy, but this doesn't seem overly ecstatic. It's more about solidarity and hope. There's no indication of any negative emotions here. Therefore, the emotion is likely joy.
+</think>
+
+The tweet expresses a desire to help and support, which conveys a sense of **joy**.
+
+**Answer:** **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet carefully.
+
+The user starts with "USER USER USER" which seems like a repetition, maybe trying to get attention or emphasize something. Then they say, "Give them a date & time, I'm certain volunteers would be swarming to help sweep & clean up at #NotreDameCathedralFire to lift the hearts of our Brothers and Sisters in Paris." They express confidence that people will volunteer, which sounds positive. The hashtags are #NotreDameCathedralFire and #MormonHelpingHands, indicating an offer for help.
+
+Next, they add, "That's how we roll! #MormonHelpingHands" with a link. This exclamation seems upbeat and supportive. They're showing willingness to assist in the cleanup after the fire, which is a tragic event but their tone is hopeful and proactive.
+
+Looking at the emotion options: anger doesn't fit because there's no frustration or hostility. Disgust isn't present either; they're not expressing dislike. Fear? No, it's more about offering help rather than feeling scared. Sadness could be considered since the fire was a sad event, but the user is focusing on positive action. Joy seems right because they're talking about volunteers coming together and helping, which brings positivity and hope. Surprise isn't applicable here.
+
+So, the emotion conveyed is joy because of the proactive and uplifting message.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet based on the emotion conveyed. Let me read it again: "Give them a date & time, I'm certain volunteers would be swarming to help sweep & clean up at #NotreDameCathedralFire to lift the hearts of our Brothers and Sisters in Paris. That's how we roll! #MormonHelpingHands"
+
+The user is talking about volunteering to help after the fire. They express confidence that people will come to assist, aiming to uplift others. The language is positive and supportive. Words like "swarming," "help," "lift the hearts," and "That's how we roll" suggest enthusiasm and willingness to help.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. There's no sign of anger or disgust here. It's not about fear; instead, it's about action. Joy seems fitting because they're expressing positive emotions about helping others. Sadness isn't present either; it's more about proactive support. Surprise doesn't fit since there's no unexpected event being referenced.
+
+So the emotion is joy because the tweet conveys positivity and a desire to help.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

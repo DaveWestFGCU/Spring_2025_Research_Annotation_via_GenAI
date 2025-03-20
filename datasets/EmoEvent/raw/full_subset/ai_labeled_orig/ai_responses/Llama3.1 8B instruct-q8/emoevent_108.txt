@@ -1,0 +1,37 @@
+Record: "USER USER Yes !! #Parents4future in support of #Fridaysforfuture and #SchoolStrike4Climate #GretaThunberg #globalstrike."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is supportive of Greta Thunberg's movement, indicating enthusiasm.
+* The hashtags mentioned are all related to the climate strike movement, suggesting a positive tone.
+
+Given these points, the most relevant emotion label is **joy**, as the tweet expresses excitement and support for the movement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is short and positive, indicating enthusiasm or approval.
+* It includes a celebratory expression ("Yes!!"), which suggests excitement or joy.
+* It mentions support for specific movements (#Fridaysforfuture, #SchoolStrike4Climate), implying alignment with their goals.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a statement of support for the movement and its leader.
+* The use of "!!" suggests enthusiasm or excitement.
+* The hashtags indicate that the author is part of the "#Parents4future" group, which suggests they are actively involved in advocating for climate action.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+The tweet expresses a positive and celebratory tone, indicating that the author is enthusiastic about supporting the movement and its goals.
+------------------------------------------------------------------------------------------------------------------------
+

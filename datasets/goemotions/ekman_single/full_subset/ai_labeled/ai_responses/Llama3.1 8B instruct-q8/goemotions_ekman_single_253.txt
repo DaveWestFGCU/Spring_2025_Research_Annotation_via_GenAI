@@ -1,0 +1,46 @@
+Record: "Don’t forget sports gambling. THEN we’ll be happy."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be responding to a conversation about what will make people happy.
+* The tone of the speaker seems somewhat sarcastic, as indicated by the phrase "THEN we'll be happy".
+* The word "then" implies that something else is needed before happiness can be achieved.
+
+Given these points, the speaker's tone suggests that they are not optimistic or genuinely excited about what has been proposed. Instead, they seem to be implying that what has been mentioned so far (presumably some other activity) is not enough to bring happiness.
+
+**surprise**
+
+The speaker's response seems somewhat unexpected and tongue-in-cheek, suggesting that the speaker is surprised by the conversation's focus or the proposal put forward.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to a previous discussion, implying that they have already discussed the topic of happiness and what it takes for them to feel happy.
+* The use of the word "THEN" suggests a condition or a prerequisite for happiness.
+* The speaker's tone is somewhat sarcastic, implying that sports gambling is an important factor in achieving happiness.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker seems to be surprised that someone would suggest that sports gambling is necessary for happiness, and their use of sarcasm implies a sense of incredulity or astonishment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to a previous conversation or topic, implying that they have some investment or expectation related to it.
+* The use of the phrase "THEN we'll be happy" suggests a sense of longing or anticipation for something specific.
+* There is no indication of strong emotion or urgency in the speaker's tone.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+ 
+The speaker's comment implies a sense of optimism and hope for a positive outcome (" THEN we'll be happy"), which aligns with the definition of joy.
+------------------------------------------------------------------------------------------------------------------------
+

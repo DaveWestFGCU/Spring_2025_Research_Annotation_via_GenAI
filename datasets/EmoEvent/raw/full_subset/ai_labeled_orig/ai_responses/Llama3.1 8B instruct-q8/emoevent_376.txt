@@ -1,0 +1,44 @@
+Record: "Happy #WorldBookDay! What's one book about film or TV you'd want the entire world to read? Quote this tweet or reply below!  *Bonus points if it's by and about women!! https://t.co/JoEWXD12Nb"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text uses a celebratory tone, with "Happy #WorldBookDay" as the opening phrase.
+* The author invites people to share their opinions on a specific topic (books about film or TV).
+* The author explicitly expresses enthusiasm for a particular aspect of the day ("Bonus points...").
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+This is because the text conveys a positive and celebratory tone, which is characteristic of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text mentions "Happy #WorldBookDay", which is a celebratory tone.
+* The author is asking readers to participate in an activity, quoting or replying with their favorite book about film or TV.
+* The use of the phrase "*Bonus points if it's by and about women!!" suggests enthusiasm and encouragement for promoting underrepresented voices.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The author is clearly excited and celebratory in tone, which aligns with the joy category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text mentions "Happy #WorldBookDay", which is a celebratory phrase.
+* The tone of the question is enthusiastic and inviting, asking readers to participate in a conversation.
+* The use of "*Bonus points if it's by and about women!!" suggests that the author wants to promote diversity and inclusivity.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The text conveys a sense of happiness and enthusiasm for World Book Day, making joy the most fitting emotion category.
+------------------------------------------------------------------------------------------------------------------------
+

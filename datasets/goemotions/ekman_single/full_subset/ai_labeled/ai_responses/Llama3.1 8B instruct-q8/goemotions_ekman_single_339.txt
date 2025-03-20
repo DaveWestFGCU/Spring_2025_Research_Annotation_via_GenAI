@@ -1,0 +1,42 @@
+Record: "Wow. I hope that asst manager will be looking for a new job soon."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a tone of optimism and hope, indicating that they are anticipating a positive outcome.
+* The phrase "asst manager" is used in a derogatory manner, implying that the speaker has a negative opinion of this person's performance or behavior.
+* The overall sentiment is one of anticipation for the downfall or departure of someone who is likely perceived as incompetent or problematic.
+
+Most relevant emotion label: **anger**
+
+The speaker's tone and language suggest that they are motivated by a desire to see the assistant manager fail or be replaced, which is a characteristic of anger. While the sentiment is more hopeful than outright hostile, the underlying emotion driving the comment appears to be anger or frustration with the assistant manager's performance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone is positive and anticipatory, using the phrase "I hope".
+* The target of the comment is an "asst [manager]", implying someone in a position of authority.
+* The speaker expresses a desire for this person to be out of their current job.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's tone and language suggest they are displeased with the asst manager and hope for their departure, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a phrase "I hope" which can be sarcastic and implies the opposite of their true intentions.
+* They mention an "asst manager", implying someone in a position of authority, but also someone they have some level of disapproval for.
+* The tone is somewhat casual and conversational.
+
+Given these points, it seems likely that the speaker is expressing a negative sentiment towards the assistant manager. 
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,45 @@
+Record: "#WorldBookDay The More U Read The More U Know... It is the Day for one of my Best Friend... Enjoy Ur Day Book📚 https://t.co/nwPFNzW4Wl"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions "World Book Day" in a celebratory tone.
+* The author expresses appreciation for reading and books.
+* The text includes an enthusiastic expression ("Best Friend") and a positive emoji (📚).
+* The language used is informal and friendly.
+
+Based on these considerations, the most relevant emotion label is:
+
+**joy**
+
+This classification is due to the overall celebratory tone, enthusiastic language, and positive emojis used in the tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is related to World Book Day, a celebration of reading and books.
+* The tone appears to be positive, with the use of an exclamation mark and a smiley face emoji (📚).
+* The author mentions a "Best Friend", which suggests a personal connection.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The tweet conveys a sense of happiness and celebration on World Book Day, with the author sharing their excitement about reading and expressing appreciation for their friend.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions World Book Day, which suggests a positive tone.
+* The phrase "Enjoy Ur Day Book" indicates excitement and enthusiasm.
+* The use of emojis, particularly the book emoji 📚, adds a playful and celebratory touch.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The author's intention appears to be to express joy and enthusiasm for World Book Day and sharing it with friends.
+------------------------------------------------------------------------------------------------------------------------
+

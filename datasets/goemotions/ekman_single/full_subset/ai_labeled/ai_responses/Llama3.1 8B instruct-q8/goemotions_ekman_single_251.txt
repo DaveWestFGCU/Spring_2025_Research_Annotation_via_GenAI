@@ -1,0 +1,46 @@
+Record: "Hang on, I'll see if I can find them and then I'll get back to you. :-)"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the message appears polite and courteous.
+* The speaker is willing to help and provide information.
+* There's a hint of a delay or interruption in their response, as they need to "find" something before getting back to the person.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**neutral**
+
+The tone of the message is neutral because it doesn't express any strong emotions such as anger, disgust, fear, joy, sadness, or surprise. The speaker is simply acknowledging a delay in their response and promising to follow up when they have more information.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to someone asking for information.
+* The speaker is pausing to look for the requested information before getting back to the person.
+* The tone appears to be polite and helpful.
+
+Given these considerations, the most relevant emotion label is:
+
+**neutral**
+
+The speaker's response does not convey any strong emotions such as anger, disgust, fear, joy, sadness, or surprise. Instead, it comes across as a neutral and polite acknowledgement of the request, indicating that they will look for the information and get back to the person at a later time.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the response seems polite and courteous.
+* The speaker is taking time to look for information before responding further.
+* There's a smiley face at the end, which suggests a lighthearted or friendly attitude.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+ 
+The speaker appears to be simply acknowledging the request and expressing a willingness to help, without any strong emotional tone. The smiley face may add a hint of friendliness, but overall, the response seems neutral in tone.
+------------------------------------------------------------------------------------------------------------------------
+

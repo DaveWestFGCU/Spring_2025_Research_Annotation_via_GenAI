@@ -1,0 +1,31 @@
+Record: "Impact? I'm merely interested in how low you will sink."
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The phrase "how low you will sink" suggests a judgment of someone's actions, indicating a strong negative sentiment.
+- The use of "merely interested" comes off as sarcastic, which often conveys irritation or annoyance towards the subject.
+- The overall tone implies a level of disdain towards another's behavior, fitting the classification of anger.
+
+Thus, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider from the tweet:
+- The phrase "how low you will sink" suggests a strong negative judgment about someone's actions.
+- The use of the word "merely" indicates a dismissive or sarcastic tone.
+- The overall sentiment conveys frustration or irritation regarding someone's behavior or decisions.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider: 
+- The phrase "how low you will sink" suggests a negative judgment or criticism towards someone, implying disapproval and moral indignation.
+- The use of "merely" indicates a dismissive tone, which can signify annoyance or contempt.
+- Overall, the tone conveys an underlying feeling of irritation towards the actions or behavior being criticized.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,36 @@
+Record: "Try to be rational instead of angry."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is advising someone to change their emotional state.
+* The suggested emotional state is a more calm and composed one ("rational").
+* The current emotional state being referenced is negative ("angry").
+
+Given these points, the most relevant emotion label is: **anger**
+
+Note that the author is not expressing anger themselves, but rather referencing it as an emotion that they want to help the recipient overcome.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is advising someone to change their emotional state.
+* The specific emotion mentioned as something to avoid is anger.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet advises a specific emotional state ("be rational") which implies that the author wants to move away from another emotional state.
+* The specific emotional state being moved away from is named ("angry").
+
+Given these considerations, it's likely that the author intended to convey a corrective or prescriptive tone, urging the reader to shift their emotional response.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

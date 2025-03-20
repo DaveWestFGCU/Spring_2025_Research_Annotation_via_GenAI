@@ -1,0 +1,52 @@
+Record: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment. The comment says, "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back." 
+
+First, let's break down the words used. They start by stating they're sad, which directly points towards sadness. The use of phrases like "Feel like shit rn" reinforces that negative emotional state—feeling really down or upset.
+
+Next, they mention wanting someone back, specifically "[NAME]." This suggests a sense of loss or longing, which are common feelings associated with sadness. They’re likely feeling down because they miss this person, adding to their current sad emotions.
+
+Looking at the emotion categories: anger involves displeasure or antagonism, which doesn't fit here. Disgust is about revulsion, not applicable. Fear involves worry or anxiety, but there's no indication of that. Joy and surprise are clearly opposites of what's expressed. Neutral isn't it either because they're openly sharing their feelings.
+
+The speaker is explicitly stating sadness and showing signs of emotional distress, so the emotion here is definitely sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back". 
+
+First, let's break down the sentence. The speaker explicitly says "I'm sad" and mentions feeling bad ("Feel like shit rn"). They also express a desire to have someone back, which I assume is a person they miss or care about. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. Sadness seems to fit because the speaker directly states it and describes their current emotional state as negative.
+
+I don't think it's anger because there's no indication of frustration or antagonism. Disgust isn't present either; they're not expressing revulsion. Fear doesn't come into play here since there's no mention of worry or anxiety. Joy is out of the question because they're clearly not happy. Surprise isn't applicable as nothing unexpected is mentioned. Neutral is ruled out because emotions are being expressed.
+
+So, the emotion here is definitely sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query. The user wants me to identify the emotion behind a specific Reddit comment. The sentence is: "I'm sad can someone make me feel better Feel like shit rn just want [NAME] back". 
+
+First, I'll break down the sentence. The speaker explicitly says they're feeling "sad", which is one of the emotion categories provided. That's a strong indicator pointing towards sadness.
+
+Looking at the context, the speaker mentions feeling like "shit" right now and expresses a desire to have someone back, presumably [NAME]. This indicates low mood and longing, both of which align with sadness as defined in the categories.
+
+I should also consider if any other emotions might be present. Is there any sign of anger or disgust? The comment doesn't express frustration or disapproval. Fear? There's no mention of worry or anxiety. Joy? Definitely not; the tone is clearly downcast. Surprise? Nothing unexpected is mentioned here. Neutral? No, because they're expressing a strong emotion.
+
+So, putting it all together, sadness is the most fitting emotion here. The speaker is openly sharing their feelings of sorrow and longing.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

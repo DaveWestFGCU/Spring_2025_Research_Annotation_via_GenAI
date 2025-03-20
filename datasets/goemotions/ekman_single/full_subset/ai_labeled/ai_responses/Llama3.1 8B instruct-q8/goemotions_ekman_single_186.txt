@@ -1,0 +1,36 @@
+Record: "Just sitting in the fast lane fishing for tickets. Ugh."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The word "Ugh" is an interjection often used to express strong disapproval or disgust.
+* The phrase "fishing for tickets" implies that the speaker is engaging in a frustrating or annoying activity.
+
+Given these considerations, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "Ugh", which is often an expression of strong disapproval.
+* The speaker is engaged in an activity that may be considered impolite or annoying, such as fishing for tickets while driving in the fast lane.
+
+Given these points, the most relevant emotion label for this comment would be:
+
+**disgust**
+
+The speaker's tone suggests a sense of revulsion or strong disapproval at their own behavior or situation, which is consistent with the definition of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "Ugh", which is often used to express strong disapproval or dislike.
+* The context of the sentence suggests that the speaker is frustrated with a situation (sitting in the fast lane and fishing for tickets).
+* The tone of the sentence appears to be negative, but not necessarily angry.
+
+Given these points, the most relevant emotion label is **disgust**. The speaker's use of "Ugh" and their description of sitting in the fast lane fishing for tickets suggests a strong sense of disapproval or revulsion at the situation.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,39 @@
+Record: "Buy YouTube Likes"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The comment appears to be a suggestion or an idea rather than a reaction to something.
+* There is no apparent emotional tone or language that indicates a strong feeling.
+* The phrase "Buy YouTube Likes" could be seen as a straightforward statement, lacking emotional connotation.
+
+Given these considerations, the most relevant emotion label is:
+
+**neutral**
+
+The reason for this choice is that the comment doesn't express any obvious sentiment, tone, or reaction. It's simply a statement of an idea without any apparent emotional attachment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The phrase "Buy YouTube Likes" is an offer to purchase fake engagement on a social media platform.
+* This type of practice is often considered spammy and against the terms of service of many online platforms.
+
+Given these considerations, the speaker's tone appears to be disapproving or strongly negative towards the idea of buying fake engagement. 
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment appears to be straightforward and matter-of-fact.
+* There is no apparent emotional language or emoticons used, suggesting a lack of strong emotion.
+* The text does not express any negative emotions such as anger, disgust, fear, or sadness.
+
+Based on these considerations, the most relevant emotion label for this comment would be **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

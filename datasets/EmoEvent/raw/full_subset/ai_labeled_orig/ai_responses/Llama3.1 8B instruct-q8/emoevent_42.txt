@@ -1,0 +1,40 @@
+Record: "USER I think I can speak for a very pissed off #Venezuelan Zumba Dancers &amp; their friends. And we have easy access to more guns you can imagine a human being can buy in an urban warfare store. Call us. We will come. Do a #Khashoggi on #maduro in Broad Daylight. #Venezuela"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions "a very pissed off" which indicates strong negative emotion
+* The mention of violence and graphic actions (e.g. "Do a #Khashoggi") suggests a intense and aggressive tone
+* The use of provocative language ("Call us. We will come.") implies a sense of urgency and threat
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used is aggressive and violent ("pissed off", "do a #Khashoggi" which implies murder).
+* The user mentions guns and urban warfare, suggesting a willingness to engage in violent action.
+* The tone is confrontational and threatening towards Maduro.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+Note: While annoyance or rage could also be inferred, the use of explicit language like "pissed off" and the threat of violence suggests that anger is the primary emotion conveyed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions Venezuela's presidential crisis and the speaker claims to speak for "pissed off" Venezuelan Zumba Dancers.
+* The tone is aggressive, using violent language such as "Do a #Khashoggi on #maduro in Broad Daylight", which refers to a gruesome murder.
+* The speaker suggests taking action against Maduro, implying a willingness to resort to violence.
+
+Given these points, the most relevant emotion label is **anger**, as it encompasses the aggressive and confrontational tone of the tweet.
+------------------------------------------------------------------------------------------------------------------------
+

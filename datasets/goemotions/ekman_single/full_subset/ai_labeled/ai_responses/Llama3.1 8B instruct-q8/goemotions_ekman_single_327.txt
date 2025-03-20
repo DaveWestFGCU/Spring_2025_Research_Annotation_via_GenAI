@@ -1,0 +1,38 @@
+Record: "What a legend."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "legend," which is often associated with admiration and respect.
+* The tone of the comment seems informal and enthusiastic, suggesting that the speaker is expressing genuine appreciation.
+* There is no indication of negativity or criticism in the comment.
+
+Most relevant emotion label: **joy**
+Reasoning: The use of the word "legend" in a positive context suggests that the speaker is experiencing joy or admiration for the person being referred to.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses an informal and colloquial phrase "a legend" which suggests admiration or approval.
+* There is no negative language, criticism, or complaint in the comment.
+* The tone of the comment appears to be positive and celebratory.
+
+Given these considerations, the most relevant emotion label for this comment is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The phrase "legend" typically has a positive connotation.
+* The tone of the comment seems enthusiastic and appreciative.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+This label fits because the speaker appears to be expressing admiration or approval for someone, which aligns with the definition of joy as including "approval".
+------------------------------------------------------------------------------------------------------------------------
+

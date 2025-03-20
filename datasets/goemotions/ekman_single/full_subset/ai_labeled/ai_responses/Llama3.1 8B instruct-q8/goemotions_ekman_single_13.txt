@@ -1,0 +1,41 @@
+Record: "It’s ironically calling British people ugly as a meme i guess"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is commenting on a situation where something is being referred to as a "meme," which implies it's a humorous or ironic reference.
+* The speaker mentions that this "meme" involves calling British people "ugly."
+* The tone of the comment seems to be observational rather than emotional.
+
+Given these points, I would infer that the speaker is simply reporting on the content of the meme without expressing any strong emotion. The use of the word "ironically" suggests a sense of detachment or dry observation.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be commenting on a meme that they find objectionable.
+* They mention that the meme is "ironically" calling British people "ugly", suggesting that the humor may not land well with them.
+
+Given these points, it's likely that the speaker finds the meme off-putting or unpleasant. However, since there is no strong language of disapproval or revulsion, we can rule out **disgust**.
+
+The tone of the comment also doesn't convey a sense of fear, anger, joy, or surprise. The speaker seems to be simply expressing their reaction to the meme, without any emotional intensity.
+
+Therefore, the most relevant emotion label is:
+
+* **neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions a meme that calls British people ugly.
+* The word "ironically" suggests that the speaker is not entirely sure about the intent behind the meme or finds it humorous, but also somewhat off-putting.
+* There's no explicit language of disapproval, fear, sadness, or surprise.
+
+Most relevant emotion label: **disgust**
+------------------------------------------------------------------------------------------------------------------------
+

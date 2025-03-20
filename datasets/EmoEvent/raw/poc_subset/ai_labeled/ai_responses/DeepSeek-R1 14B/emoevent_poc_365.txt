@@ -1,0 +1,52 @@
+Record: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this tweet classification task. The user wants me to determine the emotion conveyed by the author based on the given options: anger, disgust, fear, joy, sadness, surprise.
+
+First, I'll read the tweet carefully: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend." 
+
+Breaking it down, the word "awesome" immediately catches my attention. It's a strong positive emotion, which suggests joy. The author is expressing approval and excitement about the Chargers' strategy and their performance against the Patriots.
+
+The phrase "stomp the pats" indicates confidence or enthusiasm, further reinforcing the positive sentiment. There are no negative words or indicators of any other emotions like fear or surprise here.
+
+So, considering all these points, the emotion that fits best is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let's figure out what emotion the author is conveying in this tweet. The tweet says: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend". 
+
+First, looking at the words used— "awesome" and "stomp" stand out. "Awesome" clearly indicates a positive feeling, which might point towards joy or maybe surprise. The word "stomp" suggests excitement about an upcoming event, possibly expressing enthusiasm.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. Since there's no negative language here, it's not anger or disgust. There's no mention of anything fearful or anxiety-inducing, so fear is out. Sadness isn't present either.
+
+Between joy and surprise, "awesome" leans more towards joy, which often includes excitement and positive feelings. While "stomp" could imply something surprising, the overall tone seems more about celebration and positivity rather than being amazed by an unexpected event.
+
+So, putting it all together, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I'm trying to figure out what emotion the author of this tweet is conveying. The tweet says: "this sort of creativity is awesome to see. play calling done right. chargers going to stomp the pats this weekend". 
+
+First, let me break down each part. The first sentence starts with "awesome" which immediately makes me think of positive emotions, probably joy or excitement. The phrase "play calling done right" suggests approval and admiration, which also leans towards a positive sentiment.
+
+The last part mentions the Chargers (a football team) "going to stomp the pats this weekend". Stomping implies a strong victory, so the author is confident about their team's success. This confidence and enthusiasm further indicates a positive emotion.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't show any signs of negative emotions like anger or disgust. There’s no fear or anxiety expressed; instead, there's a sense of excitement and expectation. Sadness isn't present either, and while surprise could be considered if something unexpected happened, here the author seems certain about the outcome.
+
+Therefore, putting it all together, the dominant emotion here is joy because of the positive language and confident tone about the upcoming game.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

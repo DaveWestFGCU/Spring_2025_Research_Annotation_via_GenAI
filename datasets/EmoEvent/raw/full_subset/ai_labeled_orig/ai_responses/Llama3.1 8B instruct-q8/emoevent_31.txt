@@ -1,0 +1,37 @@
+Record: "Well #GameofThrones was brilliant, having just watch the latest episode.  That's all I'm saying."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses a superlative ("brilliant") to describe Game of Thrones.
+* The tone is casual and conversational, with a hint of brevity.
+* The phrase "That's all I'm saying" suggests finality and satisfaction.
+
+Given these points, the most relevant emotion label is **joy**, as the author expresses enthusiasm and pleasure at having watched the latest episode.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider:
+
+* The text expresses a positive sentiment about Game of Thrones.
+* The author uses a superlative ("brilliant") to emphasize their enjoyment.
+* The tone is casual and enthusiastic.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a positive opinion about Game of Thrones
+* They mention that they have "just watched" an episode, indicating recent experience and enthusiasm
+* Their tone is informal and casual, using hashtags and a conversational phrase ("That's all I'm saying")
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author is clearly excited and pleased with their viewing experience, which aligns with the emotion of joy.
+------------------------------------------------------------------------------------------------------------------------
+

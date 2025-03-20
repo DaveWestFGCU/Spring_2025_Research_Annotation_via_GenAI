@@ -1,0 +1,52 @@
+Record: "Some aren't. Either way it's a mystery how they obrained so many M1s."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence appears somewhat critical or disapproving.
+* The speaker is expressing skepticism about the capabilities or actions of others (i.e., "some aren't").
+* There is an element of puzzlement or confusion in the statement ("it's a mystery").
+
+Most relevant emotion label: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement appears to be critical or dismissive.
+* The speaker seems to be expressing skepticism or disappointment about something.
+* There is no overt language indicating strong emotions such as anger, disgust, or fear.
+* The speaker's focus is on a specific event or situation that they find puzzling.
+
+Given these points, the most relevant emotion label is:
+
+**neutral with a hint of surprise or confusion**
+
+However, since the options do not include "neutral with a hint of", I would categorize it as **surprise**, as the speaker seems to be expressing a sense of puzzlement or curiosity about how someone obtained so many M1s.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone seems to be matter-of-fact and observational.
+* They're commenting on an unexplained or puzzling situation (people obtaining many M1s).
+* There is no clear expression of emotion such as anger, joy, sadness, fear, or surprise.
+
+Given these considerations, the most relevant emotion label for this speaker's comment is:
+
+**neutral**
+
+The speaker seems to be simply stating a fact or observation without expressing any strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker appears to be discussing the acquisition of M1s, which could imply that there is something unusual or problematic about this situation.
+* The tone of the sentence is matter-of-fact and slightly puzzled, with a hint of skepticism.
+
+Given these considerations, the most relevant emotion label is **surprise**. The speaker seems to be expressing surprise or puzzlement at how others acquired M1s, which suggests that they find this situation unexpected or unusual.
+------------------------------------------------------------------------------------------------------------------------
+

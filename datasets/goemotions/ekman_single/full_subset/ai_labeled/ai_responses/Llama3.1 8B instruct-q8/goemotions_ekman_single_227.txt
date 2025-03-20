@@ -1,0 +1,39 @@
+Record: "Took me a few time watching it to realize that was a man and not a child."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems surprised by the revelation that the person on screen is an adult, rather than a child.
+* The tone of the comment suggests a sense of delayed realization or sudden understanding.
+* There is no indication of strong negative emotions such as anger, disgust, fear, sadness, or neutral tone.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions a realization about something they previously misinterpreted.
+* The tone of the statement is matter-of-fact, without any indication of strong emotion.
+
+Given these points, the most relevant emotion label is: **surprise**
+
+The speaker's comment implies that they were surprised or had not expected what they later realized (that the person in the video was a man and not a child). The tone of the statement is neutral, but the content suggests a moment of surprise or realization.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions taking some time to realize something about a video they were watching.
+* They express surprise at learning the unexpected fact.
+* The tone of the comment is casual and matter-of-fact.
+
+Most relevant emotion label: **surprise**
+
+The speaker's comment suggests that they were initially unaware of the person's gender, and it took them some time to figure it out. This indicates a moment of realization or unexpected discovery, which is characteristic of surprise.
+------------------------------------------------------------------------------------------------------------------------
+

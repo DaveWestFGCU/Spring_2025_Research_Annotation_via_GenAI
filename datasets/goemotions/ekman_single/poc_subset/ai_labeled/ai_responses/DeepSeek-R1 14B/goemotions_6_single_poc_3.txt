@@ -1,0 +1,72 @@
+Record: "If I'm no good I can still give the 1st round a crack, yeah?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker might be feeling based on their comment. The comment is: "If I'm no good I can still give the 1st round a crack, yeah?" 
+
+First, let me break down the sentence. The speaker is saying that even if they aren't very skilled or competent ("no good"), they are willing to try something in the first round ("give the 1st round a crack"). They also end with "yeah," which sounds like they're affirming their own willingness or just adding emphasis.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one that best fits this statement.
+
+Let's consider each emotion:
+
+- **Anger**: The speaker doesn't seem annoyed or hostile here.
+- **Disgust**: There's no indication of revulsion or disapproval.
+- **Fear**: No signs of worry or anxiety in the words used.
+- **Joy**: The tone isn't particularly happy or excited.
+- **Sadness**: There's no sorrow or disappointment expressed.
+- **Surprise**: The comment doesn't show astonishment or realization.
+- **Neutral**: The speaker is making a statement without strong emotion. They're expressing willingness but not showing any particular feeling strongly.
+
+The speaker seems to be stating their capability modestly, using "crack" as in trying the first round. It's more of a factual statement rather than an emotional outburst. So, I think the emotion here is neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment says, "If I'm no good I can still give the 1st round a crack, yeah?" Let's break this down.
+
+First, let's look at the words used. The person mentions being "no good," which could indicate self-doubt or maybe some insecurity. But then they say they'll "give the first round a crack," meaning they're still willing to try despite their doubts. The use of "yeah?" at the end seems like they're seeking agreement or encouragement, so it might show optimism or determination.
+
+Looking at the emotion categories: anger is about displeasure, which doesn't fit here. Disgust is revulsion; not applicable. Fear would involve being scared, but there's no indication of that. Sadness relates to sorrow or pain, but again, the tone seems more positive. Surprise is about astonishment, which isn't present.
+
+Joy includes feelings like happiness and determination. The speaker is expressing a willingness to try despite self-doubt, which sounds hopeful. They're not necessarily happy in an excited way, but there's a sense of optimism here. Neutral doesn't apply because they are expressing something beyond just stating facts.
+
+So, putting it together, the emotion seems to be joy, specifically determination or hopefulness.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment is: "If I'm no good I can still give the 1st round a crack, yeah?" 
+
+First, let me break down the sentence. They're saying that even if they're not very skilled or capable ("no good"), they are willing to try the first round anyway. The phrase "give it a crack" is slang for attempting something, often implying that it's a bit of a challenge but worth trying. Adding "yeah?" at the end makes it sound like they're suggesting an idea or asking for confirmation.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one based on the definitions provided.
+
+Analyzing each emotion:
+
+- **Anger**: The comment doesn't show any signs of frustration or irritation. Instead, it's more about willingness.
+- **Disgust**: There's no indication of revulsion or disapproval here; the tone is positive in a way.
+- **Fear**: Fear involves being afraid or worried. The speaker seems confident despite their self-doubt, not fearful.
+- **Joy**: Joy includes happiness and related emotions like excitement. While they're trying to be positive, it's more about determination than pure joy.
+- **Sadness**: Sadness involves sorrow or disappointment. There's no explicit sadness here; it's more about moving forward.
+- **Surprise**: Surprise is about being astonished or realizing something unexpected. The comment isn't surprising or confusing.
+- **Neutral**: If none of the above fit, but the emotion is unclear. However, I think there might be a subtle emotion here.
+
+Wait, maybe I missed something. The speaker is self-deprecating ("If I'm no good") but still willing to try. This could indicate determination rather than any strong emotion listed. But since the options don't include determination, perhaps it's closest to neutral because they're making a statement without showing much emotional flair.
+
+But hold on, when someone says they'll give something a try despite doubting themselves, it might actually show some positivity or optimism, which is part of joy. However, the self-deprecating tone might temper that. Alternatively, it could be seen as neutral because it's a straightforward statement without clear emotion.
+
+I'm leaning towards **neutral** because while there's an underlying willingness, it's not expressed with strong positive or negative emotions. The speaker isn't clearly happy, sad, angry, etc., but just stating their stance.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

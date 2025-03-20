@@ -1,0 +1,39 @@
+Record: "[NAME] YES!!!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses all capital letters, which can indicate emphasis and strong emotion.
+* The speaker includes a person's name ([NAME]), suggesting that the comment is addressing someone directly.
+* The comment consists of only two words: "YES!!!" 
+
+Given these points, it seems that the speaker is expressing a strong positive sentiment.
+
+**joy**
+
+The use of all capital letters and the exclamation marks suggests excitement and enthusiasm, which are characteristics commonly associated with joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses all capital letters ("YES!!!"), which can indicate strong emphasis and enthusiasm.
+* The use of "YES!!!" suggests a strong affirmation or approval of something.
+* The speaker's tone appears to be energetic and celebratory.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses all capital letters for "YES!!!", which may indicate excitement or strong agreement.
+* The speaker is responding with enthusiasm, as indicated by the multiple exclamation marks.
+
+Based on these considerations, the most relevant emotion label is: **joy**
+
+The speaker's use of enthusiastic language suggests that they are experiencing joy or pleasure in response to something.
+------------------------------------------------------------------------------------------------------------------------
+

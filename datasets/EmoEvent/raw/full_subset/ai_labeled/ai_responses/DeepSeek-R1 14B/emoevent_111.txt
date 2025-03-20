@@ -1,0 +1,20 @@
+Record: "👧 Who is #GretaThunberg? One of the world’s 100 most influential people? A girl encouraged by the Pope to “keep doing what she’s doing.”? A Noble Peace Prize nominee? The new Che Guevara? 🛑 Or just a child abused by media? https://t.co/oFOwxuE7Lq USER USER_Replica"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about Greta Thunberg. Let me read it carefully.
+
+The tweet starts with "👧 Who is #GretaThunberg?" and then lists several points: she's one of the world’s 100 most influential people, encouraged by the Pope, a Noble Peace Prize nominee, compared to Che Guevara, and ends with questioning if she's just a child abused by media. The user also includes a link.
+
+Hmm, so the author is asking who Greta Thunberg is, highlighting her influence and recognition but then contrasts that with suggesting she might be exploited by the media. The use of emojis like 🛑 could indicate stopping or blocking something, maybe frustration.
+
+The tone seems questioning and skeptical. By listing all these accolades and then posing a negative question about media abuse, it feels like the author is expressing doubt or criticism towards how Greta is portrayed. This might stem from frustration or annoyance with the attention she's getting.
+
+Looking at the mapping guidelines: if it's similar to annoyance or rage, classify as anger. The tweet doesn't express extreme anger but seems more critical and doubtful, which could fall under mild anger or frustration.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

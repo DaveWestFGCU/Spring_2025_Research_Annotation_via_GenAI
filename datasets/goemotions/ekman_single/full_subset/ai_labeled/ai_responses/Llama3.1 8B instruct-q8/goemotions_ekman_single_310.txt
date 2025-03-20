@@ -1,0 +1,36 @@
+Record: "Yep California, I would've been surprised if they cleared him."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "surprised" by an outcome.
+* The tone seems reflective and matter-of-fact, rather than emotional or confrontational.
+
+Given these considerations, the most relevant emotion label is: **surprise**. 
+
+The reason for this choice is that the speaker explicitly states they would have been surprised if a certain event had not occurred (i.e., someone being cleared in California). This suggests that their comment is primarily driven by a reaction to an unexpected outcome, which aligns with the definition of surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is responding to a situation where someone has been cleared of a charge.
+* The tone seems somewhat matter-of-fact and unsurprised by the outcome.
+
+Given these points, it appears that the speaker is not expressing a strong emotion about the situation. They seem to be accepting or expecting the outcome, rather than being surprised or upset.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker's tone seems to be observational and matter-of-fact.
+* They express a sense of expectation being met, rather than surprise or disappointment.
+* There is no apparent emotional intensity or passion in the comment.
+
+Given these considerations, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+

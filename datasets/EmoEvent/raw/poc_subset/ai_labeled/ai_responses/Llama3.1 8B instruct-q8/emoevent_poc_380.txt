@@ -1,0 +1,37 @@
+Record: "Idk if I want [NAME] back but I agree with [NAME] ONLY if he keeps playing at this level by the end of he season."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is torn about wanting someone back, indicating some level of uncertainty or ambivalence.
+* They mention a condition for their approval ("if he keeps playing at this level"), which suggests that they are evaluating something based on merit rather than personal feelings.
+* There is no strong emotional language used in the tweet.
+
+Given these points, the author's tone seems to be more ambivalent and evaluative rather than strongly emotive. However, if I had to choose an emotion label, I would suggest:
+
+**joy**
+ 
+The reason for this is that the author mentions someone playing at a high level, which could be seen as something positive or exciting. The fact that they mention it in the context of wanting this person back also suggests that they are looking forward to seeing them perform well.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet, consider the following points:
+
+* The author is unsure about wanting someone back (implying uncertainty or mixed feelings), but they do have a condition for that person's return.
+* The "level" refers to the person's performance in their sport, implying an objective aspect of their behavior.
+* There's no strong emotional language used in the tweet.
+
+Given these points, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing uncertainty about wanting someone back.
+* They are conditionally agreeing with that person's actions, implying some level of appreciation or admiration for those actions.
+
+Given these points, the most relevant emotion label is **joy**. The author seems to be happy and enthusiastic about someone's performance, which is what "playing at this level" suggests. Their uncertainty about wanting them back doesn't necessarily negate their positive emotions towards that person's actions.
+------------------------------------------------------------------------------------------------------------------------
+

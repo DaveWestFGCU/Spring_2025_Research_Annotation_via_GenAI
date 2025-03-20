@@ -1,0 +1,28 @@
+Record: "The Champion of Spain!  Congratulations USER  #LaLiga"
+GPT 4o-mini
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tweet celebrates a triumph ("The Champion of Spain!").
+- It includes congratulations directed towards a user, which suggests a positive sentiment.
+- The use of an exclamation mark emphasizes excitement and joy in the announcement.
+- Overall, the message conveys a sense of celebration and happiness regarding the achievement in La Liga.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+The tweet expresses congratulations and celebrates a victory, indicating a positive sentiment associated with winning. The use of "Champion" and "Congratulations" highlights a celebratory mood, which is typically linked to happiness or joy. There are no negative sentiments or signs of distress evident in the text.
+
+Overall, the sentiment conveyed is one of celebration and happiness, aligning closely with feelings of joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+The tweet expresses excitement and celebration regarding a sports achievement, specifically recognizing someone (USER) as the champion of Spain in La Liga. The use of "Congratulations" indicates a positive sentiment, suggesting happiness and joy related to the achievement. The overall tone is upbeat and celebratory, devoid of negative emotions or feelings of distress.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

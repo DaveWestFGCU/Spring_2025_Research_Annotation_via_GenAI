@@ -1,0 +1,34 @@
+Record: "Man I wish they wouldn’t"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts with a negative phrase ("wish they wouldn't"), indicating a desire for something not to happen.
+* There is no mention of any positive or pleasant outcome.
+
+Given the context, the most relevant emotion label is **sadness**. The author seems to be expressing frustration or disappointment about something, but there's no indication of strong emotions like anger or fear.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author starts with a negative phrase ("I wish they wouldn't") which suggests a desire for something not to happen.
+* There is no indication of excitement or positive sentiment.
+
+Most relevant emotion label: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author starts with a negative phrase, indicating dissatisfaction.
+* The use of "wish" suggests a desire for something different from what is currently happening.
+* The tone is somewhat passive and resigned.
+
+Most relevant emotion label: **sadness**. 
+
+The author seems to be expressing a sense of disappointment or frustration that their wishes are not being fulfilled, which aligns with the category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

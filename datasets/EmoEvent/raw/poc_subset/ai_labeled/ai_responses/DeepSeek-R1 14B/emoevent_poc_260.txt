@@ -1,0 +1,53 @@
+Record: "Can't wait till the home game in March... And a portland okc playoff series would be "lit af" "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me look at the tweet again: "Can't wait till the home game in March... And a portland okc playoff series would be 'lit af'". 
+
+Alright, breaking it down, the user is expressing excitement about an upcoming home game and a potential playoff series between Portland and Oklahoma City. They're using the term "lit af," which I know stands for "lighting it up" in slang, often used to express something being really good or exciting.
+
+So first, let's analyze each emotion category:
+
+1. **Anger**: The tweet doesn't show any signs of frustration or irritation. Instead, it's positive.
+2. **Disgust**: There's nothing here that would indicate dislike or disinterest. It's all about looking forward to something.
+3. **Fear**: No mention of worry or anxiety; the tone is upbeat.
+4. **Joy**: This seems promising because they're expressing excitement and eagerness for an event. The use of "Can't wait" and "lit af" both indicate positive emotions.
+5. **Sadness**: There's no indication of grief or pensiveness here.
+6. **Surprise**: While surprise can sometimes overlap with excitement, the tweet isn't about being unexpectedly happy but rather looking forward to something expected.
+
+The key phrases are "Can't wait" and "'lit af'". These clearly indicate a positive, excited emotion. There's no nuance suggesting any other emotion except joy. They're anticipating an event they find exciting, which fits under joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet's emotion. The tweet says, "Can't wait till the home game in March... And a portland okc playoff series would be 'lit af'". Let me break it down.
+
+First, "Can't wait" shows excitement or eagerness. Then, "home game in March" indicates looking forward to something positive. Using "would be 'lit af'"—'lit' means exciting or cool, and 'af' is slang for 'as f***', so overall, the speaker is expressing enthusiasm.
+
+Looking at the emotion categories: anger isn't here, disgust either. Fear? No, it's about looking forward. Sadness? Definitely not. Surprise? Maybe, but it's more about excitement. Joy fits because they're eagerly anticipating a fun event. So I think joy is the right category.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet's emotion. The user wrote, "Can't wait till the home game in March... And a portland okc playoff series would be 'lit af'". 
+
+First, looking at the content, they're expressing excitement about an upcoming event—a playoff series between Portland and Oklahoma City. The phrase "can't wait" indicates anticipation or eagerness, which are positive emotions.
+
+Next, the term "lit af" is slang meaning something is exciting or cool. This adds to the sense of enthusiasm and joy.
+
+There's no sign of anger, disgust, fear, sadness, or surprise here. The language used is all about looking forward to a fun event, so the emotion conveyed is joy.
+</think>
+
+The tweet expresses excitement and eagerness about an upcoming event, which falls under the category of **joy**.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

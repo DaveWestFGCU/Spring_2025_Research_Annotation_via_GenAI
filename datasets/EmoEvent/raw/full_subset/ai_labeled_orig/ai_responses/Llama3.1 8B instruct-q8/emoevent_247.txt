@@ -1,0 +1,41 @@
+Record: "Here we go, should be a good one. #barcalfc #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text is a casual and neutral description of an upcoming football competition.
+* There is no negative language or tone.
+* The author seems to be expressing anticipation rather than any strong emotion.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The author appears to be looking forward to the match and is likely excited about it, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the tweet is casual and conversational.
+* The author appears to be excited about an upcoming event.
+* The use of "should be a good one" suggests anticipation rather than certainty.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+The author's excitement and positive attitude towards the Champions League suggest that they are looking forward to it, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text is a short, casual statement
+* It mentions an event (the Champions League) and expresses anticipation or excitement about it
+* The tone is neutral/informative with a hint of enthusiasm
+* There are no negative emotions expressed
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

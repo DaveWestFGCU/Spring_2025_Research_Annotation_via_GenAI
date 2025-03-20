@@ -1,0 +1,38 @@
+Record: "Can’t help but feel very uncomfortable over the amount of money that has been pledged to restore a building, in less than 24 hours. If only the same could be said for helping and raising money for people. 😢 #NotreDameCathedralFire #TuesdayThoughts"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is commenting on the amount of money pledged to restore Notre-Dame Cathedral after a fire.
+* They express discomfort with this rapid response, implying that it could be prioritized over helping people in need.
+* The presence of a tear emoji (😢) suggests a negative emotional tone.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's expression of discomfort and concern for the prioritization of funds for a building restoration over human needs aligns with feelings of sadness, particularly when paired with the emotive use of the tear emoji.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions feeling "uncomfortable", which suggests a negative emotion.
+* The author compares the rapid response to restore Notre Dame Cathedral with the lack of attention given to helping people in need, implying a sense of injustice or frustration.
+* The use of 😢 (crying face emoji) typically indicates sadness or disappointment.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is discussing a significant event (the Notre Dame Cathedral Fire) but shifts focus to a broader issue of fundraising.
+* They express discomfort with the amount of money pledged for restoration compared to helping people in need.
+* The tone seems critical and melancholic, with an emoticon conveying sadness.
+
+Based on these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

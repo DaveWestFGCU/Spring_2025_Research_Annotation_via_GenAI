@@ -1,0 +1,39 @@
+Record: "Something to keep in mind...  When situations like #NotreDameCathedralFire occur some lowlifes set up fake donation accounts and pocket the money so IF you are going to donate...  Do some PROPER research first! https://t.co/x27Rxl51gw"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is about a serious event (the Notre Dame Cathedral fire) but its tone seems cautionary rather than emotional.
+* The author mentions "lowlifes" and fake donation accounts, which implies criticism or warning.
+* The tone is instructive and advisory, urging readers to be cautious when donating.
+
+Most relevant emotion label: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author is warning people about a potential scam related to the Notre Dame Cathedral Fire.
+* They mention lowlifes setting up fake donation accounts and pocketing the money, which implies a negative tone.
+* The author provides a link to proper research as a solution, indicating they want to inform or educate rather than express emotion.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's use of the word "lowlifes" and their warning about people taking advantage of others implies a sense of annoyance or anger at those who would engage in such behavior.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a potentially negative outcome (fake donation accounts) in response to a tragic event (Notre Dame Cathedral Fire).
+* The author is warning people to be cautious and take action (research before donating).
+* The tone seems cautionary and alert, rather than emotional or reactive.
+
+Given these points, the most relevant emotion label is:
+**anger**
+This label captures the author's concern and warning about potentially malicious individuals taking advantage of a tragedy.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,36 @@
+Record: "Ok guys, I watched all 7 seasons of #GameofThrones and the 3 new episodes all in a span of a month. Safe to say I’m a fan now."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing their enthusiasm for watching Game of Thrones
+* They mention watching all 7 seasons and 3 new episodes in a short period, indicating a strong interest
+* The tone appears to be positive and excited
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider:
+
+* The author mentions watching all 7 seasons of Game of Thrones plus the 3 new episodes, indicating a significant amount of time invested in the series.
+* The author describes their experience as "safe to say" they're a fan now, implying a sense of confidence or certainty.
+* There is no negative language or criticism towards the series.
+
+Given these points, the most relevant emotion label is: **joy**
+
+The author's tone suggests excitement and happiness about becoming a fan of the series after investing time in it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing enthusiasm and excitement about watching Game of Thrones.
+* They mention watching all 7 seasons and 3 new episodes in a short amount of time, implying a sense of urgency or eagerness.
+* The phrase "Safe to say I'm a fan now" suggests that the author has developed a positive feeling towards the show.
+
+Given these points, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

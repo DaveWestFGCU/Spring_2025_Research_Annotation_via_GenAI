@@ -1,0 +1,37 @@
+Record: "Hahaha I was gonna put one of those but I couldn’t remember what they were"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is laughing ("Hahaha") which suggests a lighthearted and playful tone.
+* The text implies that the author made an effort to recall something, but failed, indicating a sense of self-deprecation or humor about their own forgetfulness.
+
+Given these points, the most relevant emotion label is:
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet contains the phrase "Hahaha", which is often used to indicate laughter or amusement.
+* The author mentions being unable to recall something, implying a moment of memory lapse or frustration.
+
+Given these considerations, the most relevant emotion label is: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a laugh-like sound ("Hahaha"), which suggests a lighthearted or playful tone.
+* They mention not being able to recall something, implying that it's a minor setback rather than a major issue.
+* The language used is casual and conversational.
+
+Based on these points, the most relevant emotion label is:
+
+**joy**
+
+The author's use of "Hahaha" indicates amusement or playfulness, which aligns with joy.
+------------------------------------------------------------------------------------------------------------------------
+

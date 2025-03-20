@@ -1,0 +1,35 @@
+Record: "On #WorldBookDay, be inspired by these amazing books by and about refugees! Our reading list with USER 📚  https://t.co/80DOcykOdf"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is on World Book Day, which suggests a celebratory tone.
+* The author mentions being "inspired" by the books, indicating a positive emotion.
+* The use of enthusiastic language such as "amazing" and the inclusion of an excited emoji ( USER 📚) further supports this.
+
+The most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is related to World Book Day.
+* It mentions "inspiration" and an "amazing" reading list.
+* There is a positive tone and a call to action (be inspired).
+
+Given the context, the author intends to convey **joy**. The use of words like "amazing" and "inspired" suggest a sense of enthusiasm and positivity, which aligns with the emotion of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+**Important points to consider:**
+
+* The tone of the tweet is positive and enthusiastic.
+* The use of "amazing" and "be inspired" suggests excitement and positivity.
+* The tweet is promoting a reading list and encouraging people to learn more about refugees, which implies a sense of hope and optimism.
+
+**Classification:** **joy**
+The author's intention is to convey enthusiasm and happiness about promoting books on refugees, making joy the most relevant emotion label.
+------------------------------------------------------------------------------------------------------------------------
+

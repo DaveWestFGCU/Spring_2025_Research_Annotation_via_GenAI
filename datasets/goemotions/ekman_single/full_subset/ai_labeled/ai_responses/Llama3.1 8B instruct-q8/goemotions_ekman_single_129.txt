@@ -1,0 +1,42 @@
+Record: "The myth is about selling shirts. Signing [NAME] opens up much more money making opportunities like commercials."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be addressing a concern or criticism related to a specific topic, likely the use of celebrities in advertising.
+* The speaker's response focuses on the potential financial benefits of signing a celebrity, implying that they are trying to provide context or counter an argument.
+* The tone is matter-of-fact and lacks emotive language.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+
+The speaker's comment seems to be providing factual information without expressing any strong emotions or personal opinions. They appear to be attempting to address a criticism in a neutral and informative manner.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be responding to a concern or skepticism raised by another commenter.
+* The topic of discussion is related to a business opportunity, specifically the potential for increased revenue through partnerships or endorsements.
+* The speaker's tone seems matter-of-fact and informative, without any apparent emotional investment or attachment.
+
+Given these points, the most relevant emotion label for this comment is **neutral**. The speaker presents information in a straightforward manner without expressing any strong emotions or opinions, suggesting a neutral stance on the topic.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be addressing a misconception or myth related to signing someone, specifically [NAME].
+* They mention that signing [NAME] would lead to "much more money making opportunities".
+* The tone seems informative and matter-of-fact.
+
+Given these considerations, the most relevant emotion label is:
+
+**neutral**
+ 
+The speaker's comment appears to be factual and lacking in emotional expression, aiming to correct a misconception rather than express a personal opinion or feeling.
+------------------------------------------------------------------------------------------------------------------------
+

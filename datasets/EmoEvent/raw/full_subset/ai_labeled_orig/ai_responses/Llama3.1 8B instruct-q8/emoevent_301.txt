@@ -1,0 +1,36 @@
+Record: "Saddened by the violence witnessed in #Venezuela #OperacionLiberdad. Images I hoped would not be witnessed in modern Latin America https://t.co/OcFniat8ZH"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions being "saddened" which is a negative emotional state.
+* The context of the tweet refers to violence and disturbing images, implying that the author is upset about the situation in Venezuela.
+* There is no mention of anger, fear, joy, or surprise.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions "saddened", which is a clear indicator of emotional state.
+* The context is about violence and unrest in Venezuela, suggesting a negative event.
+* The use of the phrase "Images I hoped would not be witnessed" implies a sense of disappointment or distress.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet expresses a negative sentiment towards the events unfolding in Venezuela.
+* The use of "saddened" indicates a somber and mournful tone.
+* The reference to "violence" suggests a tragic or disturbing situation.
+
+Given these considerations, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+

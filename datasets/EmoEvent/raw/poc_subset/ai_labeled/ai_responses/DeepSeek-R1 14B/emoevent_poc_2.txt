@@ -1,0 +1,52 @@
+Record: "Still, it’s legal weed. Sorry, sad [NAME] here.."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, let's try to figure out the emotion in this tweet: "Still, it’s legal weed. Sorry, sad [NAME] here.." 
+
+First, I notice that the person starts by mentioning legal weed. That might be a neutral or even positive topic for some people, but they immediately follow it up with "Sorry, sad." So right there, they're expressing sadness.
+
+The word "sad" is pretty direct. They're using it to describe themselves as "[NAME] here.." which adds a personal touch. It seems like they're sharing their feelings openly.
+
+I don't see any other emotions in the tweet. There's no indication of anger or frustration; it's more about expressing a down mood. The mention of legal weed doesn't contribute much to the emotion—it's just part of the context, not the feeling.
+
+So, considering all this, the main emotion here is sadness.
+</think>
+
+The tweet expresses sadness through the use of "sad" directly and the overall tone indicating personal unhappiness. 
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet's emotion. The tweet says, "Still, it's legal weed. Sorry, sad [NAME] here.." 
+
+First, I'll look for emotional cues. The author mentions being "sorry" and uses "sad" right after that. These words directly indicate sadness.
+
+I should consider the other options to make sure. There's no sign of anger or annoyance—no harsh words. Disgust or disinterest isn't shown either; it's more about feelings than something negative. Fear or anxiety? Doesn't seem so. Joy or serenity? No, they're expressing the opposite. Surprise or amazement? Not here.
+
+So, sadness is the most fitting emotion here because the author explicitly states feeling sad.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to classify this tweet based on the emotions given: anger, disgust, fear, joy, sadness, or surprise.
+
+The tweet is: "Still, it’s legal weed. Sorry, sad [NAME] here.."
+
+Looking at the content, the author mentions being "sad." They explicitly state "sad" in the message, so that's a direct indicator. The other parts of the tweet talk about legal weed but don't convey any strong emotion beyond setting context.
+
+I should consider if there's another emotion that might fit better. However, the word "sorry" is often used when someone is feeling down or expressing sadness. There's no indication of anger, disgust, fear, joy, or surprise here.
+
+Therefore, the primary emotion conveyed is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

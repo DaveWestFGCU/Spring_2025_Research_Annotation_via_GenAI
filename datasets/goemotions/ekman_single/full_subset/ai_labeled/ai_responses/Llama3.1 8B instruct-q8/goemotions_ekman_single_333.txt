@@ -1,0 +1,41 @@
+Record: "Wish I had something better for you but best of luck to you, this situation sucks "
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker starts by expressing a wish that they could offer more help.
+* They then express their lack of ability to provide better support with the phrase "but".
+* However, they immediately follow up with an acknowledgement that the person's situation is difficult and unfortunate, using the word "sucks".
+
+Given these points, it seems that the speaker is expressing empathy and commiseration with the person in a difficult situation. The tone appears to be sympathetic rather than negative.
+
+**sadness**
+
+The phrase "this situation sucks" strongly suggests that the speaker feels sorry for the other person's circumstances, which aligns with the emotion category of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with a positive sentiment ("best of luck to you"), which suggests they are trying to offer support.
+* However, the second part of the sentence is quite negative ("this situation sucks"), which indicates that the speaker's overall tone is not entirely positive.
+
+Given these considerations, I believe the most relevant emotion label for this comment is:
+
+**sadness**
+ 
+The speaker's phrase "this situation sucks" implies a sense of disappointment and dissatisfaction with the current circumstances, which aligns with the definition of sadness as emotional pain or sorrow.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses sympathy and empathy towards the person they are addressing.
+* They use phrases that convey pessimism and negativity ("this situation sucks").
+* The tone is supportive but also somewhat resigned.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **sadness**. The phrase "this situation sucks" suggests a sense of disappointment or frustration, which is a key component of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

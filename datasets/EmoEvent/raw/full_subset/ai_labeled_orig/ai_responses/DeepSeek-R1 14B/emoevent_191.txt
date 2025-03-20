@@ -1,0 +1,59 @@
+Record: "So Arya single-handedly saved the world? My fucking queen #GameOfThrones"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify the given tweet's emotion from the specified list: anger, disgust, fear, joy, sadness, surprise.
+
+Looking at the tweet: "So Arya single-handedly saved the world? My fucking queen #GameOf Thrones"
+
+The author is expressing a strong positive sentiment towards Arya. Using words like "single-handedly" and "saved the world" highlights admiration. The phrase "My fucking queen" adds emphasis, indicating enthusiasm or excitement.
+
+Considering the emotion categories, joy fits because it's about happiness and celebration of her actions. No signs of anger, disgust, fear, sadness, or surprise are present here.
+</think>
+
+The tweet expresses admiration and celebration, which falls under **joy**.
+
+**Answer:**  
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion is conveyed in this tweet: "So Arya single-handedly saved the world? My fucking queen #GameOfThrones". The possible emotions are anger, disgust, fear, joy, sadness, or surprise. 
+
+First, let me break down the sentence. The user starts with a statement about Arya saving the world on her own. Then they say "My fucking queen" and tag Game of Thrones. 
+
+The phrase "my fucking queen" seems like praise because "fucking queen" is often used as an exclamation of admiration or disbelief, sometimes with a mix of awe and humor. The mention of Arya saving the world suggests something impressive happened, which would likely evoke positive emotions.
+
+Looking at the emotion categories: anger doesn't fit because there's no indication of frustration or rage. Disgust isn't here either; the tone is more admiring than disliking. Fear? No, the user seems excited rather than scared. Sadness isn't present since the tweet is about a positive achievement. Surprise could be possible if they're amazed, but the stronger emotion seems to be joy because of the praise and admiration.
+
+So, putting it together, the author is expressing joy through their words.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is, "So Arya single-handedly saved the world? My fucking queen #GameOfThrones."
+
+First, let's break down what the tweet is saying. The user is talking about Arya Stark from Game of Thrones, who they're referring to as a "my fucking queen." The exclamation "fucking" often conveys strong emotion, but I need to figure out which one.
+
+The phrase "single-handedly saved the world" sounds like a significant accomplishment. Using words like "queen" is clearly a term of endearment or admiration. The word "fucking" here isn't necessarily anger; it's more likely being used as an intensifier, similar to saying "heck." So, it's amplifying the praise rather than expressing frustration.
+
+Looking at the emotion categories:
+- Anger: Doesn't seem right because there's no indication of irritation or rage.
+- Disgust: No signs of dislike or disinterest here.
+- Fear: There's nothing suggesting worry or anxiety.
+- Joy/Serenity: This seems possible because the user is expressing pride and amazement at Arya's actions.
+- Sadness: Doesn't fit; there's no sorrow expressed.
+- Surprise: While surprise could be a contender, it often involves unexpected events. Here, the user is reacting to a known event (the show finale) with excitement rather than shock.
+
+So, putting it together, the emotion conveyed is joy because of the praise and admiration directed at Arya.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,66 @@
+Record: "Constitution don't work that way. Burden is always on the Crown, defendant is always presumed innocent. This won't survive the first challenge."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is discussing a legal concept related to the British Constitution.
+* They mention that the burden of proof lies with the "Crown", which implies a sense of authority or power.
+* The speaker expresses skepticism about the legitimacy of the idea, stating it "won't survive the first challenge".
+
+Most relevant emotion label: **surprise**.
+
+The speaker's tone is more concerned and skeptical than angry or fearful. They're not expressing disgust or sadness towards the idea being presented. Their comment suggests a sense of disbelief or astonishment that the idea could be taken seriously, which aligns with surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is discussing a legal concept related to the burden of proof and the presumption of innocence.
+* They are expressing skepticism about the validity of the constitution in question, suggesting that it will likely be challenged and fail.
+* The tone appears to be cautionary or critical, rather than enthusiastic or optimistic.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+ 
+The speaker's criticism of the constitution's structure and their expectation that it will fail legal challenges suggests a strong disapproval or revulsion towards the idea.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be discussing a legal concept related to the British system of justice.
+* They mention specific principles such as "burden is always on the Crown" and "defendant is always presumed innocent".
+* The tone seems critical or disapproving, indicating that something is not being done correctly.
+
+Most relevant emotion label: **anger**
+
+The speaker's use of words like "don't work that way" and their criticism of a process imply a strong feeling of displeasure or antagonism, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker appears to be discussing legal matters and the application of constitutional principles.
+* They mention that a specific approach or argument ("This") will not hold up in court, using the phrase "won't survive the first challenge".
+* The tone is informative, rather than emotional.
+
+Given these points, the speaker's comment suggests they are expressing a neutral opinion about a legal issue. They present information and analysis without apparent personal investment or strong emotions. 
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 5:
+Important points to consider:
+
+* The speaker is responding to a hypothetical scenario involving the Constitution and the Crown.
+* The tone of the response suggests a sense of certainty and expertise in legal matters.
+* The use of formal language, such as "burden" and "presumed innocent", implies a level of knowledge and seriousness.
+
+Given these points, it appears that the speaker is expressing a sense of skepticism or confidence in the likelihood of success for the hypothetical scenario. This suggests that the speaker may be feeling neutral, as there is no apparent emotional tone of anger, disgust, fear, joy, sadness, or surprise.
+
+However, upon closer analysis, the speaker's response implies a hint of criticism or skepticism towards the original post or comment, which could suggest a underlying emotion of **anger**. But overall, the tone is more critical and analytical than angry.
+------------------------------------------------------------------------------------------------------------------------
+

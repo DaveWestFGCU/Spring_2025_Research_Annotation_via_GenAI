@@ -1,0 +1,37 @@
+Record: "Then I find writing of us only eating it during winter strange."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be expressing a thought or opinion about something.
+* The tone appears to be calm and matter-of-fact, without any aggressive language or emotional intensifiers.
+* The statement is a simple observation or comment, rather than an attack or complaint.
+
+Given these considerations, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker seems to be expressing surprise at finding something unusual or unexpected about the behavior of others (eating only during winter).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone seems somewhat curious or puzzled, as they are questioning the strangeness of a specific behavior.
+* The speaker does not express any strong negative emotions such as anger or disgust.
+* The speaker is commenting on a social norm or cultural practice (eating something during winter), suggesting that they are reflecting on its normalcy.
+
+Most relevant emotion label: **Surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be commenting on a specific cultural practice mentioned in the post.
+* The phrase "strange" is used, which implies a sense of curiosity or confusion rather than strong negative emotion.
+
+Given these points, the most relevant emotion label is **surprise**. The speaker's tone appears to be one of mild curiosity and puzzlement, as they are expressing surprise at the idea that people only eat something during winter.
+------------------------------------------------------------------------------------------------------------------------
+

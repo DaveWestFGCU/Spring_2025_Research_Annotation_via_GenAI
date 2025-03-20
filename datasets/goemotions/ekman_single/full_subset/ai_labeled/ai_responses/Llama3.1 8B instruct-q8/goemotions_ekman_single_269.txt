@@ -1,0 +1,40 @@
+Record: "Great game, great soundtrack. He was like 19 or 20 when he did that too."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions two positive aspects of something (game and soundtrack)
+* The tone is casual and conversational
+* The speaker seems to be offering a compliment or praise
+
+Given these considerations, the most relevant emotion label is: **joy**
+
+The reason for this is that the speaker's comment is clearly expressing admiration and approval for the game and its soundtrack. This suggests a positive emotional state, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment seems positive and appreciative.
+* The words used are complimentary ("Great game", "Great soundtrack").
+* The speaker is expressing admiration for someone's work done at a young age.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is positive and appreciative.
+* The speaker mentions something they liked about the game (the soundtrack).
+* The speaker also shares a personal anecdote about the creator's age at the time of development.
+
+Given these points, it appears that the speaker is expressing admiration and approval for the game, which suggests a positive emotional state.
+
+**joy**
+
+This label fits because the comment includes phrases like "Great game" and "Great soundtrack", which convey enthusiasm and appreciation. The tone is also informal and friendly, suggesting that the speaker is pleased with what they're discussing.
+------------------------------------------------------------------------------------------------------------------------
+

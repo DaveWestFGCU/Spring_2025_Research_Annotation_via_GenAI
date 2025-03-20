@@ -1,0 +1,75 @@
+Record: "Recover well. (Argh, my english is too terrible 🇲🇫)"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion the speaker is feeling based on their comment. The sentence given is: "Recover well. (Argh, my english is too terrible 🇲🇫)".
+
+First, I'll break down the comment. They start with "Recover well." which seems like a supportive or hopeful message. That part might suggest positive emotions like joy or maybe just neutrality since it's a common expression of goodwill.
+
+Then there's a parenthesis with "Argh" and an English self-deprecating remark: "my english is too terrible 🇲🇫". The word "Argh" is an exclamation that typically conveys frustration or irritation. The speaker is pointing out their own poor English skills, which could indicate self-disappointment or embarrassment.
+
+Looking at the emotion categories:
+
+- **Anger**: Usually involves strong displeasure. While there's some frustration, it's more directed inward rather than outward anger.
+- **Disgust**: Not really applicable here; it's not about something offensive but personal self-awareness.
+- **Fear**: No signs of worry or nervousness in the statement.
+- **Joy**: The supportive part could hint at positivity, but overall the sentiment seems mixed.
+- **Sadness**: Fits because they're expressing disappointment or embarrassment about their English skills. Sadness includes emotions like disappointment and embarrassment.
+- **Surprise**: There's no indication of astonishment or unexpectedness here.
+- **Neutral**: While parts might be neutral, the frustration and self-criticism lean more towards an emotion.
+
+So, considering "Argh" as a sign of frustration but also their comment on their English being too terrible, it points towards sadness because they're expressing self-disappointment. Therefore, the most relevant emotion is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment: "Recover well. (Argh, my english is too terrible 🇲🇫)". The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The speaker starts with a positive wish, "Recover well," which might suggest something like concern or care, but then they follow it up with "(Argh, my english is too terrible 🇲🇫)". 
+
+The word "Argh" is an expression of frustration. They're clearly annoyed because they think their English is terrible. The flag emoji 🇲🇫 could be a self-deprecating joke about being from Mexico and France, or it might just add emphasis to their frustration.
+
+Looking at the emotion definitions:
+
+- Anger: Includes annoyance and disapproval. The use of "Argh" and frustration about their language skills fits here.
+- Disgust: Revulsion towards something unpleasant, but that's not exactly what's happening here; it's more self-directed frustration.
+- Fear: Not applicable as there's no indication of worry or anxiety.
+- Joy: Doesn't fit since the speaker isn't expressing happiness.
+- Sadness: Could be a possibility if they were feeling bad about their English, but "Argh" leans more towards anger.
+- Surprise: There's no unexpected event here.
+- Neutral: Clearly not, as there's emotion expressed.
+
+So, considering all this, the main emotion is frustration, which falls under anger. The speaker is annoyed with themselves for their English skills.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Recover well. (Argh, my english is too terrible 🇲🇫)". 
+
+First, let's break down what they're saying. The first part, "Recover well," sounds like a kind message, maybe wishing someone to get better. That could be positive, which might hint at joy or something neutral.
+
+But then the speaker adds "(Argh, my english is too terrible 🇲🇫)". So here, they express frustration with their English skills using "Argh" and an emoji that's often associated with anger or frustration (🇲🇫). The phrase "my english is too terrible" shows self-criticism and maybe embarrassment about their language ability.
+
+Looking at the emotion categories:
+- Anger: Includes annoyance and disapproval. The use of "Argh" and the emoji suggests frustration, which fits into anger.
+- Disgust: Revulsion towards something unpleasant. Doesn't seem to fit here; they're more frustrated with themselves than disgusted.
+- Fear: Not really present; no signs of worry or anxiety.
+- Joy: The initial part could be seen as positive, but the overall sentiment is negative.
+- Sadness: There's a bit of self-pity, which can sometimes overlap with sadness, but it's more about frustration.
+- Surprise: Doesn't seem applicable here.
+- Neutral: Definitely not; they're expressing an emotion.
+
+So, even though part of their message is positive, the main emotion conveyed in the comment is frustration and self-criticism, which falls under anger. The use of "Argh" and the emoji reinforces that they're feeling annoyed or upset about their English skills.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

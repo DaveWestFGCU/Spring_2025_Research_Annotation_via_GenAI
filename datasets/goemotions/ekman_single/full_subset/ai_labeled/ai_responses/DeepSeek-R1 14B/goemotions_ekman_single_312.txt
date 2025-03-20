@@ -1,0 +1,82 @@
+Record: "Reminds me of "It's your city!" back in The Flash 2X08."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment says, "Reminds me of 'It's your city!' back in The Flash 2X08." Let me break this down.
+
+First, I'll consider each emotion category and see if any fit. 
+
+Starting with anger: The comment doesn't express frustration or dislike. It's more of a nostalgic reference.
+
+Disgust would involve something unpleasant, which isn't the case here. The speaker is talking about a show moment, not something revolting.
+
+Fear? There's no indication of worry or anxiety in this statement.
+
+Joy could be a possibility since it includes admiration and happiness. Mentioning a TV show memory might evoke positive feelings.
+
+Sadness would involve sorrow or disappointment, which doesn't seem to be present here.
+
+Surprise is about astonishment or unexpectedness. The comment is a reference rather than something surprising.
+
+Neutral is lacking emotion, but the speaker seems to be making an observation, so maybe not neutral.
+
+Putting it all together, the speaker is referencing a specific episode of The Flash, which might bring back fond memories or positive feelings associated with the show. Therefore, joy seems like the most fitting emotion here.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment. Let me break this down step by step.
+
+First, looking at the sentence they provided: "Reminds me of 'It's your city!' back in The Flash 2X08." 
+
+Okay, the speaker is referencing a specific episode from The Flash, specifically mentioning a memorable line. This makes me think they're trying to evoke a memory or connect with something familiar.
+
+I should consider each emotion category and see which one fits best. Let's go through them:
+
+1. **Anger**: There doesn't seem to be any indication of anger here. No strong negative words or frustration expressed.
+2. **Disgust**: Again, no signs of disgust. The comment is about a memory, not something unpleasant.
+3. **Fear**: Fear involves worry or anxiety, but the speaker's tone seems more reflective than worried.
+4. **Joy**: This could be possible if they're sharing a positive memory, but I'm not sure yet.
+5. **Sadness**: Sadness involves sorrow or disappointment, which doesn't seem to be the case here.
+6. **Surprise**: The comment isn't about something unexpected; it's a reference to a known moment.
+7. **Neutral**: If none of the other emotions fit, this is an option.
+
+Wait, maybe I should think deeper. The speaker is recalling a specific episode and line, which could be nostalgic or evoke positive feelings. But nostalgia can sometimes lean towards sadness if it's about longing for the past. However, in this context, they're just mentioning it without expressing any negative emotions.
+
+Alternatively, they might be pointing out a similarity or making a comparison, but that doesn't necessarily indicate an emotion beyond neutral unless there's more context.
+
+I think the safest bet here is **neutral**, because the comment is informative and references something without showing clear signs of any other emotion. They're just sharing a memory or fact, not expressing a strong feeling.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment is: "Reminds me of 'It's your city!' back in The Flash 2X08." Let me break this down.
+
+First, let's understand the context. They're referencing a specific episode of The Flash, which suggests they're talking about a show they enjoy or have watched. The phrase "'It's your city!'" is from that show, and it's often used in situations where someone takes responsibility or blames others for something related to their city.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+I don't see any explicit signs of strong emotions like anger or disgust. The speaker isn't expressing frustration or disapproval. Fear? Doesn't seem likely; there's no indication of worry or anxiety. Sadness? No evident sorrow or disappointment either.
+
+What about surprise? They're recalling a specific moment from the show, but it doesn't sound like they're surprised by something unexpected. It's more of a nostalgic reference rather than something startling.
+
+Then we have joy and neutral. Joy is associated with pleasure and happiness. The speaker is bringing up a memorable quote, which might indicate they're happy or amused. They could be sharing this because they find it relevant or funny, which ties into joy.
+
+Neutral would mean no emotion is conveyed, but the mention of a specific show moment suggests some engagement, leaning towards positive feelings rather than neutrality.
+
+So, putting it all together, the speaker's reference to the episode and quote likely reflects a sense of nostalgia or agreement in a humorous way. This points more towards joy than any other emotion.
+</think>
+
+The comment references a specific TV show episode and its memorable line, which might indicate a nostalgic or approving sentiment rather than expressing overt emotion.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,34 @@
+Record: "Makes me glad I'm almost 50, and all this is stuff I will never ever experience, and frankly can hardly fathom."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author expresses a sense of relief that they won't have to deal with certain issues in the future.
+* They imply that these issues are overwhelming or difficult to comprehend.
+* The tone is matter-of-fact and somewhat resigned.
+
+The most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions being glad about a particular aspect of their life (being almost 50), which suggests a positive sentiment.
+* The author expresses relief that they will not have to deal with something in the future, implying a sense of escape or reprieve.
+* The phrase "cannot hardly fathom" suggests a level of bewilderment or disconnection from the situation.
+
+Based on these points, the most relevant emotion label is **joy**. The author's tone appears to be one of relief and gratitude for not having to experience something difficult or unpleasant, which aligns with feelings of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions being "glad" which suggests a positive sentiment.
+* They express relief or appreciation for not having to go through certain experiences, indicating a sense of release or escape.
+* The phrase "hardly fathom" implies bewilderment or astonishment.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

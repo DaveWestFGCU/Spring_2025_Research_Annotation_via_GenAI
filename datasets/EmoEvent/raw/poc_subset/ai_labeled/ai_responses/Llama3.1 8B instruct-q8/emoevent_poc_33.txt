@@ -1,0 +1,33 @@
+Record: "Pretty poor shots mostly. Couple of great saves from [NAME] though."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The author starts with a negative statement ("Pretty poor shots mostly"), which suggests criticism or dissatisfaction.
+- However, the tone may not be entirely negative as they acknowledge "a couple of great saves" made by someone named [NAME].
+- This implies that while there are criticisms, there is also something redeeming about the performance.
+
+**anger**
+The tweet criticizes, but does not indicate a strong emotional response typical of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+- The author mentions that there are "pretty poor shots", which indicates a negative evaluation.
+- However, they also mention "couple of great saves" which suggests that something positive was observed.
+
+Given the context and language used, the most relevant emotion label is: **anger**
+
+The tweet does not express anger towards [NAME], but rather seems to be frustrated or annoyed with their performance overall.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+- The phrase "pretty poor shots" is a critical statement about the performance.
+- The word "mostly" suggests that the author believes the team or player had some redeeming qualities, but overall did not perform well.
+- The phrase "couple of great saves" acknowledges and appreciates a positive aspect of [NAME]'s performance.
+
+Given these considerations, **anger** is the most relevant emotion label.
+------------------------------------------------------------------------------------------------------------------------
+

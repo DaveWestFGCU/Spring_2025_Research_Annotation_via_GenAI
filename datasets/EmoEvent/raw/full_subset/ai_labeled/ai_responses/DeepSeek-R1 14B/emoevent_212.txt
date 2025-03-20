@@ -1,0 +1,22 @@
+Record: "OMG so excited for today's match. #ChampionsLeague #BarcellonaLiverpool"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out the primary emotion conveyed in this tweet. The tweet says, "OMG so excited for today's match. #ChampionsLeague #BarcellonaLiverpool." 
+
+First, let me break down the components of the tweet. The user starts with "OMG," which stands for "Oh My God," often used to express strong excitement or surprise. Then they mention being "so excited" for the upcoming match. The hashtags are related to the Champions League and a specific game between Barcelona and Liverpool.
+
+Looking at the emotion mapping guidelines, I need to classify this into one of anger, disgust, fear, joy, sadness, or surprise. 
+
+The word "excited" directly relates to joy because excitement is a positive emotion that brings happiness. The use of "OMG" also adds to the sense of enthusiasm and eagerness, which are indicators of joy. There's no indication of any negative emotions like anger or fear here.
+
+I should consider if there's any possibility it could be surprise. While surprise can sometimes overlap with excitement, in this case, the primary emotion seems to be more about looking forward to something positive rather than being surprised by an event. The focus is on the upcoming match and the excitement associated with it.
+
+So, putting it all together, the tweet expresses joy because of the excitement and enthusiasm shown.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

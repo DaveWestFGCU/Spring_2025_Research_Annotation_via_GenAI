@@ -1,0 +1,18 @@
+Record: "USER USER USER USER USER A very happy #WorldBookDay, indeed! We're so excited to read USER' new book, "The Moment of Lift.""
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out the primary emotion in this tweet. The user wrote, "A very happy #WorldBookDay, indeed! We're so excited to read USER' new book, 'The Moment of Lift.'" 
+
+First, looking at the words used: "happy" and "excited." Both of these are strong indicators of positive emotions. The mention of being excited about reading a new book also adds to that feeling.
+
+Now, considering the emotion labels: anger, disgust, fear, joy, sadness, surprise. Since the tweet is expressing happiness and excitement, it's leaning towards joy. There's no indication of any other emotions like fear or surprise; it's clearly positive.
+
+So, the primary emotion here is joy.
+</think>
+
+joy
+------------------------------------------------------------------------------------------------------------------------
+

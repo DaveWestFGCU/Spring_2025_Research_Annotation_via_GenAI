@@ -1,0 +1,78 @@
+Record: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment says: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]." 
+
+First, I'll break down what this sentence is saying. The speaker is talking about holding something against a person named [NAME], but they're arguing that it's not [NAME]'s fault. Instead, they point out that it's the Packers organization and their front office that have stopped trying. This suggests that the speaker is defending [NAME] from criticism.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, neutral. I need to determine which one fits best.
+
+Let me consider each emotion:
+
+- Anger: The speaker could be angry if they're frustrated with others blaming [NAME]. But in this case, it seems more like a defense rather than pure anger.
+- Disgust: This would involve strong disapproval. Maybe if the speaker is disgusted by the situation, but I don't see evidence of disgust here.
+- Fear: The comment doesn't indicate fear or worry; it's more about taking someone's side.
+- Joy: Unlikely since there's no indication of happiness or approval in the statement.
+- Sadness: There's no sadness expressed, just a defense of [NAME].
+- Surprise: No element of surprise here.
+- Neutral: If none of the other emotions apply, but I think it's more than neutral.
+
+Wait, maybe the speaker is showing frustration. Frustration can sometimes be tied to anger. The speaker seems annoyed that people are blaming [NAME] instead of the organization. So perhaps anger is the emotion here.
+
+Alternatively, could it be surprise? No, because the statement isn't reacting to an unexpected event; it's a response defending someone.
+
+So I'm leaning towards anger because the speaker is correcting others'指责 and showing frustration with their perspective.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out the emotion behind this Reddit comment. The speaker is saying something about holding things against a person (probably [NAME]) instead of the Packers organization or front office. They mention that it's the front office who stopped trying, not [NAME].
+
+Hmm, so looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+The speaker seems to be defending [NAME] and blaming the organization instead. The tone doesn't sound positive; they're correcting others' perceptions. It's more about frustration with how responsibility is being misplaced. So maybe it's anger because they're annoyed or disapproving of others' actions towards [NAME].
+
+Wait, could it be disgust? Disgust is about strong disapproval. But the speaker isn't expressing revulsion but rather a correction, which leans more to anger as it's about disagreement and frustration.
+
+No fear or surprise here, just a clear stance against others' accusations. Joy and sadness don't fit because there's no positive or negative emotional expression beyond correcting a misattribution. Neutral is out since the speaker is clearly conveying an opinion.
+
+So yeah, I think it's anger because they're correcting others with a tone of frustration.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. Let me read through the given text again: "And people try to hold that against [NAME] when they should hold that against the Packers organization and Front Office...Their Front Office stopped trying, not [NAME]." 
+
+Alright, breaking this down. The speaker is talking about how people are blaming [NAME], but according to them, it's actually the fault of the Packers' management. They're pointing out that the issue isn't with [NAME] but with higher-ups who have given up.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that fits best.
+
+First, let me check for any obvious signs of strong emotions. The speaker is correcting others' viewpoints, which can sometimes indicate frustration or annoyance—those are under anger. They're dismissing [NAME]'s involvement and placing blame elsewhere, suggesting they might be upset about how [NAME] is being treated.
+
+Is there any sign of disgust? Disgust usually involves something unpleasant or offensive. The comment doesn't directly express revulsion towards something but rather a shift in blame. So maybe not disgust.
+
+Fear or anxiety? Doesn't seem like it; the speaker isn't expressing worry but rather correcting others' perceptions.
+
+Joy or happiness? No, this doesn't sound positive at all.
+
+Sadness or disappointment? Maybe if there's frustration, but sadness is more about emotional pain. The tone here seems more confrontational than sad.
+
+Surprise? Not really; the statement is a clear argument without any astonishment expressed.
+
+Neutral? Well, it's not completely neutral since they are expressing an opinion and correcting others, so there's some emotion involved.
+
+So, putting it together, the speaker is likely feeling anger. They're annoyed that people are blaming [NAME] instead of the organization. Anger fits because they're confronting others' viewpoint with a strong tone.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,41 @@
+Record: "Very disappointed Salah failed to net that. You just have to score or at least hit the target. What more can you say about Messi. Ridiculous man. Ridiculous career. #BARLIV #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing disappointment with a specific event (Salah not scoring).
+* They are criticizing Salah's performance, using words like "failed" and "ridiculous".
+* They also make a broader criticism of Messi's career.
+* The tone is strongly negative.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author's strong language and criticism suggest that they are feeling angry about the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author expresses dissatisfaction with a player's performance (Salah failing to score)
+* The author uses strong language to criticize the player (ridiculous)
+* The author contrasts two players, implying that one (Messi) is superior to the other (Salah)
+
+Given these points, the most relevant emotion label is **anger**, as the author expresses frustration and annoyance with Salah's performance and criticizes him using strong language.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing frustration and disappointment with Salah's performance.
+* The use of strong language such as "Ridiculous" suggests a high level of discontent.
+* The tone is critical and dismissive towards both Salah and Messi.
+
+Given the text, the most relevant emotion label is:
+**anger**
+
+Note: While the tweet also contains elements of disgust (e.g. "ridiculous"), the overall tone and language used suggest that anger is the primary emotion being conveyed.
+------------------------------------------------------------------------------------------------------------------------
+

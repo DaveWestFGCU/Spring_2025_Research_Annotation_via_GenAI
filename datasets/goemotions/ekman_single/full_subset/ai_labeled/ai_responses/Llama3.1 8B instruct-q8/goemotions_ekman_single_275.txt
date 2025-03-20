@@ -1,0 +1,40 @@
+Record: "I wish they had what they advertised. The end of that era was sometime in my teens."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions something being advertised but not delivered, which suggests a sense of disappointment.
+* The phrase "the end of that era" implies a change or loss.
+* The tone is nostalgic and somewhat melancholic.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's comment conveys a sense of sadness due to the loss of something they had been looking forward to.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker expresses disappointment with something ("what they advertised").
+* The speaker mentions a specific time period when the thing stopped happening ("the end of that era was sometime in my teens").
+* The tone is somewhat nostalgic, but also hints at unmet expectations.
+
+Given these points, the most relevant emotion label is **sadness**. The speaker's disappointment and nostalgia suggest a sense of loss or emotional pain, which is characteristic of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker expresses disappointment and longing for something that did not meet their expectations.
+* They mention the end of an era, which implies a sense of loss or finality.
+* There is no overtly negative language used, but rather a wistful tone.
+
+Given these points, the most relevant emotion label is: **sadness**
+
+The speaker's comment conveys a sense of emotional pain and sorrow due to something not meeting their expectations, which aligns with the definition of sadness.
+------------------------------------------------------------------------------------------------------------------------
+

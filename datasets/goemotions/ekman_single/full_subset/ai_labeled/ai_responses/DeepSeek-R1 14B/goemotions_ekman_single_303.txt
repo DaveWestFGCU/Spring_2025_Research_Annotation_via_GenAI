@@ -1,0 +1,62 @@
+Record: "Wow, 5 downvotes in 3 minutes. Go you!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "Wow, 5 downvotes in 3 minutes. Go you!" 
+
+First, let's break down the sentence. The speaker starts with "Wow," which often expresses surprise or astonishment. Then they mention getting 5 downvotes quickly and end with "Go you!" That seems supportive but also surprised by how fast it happened.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. 
+
+"Wow" suggests surprise. The speaker is reacting to something unexpected happening—receiving a lot of downvotes in a short time. They're acknowledging that this happened quickly and then encouraging the other person with "Go you!" which adds to the surprised tone.
+
+I don't see any signs of anger or disgust here. No strong negative words. Fear? Doesn't seem like they're worried, more like amazed. Joy might be possible if it's a positive reaction, but downvotes are usually negative, and the speaker is highlighting that quickly, so surprise feels more accurate.
+
+Sadness doesn't fit because the comment isn't expressing sorrow or disappointment. Neutral is out because there's definitely an emotion expressed.
+
+So, putting it all together, the emotion here is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Wow, 5 downvotes in 3 minutes. Go you!" The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let me break down the sentence. They start with "Wow," which usually expresses surprise or astonishment. Then they mention getting 5 downvotes quickly and end with "Go you!" That sounds like encouragement or praise.
+
+Looking at the emotion definitions: Surprise includesastonishment, while joy includes approval and encouragement. So, is it surprise because of the suddenness, or joy because they're praising?
+
+The speaker seems to be reacting to something unexpected happening fast (5 downvotes in 3 minutes). The "Wow" suggests surprise. But then saying "Go you!" is positive, almost like congratulating, which leans towards joy.
+
+But wait, maybe it's both? However, the options are singular. I think the primary emotion here might be surprise because of the initial reaction to the downvotes being a surprising event, followed by approval.
+
+Alternatively, if the speaker is happy about the downvotes, that could be joy. But "Wow" indicates astonishment, which points more to surprise.
+
+So, considering the structure and words used, I think it's either surprise or joy. The speaker seems both surprised and approving. However, since "Wow" is a strong indicator of surprise, maybe the emotion is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out the emotion the speaker is feeling based on their comment. The comment is: "Wow, 5 downvotes in 3 minutes. Go you!" 
+
+Let me break this down. First, the speaker starts with "Wow," which often expresses surprise or astonishment. Then they mention getting 5 downvotes quickly, and ends with "Go you!" which sounds like encouragement.
+
+Looking at the emotion categories: anger is about displeasure or antagonism. Disgust is revulsion. Fear is about being afraid or worried. Joy includes happiness and positive feelings. Sadness is emotional pain. Surprise is astonishment or realization. Neutral is no emotion.
+
+The speaker's use of "Wow" suggests surprise, maybe even shock at the number of downvotes. But then they end with "Go you!" which could indicate support or approval. So there are mixed elements here: surprise and possibly some positive encouragement.
+
+But considering the context of Reddit comments, getting a lot of downvotes can sometimes be seen negatively by others, but the speaker seems to be acknowledging it in an enthusiastic way. However, the main emotion here is likely surprise because they're reacting to something unexpected happening quickly—5 downvotes in just 3 minutes. That's pretty fast, so it's surprising.
+
+I don't think it's anger or disgust because there's no negative language directed at someone else; instead, it's more about the reaction to the situation. Joy might be part of it if they're happy for the person, but the primary emotion is surprise due to the unexpectedness.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

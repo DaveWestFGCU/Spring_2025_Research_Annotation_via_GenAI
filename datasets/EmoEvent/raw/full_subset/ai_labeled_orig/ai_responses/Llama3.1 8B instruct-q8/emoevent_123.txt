@@ -1,0 +1,43 @@
+Record: "King of #LaLiga! Substitute #Messi delivers title to #Barca with Levante win #FanaticalFootballClub #FanaticalFanClub #WhereWeShootAndYouScore #FFCNewsUpadate https://t.co/rpL0bdIvR2"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet is celebratory and enthusiastic.
+* The language used is positive, with words like "King" and "delivers title".
+* The mention of a win and the use of hashtags suggest excitement and triumph.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+This is because the author appears to be expressing happiness and celebration at Barca's victory, which fits within the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is celebrating a championship title win by Barcelona (Barca) in La Liga.
+* The tweet includes enthusiastic language and hashtags, indicating excitement and support for the team.
+* The mention of Lionel Messi as a substitute player who contributed to the win suggests that the author values his skills and impact on the game.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's use of celebratory language and hashtags, such as "#Kingof #LaLiga" and "#FanaticalFootballClub", indicates a strong sense of excitement and happiness about Barcelona's championship win.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The text mentions a specific outcome (Messi delivering the title to Barca) that likely has a positive connotation for Barcelona fans.
+* The use of celebratory language such as "King" and "#FanaticalFootballClub" suggests a tone of enthusiasm and excitement.
+* The hashtags appear to be promotional or attention-grabbing, indicating a sense of pride and satisfaction.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

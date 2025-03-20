@@ -1,0 +1,52 @@
+Record: "Maybe you should try watching it before commenting on it, otherwise your just posting from a position of ignorance. "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's figure out which emotion the speaker is feeling based on their comment. The comment says, "Maybe you should try watching it before commenting on it, otherwise you're just posting from a position of ignorance." 
+
+First, I'll break down what this statement is conveying. The speaker is suggesting that someone else hasn't watched something before commenting, implying that the other person might not have enough knowledge or basis for their opinion. This comes off as a critique or disapproval of the other's viewpoint.
+
+Looking at the emotion categories provided: anger, disgust, fear, joy, sadness, surprise, and neutral. I need to match this statement to one of these.
+
+Anger is about displeasure or antagonism. The speaker doesn't seem angry; it's more of a pointed critique rather than overt anger. Disgust involves revulsion or strong disapproval. Here, the speaker seems to have strong disapproval towards the other person's lack of basis in their comment, which could be interpreted as disgust.
+
+Fear is about being afraid or worried, which doesn't apply here. Joy and surprise are clearly not present since the tone isn't positive or surprised. Sadness involves emotional pain, which also doesn't fit because the speaker isn't expressing sorrow but rather criticism.
+
+So, considering the options, the emotion that fits best is disgust. The speaker is showing strong disapproval towards the other person's uninformed comment.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me figure out which emotion the speaker is feeling based on their comment. The comment says, "Maybe you should try watching it before commenting on it, otherwise your just posting from a position of ignorance." 
+
+First, I'll break down the sentence. The speaker is suggesting that someone else watch something before commenting, implying they might be making uninformed comments. Words like "ignorance" and "just posting" come across as critical.
+
+Looking at the emotion categories: anger involves displeasure or antagonism, which seems possible here since the speaker is correcting someone's approach. Disgust is more about revulsion, which doesn't quite fit. Fear isn't evident here; there's no sense of worry or anxiety. Joy and surprise are out because the tone isn't positive or astonished.
+
+Sadness involves emotional pain, but again, the comment is more about correction than sorrow. Neutral is when there's no emotion, but this definitely has a pointed message. So, between anger and maybe others, it seems like the speaker is frustrated with the other person's lack of knowledge before commenting. That frustration points towards anger.
+
+So, I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's figure out the emotion behind this comment. The user says, "Maybe you should try watching it before commenting on it, otherwise your just posting from a position of ignorance." 
+
+First, I notice that the speaker is suggesting someone else to watch something before commenting. That sounds like they're implying the other person doesn't know what they're talking about. The phrase "posting from a position of ignorance" definitely has a critical tone.
+
+So, looking at the emotion categories: anger involves displeasure or antagonism. Disgust is more about revulsion towards something unpleasant. Fear would be related to being afraid, but there's no indication of that here. Joy isn't present since it's not positive. Sadness is about sorrow, which doesn't fit. Surprise isn't either because the comment isn't startling.
+
+The critical and annoyed tone points more towards anger rather than disgust because it's directed at someone else's lack of knowledge. So I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

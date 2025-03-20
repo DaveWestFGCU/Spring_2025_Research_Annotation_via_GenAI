@@ -1,0 +1,34 @@
+Record: "I remember when two captured ISIS members were discovered to have ordered a book called "[RELIGION] for dummies" from Amazon."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is matter-of-fact and neutral, without any strong emotional language.
+* The speaker seems to be sharing information about an event they found notable or interesting.
+* There's no apparent emotional investment or personal connection to the topic.
+
+Given these considerations, I would categorize the emotion as **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is reminiscing about a past event involving ISIS members.
+* The comment appears to be sarcastic and mocking, as indicated by the use of the phrase "for dummies".
+* The speaker is highlighting what they perceive as an absurd or ironic situation.
+
+Given these considerations, the most relevant emotion label for this response is **surprise**. The speaker's tone suggests that they are astonished or shocked by the fact that ISIS members would order a book like "[RELIGION] for dummies", implying that it was an unexpected and surprising discovery.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment is matter-of-fact and dry.
+* There is no emotional language or strong adjectives used in the comment.
+* The speaker seems to be stating a fact rather than expressing an opinion or emotion.
+
+Given these points, the most relevant emotion label for this comment is **neutral**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Record: "USER I'm monitoring the LİES off #USA in #Venezuela vey closely. The united states didn't stand with the people and their FREEDOM!! NEVER did #Venezuela or #Golanheights The world needs to stop #USA  #IsraeliCrimes #Myanmar if we where all together THEY CAN'T push FORCE,#racismo &amp;hate"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing strong sentiments against the United States, Israel, and Myanmar.
+* The language used is confrontational, with words like "LIES", "NEVER did", and "stop" implying a sense of urgency and opposition.
+* The author mentions specific human rights issues such as "racismo & hate" and "#IsraeliCrimes", indicating that they are upset about the treatment of certain groups.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The author's tone is aggressive and confrontational, with a clear sense of outrage and indignation towards the mentioned countries. The use of all caps and exclamation marks also adds to the sense of anger and frustration.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the tweet's emotion, let's consider the following points:
+
+* The author is expressing a strong negative sentiment towards the United States, Israel, and Myanmar.
+* They use words like "lies", "force", "racism", and "hate" to describe these countries' actions.
+* The author seems to be advocating for unity and opposition against these countries.
+
+Given these points, we can infer that the author is expressing a strong negative emotion towards the mentioned countries. 
+
+The most relevant emotion label in this context would be **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author expresses strong opposition to the United States and its actions.
+* The author uses bold language, such as "LIES", "NEVER did", and "push FORCE" to convey their emotions.
+* The author mentions specific instances of perceived wrongdoing by the United States in Venezuela, Golan Heights, and Myanmar.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+ 
+The author's use of strong language and condemnation of the United States' actions suggests a high level of anger towards the country.
+------------------------------------------------------------------------------------------------------------------------
+

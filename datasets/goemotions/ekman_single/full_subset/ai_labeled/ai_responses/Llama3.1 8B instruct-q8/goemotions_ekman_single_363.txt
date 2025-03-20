@@ -1,0 +1,38 @@
+Record: "Been there, done that. Still alive and remarkably healthy at 51. The body is tremendously resilient"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions their personal experience of being sick but still managing to stay healthy.
+* They express a sense of confidence in the body's resilience.
+* The tone appears positive and encouraging.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is sharing their personal experience of having gone through a challenging situation.
+* They mention being "Still alive" which suggests they have survived something potentially hazardous or difficult.
+* The tone of the statement is matter-of-fact and does not express any strong emotion.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The speaker's comment has a positive undertone, as they're expressing gratitude for their current health and resilience. While it's not an overwhelmingly joyful tone, there's a sense of appreciation and relief that comes across, which aligns with the joy category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions having been in a situation where they could have been harmed ("been there, done that") but surprisingly came out unscathed.
+* They express a positive assessment of their current health status and age.
+* The tone seems reflective rather than defensive or argumentative.
+
+Most relevant emotion label: **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

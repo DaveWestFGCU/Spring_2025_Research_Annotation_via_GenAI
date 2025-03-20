@@ -1,0 +1,38 @@
+Record: "Also, who the fuck came up with that battle strategy, I genuinely can't think of a worse display #GameOfThrones https://t.co/tt3HgOqQVw"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses strong language ("who the fuck") indicating a high level of frustration or exasperation.
+* The author expresses disapproval and criticism towards a specific aspect of Game of Thrones (the battle strategy).
+* The tone is scathing, implying a strong negative emotion.
+
+Based on these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some points to consider:
+
+* The author uses strong language ("who the fuck") indicating frustration and criticism.
+* They express disbelief and disappointment with a specific aspect of the show (the battle strategy).
+* The tone is negative, criticizing rather than praising.
+
+**anger**
+
+This emotion label fits best because the author's use of strong language and critical tone suggests they are angry or annoyed by the battle strategy in Game of Thrones.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses strong profanity ("who the fuck").
+* The language is critical and condemnatory ("a worse display").
+* The topic appears to be a disappointment or criticism of a specific aspect of Game of Thrones.
+
+The most relevant emotion label is: **anger**
+
+Note that while there is some surprise or dismay implied, the tone is overwhelmingly critical and condemning, which points more towards anger.
+------------------------------------------------------------------------------------------------------------------------
+

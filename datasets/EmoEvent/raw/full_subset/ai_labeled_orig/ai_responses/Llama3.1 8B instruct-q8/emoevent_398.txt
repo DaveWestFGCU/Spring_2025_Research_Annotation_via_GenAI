@@ -1,0 +1,43 @@
+Record: "Year 2030 Me: Anyone remember 2019 when Liverpool won the 91 points trophy? Everyone else: Nope  #mufc #ChampionsLeague #youryear #nextyear #LiverpoolBarca USER USER_red USER"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the tweet's intended emotion, consider the following:
+
+* The tone of the tweet appears to be lighthearted and humorous.
+* The use of a "Year 2030 Me" joke suggests a playful and nostalgic tone.
+* The mention of a humorous event (Liverpool winning 91 points in a trophy) implies that the author is trying to elicit a positive emotional response from their audience.
+* There is no apparent criticism, complaint, or negative sentiment directed at anyone.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**joy**
+
+The tone of the tweet suggests that the author intended to convey a sense of amusement and lightheartedness, which aligns with the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is referring to a past event, specifically the UEFA Champions League.
+* The author is mentioning Liverpool's performance and comparing it to another team (not explicitly mentioned in the text but implied by the hashtags #mufc and #LiverpoolBarca).
+* The tone of the tweet seems lighthearted and humorous.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The author appears to be expressing a sense of surprise or amusement at how people might react to their reference to Liverpool's 91-point trophy, which was actually earned by Liverpool in the 2018-19 Premier League season.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the tweet is casual and lighthearted, suggesting a playful or humorous intention.
+* The author appears to be joking about Liverpool's performance in 2019, using "91 points trophy" as an ironic reference (Liverpool actually won the Champions League title that year by defeating Tottenham 2-0 in the final).
+* The use of hashtags and mentions indicates a social media context where playful teasing or poking fun at others is common.
+
+Given these points, the author's intended emotion is likely **joy**, as the tone is lighthearted and humorous, and the intention seems to be to amuse or entertain rather than express any negative emotions.
+------------------------------------------------------------------------------------------------------------------------
+

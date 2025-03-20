@@ -1,0 +1,34 @@
+Record: "Happy #WorldBookDay! Follow our librarian, Max Crowther, on Twitter USER for the occasion! https://t.co/giqmuL5pss"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The text is a greeting and an invitation to follow someone on Twitter.
+* The tone is informal and friendly.
+* The use of "Happy" at the beginning of the sentence sets a positive tone.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a greeting and an invitation.
+* It mentions a celebration (World Book Day) which suggests a positive tone.
+* The language used is formal and friendly.
+
+Given these points, the author intended to convey **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is short and straightforward.
+* It includes a hashtag (#WorldBookDay) indicating it's a celebratory event.
+* The tone is positive and inviting.
+
+Given these points, the most relevant emotion label is **joy**. The use of "Happy" in the tweet explicitly conveys a joyful tone, making this the intended emotion conveyed by the author.
+------------------------------------------------------------------------------------------------------------------------
+

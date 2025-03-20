@@ -1,0 +1,42 @@
+Record: "Game of thrones. Episode 3. No comment. Nothing at all. Just fucking amazing. #GameofThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is referring to a TV show they seem to enjoy.
+* They use the phrase "No comment" which implies that they're being sarcastic or ironic about not commenting, but then proceed to express their enthusiasm.
+* The language used ("Just fucking amazing") suggests strong positive emotions.
+
+Given these points, I would classify the tweet as:
+
+**joy**
+
+The author's tone is overwhelmingly enthusiastic and excited about the show, indicating a strong positive emotional response.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author does not make a comment about the episode, which might suggest neutrality or indifference.
+* However, the use of strong language ("fucking amazing") indicates a strong positive emotion.
+* The overall tone is enthusiastic and excited.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify the tweet's intended emotion, consider the following points:
+
+* The author starts by stating "No comment", which could imply neutrality or even negative emotions like disappointment.
+* However, they immediately follow it up with a strong positive expression: "Just fucking amazing".
+* This phrase suggests enthusiasm and praise, rather than any negative emotions.
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+ 
+The author's use of strong language ("fucking") to emphasize their excitement implies a sense of joy or euphoria. The tone is clearly positive and celebratory.
+------------------------------------------------------------------------------------------------------------------------
+

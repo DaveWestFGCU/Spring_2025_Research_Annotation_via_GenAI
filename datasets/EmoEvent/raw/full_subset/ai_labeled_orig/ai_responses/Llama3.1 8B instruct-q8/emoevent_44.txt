@@ -1,0 +1,45 @@
+Record: "They're also fantastic #therapy.  Here are mine that helped me make it through #bereavement and #Cancer.  https://t.co/IvlEkrED1w  Happy #WorldBookDay ! https://t.co/HL5xEFiik3"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions "bereavement" and "Cancer", which suggest a personal experience of loss or hardship.
+* Despite the serious tone, the author ends with "#Happy #WorldBookDay!", indicating a sense of appreciation or joy.
+* However, the context of bereavement and cancer suggests that the author's initial tone is more somber than joyful.
+
+Considering these points, the most relevant emotion label is:
+
+**sadness**
+
+Note: The use of "bereavement" and "Cancer" suggests a somber tone, but the inclusion of "#Happy #WorldBookDay!" at the end softens this to a more nuanced sadness rather than an outright expression of grief.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions using books as therapy for bereavement and cancer, indicating a personal and emotional connection.
+* The author expresses gratitude or appreciation by sharing their experiences with books that helped them cope with difficult situations.
+* The tone is positive and celebratory, using the hashtag #WorldBookDay.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's mention of using books as therapy for difficult times and expressing happiness on World Book Day suggests a sense of joy or celebration.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider when classifying the tweet by emotion:
+
+* The author mentions "bereavement" and "Cancer", which suggests a serious or somber topic.
+* However, the author also says that books helped them get through these difficult experiences, implying a positive outcome.
+* The tone of the message is informative and shares personal experience, with a hint of positivity.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**joy**
+
+This is because despite discussing serious topics like bereavement and Cancer, the author's overall tone is upbeat and appreciative of the positive impact that books had on their life.
+------------------------------------------------------------------------------------------------------------------------
+

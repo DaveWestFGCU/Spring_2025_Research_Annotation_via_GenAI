@@ -1,0 +1,32 @@
+Record: "Almost in tears watching him celebrate, true captain ❤️"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is expressing strong emotional reaction
+* The context implies a positive situation (celebration)
+* The phrase "almost in tears" suggests a strong emotional response that may not necessarily be negative
+
+Given the text and these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is on the verge of crying
+* They are watching someone they seem to care about celebrating
+
+Based on these points, the most relevant emotion label is: **sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is almost in tears, which suggests a strong emotional reaction.
+* The context is a celebration, but the author's reaction is one of sadness rather than joy.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

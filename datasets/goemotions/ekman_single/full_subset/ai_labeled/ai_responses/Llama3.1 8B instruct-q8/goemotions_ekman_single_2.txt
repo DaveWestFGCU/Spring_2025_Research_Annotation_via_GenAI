@@ -1,0 +1,45 @@
+Record: "Still, it’s legal weed. Sorry, sad [NAME] here.."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "Sorry, sad" which explicitly states their emotional state.
+* The context of the comment is a discussion about marijuana being legalized.
+* The tone of the comment seems melancholic and apologetic.
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's use of the word "sorry" implies remorse or regret, and the phrase "sad [NAME] here" explicitly states their emotional state as sadness. This suggests that the speaker is feeling sad or disappointed about something related to the legalization of marijuana.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with "Still", which indicates that they are responding to something and may have had a prior conversation or discussion.
+* They mention "legal weed", which suggests that the topic is related to marijuana legalization.
+* The phrase "Sorry, sad [NAME] here" explicitly states that the speaker feels sad.
+
+Given these points, the speaker's tone seems to convey empathy and sorrow towards someone who is upset about legal weed. The most relevant emotion label for this comment would be:
+
+**sadness**
+
+Note: The use of "[NAME]" in the comment likely refers to a person or entity being discussed, rather than an actual name being mentioned.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker starts by acknowledging that something is legal ("it's legal weed"), which suggests they are not upset about the topic itself.
+* They then express sympathy or apology with the phrase "Sorry, sad", indicating that their emotional tone is somber and empathetic.
+
+Given these points, the most relevant emotion label for this comment is:
+
+**sadness**
+
+This is because the speaker explicitly states that they are feeling sadness ("sad [NAME] here"), which aligns with the examples of sadness in the provided definitions (e.g., "Sorry misunderstood you! I'm talking about viruses and bacteria that can kill you like the flu etc.").
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,52 @@
+Record: "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, I need to classify this tweet's emotion from the given list. Let me read it carefully: "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit". 
+
+The user mentions "squinting" and adjusting brightness but still can't see properly, which suggests frustration. The hashtags "#CantSeeShit" clearly show irritation or dislike towards the visual quality. 
+
+Looking at the emotion categories: anger includes annoyance and rage. Dislike falls under disgust, but here it's more about being frustrated with a situation rather than feeling disgusted. So, the primary emotion is likely anger due to the frustration expressed.
+</think>
+
+The tweet expresses frustration and irritation, which fall under the category of anger.
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion is being conveyed in this tweet about Game of Thrones. The tweet says: "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit". 
+
+First, let's break down the content. The user mentions "squinting" and adjusting the TV brightness, which implies that the visuals on the show are not clear. They're having trouble seeing properly, hence the hashtag "#CantSeeShit", which is a slang way of saying they can't see what's happening.
+
+The tweet starts with "Love spending the whole time...", but then goes into frustration about not being able to see. The word "love" might be sarcastic here because if you love something, you wouldn't be having trouble with it in such a negative way. So, the sarcasm suggests that they're actually annoyed or upset.
+
+Looking at the emotion options: anger, disgust, fear, joy, sadness, surprise. I need to choose one that best fits. The user isn't expressing happiness (joy) because they're clearly frustrated. They aren't scared or surprised either. It's more about being annoyed or having a negative experience watching the show.
+
+So, the emotion here is likely "anger". They're frustrated with the poor visual quality of Game of Thrones, which made them spend time squinting and adjusting settings without success. Alternatively, could it be disgust? Disgust often relates to something repulsive, but in this case, it's more about frustration with the technical aspect.
+
+But considering that "anger" includes annoyance and rage, and the tweet is expressing a level of frustration bordering on irritation, "anger" seems appropriate. The use of the hashtag "#CantSeeShit" adds to the sarcastic tone, which is a form of mild anger or frustration.
+
+Therefore, the emotion conveyed here is **anger**.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion this tweet is conveying. Let me read it again: "Love spending the whole time squinting even after adjusting the TV brightness. #GameOfThrones #CantSeeShit". 
+
+The user starts with "Love", which sounds positive, but then they mention squinting and not being able to see properly despite adjusting the TV. The hashtags "#CantSeeShit" definitely add a sarcastic or frustrated tone. So even though they say "love," it's clear that they're expressing frustration because they can't see the show well.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. Frustration is closely related to anger, and given the context of not being able to enjoy something (the TV show), it makes sense. They might be annoyed or irritated by having to squint so much. There's no real fear, joy, or surprise here; it's more about the negative feelings towards a poor viewing experience.
+
+So I think the emotion is anger because of the frustration expressed through their sarcasm and inability to watch the show properly.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

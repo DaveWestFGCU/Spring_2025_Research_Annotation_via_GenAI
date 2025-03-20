@@ -1,0 +1,52 @@
+Record: "Oh fuck off. Soooo...... when is [NAME] and the gang going to un mask [NAME] as President [NAME]?"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their Reddit comment. The comment says, "Oh fuck off. Soooo...... when is [NAME] and the gang going to un mask [NAME] as President [NAME]?" Let me break this down.
+
+First, the phrase "Oh fuck off" immediately stands out. That's a strong swear word, usually indicating anger or frustration. It shows that the speaker is upset with someone else. The use of profanity often correlates with negative emotions, so that's a clue pointing towards anger.
+
+Next, looking at the rest of the sentence: "when is [NAME] and the gang going to un mask [NAME] as President [NAME]." The speaker seems to be addressing a group or individual, possibly making fun of them or challenging their status. The word "un mask" suggests revealing something hidden, maybe implying deceit or mockery.
+
+The tone here doesn't seem fearful, sad, or joyful. It's more confrontational and derogatory. There's no indication of surprise; it's more of a direct attack. Disgust might be involved if the speaker is reacting to something offensive, but the primary emotion seems to be anger because of the explicit language and the confrontational tone.
+
+Also, the ellipsis after "Sooo......" could indicate frustration or emphasis on their point rather than any other emotion like surprise or curiosity. Overall, considering all these factors, the emotion here is most likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to figure out the emotion behind this Reddit comment: "Oh fuck off. Soooo...... when is [NAME] and the gang going to un mask [NAME] as President [NAME]?" Let's break it down.
+
+First, the user starts with "Oh fuck off," which is a clear expression of irritation or anger. That immediately makes me think the emotion is probably anger. The use of profanity often signals strong negative feelings.
+
+Next, looking at the rest: "Sooo...... when is [NAME] and the gang going to un mask [NAME] as President [NAME]." The ellipsis after "Sooo" might indicate trailing off or hesitation, but the main point here seems to be frustration towards [NAME]. They're being confrontational, questioning why they haven't taken action yet. This continues the theme of anger.
+
+I don't see any signs of surprise because there's no unexpected twist. The statement is direct and confrontational. No elements of fear or sadness; it's more about irritation and confrontation.
+
+So, putting it together, the emotion here is clearly anger due to the strong language and confrontational tone.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion the speaker is expressing here. The comment says, "Oh fuck off. Soooo...... when is [NAME] and the gang going to un mask [NAME] as President [NAME]?" 
+
+First, I notice that the speaker starts with "Oh fuck off," which is a strong swear word. That usually indicates some negative emotion, probably anger or frustration. The use of profanity often goes hand in hand with anger because it's an expression of displeasure or irritation.
+
+Looking at the rest of the sentence: "when is [NAME] and the gang going to un mask [NAME] as President [NAME]." It seems like the speaker is addressing someone they don't agree with or find frustrating. The tone here feels confrontational, which supports the idea that it's anger rather than another emotion.
+
+I should also consider other options. Could it be disgust? Disgust usually involves something unpleasant or offensive, but this comment isn't describing something gross; it's more about confronting someone. Fear is about being afraid, and there's no indication of worry here. Sadness would involve sorrow, which doesn't seem to fit. Joy and surprise are positive emotions, so they're unlikely here.
+
+So putting it all together, the strongest emotion here is anger because of the explicit language and confrontational tone.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

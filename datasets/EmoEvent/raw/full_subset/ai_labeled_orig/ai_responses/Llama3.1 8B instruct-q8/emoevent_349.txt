@@ -1,0 +1,39 @@
+Record: "France wants us to pray fro bricks? Fuck right off #NotreDameCathedralFire"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a disaster event (the fire at Notre-Dame Cathedral)
+* The author uses strong language and profanity ("Fuck right off")
+* The tone is confrontational and dismissive of a suggestion made by the French government or someone else.
+
+Most relevant emotion label: **anger**
+
+The author's use of profanity and confrontational tone suggests that they are strongly opposed to something, which aligns with the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a reaction to a catastrophic event (the Notre Dame Cathedral fire).
+* The language used is strong and provocative ("Fuck right off").
+* The tone appears dismissive and critical of a suggested response to the tragedy.
+
+The most relevant emotion label is: **anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet contains strong language ("Fuck right off"), indicating a negative sentiment.
+* The author is responding to the idea of praying for bricks, suggesting a sense of frustration or annoyance with the reaction to the fire.
+* The use of hashtags and profanity implies a sense of outrage or indignation.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+This classification fits because the author's tone is angry and frustrated, as evidenced by their use of strong language and dismissive response.
+------------------------------------------------------------------------------------------------------------------------
+

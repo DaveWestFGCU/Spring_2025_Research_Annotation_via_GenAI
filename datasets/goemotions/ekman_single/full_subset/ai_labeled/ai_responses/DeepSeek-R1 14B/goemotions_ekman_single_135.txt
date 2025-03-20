@@ -1,0 +1,76 @@
+Record: "Man I wish they wouldn’t"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is, "Man I wish they wouldn’t." Let me break this down.
+
+First, I'll consider each emotion category one by one. Starting with anger: anger usually involves strong feelings of displeasure or antagonism. Examples given include dislike and hate. But in this case, the speaker is expressing a desire for something not to happen, but it's more of a wish than overtly angry.
+
+Next, disgust is about revulsion or strong disapproval. The examples show reactions to unpleasant things, like finding something gross. Here, though, there's no explicit indication that the speaker finds something offensive or disgusting; it's more about a desire for behavior change.
+
+Moving on to fear: this involves being afraid or worried. The comment doesn't express any fear or anxiety. It's more of a personal wish rather than expressing worry or terror.
+
+Joy is about happiness and positive feelings. The comment doesn't seem joyful at all; it's the opposite, expressing a desire for something not to happen.
+
+Sadness involves emotional pain or sorrow. The speaker might be feeling disappointed or upset about the situation, but "wish they wouldn’t" isn't explicitly sad—it’s more of a passive expression of desire.
+
+Surprise is about being astonished or confused. There's no indication of surprise here; it's a straightforward statement.
+
+Neutral would mean there's no expressed emotion, but I think the speaker does have an emotion—probably not neutral because "wish they wouldn’t" implies some feeling.
+
+So, considering all these, the most fitting emotion might be sadness. The speaker is expressing a desire for something to stop, which could stem from disappointment or unhappiness about the situation. They're not angry, disgusted, afraid, joyful, surprised, or neutral—they're likely feeling sad because they wish things were different.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is "Man I wish they wouldn’t." Let me break this down.
+
+First, I'll consider each emotion category one by one. 
+
+Starting with anger: Anger usually involves expressions like dislike or irritation. The speaker might use strong language or express frustration. In this case, the comment is relatively calm, expressing a desire for something not to happen. No obvious signs of anger here.
+
+Next, disgust: This emotion is about revulsion or disapproval towards something unpleasant. The comment doesn't explicitly mention anything that would cause disgust; it's more about a wish rather than reacting negatively to something offensive.
+
+Fear: Fear involves feeling afraid or worried. If the speaker were expressing fear, they might mention being scared or anxious about something. Here, the statement is more of a personal preference rather than expressing fear.
+
+Joy: Joy is associated with happiness or pleasure. The comment doesn't indicate any positive feelings; instead, it's about a negative wish, so joy doesn't seem applicable.
+
+Sadness: This emotion includes sorrow or disappointment. Expressions might involve feeling down or regretful. The speaker is wishing for something not to happen, which could be due to unhappiness, but it's more of a neutral expression of desire than overt sadness.
+
+Surprise: Surprise involves being astonished or taken aback by something unexpected. There's no indication here that the comment is reacting to an unforeseen event.
+
+Finally, neutral: If none of the other emotions fit, the speaker might be feeling neutral. The comment is straightforward and doesn't express strong emotion; it's a simple wish without any overt feelings attached.
+
+Putting it all together, "Man I wish they wouldn’t" is a mild expression of desire for something not to happen but doesn't convey anger, disgust, fear, joy, or sadness. Therefore, the most fitting emotion here would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment: "Man I wish they wouldn’t." The options are anger, disgust, fear, joy, sadness, surprise, or neutral. 
+
+First, let's break down the sentence. "I wish they wouldn’t" suggests that something is happening and the speaker would prefer it didn't. This could be about stopping an action or a situation. The tone here seems a bit downtrodden or dissatisfied, which might indicate sadness.
+
+Looking at the emotion definitions:
+
+- Anger involves displeasure or antagonism. The sentence doesn't express strong dislike or frustration, so probably not anger.
+- Disgust is revulsion or disapproval. There's no indication of something being unpleasant here; it's more about a desire to stop something.
+- Fear is about being afraid or worried. The comment isn’t expressing fear but rather a wish for change.
+- Joy involves happiness or pleasure, which doesn't fit since the speaker seems negative.
+- Sadness includes sorrow or disappointment. This fits because "I wish they wouldn’t" could imply that the current situation is causing some discomfort or unhappiness.
+- Surprise is about astonishment or unexpected events, which isn't present here.
+- Neutral means no emotion, but the comment does express a desire to change something, so it's more than neutral.
+
+So, considering all this, the emotion most likely is sadness. The speaker might be feeling let down or unhappy about the situation they're referring to.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

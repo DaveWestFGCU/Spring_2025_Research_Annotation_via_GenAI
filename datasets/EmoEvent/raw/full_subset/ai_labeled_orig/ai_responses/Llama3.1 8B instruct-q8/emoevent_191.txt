@@ -1,0 +1,38 @@
+Record: "So Arya single-handedly saved the world? My fucking queen #GameOfThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The language used is strong and emphatic ("My fucking queen"), which suggests a strong emotional response.
+* The tone appears to be celebratory, with the use of "my" suggesting a personal attachment or admiration for Arya.
+* The phrase "single-handedly saved the world" implies a sense of awe and appreciation for Arya's actions.
+
+Given these points, the most relevant emotion label is **joy**, as the author is expressing enthusiasm and admiration for Arya's heroism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses a strong expletive ("My fucking queen"), indicating a strong emotional tone.
+* The author appears to be expressing admiration and appreciation for Arya's actions in the series, specifically mentioning that she "single-handedly saved the world".
+* The language used is celebratory and enthusiastic.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The author's use of a strong expletive and celebratory language suggests that they are expressing joy and admiration for Arya's character.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing admiration and appreciation for a character in the series.
+* The language used is enthusiastic and celebratory ("My fucking queen").
+* There's no hint of negativity or criticism.
+
+Given these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

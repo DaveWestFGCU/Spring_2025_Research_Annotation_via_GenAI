@@ -1,0 +1,44 @@
+Record: "USER See what am saying. It’s over bro! Klopp got it all wrong tonight. #BarcaLiverpool #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses a phrase that indicates disappointment or frustration ("It's over"), suggesting a negative emotional tone.
+* The author expresses disagreement with a specific coach's decisions ("Klopp got it all wrong").
+* The use of "bro" in the context suggests familiarity and possibly a sense of shared disappointment.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author appears to be expressing annoyance or frustration at Liverpool's loss and Klopp's coaching decisions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses phrases that indicate disappointment and frustration ("It's over", "got it all wrong").
+* The tone is critical, implying the author disagrees with Klopp's decisions or actions.
+* The use of "#BarcaLiverpool" suggests a specific context (a match between Barcelona and Liverpool in the Champions League).
+* There is no indication of strong negative emotions like anger, disgust, or fear.
+
+**anger**
+
+The author appears to be expressing frustration and disappointment, which falls under the category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing a strong reaction to the outcome of the Champions League match.
+* They are directly addressing someone with "bro" and using an imperative tone ("See what am saying").
+* They are criticizing Klopp's tactics, implying that they disagree with his decisions.
+* The hashtags #BarcaLiverpool and #ChampionsLeague indicate that the author is discussing a specific football match.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+The author appears to be annoyed or enraged by Klopp's decisions during the match.
+------------------------------------------------------------------------------------------------------------------------
+

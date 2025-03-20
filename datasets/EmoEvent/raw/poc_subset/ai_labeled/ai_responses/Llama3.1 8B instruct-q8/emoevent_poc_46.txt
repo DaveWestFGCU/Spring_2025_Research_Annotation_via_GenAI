@@ -1,0 +1,32 @@
+Record: "Can you expand a bit? That would be interesting for us that are not in the know."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is asking for clarification or expansion on something.
+* The tone of the request seems polite and curious.
+
+The most relevant emotion label is: **surprise** (the author implies they were not aware of something, which suggests a sense of surprise or curiosity).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is requesting more information from the person they're addressing.
+* They use the phrase "interesting for us" which implies a neutral or positive tone.
+* There's no language suggesting aggression, distaste, fear, or sadness.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is asking for clarification, implying they don't understand something.
+* The tone is polite and inquiring.
+
+Given these points, the most relevant emotion label is **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+

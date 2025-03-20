@@ -1,0 +1,61 @@
+Record: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I'm trying to figure out the emotion behind this tweet: "I didn't delete it. Your moderators did. But that's what [NAME] do, they ". Let me break it down.
+
+First, the user is saying they didn't delete something, implying maybe someone else did—specifically pointing out that the moderators were responsible. The mention of [NAME] seems like they're referring to a specific person or group, possibly in a critical way. 
+
+The tone here feels a bit defensive and perhaps a little annoyed. They're correcting others about who was responsible for deleting something. This could be frustration because maybe they feel unfairly blamed or misunderstood. Alternatively, there's an element of pointing fingers at the moderators, which might indicate some dislike or criticism towards them.
+
+Looking at the emotion categories: anger includes annoyance and rage. Disgust involves disinterest or dislike. The tweet doesn't seem to express intense anger like rage but more a subtle frustration or mild irritation. However, the mention of moderators doing something they're criticizing could lean towards disgust if it's about disliking their actions.
+
+But wait, the main emotion here is that the user is correcting someone else, which can come off as defensive rather than expressing strong dislike. It might not be disgust but more frustration or mild anger. Alternatively, maybe surprise if the situation is unexpected, but I don't get a sense of surprise.
+
+Considering all this, I think the emotion is either anger (annoyance) or disgust (dislike). Since the user is correcting and perhaps mildly criticizing the moderators, it's closer to anger than disgust because it's about frustration rather than disliking the content itself.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me look at the tweet again.
+
+The tweet says, "I didn't delete it. Your moderators did. But that's what [NAME] do, they..." 
+
+First, the user is pointing out that someone else (the moderators) deleted something, not themself. This could imply frustration because maybe the user feels wronged or misunderstood. They might be upset that others took action without their input.
+
+The structure of the tweet suggests a complaint or accusation towards the moderators. Words like "didn't delete" and "they do" can indicate dissatisfaction. The mention of [NAME] is likely referring to the moderators, showing that this isn't the first time such an issue has occurred, which adds to the frustration.
+
+Looking at the emotion categories, anger fits here because the user seems annoyed or upset about the situation. There's no clear indication of disgust, fear, joy, sadness, or surprise. The tone is more confrontational and accusatory, typical of anger.
+
+So, the emotion conveyed in this tweet is likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "I didn't delete it. Your moderators did. But that's what [NAME] do, they "
+
+Alright, let me break this down. First, the author is saying they didn't delete something, implying maybe someone else did—specifically mentioning their moderators. Then they add a statement about what "[NAME]" does, but it's cut off. So the tweet seems to be pointing out that the action was taken by the other side, possibly in frustration or maybe blaming.
+
+Looking at the emotions:
+
+- Anger: This could fit because the author is pointing out someone else's action, perhaps expressing frustration or irritation.
+- Disgust: Not sure if it's about dislike, but the context doesn't clearly show disgust.
+- Fear: Doesn't seem like fear or anxiety here.
+- Joy/Serenity: Definitely not; the tone isn't positive.
+- Sadness/Pensiveness: Maybe, but I don't feel a strong sense of sadness in this statement.
+- Surprise: The tweet is more accusatory than surprising.
+
+So, the author seems to be expressing frustration that someone else (the moderators) took action they didn't intend. That points towards anger or annoyance, which falls under the 'anger' category. So I think the emotion here is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

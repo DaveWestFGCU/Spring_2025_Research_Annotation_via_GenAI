@@ -1,0 +1,41 @@
+Record: "they sounds like autistic meltdowns triggered by an immense fear of vomiting, nothing much to do"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is describing a situation involving autistic individuals and comparing it to something else (meltdowns).
+* The comparison involves a physical reaction (vomiting) and a strong emotional response (fear).
+* The author's tone appears to be dismissive or unempathetic.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+The author seems to be expressing disgust or disinterest in the situation they're describing, with a hint of annoyance at having to deal with it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is describing a situation involving an intense physical reaction (vomiting)
+* The comparison is made to autistic meltdowns, which are often characterized as overwhelming and distressing
+* The tone seems to be one of dismissal or casual observation
+
+Based on these considerations, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet describes a situation that is unpleasant and potentially disturbing.
+* The author mentions a "fear of vomiting", which suggests a negative emotional response.
+* The tone is dismissive and unempathetic, with the phrase "nothing much to do" implying a lack of concern.
+
+Given these considerations, the most relevant emotion label is:
+
+**disgust**
+ 
+Note that while the tweet does mention fear, it's more likely that the author's intended emotion is disgust at the situation, rather than fear themselves.
+------------------------------------------------------------------------------------------------------------------------
+

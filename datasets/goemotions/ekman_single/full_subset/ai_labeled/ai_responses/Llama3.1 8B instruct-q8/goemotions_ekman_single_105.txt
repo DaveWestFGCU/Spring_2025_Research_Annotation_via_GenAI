@@ -1,0 +1,37 @@
+Record: "The comment thread is a hot mess and wouldnt be out of place in 2016. How do things not change...."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "hot mess," which has a negative connotation.
+* The speaker expresses frustration that things have not improved since 2016, implying disappointment or disillusionment.
+* The tone of the comment is critical and disapproving.
+
+Given these considerations, the most relevant emotion label is **sadness**. While the speaker's language may convey some level of anger or disgust, the overall sentiment appears to be one of sadness and disappointment that things have not improved over time.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong language such as "hot mess" to describe the comment thread.
+* They express frustration that things don't change, implying a sense of disappointment or annoyance.
+* The phrase "wouldn't be out of place in 2016" suggests a lack of progress or improvement.
+
+Most relevant emotion label: **sadness**
+ 
+Reasoning: While the speaker's tone is critical and frustrated, it's more aligned with sadness (or disappointment) than anger, as they seem to be lamenting that things haven't improved rather than actively expressing hostility. The sentiment is closer to feeling disheartened or saddened by a lack of progress.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the phrase "a hot mess", which is an idiomatic expression for something being chaotic or disorganized.
+* They mention that it wouldn't be out of place in 2016, implying a sense of stagnation or lack of progress.
+* The speaker expresses a tone of frustration and disappointment.
+
+Most relevant emotion label: **sadness**
+The speaker's comment suggests a sense of emotional pain and sorrow, as they express frustration and disappointment about the state of things not changing. They seem to be feeling let down by the fact that progress has been slow or non-existent.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,35 @@
+Record: "I'm just really sad all that cake was wasted."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions being "sad", which directly indicates a specific emotional state.
+* The context of the sentence suggests disappointment or sadness due to something unpleasant happening (wasted cake).
+* There is no indication of anger, disgust, fear, joy, surprise, or neutrality.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the phrase "really sad", which directly conveys their emotional state.
+* The context of the sentence suggests that something undesirable happened, resulting in wasted cake.
+
+Most relevant emotion label: **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "sad" explicitly.
+* The context of the statement suggests a loss or disappointment, specifically the waste of cake.
+* There is no indication of anger, disgust, fear, joy, surprise, or neutrality in the tone or language used.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

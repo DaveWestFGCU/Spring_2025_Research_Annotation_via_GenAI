@@ -1,0 +1,42 @@
+Record: "Wow, imagine if the driver was white, and this happened in a white majority country , could you just imagine the international outrage ? #Venezuela https://t.co/NpIlKqBOw0"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet is referencing a situation involving Venezuela.
+* The author is suggesting a double standard by comparing a hypothetical reaction in a white-majority country to the current situation in Venezuela.
+* The tone of the tweet appears to be rhetorical, implying that the author believes there would indeed be international outrage if the situation were reversed.
+
+Based on these points, it seems that the author intended to convey **anger**, as they are expressing frustration and indignation at what they perceive as a double standard.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet references a hypothetical scenario where a similar incident occurs in a different context (a "white majority country").
+* The author implies that there would be significant outrage if this incident had occurred in such a country.
+* The tone of the tweet seems to suggest a sense of incredulity and frustration.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The author's use of rhetorical questions and emphasis on the hypothetical scenario suggests a tone of annoyance and frustration with the situation in Venezuela, which aligns with the emotion category of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is drawing a comparison between two scenarios: one involving Venezuela and another hypothetical scenario where the driver was white in a white majority country.
+* The author uses rhetorical questions, which suggests a tone of shock or incredulity.
+* The hashtag #Venezuela and the link suggest that the tweet is related to an event or incident in Venezuela.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+
+The author's use of rhetorical questions and the phrase "Wow" suggests a tone of astonishment or shock at the perceived disparity in how the situation would be treated if it were happening in a different context.
+------------------------------------------------------------------------------------------------------------------------
+

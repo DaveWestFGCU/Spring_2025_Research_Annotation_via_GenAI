@@ -1,0 +1,37 @@
+Record: "I fat fingered it haha I meant 18"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker starts by apologizing with "haha" which often precedes an informal admission of mistake.
+* The phrase "fat fingered it" is a colloquialism used to describe accidentally pressing the wrong key on a keyboard or touchscreen, implying a momentary lapse in attention.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker starts with an apology, indicating they made a mistake.
+* They use a lighthearted tone, using the phrase "haha" and referring to their error as a "fat finger".
+* There is no indication of strong emotions such as anger or fear.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **joy**. The use of a lighthearted tone and self-deprecation suggests that the speaker is amused by their mistake rather than distressed.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker acknowledges making an error ("fat fingered it")
+* They use humor to downplay their mistake ("haha")
+* They correct themselves with the intended number (18)
+
+Given these points, the speaker is more likely expressing **amusement**, but since amusement falls under the joy category, I would classify this as:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+Record: "Anyway, happy #WorldBookDay and protect our libraries.... https://t.co/pPjcUqzvWW"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+To classify the tweet's intended emotion, let's consider the following points:
+
+* The tone of the tweet is formal, which suggests a sense of importance or seriousness.
+* The use of hashtags, such as "#WorldBookDay", implies a celebratory or positive context.
+* The phrase "protect our libraries" indicates a concern for something important to the author.
+
+Given these considerations, the most relevant emotion label is **joy**. The tweet starts with a casual phrase ("Anyway"), which might suggest a lighthearted tone, but the overall message and hashtags convey a sense of celebration and importance, aligning with joy rather than any other listed emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet mentions World Book Day, which is a positive event.
+* The author is encouraging people to protect libraries, implying that they are concerned about the well-being of these institutions.
+* There is no mention of any negative emotions or events.
+
+Given these points, the most relevant emotion label is:
+**joy**
+
+The tweet's tone is celebratory and encouraging, indicating that the author is happy and enthusiastic about World Book Day.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is a simple message wishing a happy World Book Day.
+* The author includes a call to action ("protect our libraries").
+* There is no negative language or tone.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,38 @@
+Record: "Anything other than harassing motorists or worse, pretty simple."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be responding to a situation where people are engaging in negative behavior.
+* The speaker uses strong language ("harassing motorists" and "worse"), which suggests they are disapproving of this behavior.
+* However, the tone is not aggressive or confrontational.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+Note that while the speaker is expressing disapproval, the tone is more dismissive and matter-of-fact than angry. However, among the available options, anger is the closest match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker's tone is blunt and matter-of-fact.
+* They are dismissing alternative actions as inferior to their preferred action.
+* There is no indication of emotional attachment or personal stake in the issue.
+
+Given these points, the most relevant emotion label for the speaker's comment is **anger**, as it includes a sense of disapproval and annoyance towards other possible actions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are some important points to consider:
+
+* The speaker seems to be responding to a situation involving harassment.
+* They imply that certain actions, specifically those related to motor vehicles, are problematic.
+* The tone appears to be dismissive and matter-of-fact.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

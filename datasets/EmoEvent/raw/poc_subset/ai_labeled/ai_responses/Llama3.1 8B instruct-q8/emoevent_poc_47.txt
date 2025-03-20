@@ -1,0 +1,40 @@
+Record: "Feels like bathing in warm piss. Can't wait until summer is over."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses a metaphor ("bathing in warm piss") that implies a strong negative experience.
+* They express a clear desire for the current situation (summer) to end, which suggests discomfort or annoyance.
+* There's no indication of fear, joy, or surprise.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses a vivid and unpleasant simile ("bathing in warm piss") to describe their current situation.
+* They express a sense of anticipation for an end to their current state, using the phrase "Can't wait until..."
+* The context suggests that they are describing a hot summer day.
+
+Given these points, the most relevant emotion label is:
+
+**disgust**
+ 
+The author's use of a distasteful simile and their expression of eager anticipation for the end of the situation suggest that they are feeling disgusted with the current heat.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses a vivid and unpleasant metaphor ("bathing in warm piss") to describe their experience of the current weather.
+* They express a strong negative sentiment towards the heat, using words that imply discomfort and frustration ("Can't wait until summer is over").
+* There's no indication of fear or surprise, as the tone is more focused on expressing distaste and annoyance.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

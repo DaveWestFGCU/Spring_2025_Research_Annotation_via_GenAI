@@ -1,0 +1,31 @@
+Record: "I sense no awful taste here."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The word "awful" is a strong negative adjective that suggests something unpleasant or unpalatable.
+* The phrase "no...here" implies a strong negative evaluation of the subject matter.
+
+Given these points, the most relevant emotion label is: **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the word "awful", which has a negative connotation.
+* The context suggests an evaluation of something's quality or flavor.
+
+Given these considerations, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses the word "awful", which typically has a negative connotation.
+* The sentence structure is a simple statement with a negative tone.
+
+Given these points, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

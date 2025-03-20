@@ -1,0 +1,42 @@
+Record: "don't we all hate them?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a rhetorical question ("don't we all hate them?") that implies a shared sentiment among others.
+* The tone of the statement is negative and critical, using the word "hate".
+* There is no indication of surprise or excitement.
+
+Based on these considerations, the most relevant emotion label for this text is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are the important points to consider and the most relevant emotion label:
+
+* The speaker uses the word "hate" which implies strong negative emotions towards something.
+* The tone is brief and lacks explanation, implying a sense of shared understanding or assumption with others.
+* There is no clear object of dislike being explicitly stated, but it's implied that the audience shares this sentiment.
+
+Given these points, the most relevant emotion label for the speaker in this sentence is:
+
+**anger**
+
+The reason I chose anger is that while "hate" can be a strong form of disgust or fear, in this context, it seems to imply a more intense and personal negative feeling than simple revulsion or worry. The tone also suggests a sense of shared frustration or annoyance rather than just disapproval or concern.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the word "hate" which can indicate a strong negative emotion.
+* The context of the statement suggests it is a response to something that is perceived as universally disliked, possibly a person or entity mentioned in the original post.
+* There is no indication of surprise, fear, joy, sadness, or neutrality in the tone or language used.
+
+Given these points, the most relevant emotion label for this text is:
+
+**anger**
+ 
+Note: The use of "hate" may also suggest disgust, but anger seems to be a more fitting choice as it implies a strong negative emotional response rather than simply revulsion.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,79 @@
+Record: "Damn, I didn’t see any monkeys when I was there! What a ripoff."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Damn, I didn’t see any monkeys when I was there! What a ripoff." 
+
+First, let me break down the sentence. They start with "Damn," which usually expresses frustration or disappointment. Then they say they didn't see any monkeys and call it a ripoff. A ripoff typically means something is not as expected or is a scam, so that adds to the negative feelings.
+
+Looking at the emotion categories provided, I need to choose between anger, disgust, fear, joy, sadness, surprise, or neutral. 
+
+- Anger: The speaker seems frustrated but not necessarily angry in an aggressive way.
+- Disgust: There's no clear indication of revulsion or something offensive here.
+- Fear: No signs of worry or nervousness.
+- Joy: Definitely not; the tone is negative.
+- Sadness: Maybe, because they feel disappointed, but I'm not sure if that fits better under another emotion.
+- Surprise: The reaction seems more about frustration than surprise.
+
+The phrase "What a ripoff" indicates disappointment and frustration. While sadness could fit, the strong language ("Damn") leans more towards anger or frustration. But in the given categories, anger is defined as strong displeasure, which matches well here. So I think the emotion is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is: "Damn, I didn’t see any monkeys when I was there! What a ripoff." Let me break this down.
+
+First, the word "Damn" at the beginning is an exclamation that often expresses frustration or disappointment. Then, they say they didn't see any monkeys, which suggests they were expecting to see monkeys but didn't. The last part is "What a ripoff," which means something was not as expected and probably felt like a waste of money or time.
+
+So putting this together, the speaker feels that their experience wasn't what they thought it would be. They used strong language ("Damn") and expressed dissatisfaction with the outcome ("ripoff"). This seems to align more with frustration or disappointment rather than other emotions like anger, fear, or surprise.
+
+Looking at the emotion categories: Anger is a possibility because of the exclamation "Damn," but it's more about being let down than outright anger. Disgust doesn't seem right because they're not expressing revulsion. Fear isn't present here; it's more about negative feelings towards an expectation not met. Joy, sadness, surprise—all don't fit as well as disappointment does.
+
+Wait, the emotion categories given are [anger, disgust, fear, joy, sadness, surprise, neutral]. So I need to map this feeling to one of these. Disappointment is a form of sadness, so maybe that's where it fits. But sometimes frustration can be seen as anger. Hmm.
+
+Let me check the examples provided for each emotion. The example given for disgust includes things like revulsion at something unpleasant, which isn't exactly what's happening here. Anger's examples include strong feelings of displeasure or antagonism, which could fit if the speaker is upset about being misled or scammed.
+
+But "ripoff" specifically refers to feeling cheated, which often goes hand in hand with anger because it's a form of betrayal or frustration. So maybe the emotion here is anger. But I'm also considering that it might be sadness because they were disappointed and felt let down.
+
+Wait, looking back at the definitions: Sadness includes disappointment, so if the speaker feels let down because they didn't see monkeys as expected, that would fall under sadness. On the other hand, the use of "Damn" and calling it a ripoff could indicate anger towards whoever promised monkeys or the situation.
+
+I'm a bit torn between anger and sadness here. Let me think about which emotion is more dominant in this context. The phrase "What a ripoff" is more about feeling deceived or frustrated, which leans toward anger. Disappointment can be part of both anger and sadness, but the stronger reaction seems to be frustration, which aligns with anger.
+
+So I think the emotion here is likely anger because the speaker is expressing strong dissatisfaction and frustration towards what happened.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let me try to figure out what emotion the speaker is feeling based on their comment. The comment says, "Damn, I didn’t see any monkeys when I was there! What a ripoff." 
+
+First, I'll break down the words used. They start with "Damn," which often expresses frustration or disappointment. Then they mention not seeing any monkeys where they were, implying that they expected to see them but didn't. The last part, "What a ripoff," suggests they feel cheated or taken advantage of.
+
+Looking at the emotion categories provided:
+
+- **Anger**: This could fit because the speaker seems frustrated. However, anger is usually more about displeasure or antagonism, and while frustration is related, I'm not sure if it's the most fitting here.
+  
+- **Disgust**: The comment doesn't express revulsion or strong disapproval of something offensive, so probably not disgust.
+
+- **Fear**: There's no indication of fear or worry in the statement, so that's out.
+
+- **Joy**: Clearly not joy; the tone is negative.
+
+- **Sadness**: Sadness involves emotional pain. While disappointment is part of sadness, the speaker here seems more annoyed than deeply saddened.
+
+- **Surprise**: The comment doesn't show astonishment or realization, so surprise isn't applicable.
+
+- **Neutral**: They are expressing an emotion, so neutral doesn't fit.
+
+Between anger and frustration, I think "frustration" might be a subset of anger. Since the examples provided under anger include annoyance, which fits here. So the emotion is likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

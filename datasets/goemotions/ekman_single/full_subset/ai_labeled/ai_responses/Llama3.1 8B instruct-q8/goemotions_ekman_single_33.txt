@@ -1,0 +1,44 @@
+Record: "Pretty poor shots mostly. Couple of great saves from [NAME] though."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the phrase "Pretty poor shots", which implies a negative opinion.
+* They also mention that there were "couple of great saves" from someone named [NAME], which could be seen as a positive comment.
+* However, the overall tone seems more focused on criticizing or expressing disappointment with something rather than expressing enthusiasm.
+
+Most relevant emotion label: **sadness**
+ 
+The speaker's primary sentiment appears to be a form of disappointment or dissatisfaction with the shots taken, which aligns with the sadness emotion category.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions that most of the shots were "pretty poor", implying a negative evaluation.
+* However, they also mention "couple of great saves" which suggests a positive note in an otherwise negative assessment.
+
+Considering these points, it seems that the speaker's tone is mostly critical but with a hint of appreciation for some specific instances. 
+
+Given this analysis, **neutral** is not the best fit because the speaker does express an opinion and evaluates the shots negatively.
+The most relevant emotion label is: **sadness**
+ 
+Reasoning: Although the comment isn't extremely negative or sad, it does have a somewhat critical tone that might be associated with disappointment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses the phrase "Pretty poor shots", which implies criticism.
+* They mention that there are only a couple of positive aspects ("great saves") amidst the negative ones ("pretty poor shots").
+* The tone seems mild and focused on making an observation rather than expressing strong emotion.
+
+Given these points, the most relevant emotion label is:
+
+**neutral**
+ 
+The speaker's comment appears to be a neutral assessment of the situation, focusing on objective facts (poor shots, great saves) without displaying strong emotions.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,45 @@
+Record: "Don't put your donation money in the hands of bad actors. Know these 5 tips so you don't get scammed. Information Security Magazine #NotreDameCathedralFire https://t.co/hAalXnSKbs https://t.co/hcClIGoGwU"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions the Notre-Dame Cathedral Fire, which is a serious and tragic event.
+* However, the tone of the tweet does not seem to be focused on expressing emotions about the fire itself.
+* Instead, the tweet appears to be focused on providing practical advice and warning people about potential scams related to donations for the fire relief efforts.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+The tweet seems to be using the Notre-Dame Cathedral Fire as a hook to grab attention and provide information, rather than expressing emotions about the event. The tone of the tweet is more informative and cautionary than emotional, which suggests surprise or distraction.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is about the Notre Dame Cathedral fire, which is a serious and unfortunate event.
+* The author is providing tips on how to avoid scams related to donations for the cathedral's restoration.
+* The tone of the tweet seems cautionary and informative rather than emotional.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The author seems to be aware that people might be eager to donate to help restore the cathedral but wants to warn them about potential scams. This implies a sense of surprise or awareness that such scams exist, which prompts the cautionary message in the tweet.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet is about the Notre-Dame Cathedral fire, but it doesn't express an emotional response to the event.
+* Instead, the author is providing advice on how to donate safely in the aftermath of the disaster.
+* The tone of the tweet is cautionary and informative.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+
+The author is highlighting a potential issue (scams) that people might not be aware of, implying a sense of unexpectedness or surprise. However, this surprise is not directed at the fire itself, but rather at the possibility of scams arising from it.
+------------------------------------------------------------------------------------------------------------------------
+

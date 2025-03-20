@@ -1,0 +1,59 @@
+Record: "Hi I'm a Thrashers fan! My family was 33rd to pick tickets in Atlanta in for the '99 inaugural season"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet says, "Hi I'm a Thrashers fan! My family was 33rd to pick tickets in Atlanta for the '99 inaugural season." 
+
+First, let me break down what's being expressed here. The person is introducing themselves as a Thrashers fan, which shows they have an interest or attachment to the team. Then they mention their family picking tickets as the 33rd in line for the '99 inaugural season. 
+
+I don't see any negative words here like anger, disgust, fear, or sadness. Instead, it seems positive because they're talking about being a fan and attending an event. The number 33rd might indicate waiting a while, but the tone doesn't sound annoyed or upset—it's more about excitement for the game.
+
+So the emotion is likely joy. They seem happy to share their fandom and memories of that experience. There's no surprise involved because they're just stating facts about themselves and an event they attended.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me read the tweet again.
+
+The tweet says, "Hi I'm a Thrashers fan! My family was 33rd to pick tickets in Atlanta for the '99 inaugural season." Hmm, okay, so the person is introducing themselves as a Thrashers fan and talking about picking tickets back in 1999. 
+
+First, let's break down the sentence. The word "Thrashers" refers to the hockey team in Atlanta, I think they used to be called that. So this person has been a fan for a while since it's from '99, which is over two decades ago. They mention their family being 33rd to pick tickets. 
+
+I don't see any negative words here like anger or disgust. No indication of fear or sadness either. The sentence is pretty straightforward and positive. They're sharing an experience as a fan, which sounds more like joy or serenity. 
+
+Wait, could it be surprise? Well, no, the tweet doesn't express being surprised by something; instead, it's recalling an event from their past with pride. So maybe joy makes more sense because they're talking about being a long-time fan and a memorable experience.
+
+I don't think it's any of the other categories. No signs of fear or anxiety, nothing negative that would point to anger or disgust. Surprise is usually for unexpected events, which isn't the case here. So yeah, joy seems right.
+</think>
+
+The tweet expresses pride in being a long-time fan and sharing an exciting experience, indicating joy.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, so I need to classify this tweet into one of the given emotion categories: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "Hi I'm a Thrashers fan! My family was 33rd to pick tickets in Atlanta in for the '99 inaugural season".
+
+First, let's break down the content. The person mentions being a Thrashers fan, which indicates they have an interest or support for that team. They talk about their family picking tickets for the '99 inaugural season in Atlanta. The number 33rd suggests they were one of the early people to get tickets.
+
+Now, considering the emotion categories: 
+
+- Anger or annoyance doesn't seem to fit because there's no indication of frustration or irritation.
+- Disgust or disinterest isn't present; the person seems positive about being a fan.
+- Fear or anxiety isn't indicated either; there's no mention of worry or apprehension.
+- Sadness or grief isn't apparent. The tweet is more about excitement rather than sadness.
+- Surprise could be considered if they express amazement, but the tweet doesn't show that.
+- Joy seems to fit because being a fan and getting tickets for an inaugural season sounds like a positive experience.
+
+So, the emotion conveyed here is likely joy because of their enthusiasm as a fan and successfully securing tickets early on. They're sharing a happy memory or excitement about the event.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

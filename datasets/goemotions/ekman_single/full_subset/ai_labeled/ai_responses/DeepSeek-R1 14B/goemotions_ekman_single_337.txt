@@ -1,0 +1,73 @@
+Record: "Dems can end this. They chose not to."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment: "Dems can end this. They chose not to." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down what the sentence is saying. The speaker is talking about the Democrats (referred to as Dems) and suggests that they have the power to end something but decided not to. This implies that the speaker is frustrated or upset with their decision.
+
+Looking at the emotion definitions:
+
+- Anger involves strong feelings of displeasure, which fits here because the speaker seems annoyed or disappointed.
+- Disgust is more about revulsion towards something unpleasant, which doesn't seem to be the case here.
+- Fear relates to being afraid or worried; there's no indication of fear in this statement.
+- Joy and surprise are clearly not applicable since the sentiment isn't positive or surprising.
+- Sadness involves emotional pain, but while the speaker might feel失望 (disappointed), the primary emotion seems more about frustration, which aligns with anger.
+- Neutral is when there's no expressed emotion, but here, the speaker does seem to have strong feelings.
+
+So, putting it all together, the speaker is expressing dissatisfaction or frustration towards the Democrats' decision. This fits into the category of anger because they're showing a strong negative feeling about their choice not to act.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment is "Dems can end this. They chose not to." Let's break this down.
+
+First, looking at the words used. The speaker mentions that Democrats (Dems) have the ability to end something but decided not to. Words like "can" and "chose not to" suggest a sense of capability and deliberate choice. This makes me think about possible emotions tied to such statements.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, or neutral. Let's go through each one.
+
+Anger often involves frustration or irritation. The speaker seems frustrated that the Dems didn't act as they could have. That fits with anger because it implies disapproval and annoyance.
+
+Disgust is more about revulsion towards something unpleasant. While the statement does criticize the Dems, it doesn't explicitly express disgust but rather criticism of inaction.
+
+Fear would involve being worried or anxious. The comment isn't expressing fear but rather a critique of a decision not made.
+
+Joy and surprise are positive emotions, which don't seem to fit here since the speaker is pointing out a failure to act.
+
+Sadness involves emotional pain or sorrow. While the situation might be saddening, the speaker's tone here seems more critical than mournful.
+
+So, putting it all together, the speaker is expressing frustration that the Dems didn't take action despite having the ability. This frustration aligns with anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, I need to figure out which emotion best describes the speaker based on their comment. The comment is "Dems can end this. They chose not to." 
+
+First, let's break down the sentence. The speaker is addressing Democrats and stating that they have the power to end something but decided not to. This suggests frustration or disappointment because the speaker feels that the Dems didn't take action despite having the ability.
+
+Looking at the emotion categories:
+
+- Anger: This could be a possibility since the speaker seems critical of the Dems' decision.
+- Disgust: Not as clear here, unless they're expressing revulsion towards their choice, but it's more about anger or disappointment.
+- Fear: Doesn't seem to fit because there's no indication of fear or worry.
+- Joy: Definitely not, as the tone is negative.
+- Sadness: The speaker might be feeling disappointed, which falls under sadness.
+- Surprise: There's no element of surprise here; it's more about criticism.
+- Neutral: Not applicable since emotions are being expressed.
+
+Between anger and sadness, I think it leans towards anger because they're directly criticizing the Dems for their inaction. Anger often comes through when someone is annoyed or disapproving, which fits the context here.
+
+So, the emotion most likely felt by the speaker is anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,33 @@
+Record: "Such a cool pic! Really wish the moon was in the dead middle though 🙃🙃"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet contains a positive phrase ("Such a cool pic!") indicating excitement or enthusiasm.
+* The tone is casual and playful with the use of emojis (🙃).
+* However, the sentence also expresses a slight disappointment with the moon's position.
+
+Given these considerations, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a positive sentiment by calling the picture "cool".
+* They are also expressing a slight disappointment or frustration that the moon is not in the center of the image.
+
+Given these considerations, the most relevant emotion label is **joy**, as the overall tone of the tweet is positive and enthusiastic.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing enthusiasm and positivity with phrases such as "cool" and "Really wish".
+* They are mentioning something they like (the picture) and have a desire for an improvement (the moon being in the dead middle).
+* There is no mention of negative emotions or any words that would suggest anger, disgust, fear, sadness, or surprise.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

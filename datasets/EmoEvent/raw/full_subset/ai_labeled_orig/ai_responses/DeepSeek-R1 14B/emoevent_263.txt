@@ -1,0 +1,56 @@
+Record: "#WorldBookDay ?  That's what I hear!  Pick up a few fantastic books published by USER   How about "She's Not You", first in the #Oysterpointmystery series or maybe "Looking Glass Labyrinth"?   https://t.co/4xJihGRhib Let me know what you think!"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, so I need to classify this tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. Let's look at the tweet closely.
+
+The tweet starts with "#WorldBookDay ? That's what I hear!" The user is mentioning World Book Day and seems excited about it. They mention picking up some books from a specific author, USER, and recommend two titles: "She's Not You" and "Looking Glass Labyrinth." They also include a link to presumably more information or where to buy these books.
+
+The tone here is positive and encouraging. The use of exclamation marks and the enthusiastic recommendation suggests that the author is happy about promoting reading and sharing good book choices. There's no indication of any negative emotions like anger or disgust, nor are there signs of fear or surprise. Sadness doesn't seem to fit either since the tweet is all about celebrating books.
+
+So, putting it all together, the emotion conveyed here is joy because the author is spreading positivity and enthusiasm related to reading and book recommendations.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet based on the emotion the author intended to convey. The options are anger, disgust, fear, joy, sadness, or surprise. 
+
+Let me read the tweet carefully:
+
+"#WorldBookDay ? That's what I hear! Pick up a few fantastic books published by USER How about "She's Not You", first in the #Oysterpointmystery series or maybe "Looking Glass Labyrinth"? https://t.co/4xJihGRhib Let me know what you think!"
+
+The tweet is promoting some books for World Book Day. The author uses an enthusiastic tone, mentioning specific book titles and encouraging others to pick them up. They also invite feedback with "Let me know what you think!" which sounds inviting and positive.
+
+I don't see any signs of anger or disgust here. There's no indication of fear or sadness. The mention of books and the excitement about reading makes me think it's more about joy or enthusiasm. Even though surprise isn't exactly present, the overall vibe is happy and encouraging, which fits under joy.
+</think>
+
+The tweet is promoting books in a positive and enthusiastic manner, aiming to spread happiness related to reading.
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out which emotion the author of this tweet is conveying. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's read the tweet carefully:
+
+"#WorldBookDay ? That's what I hear! Pick up a few fantastic books published by USER How about "She's Not You", first in the #Oysterpointmystery series or maybe "Looking Glass Labyrinth"? https://t.co/4xJihGRhib Let me know what you think!"
+
+Breaking it down, the tweet starts with a mention of World Book Day, which is an event promoting reading and books. The author then suggests picking up some fantastic books from USER, mentioning two specific titles. There's also a link provided, likely directing to where these books can be found or more information about them. Finally, the author invites others to share their thoughts.
+
+Looking at the language used: "That's what I hear!" seems enthusiastic and excited. The words like "fantastic," "first in the series," and "maybe" all have positive connotations. The exclamation marks after the first part also indicate a sense of excitement or eagerness. The author is promoting books, suggesting titles, and inviting interaction—actions that are typically associated with joy and positivity.
+
+There's no indication of any negative emotions like anger or disgust. No threats, complaints, or expressions of fear. The mention of surprise might come into play if the user is highlighting something unexpected, but here it seems more about sharing positive news related to reading.
+
+So considering all this, the emotion conveyed is likely joy because the author is promoting books in a positive and enthusiastic manner.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

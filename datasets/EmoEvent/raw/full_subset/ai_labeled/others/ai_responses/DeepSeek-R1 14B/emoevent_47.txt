@@ -1,0 +1,20 @@
+Record: "Socialists win #SpainElection, with PM Pedro Sánchez set to have a much easier time governing than he did a year ago. #EleccionesGenerales28A https://t.co/EJsTAqGKbM"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion in this tweet about the 2019 Spanish general election. The tweet says that Socialists won and mentions that PM Pedro Sánchez will have an easier time governing now compared to a year ago. 
+
+First, let's break down the content. The user is stating facts: who won and the implications for governance. There are no strong emotional words here—no exclamation marks or emojis indicating excitement or anger. The tone seems neutral and informative.
+
+Looking at the emotion labels, I need to see which one fits best. Anger would require negative language about the outcome, but there's none. Disgust isn't present either; the tweet doesn't express dislike. Fear? No indication of worry or anxiety. Joy might be a stretch if someone is happy about the socialist win, but the tweet doesn't explicitly show happiness—it's more factual.
+
+Sadness would involve expressing grief or disappointment, which isn't here. Surprise would require something unexpected, but the user seems to acknowledge it as an expected outcome. So none of these emotions are clearly conveyed.
+
+Since the tweet is informative without any clear emotion, the best classification is 'other'.
+</think>
+
+other
+------------------------------------------------------------------------------------------------------------------------
+

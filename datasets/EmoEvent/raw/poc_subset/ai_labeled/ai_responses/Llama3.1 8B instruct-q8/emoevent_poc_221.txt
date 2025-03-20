@@ -1,0 +1,36 @@
+Record: "More insults, [NAME] said my bit now all you have is a show that proves what I said to be the truth, nothing more nothing less."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions receiving insults, which suggests a negative experience.
+* The author claims their statement was proven true by the opposing party's actions.
+* The tone appears confrontational and accusatory.
+
+Most relevant emotion label: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is reacting to being insulted
+* They mention that their statement was proven true by the opposing party's actions
+* The tone appears confrontational and accusatory
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions receiving insults, which suggests they're experiencing a negative reaction.
+* They claim their previous statement has been proven true by an event or development ("a show that proves...").
+* The tone is confrontational and accusatory.
+
+**anger**
+
+This classification is chosen because the author's language is confrontational and defensive in response to what they perceive as personal attacks. Their use of phrases like "More insults" and accusing others of having nothing but a "show" suggests a strong negative emotion, which aligns most closely with anger.
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+Record: "Aaaaaand he will be feeling that in the morning"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the comment is casual and informal.
+* The use of "Aaaaaand" suggests a sense of anticipation or expectation, possibly with a hint of sarcasm.
+* The phrase "he will be feeling that in the morning" implies that someone ( likely the person being addressed) may experience negative consequences or regret.
+
+Given these points, I would identify the emotion as:
+
+**anger**
+
+The speaker appears to be expressing annoyance or frustration towards someone else's actions or decisions, implying a sense of displeasure and potentially some antagonism. The tone is not overtly aggressive, but it has a slightly confrontational edge, which is characteristic of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the comment is brief and cryptic.
+* The language used is casual and informal, with an emphasis on the phrase "in the morning".
+* There is a sense of finality or certainty in the speaker's statement.
+
+Given these considerations, it appears that the speaker is implying that someone will experience physical discomfort or pain in the morning. This suggests a neutral tone, as the speaker is simply stating a fact rather than expressing an emotion themselves.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the speaker seems casual and playful.
+* The use of "Aaaaaand" suggests excitement or anticipation.
+* The phrase "he will be feeling that in the morning" implies a sense of consequence or regret.
+
+Given these points, the most relevant emotion label is **surprise**. The speaker's tone and language suggest they are surprised by something (perhaps an impending event or realization) and are expressing a sense of excitement or amusement at the prospect of someone else experiencing it in the morning.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker uses an onomatopoeic phrase ("Aaaaaand") which often implies a sense of excitement, but also can be used for emphasis or annoyance.
+* The phrase "he will be feeling that in the morning" suggests that something unpleasant is about to happen to someone else.
+* There's no clear indication of personal involvement or emotional connection between the speaker and the person who will be experiencing whatever "that" is.
+
+Given these points, it seems like the speaker is making a comment with a tone of casual annoyance, but not necessarily strong emotion. The most relevant emotion label is **neutral**, as the speaker appears to be stating a fact rather than expressing a strong opinion or feeling.
+------------------------------------------------------------------------------------------------------------------------
+

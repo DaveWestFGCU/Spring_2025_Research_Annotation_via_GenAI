@@ -1,0 +1,36 @@
+Record: "when my egg cracked I went through like every teen girl phase in the space of 2 months lol"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is informal and lighthearted, indicated by the use of slang ("lol") and a casual narrative.
+* The speaker is reminiscing about a past experience with humor, suggesting that they are looking back on it fondly.
+* The phrase "went through like every teen girl phase" implies a sense of nostalgia and self-awareness.
+
+Given these points, I would identify the emotion as **joy**. The speaker's tone and language suggest that they are amused by their own past experiences and are sharing this story with others in a lighthearted way.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is making a humorous comparison between their experience and that of typical teenage girls.
+* The tone appears lighthearted and playful, with the use of "lol" indicating laughter or amusement.
+* The language used is casual and relatable.
+
+Most relevant emotion label: **joy**
+
+Reasoning: The speaker's comment has a lighthearted and humorous tone, suggesting that they are feeling a sense of amusement or playfulness. The use of "lol" further reinforces this interpretation, as it indicates that the speaker finds their own experience amusing. This aligns with the definition of joy as including emotions such as amusement and approval.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is referencing personal experience ("my egg cracked")
+* They mention going through multiple "teen girl phases" in a short period
+* The tone appears lighthearted and humorous ("lol")
+
+Given these considerations, the most relevant emotion label for this text is **joy**. The use of humor and self-deprecation suggests that the speaker is expressing amusement or playfulness about their own experiences, rather than any negative emotions like anger, disgust, fear, sadness, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+

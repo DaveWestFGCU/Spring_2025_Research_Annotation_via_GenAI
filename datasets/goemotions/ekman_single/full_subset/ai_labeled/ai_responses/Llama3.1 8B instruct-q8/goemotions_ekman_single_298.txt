@@ -1,0 +1,38 @@
+Record: "For those behind stupid WaPo"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "stupid" to describe WaPo, which implies a strong negative opinion.
+* The tone of the comment seems confrontational and dismissive.
+
+Most relevant emotion label: **anger**
+
+Note that while the comment does express strong disapproval (which could also be classified as disgust), the use of the word "stupid" and the overall tone suggest a more intense feeling of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses the word "stupid" to describe WaPo, indicating a negative connotation.
+* The phrase "behind" implies criticism or disapproval of the people associated with WaPo.
+* There is no mention of fear, sadness, joy, surprise, or neutrality in the comment.
+
+Given these points, the emotion most likely being expressed by the speaker is:
+
+**anger**
+
+This conclusion is based on the speaker's use of a derogatory term ("stupid") and critical tone towards WaPo, which are indicative of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses strong language ("stupid") when referring to Washington Post.
+* The tone appears confrontational and critical.
+
+Given these observations, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

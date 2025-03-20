@@ -1,0 +1,38 @@
+Record: "Wow, speechless to see the Cross still standing. #NotreDameCathedralFire #Paris https://t.co/T5p9K213RF"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the word "speechless" which implies a strong emotional response.
+* The tweet mentions a tragic event (the Notre-Dame Cathedral fire), but the tone is positive and optimistic.
+* The Cross still standing suggests that despite the damage, there is hope for the cathedral's recovery.
+
+Given these points, the most relevant emotion label is **joy** because the author seems to be relieved and hopeful about the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is a reaction to the Notre Dame Cathedral Fire.
+* The author mentions being "speechless", which implies a strong emotional response.
+* The tone of the tweet appears to be reflective and respectful, rather than negative or aggressive.
+
+Given these considerations, the most relevant emotion label for this tweet is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions a serious and tragic event (the Notre Dame Cathedral fire)
+* The author expresses being "speechless" which implies a strong emotional reaction
+* The tone of the tweet is generally positive, as it focuses on the fact that the Cross still standing
+
+Given these considerations, the most relevant emotion label is:
+
+**joy**
+
+This classification is based on the idea that the author's emotional response to seeing the Cross still standing is one of relief and gratitude, which falls under the category of joy.
+------------------------------------------------------------------------------------------------------------------------
+

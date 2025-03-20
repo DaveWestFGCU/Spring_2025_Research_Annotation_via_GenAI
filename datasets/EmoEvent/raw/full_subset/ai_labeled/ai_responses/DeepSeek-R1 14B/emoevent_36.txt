@@ -1,0 +1,14 @@
+Record: "Alright this isn’t fair tell him to stop cheating. Idk how he’s cheating but he’s cheating. USER #BARLIV #messi #UCL #Championsleague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out the primary emotion conveyed in this tweet about the UEFA Champions League. Let me read it again: "Alright this isn’t fair tell him to stop cheating. Idk how he’s cheating but he’s cheating." The user is clearly upset because they think someone is cheating and that's not fair.
+
+The guidelines say if the emotion is similar to annoyance or rage, classify as anger. Here, the person is frustrated and indignant about cheating, which definitely sounds like anger. They're not expressing fear, joy, sadness, disgust, or surprise—they’re more upset than anything else.
+</think>
+
+anger
+------------------------------------------------------------------------------------------------------------------------
+

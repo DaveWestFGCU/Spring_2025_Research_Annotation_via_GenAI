@@ -1,0 +1,46 @@
+Record: "An entry from The Journal of Awesome, the library book we invite you to write in.   Add something awesome.  #LifeWorksOut #WorldBookDay USER https://t.co/tqz7ecXcST"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. So, I need to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet is: "An entry from The Journal of Awesome, the library book we invite you to write in. Add something awesome. #LifeWorksOut #WorldBookDay USER https://t.co/tqz7ecXcST".
+
+First, I'll read through the tweet carefully. The user mentions a journal called "The Journal of Awesome." Using the word "awesome" right away suggests positive feelings. They're inviting others to write in this library book, which sounds encouraging and fun.
+
+Next, they say "Add something awesome," again using the same positive adjective. The hashtags are #LifeWorksOut and #WorldBookDay. Both seem positive; World Book Day is about celebrating books, and "Life Works Out" implies positivity or optimism.
+
+Looking at the structure of the tweet, it's an invitation to contribute something awesome, which likely brings a sense of excitement and joy. There's no indication of any negative emotions like anger, disgust, fear, sadness, or surprise.
+
+So, considering all these elements—positive language, encouraging tone, use of positive hashtags—it seems the emotion here is joy. The user is sharing an exciting opportunity related to books and journaling, which naturally conveys happiness.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion is being conveyed in this tweet about World Book Day. Let me read the tweet again: "An entry from The Journal of Awesome, the library book we invite you to write in. Add something awesome. #LifeWorksOut #WorldBookDay USER https://t.co/tqz7ecXcST"
+
+Alright, breaking it down. The user is talking about a journal and inviting others to contribute by adding something awesome. The hashtags are #LifeWorksOut and #WorldBookDay. The overall tone seems positive because they're encouraging people to add awesome things, which suggests happiness or excitement.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. I need to pick one. Since the tweet is about sharing a positive experience and promoting writing in a journal, it feels like joy. There's no indication of any negative emotions here—no signs of anger or sadness. The words "awesome" and "LifeWorksOut" definitely lean towards positivity.
+
+I don't think it's surprise because there's nothing unexpected mentioned. It's more about sharing something enjoyable and uplifting. So the emotion is likely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's try to figure out what emotion is behind this tweet. So, the user shared a post about "The Journal of Awesome" from a library book on World Book Day. They're inviting others to add something awesome and included some positive hashtags like #LifeWorksOut.
+
+First, I notice the words used are pretty uplifting—words like "awesome," "seriously fun," and the mention of adding positive things. The use of emojis like 😎✨ also adds a cheerful vibe. It sounds like they're encouraging others to contribute positively, which is a happy message.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. Joy seems to fit because the tweet is promoting something enjoyable and positive. There's no indication of any negative emotions or stress here. The focus is on sharing a good experience with books and spreading happiness, so joy makes sense.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

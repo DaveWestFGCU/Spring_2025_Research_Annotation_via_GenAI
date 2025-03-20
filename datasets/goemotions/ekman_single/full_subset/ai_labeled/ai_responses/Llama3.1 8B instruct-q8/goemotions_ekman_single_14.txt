@@ -1,0 +1,45 @@
+Record: "I KILL YOU SCUM"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses all capital letters and expletive language ("KILL", "SCUM"), indicating strong emotions.
+* The tone is aggressive and confrontational, suggesting a negative sentiment.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of violent language and aggressive tone aligns with the definition of anger as a strong feeling of displeasure or antagonism.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used by the speaker is extremely aggressive and violent.
+* The phrase "KILL" is emphasized, suggesting a strong desire for harm or destruction.
+* The term "SCUM" is derogatory and dehumanizing.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of aggressive language and desire to cause harm suggests that they are experiencing anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used by the speaker is extremely aggressive and violent.
+* The phrase "KILL YOU" suggests a desire for harm or death towards someone or something.
+* The speaker also uses a derogatory term "SCUM", implying contempt and hatred.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker's language and tone indicate a strong feeling of displeasure, antagonism, and hostility towards someone or something, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+

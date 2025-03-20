@@ -1,0 +1,12 @@
+Record: "Liverpool players love a dive. Cheats! #ChampionsLeague"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this tweet classification task. The tweet is about Liverpool players diving, which implies cheating. The author uses words like "love" and "cheats," expressing frustration or dislike towards their behavior. This falls under the disgust category because it shows disapproval.
+</think>
+
+disgust
+------------------------------------------------------------------------------------------------------------------------
+

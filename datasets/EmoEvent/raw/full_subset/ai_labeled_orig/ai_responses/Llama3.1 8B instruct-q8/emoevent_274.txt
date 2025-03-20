@@ -1,0 +1,40 @@
+Record: "GOT 2x last night and a first time matinee of Endgame this after...  Anybody got a hug they can spare?   #shook   #gameofthrones #avengersendgame"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is mentioning watching two intense media events in quick succession (Game of Thrones and Avengers: Endgame).
+* They use the hashtag "#shook", which implies a strong emotional reaction.
+* They ask for a hug, suggesting they are feeling overwhelmed or emotional.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is referencing two popular media franchises, Game of Thrones (GOT) and Avengers: Endgame.
+* They are mentioning specific episodes/ viewings ("2x" implies a second season or episode of GOT, and "first time matinee" suggests a special viewing experience for Endgame).
+* The hashtags #shook and the request for a hug indicate that the author is in an emotional state.
+
+Given these points, it appears that the author is feeling overwhelmed and possibly excited or elated by their viewing experiences. They are using the hashtag #shook, which implies being shocked or amazed.
+
+**joy**
+
+(Note: While "surprise" could also be a possibility, the context of the tweet suggests a more positive emotional state than simple surprise.)
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing exhaustion or overwhelm ("anybody got a hug they can spare?")
+* They mention watching two major TV shows/events back-to-back, which may be overwhelming
+* The hashtags "#shook" implies being shocked or surprised
+
+Given these points, the most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+

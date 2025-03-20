@@ -1,0 +1,46 @@
+Record: "I love the guy who is like "the analogy is daft. Cheese would sink", like that isn't the point."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I'm trying to figure out what emotion the speaker is feeling based on their comment. The comment is: "I love the guy who is like 'the analogy is daft. Cheese would sink', like that isn't the point." 
+
+First, I'll break down the sentence. The speaker starts with "I love the guy," which immediately makes me think of positive emotions. "Love" here might indicate joy or approval. Then they describe this person as making a comparison where cheese sinking isn't the main issue. It seems like they're highlighting someone's cleverness or the humor in their analogy.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I know "love" is a strong indicator of joy. The speaker is expressing approval and maybe admiration for this guy's comment. There's no indication of any negative emotions like anger or disgust here. They don't seem scared or worried, so fear isn't it. Surprise might come into play if the analogy was unexpected, but since they're focusing on loving it, it's more about joy.
+
+Also, the speaker doesn't express any sadness or neutrality; their tone is clearly positive. So putting it all together, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out the emotion here. The speaker says, "I love the guy who is like 'the analogy is daft. Cheese would sink', like that isn't the point." Hmm, so they're expressing that they love this person and think his comment wasn't the point.
+
+Breaking it down: "I love the guy" clearly indicates positive feelings, which points towards joy or maybe approval. The rest of the sentence seems to be agreeing with him, showing support or agreement. There's no negative language here; instead, it's all affirmative and supportive.
+
+Looking at the emotion categories, joy fits because they're expressing affection and agreement in a positive way. No signs of anger, disgust, fear, sadness, surprise, or neutrality. It's straight-up happiness or approval.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's try to figure out what emotion the speaker is feeling based on their comment. The text they wrote is: "I love the guy who is like 'the analogy is daft. Cheese would sink', like that isn't the point." 
+
+First, I'll break down the sentence to understand the sentiment. The speaker starts with "I love the guy," which immediately sounds positive—so that's probably joy or something related. They're expressing affection towards this person.
+
+Next, they mention the guy made a comment about an analogy being daft (which means silly or foolish) and say cheese would sink. Then the speaker clarifies that "that isn't the point." It seems like they're pointing out someone else's off-topic remark but in a light-hearted way.
+
+Looking at the emotion categories, joy includes feelings like admiration and approval. The speaker is clearly admiring this guy's comment or at least finding it amusing enough to mention. There's no indication of anger, disgust, fear, sadness, surprise, or neutrality here. Instead, it's a positive remark showing appreciation.
+
+So, putting it all together, the emotion is joy because they're expressing approval and perhaps amusement towards the person's statement.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

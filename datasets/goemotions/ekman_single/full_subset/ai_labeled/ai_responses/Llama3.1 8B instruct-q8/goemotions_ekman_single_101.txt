@@ -1,0 +1,36 @@
+Record: "The best part of adult snow days is no make-up!"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing a sentiment about adult snow days.
+* They mention the absence of something (make-up), which implies that it's a positive aspect of snow days for them.
+* There's no indication of negativity, frustration, or discomfort in their tone.
+
+Given these considerations, the most relevant emotion label is **joy**. The speaker seems to be expressing happiness and pleasure about the idea of not having to wear make-up on snow days, which aligns with the definition of joy as a feeling of pleasure and happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is expressing a sentiment about adult snow days.
+* They mention that the best part of having an adult snow day is something specific, which is not doing something (make-up).
+* The tone appears to be lighthearted and playful.
+
+Given these considerations, the most relevant emotion label is **joy**. The speaker seems to be expressing a feeling of pleasure and happiness about the idea of not having to wear make-up on an adult snow day.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the comment seems lighthearted and playful.
+* The speaker appears to be expressing a positive sentiment about an aspect of adult life.
+* The phrase "no make-up!" suggests relief or happiness associated with not having to wear makeup.
+
+Most relevant emotion label: **joy**
+
+The speaker's comment is likely meant to be humorous and celebratory, suggesting that they find the absence of make-up requirements to be a pleasant aspect of adult snow days.
+------------------------------------------------------------------------------------------------------------------------
+

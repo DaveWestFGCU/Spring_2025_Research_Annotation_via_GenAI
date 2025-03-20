@@ -1,0 +1,52 @@
+Record: "Ugh. What a way to go."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, I need to figure out which emotion the speaker is feeling based on their comment: "Ugh. What a way to go." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. The word "Ugh" is an expression of frustration or dislike. It's commonly used when someone is annoyed or disappointed. Then they say, "What a way to go," which usually refers to how something ended, often in a negative context. So putting it together, the speaker is expressing displeasure about something ending badly.
+
+Looking at the emotion definitions: anger includes annoyance and disapproval, disgust is revulsion towards something unpleasant. Here, "Ugh" shows frustration rather than pure disgust. The statement isn't about finding something offensive but reacting to an outcome they dislike.
+
+So, the emotion here aligns more with anger because of the annoyed tone and disapproving statement.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I'm trying to figure out what emotion the speaker is feeling based on their comment: "Ugh. What a way to go." The options are anger, disgust, fear, joy, sadness, surprise, or neutral.
+
+First, let's break down the sentence. "Ugh" is an interjection that typically expresses frustration or dislike. It's a common way people express mild irritation or annoyance. Then, "What a way to go" usually refers to someone dying or leaving, but in this context, it's more about the manner of departure.
+
+Looking at the emotion definitions: anger involves strong displeasure, which could fit if the speaker is upset about something. Disgust is revulsion or disapproval, often towards something unpleasant. Fear is about being afraid or worried. Joy is happiness, sadness is sorrow, surprise is astonishment, and neutral is without emotion.
+
+The speaker's use of "Ugh" suggests frustration rather than strong anger. They're expressing dislike but not necessarily intense anger. Disgust could be possible if they find the situation repulsive, but it's more about the way someone left. Sadness might come into play if there's mourning, but the tone doesn't sound sorrowful; it's more dismissive.
+
+So, considering all options, "Ugh" aligns with mild irritation or frustration, which falls under anger as per the definition provided (anger includes annoyance and disapproval). Therefore, the emotion here is likely anger.
+</think>
+
+**anger**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion is behind this comment: "Ugh. What a way to go." 
+
+First, I'll break it down. The speaker starts with "Ugh," which is an interjection often expressing disgust or mild irritation. Then they say, "What a way to go." This phrase typically refers to the manner in which someone met their end, like dying. So if someone died in a particularly unpleasant or tragic way, saying that could express strong disapproval or revulsion.
+
+Looking at the emotion categories provided, I need to choose between anger, disgust, fear, joy, sadness, surprise, and neutral. 
+
+"Ugh" itself leans more towards disgust because it's an expression of dislike or distaste. The second part, "What a way to go," implies that the speaker is not happy about how something happened—maybe someone died in a very unpleasant manner. This would likely make them feel disgusted rather than angry or sad.
+
+I don't think it's fear because there's no indication of worry or anxiety. Joy and surprise are out because the sentiment isn't positive or astonishing. Sadness could be a contender since death often evokes sadness, but the primary emotion here seems to be disgust due to the strong reaction expressed with "Ugh."
+
+So putting it all together, the emotion is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,66 @@
+Record: "What a beautiful memory for you to have found. So sorry for your loss ❤️"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The sentence given is: "What a beautiful memory for you to have found. So sorry for your loss ❤️". 
+
+Let me break this down. First, the speaker starts by complimenting someone on finding a beautiful memory. That sounds positive and kind, so maybe joy or admiration? But then they switch to expressing sympathy with "so sorry for your loss" and adds a heart emoji. The change in tone from positive to sad makes me think about the emotion here.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to choose one that fits best.
+
+The first part is positive, but the second part is clearly expressing condolences. So the main emotion seems to be sadness because they're conveying sympathy and哀悼. Even though there's a positive statement initially, the overall sentiment shifts towards sadness when addressing someone's loss.
+
+I don't think it's anger or disgust because there's no indication of displeasure or revulsion. Fear doesn't seem right either since there's no sense of worry or anxiety. Joy is present in the first part but isn't the dominant emotion. Surprise isn't applicable here as nothing unexpected is mentioned. Neutral also doesn't fit because they're clearly expressing an emotion.
+
+So, considering all this, sadness is the most appropriate emotion because the speaker is mourning a loss and showing empathy.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure out which emotion the speaker is feeling based on their comment. The sentence given is: "What a beautiful memory for you to have found. So sorry for your loss ❤️"
+
+First, I need to break down the components of this statement. The speaker starts by acknowledging that the other person has found a beautiful memory. That sounds positive and shows empathy or concern. Then, they express sorrow for the other person's loss and include a heart emoji, which is commonly associated with love, care, or condolences.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral.
+
+"Beautiful memory" suggests that the speaker is happy or moved by the experience mentioned. The use of "so sorry for your loss" clearly indicates sympathy and empathy towards someone's grief. This mix of positive sentiment towards a memory and expressing condolences points to sadness rather than other emotions like anger or fear. There's no indication of surprise because it doesn't seem unexpected; instead, it's a heartfelt response.
+
+Also, the heart emoji reinforces the emotional tone, likely indicating support and care during a sad time. So, while part of the comment is positive, the overall context is about loss, which falls under sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to determine the emotion the speaker is feeling based on their comment: "What a beautiful memory for you to have found. So sorry for your loss ❤️". 
+
+First, looking at the structure of the sentence. The speaker starts by acknowledging a positive aspect—the person has a beautiful memory. This suggests empathy or support, which often ties into joy or sadness.
+
+The second part says "so sorry for your loss," which clearly indicates sympathy. Sympathy is typically associated with sadness because it's about comforting someone who's grieving.
+
+The use of the heart emoji adds an emotional layer, reinforcing that the speaker feels compassion and sorrow.
+
+Considering the emotion categories:
+- **Anger**: Doesn't fit as there are no signs of displeasure or antagonism.
+- **Disgust**: No indication of revulsion or disapproval.
+- **Fear**: There's no mention of fear or worry.
+- **Joy**: While the first part mentions a beautiful memory, the overall sentiment leans towards condolences, which is more sadness than joy.
+- **Sadness**: Fits because the speaker is expressing sympathy and sorrow for a loss.
+- **Surprise**: No unexpected elements here.
+- **Neutral**: The comment is expressive, so it's not neutral.
+
+Therefore, the emotion is sadness. The speaker is comforting someone, which aligns with feelings of empathy and sorrow.
+</think>
+
+The speaker expresses sympathy towards someone who has experienced a loss, indicating sadness.
+
+**emotion**
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,56 @@
+Record: "Who's all coming out for the Barcelona v Liverpool game tonight? Got free pool and tunes on the jukebox as well for those of you who fancy a few pints and tunes with the football. 😁  #teamfish #championsleague… https://t.co/kQbHO88bdN"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this query step by step. The user has provided a tweet and wants me to classify it into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It says, "Who's all coming out for the Barcelona v Liverpool game tonight? Got free pool and tunes on the jukebox as well for those of you who fancy a few pints and tunes with the football. 😁 #teamfish #championsleague… https://t.co/kQbHO88bdN"
+
+Looking at the content, the author is inviting people to watch the game, mentioning free pool, music, and drinks. The inclusion of emojis and hashtags like #teamfish and #championsleague suggests a positive vibe.
+
+The emoji used is 😁 which is a clear indicator of joy or happiness. The tone of the message is upbeat and inviting, aiming to gather friends for a fun night out.
+
+I don't see any signs of anger, disgust, fear, sadness, or surprise in the tweet. It's all about excitement and looking forward to an enjoyable evening watching the game.
+
+So, putting it all together, the emotion conveyed here is definitely joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to classify this tweet into one of the emotions: anger, disgust, fear, joy, sadness, or surprise. Let me look at the tweet again.
+
+The user is asking who's coming out for the Barcelona vs Liverpool game and mentions having free pool, tunes on the jukebox, and a few pints. They also added an emoji 😁 and some hashtags related to the Champions League.
+
+Hmm, the emoji used here is a smiling face, which usually indicates happiness or joy. The tone of the message seems positive, inviting people out for a good time with friends, watching a big game. There's no negative language or signs of any other emotions like anger or fear. They're excited about the event and offering fun activities.
+
+So considering all that, I think the emotion here is definitely joy. The user is expressing excitement and happiness about the upcoming match and the social gathering around it.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query step by step. The user has provided a tweet about an upcoming Barcelona vs Liverpool game and wants it classified into one of six emotions: anger, disgust, fear, joy, sadness, or surprise.
+
+First, I'll read the tweet carefully. It says, "Who's all coming out for the Barcelona v Liverpool game tonight? Got free pool and tunes on the jukebox as well for those of you who fancy a few pints and tunes with the football. 😁 #teamfish #championsleague… https://t.co/kQbHO88bdN"
+
+Looking at the content, the author is inviting people to come out for the game. They mention free pool, music, and drinks, which sounds like they're setting up an event. The emojis used are a smiley face 😁, indicating a positive tone.
+
+The language used is friendly and excited. Phrases like "fancy a few pints" and "tunes with the football" suggest they're looking forward to a fun time. There's no negative or neutral language here; everything seems upbeat.
+
+Now, considering the emotion categories: anger isn't present because there's no frustration or irritation. Disgust or dislike is also absent since there's nothing negative mentioned about the event or teams. Fear and sadness don't fit as there's no indication of worry or mourning. Surprise isn't applicable unless something unexpected happened, which it doesn't seem to be.
+
+That leaves joy, which fits perfectly. The author is clearly expressing excitement and happiness about the upcoming game and their event setup. The smiley emoji reinforces this positive emotion.
+
+So, after analyzing the content, tone, and context, the most appropriate emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,41 @@
+Record: "My favourite moment of #BattleofWinterfell was Sam turning and just running away from a white on a battlefield full of them 😅 #gameofthrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a specific scene or moment from the show.
+* The author is expressing a positive opinion about this moment, calling it their "favourite".
+* The tone is lighthearted and playful, indicated by the use of a smiley face emoticon (😅) and the phrase "just running away", which suggests humor rather than criticism.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's enthusiasm and amusement about Sam's reaction in the scene suggest that they are expressing joy or delight.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The text mentions the viewer's favorite moment in the show.
+* The tone is lighthearted, indicated by the use of the emoticon 🙃 (which was not present, I assume you meant 😅).
+* The viewer is expressing a humorous reaction to Sam's action.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions their "favourite moment", indicating that the tone is likely positive.
+* They are referencing a specific scene, suggesting that it is something they enjoyed or found amusing.
+* The use of emojis (e.g. 😅) often indicates a lighthearted or playful tone.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

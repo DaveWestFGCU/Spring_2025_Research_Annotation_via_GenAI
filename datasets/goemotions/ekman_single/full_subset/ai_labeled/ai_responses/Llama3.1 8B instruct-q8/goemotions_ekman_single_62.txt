@@ -1,0 +1,42 @@
+Record: "Let them argue. We've never done anything remotely as bad as MOST OF THE WORLD does routinely."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is defending a position or action, using the phrase "Let them argue" which suggests they are dismissing criticism.
+* They mention that the subject of discussion has not done something "as bad as MOST OF THE WORLD does routinely", implying a comparison to others and a sense of relative morality.
+* The tone appears confrontational, with a hint of pride or confidence in their argument.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's defensive tone and use of comparative language suggest that they are feeling displeasure or antagonism towards those criticizing them or the subject of discussion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be deflecting criticism by comparing their actions unfavorably to those of others.
+* The tone is somewhat condescending, with the use of phrases like "MOST OF THE WORLD".
+* The speaker appears to be emphasizing a contrast between themselves and others.
+
+Most relevant emotion label: **anger** (or possibly **disgust**, as the speaker's tone has a slightly dismissive and critical quality). However, given the context of the sentence (a defensive response), anger seems like a more fitting choice.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is responding to an argument or criticism, possibly implying that the other party's concerns are unfounded.
+* They downplay their own actions, comparing them favorably to the behavior of others.
+* The tone seems to be dismissive and defensive.
+
+Given these points, the most relevant emotion label for the speaker's comment is:
+
+**anger**
+
+The speaker appears to be reacting with annoyance and disapproval towards the argument or criticism they're facing.
+------------------------------------------------------------------------------------------------------------------------
+

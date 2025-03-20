@@ -1,0 +1,44 @@
+Record: "#On a rainy day I dont accept any doordash requests unless there is a minimum of $5 bonus"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker has set a condition for accepting Doordash requests, which suggests they have some level of control over their work.
+* They require a minimum bonus amount, implying that this condition is important to them.
+* The context is a rainy day, which may suggest the speaker feels less inclined to work on such days.
+
+Most relevant emotion label: **neutral**
+
+Reasoning:
+
+The speaker's statement appears to be a straightforward and matter-of-fact declaration of their conditions for accepting Doordash requests. They do not express any strong emotions, such as anger or frustration, nor do they show enthusiasm or excitement (joy). The tone is more like a neutral assertion of their requirements.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker has a condition for accepting DoorDash requests on a rainy day.
+* The condition is that the request must have a minimum bonus of $5.
+
+Considering these points, the speaker appears to be setting boundaries and requirements for their work, which suggests a sense of assertiveness or self-preservation. There doesn't seem to be any emotional tone towards the people they are working with (DoorDash customers), but rather a straightforward statement of their preferences.
+
+**neutral**
+
+The speaker's comment is direct and matter-of-fact, without any emotional language or overt expression of sentiment. They simply state their condition for accepting requests, which suggests a neutral tone.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker has a condition for accepting Doordash requests on a rainy day.
+* The condition is that the request must have a minimum of $5 bonus.
+
+Given these points, it appears that the speaker's comment is more about their personal preference or rule rather than expressing an emotion. However, considering the context and tone, I would say:
+
+**neutral**
+
+The reason is that the speaker is simply stating a fact about their behavior on rainy days without any emotional undertone. They are not expressing anger, disgust, fear, joy, sadness, or surprise; they are just providing information about their preferences.
+------------------------------------------------------------------------------------------------------------------------
+

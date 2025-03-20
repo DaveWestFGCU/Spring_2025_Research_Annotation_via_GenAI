@@ -1,0 +1,42 @@
+Record: "Again, gravely disappointed we didn’t get the “Now I am ALL Bran!’ line. #GameofThrones"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions being "gravely disappointed", which implies a strong negative emotion.
+* The context is related to a TV show (Game of Thrones), and the disappointment seems to be about something specific not happening in the last season.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's tone is melancholic and expresses a sense of loss or dissatisfaction with how the story unfolded.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is expressing a strong negative sentiment about something that happened in Game of Thrones.
+* They specifically mention being "gravely disappointed", which indicates a sense of dissatisfaction or discontent.
+* There's no indication of fear, anger, disgust, joy, or surprise; the tone seems more focused on disappointment.
+
+**sadness**
+
+Note: The author is expressing sadness and disappointment about not getting a desired line in Game of Thrones, which suggests that they were emotionally invested in the show and felt let down by its conclusion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author is expressing disappointment, but in a lighthearted and joking tone.
+* They're referencing a specific plot point or line from the show that they were hoping for.
+* The tone is nostalgic and enthusiastic, with a hint of playful frustration.
+
+Given these considerations, the most relevant emotion label is:
+**sadness**
+
+The author's disappointment is what leads to feelings of sadness, but it's not a deep or intense sadness. It's more of a "I was looking forward to that" kind of feeling.
+------------------------------------------------------------------------------------------------------------------------
+

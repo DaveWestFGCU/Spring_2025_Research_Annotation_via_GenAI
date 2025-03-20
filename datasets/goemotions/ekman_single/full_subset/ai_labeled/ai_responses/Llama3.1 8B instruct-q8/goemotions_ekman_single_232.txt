@@ -1,0 +1,38 @@
+Record: "So..the head [NAME], is afraid of being rammed?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker appears to be making a statement about someone else's fear, rather than expressing their own emotions.
+* The tone of the comment seems somewhat sarcastic or rhetorical.
+* The use of the phrase "afraid of being rammed" is a colloquialism that implies something unpleasant or potentially painful.
+
+Given these points, the most relevant emotion label is:
+
+**surprise**
+ 
+The speaker's comment suggests that they are presenting a piece of information in a surprising or unexpected way, which may be intended to provoke a reaction from others.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker appears to be questioning or commenting on someone else's fear, specifically the head's fear of being rammed.
+* There is no apparent emotional investment or personal connection from the speaker.
+* The tone seems to be more observational or matter-of-fact rather than emotionally charged.
+
+Given these considerations, the most relevant emotion label is: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be questioning or highlighting something unusual about the person they are referring to as "[NAME]".
+* The phrase "afraid of being rammed" suggests a concern for safety or vulnerability, but in an unlikely or unexpected context.
+* The tone is somewhat incredulous and possibly mocking.
+
+Most relevant emotion label: **surprise**
+------------------------------------------------------------------------------------------------------------------------
+

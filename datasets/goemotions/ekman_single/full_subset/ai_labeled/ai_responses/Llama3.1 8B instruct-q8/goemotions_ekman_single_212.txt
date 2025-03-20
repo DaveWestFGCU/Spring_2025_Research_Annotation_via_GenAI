@@ -1,0 +1,36 @@
+Record: "They must have seen you."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is brief and enigmatic.
+* There is no explicit emotion expressed, but the words used could be interpreted as ominous or foreboding.
+* The context is unclear, which makes it difficult to determine the intended emotional tone.
+
+Given these considerations, I would categorize the speaker's emotion as:
+
+**fear**
+The sentence "They must have seen you" has a sense of impending danger or consequence, which is often associated with feelings of fear.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the sentence is brief and direct.
+* The use of the third person ("they") implies a level of detachment or objectivity.
+* The statement implies that someone's actions or intentions were observed, but it doesn't specify whether those actions are positive or negative.
+
+Given these points, the emotion most people will feel the speaker may be feeling is **surprise**. The speaker seems to be commenting on an unexpected development, which suggests a sense of surprise or astonishment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker seems to be implying that someone has been watching them.
+* The tone of the statement is brief and direct, without any explicit emotion expressed.
+
+Given these considerations, the most relevant emotion label for this comment is **fear**. This is because the speaker's implication that they are being watched suggests a sense of vulnerability or apprehension, which aligns with the definition of fear as an emotional response to a perceived threat or danger.
+------------------------------------------------------------------------------------------------------------------------
+

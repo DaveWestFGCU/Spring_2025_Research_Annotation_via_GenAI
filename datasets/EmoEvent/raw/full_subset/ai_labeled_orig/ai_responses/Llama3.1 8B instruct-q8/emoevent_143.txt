@@ -1,0 +1,42 @@
+Record: "I’m so inspired by this young girl and at the same time so ashamed/sad of the corruption in politics today that it takes a 13 year old to actually listen and stop with the BS #GretaThunberg #inspiring #womenleaders #ClimateActionNow #ClimateStrike  #auspol2019 #VoteGreen2019 https://t.co/Rkl5Yd18Q8"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions being "ashamed" and "sad", which are both emotions associated with a negative experience.
+* The author also uses the phrase "corruption in politics today", which suggests a sense of disapproval or discontent.
+* However, the author also mentions being "inspired" by Greta Thunberg.
+
+Given these points, it seems that the author is expressing a mix of emotions, but primarily one that is negative in tone.
+
+**sadness**
+
+This classification is based on the explicit mention of shame and sadness, which are strong indicators of this emotion. The tone of the tweet suggests that the author is disappointed or sorrowful about the state of politics, rather than feeling angry or fearful.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+To classify the emotion intended by the author of the tweet, consider the following points:
+
+* The author mentions being "inspired" and "ashamed/sad", indicating a complex emotional response.
+* The word "corruption in politics" suggests a negative perception of the current state of affairs.
+* The use of the phrase "BS" implies frustration or annoyance with the political situation.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The author's expression of sadness and shame suggests a emotional response to the corruption in politics, rather than anger, disgust, fear, joy, or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify this tweet, consider the following points:
+
+* The author uses the word "ashamed", which is a strong indicator of negative emotions.
+* The author also mentions feeling "sad" about corruption in politics.
+* The tone seems to be critical and condemning towards the current state of politics.
+
+Given these considerations, the most relevant emotion label for this tweet is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

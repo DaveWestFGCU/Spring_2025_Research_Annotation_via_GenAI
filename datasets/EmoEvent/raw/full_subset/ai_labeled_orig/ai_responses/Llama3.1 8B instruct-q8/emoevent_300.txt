@@ -1,0 +1,41 @@
+Record: "Happy Wednesday folks! 😁 Hoping for a Messi masterclass later. 🤞#BARLIV #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet starts with "Happy", indicating a positive tone.
+* The use of the smiling face emoji (😁) reinforces the happy tone.
+* The phrase "Hoping for a Messi masterclass" suggests excitement and anticipation.
+
+Given these points, the most relevant emotion label is **joy**, as the author appears to be expressing happiness and enthusiasm about the upcoming football match.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet is written in an informal and conversational tone.
+* The language used is positive and optimistic, with the use of enthusiastic phrases ("Happy Wednesday folks!", "Messi masterclass").
+* The inclusion of emojis, such as 😁 and 🤞, suggests a lighthearted and playful attitude.
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+The author's tone and language convey excitement and enthusiasm for the Champions League match, indicating that they are looking forward to it with joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet starts with "Happy", which suggests a positive tone.
+* The use of emojis, such as 😁 and 🤞, further reinforces the positive nature of the tweet.
+* The author is expressing excitement about a specific event (Messi's performance) and using hashtags related to that event (#BARLIV #ChampionsLeague).
+
+Given these points, the most relevant emotion label is:
+
+**joy**
+
+The tweet conveys a lighthearted and enthusiastic tone, indicating that the author is looking forward to a positive experience.
+------------------------------------------------------------------------------------------------------------------------
+

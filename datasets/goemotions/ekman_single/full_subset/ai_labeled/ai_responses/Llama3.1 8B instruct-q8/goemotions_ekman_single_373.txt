@@ -1,0 +1,38 @@
+Record: "I know right, im pre everything but sometimes i paint my nails and people will tell me how much they look like a womands hands."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is expressing frustration with others' opinions about their nail art.
+* They mention being "pre" something (likely pregnant), which suggests that they may be sensitive or self-conscious about their appearance during this time.
+* The tone of the comment is somewhat defensive, as if the speaker feels like others are making unfair judgments.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions a personal experience where others made a comment about their appearance.
+* The speaker seems to be sharing this experience in response to a post or another commenter, suggesting that the topic is related to self-expression and criticism.
+* The tone of the comment is somewhat casual and informal.
+
+Given these considerations, the most relevant emotion label is:
+
+**sadness**
+
+The speaker appears to be expressing disappointment or frustration about being criticized for their appearance, which suggests a sense of sadness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker appears to be expressing frustration or annoyance at being judged based on their appearance.
+* They mention being "pre everything" which suggests that they are already aware of societal expectations and stereotypes, implying that the criticism from others is unwarranted.
+* The phrase "womands hands" seems to be a playful mocking of sexist language, highlighting the absurdity of judging someone's hands based on their appearance.
+
+Given these points, the speaker's tone appears to be one of **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

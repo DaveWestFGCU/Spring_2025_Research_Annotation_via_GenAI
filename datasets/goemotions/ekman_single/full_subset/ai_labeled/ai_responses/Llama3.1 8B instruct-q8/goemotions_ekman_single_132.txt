@@ -1,0 +1,42 @@
+Record: "Good job! Next, I recommend going NO contact."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the sentence is direct and blunt.
+* The language used implies a strong opinion or recommendation.
+* There is no apparent humor or irony in the sentence.
+
+Given these considerations, the most relevant emotion label is: **anger**. 
+
+The speaker's use of "NO contact" implies a sense of frustration or annoyance, which are both indicators of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker is providing advice to someone.
+* The advice is explicit and direct ("NO contact").
+* The tone seems firm and assertive.
+
+Most relevant emotion label: **anger**
+
+Note that while the speaker's tone may not be overtly aggressive, their language suggests a sense of urgency or severity, which can sometimes be associated with anger. However, it's also possible to interpret this as a neutral or even helpful comment if the context is understood to be supportive and caring.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tone of the statement is direct and blunt.
+* The speaker uses the phrase "Next," which implies a sense of progression or conclusion.
+* The recommendation is to go "NO contact," which suggests a strong negative reaction or advice.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of a direct and blunt tone, combined with the strong negative advice to cut off contact, suggests that they are feeling angry.
+------------------------------------------------------------------------------------------------------------------------
+

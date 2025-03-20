@@ -1,0 +1,35 @@
+Record: "DAE hate unnecessarily salty people like OP?"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker asks "Do you Agree" (DAO), which suggests they are seeking agreement or validation from others.
+* They describe the person they dislike as "unnecessarily salty", implying that this person is overly negative or harsh in their comments.
+* The tone of the comment is lighthearted and casual, with a hint of playful sarcasm.
+
+Most relevant emotion label: **anger**. 
+While the speaker's tone may be light-hearted, the underlying sentiment appears to be annoyance or frustration towards people who are overly negative or harsh in their comments.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker asks if anyone else hates certain type of people.
+* The term "salty" implies someone who is being overly negative or bitter.
+* The speaker's tone appears to be inquiring rather than accusatory.
+
+Given these considerations, the most relevant emotion label for this comment is **anger**. The speaker is expressing frustration with a particular behavior (being "salty") and inviting others to share their similar feelings of annoyance.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker asks "Do Any of You" (DAE), which suggests they're seeking agreement from others.
+* They describe the person(s) they dislike as "unnecessarily salty", implying a negative behavior.
+* The tone is informal and conversational, with a hint of rhetorical question.
+
+Given these points, I would say that the speaker is expressing **anger**, but not necessarily directed at the original poster (OP), rather at people who exhibit annoying behavior.
+------------------------------------------------------------------------------------------------------------------------
+

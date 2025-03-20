@@ -1,0 +1,22 @@
+Record: "The ultra-right Vox party has brought about the 5-way split we expect to see in today's results. The left is afraid of a coalition that includes Vox &amp; the right is afraid of a coalition that includes regional independence parties. #SpainElection #EleccionesGenerales28A https://t.co/3dKqWO1yzF"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let me try to figure out what emotion this tweet is conveying. The user provided a context about the 2019 Spanish general election and a specific tweet. My task is to classify the primary emotion in the tweet using one of the given labels: anger, disgust, fear, joy, sadness, surprise, or other.
+
+First, I'll read the tweet carefully. It says, "The ultra-right Vox party has brought about the 5-way split we expect to see in today's results. The left is afraid of a coalition that includes Vox & the right is afraid of a coalition that includes regional independence parties." 
+
+So, the author is talking about political coalitions and fears on both sides—left being afraid of Vox and the right being afraid of regional independence parties. The word "afraid" is explicitly used twice here, which directly points to fear.
+
+I need to consider if there's any other emotion present or a dominant one. The mention of a 5-way split suggests complexity but doesn't indicate another emotion like surprise or anger. The focus seems to be on the fears of different political groups.
+
+According to the mapping guidelines, if the tweet conveys apprehension or anxiety, it should be classified as fear. Since "afraid" is used, that's a clear indicator. There's no indication of other emotions like joy or sadness; it's more about expressing fears regarding potential coalitions and their implications.
+
+So, putting it all together, the primary emotion here is fear.
+</think>
+
+fear
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,44 @@
+Record: "Just watched #GameofThrones and I'm emotionally wrecked after that!!! Almost as much as I was after my busy weekend! Congratulations the fantastic, cast crew and hundreds of extras  that… https://t.co/eCiqb0U0Es"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's break down this tweet to figure out the emotion conveyed. The user mentions watching "Game of Thrones" and feeling emotionally wrecked. They also compare this emotional state to being tired from a busy weekend. Using words like "emotional wreck" suggests they felt a strong impact, possibly sadness or maybe even joy if it was a positive experience. However, given the context of the show's conclusion, which is often perceived as sad or disappointing by many fans, the emotion here leans more towards sadness.
+</think>
+
+The tweet expresses that the author feels emotionally overwhelmed after watching Game of Thrones, which suggests they are feeling saddened by the series' ending.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, let me try to figure this out. The user wants me to classify a tweet based on the emotion conveyed. The tweet is about someone who just watched Game of Thrones and feels emotionally wrecked, comparing it to how they felt after a busy weekend. They also congratulate the cast and crew.
+
+First, I need to identify the emotions in play here. The word "emotionally wrecked" suggests that the person is feeling something strong. Given the context of Game of Thrones being a major show with significant emotional impact, this could be sadness or maybe even joy if it's about how much the series affected them.
+
+Looking at the emotion list: anger, disgust, fear, joy, sadness, surprise. The tweet doesn't express any negative feelings towards the show itself, so anger or disgust might not fit. Fear and surprise don't seem relevant here either. The person is expressing being "wrecked," which usually relates to feeling overwhelmed with emotions, often sadness.
+
+The mention of a busy weekend causing similar feelings adds context that they're using it as a comparison, indicating that both experiences led to emotional fatigue or sadness. They're celebrating the end of the series, but still feeling its impact, which leans towards sadness rather than pure joy, even though they acknowledge it's been a great show.
+
+So, putting it all together, the emotion here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, let's see. The user provided a query where they need to classify a tweet into one of six emotions: anger, disgust, fear, joy, sadness, or surprise. 
+
+First, I'll read the tweet carefully. The author says they just watched Game of Thrones and are "emotionally wrecked." They also mention being almost as much as after their busy weekend, which might add to the emotional impact. Then they congratulate the cast, crew, and extras.
+
+The key words here are "emotionally wrecked" and "congratulations." The first part expresses strong emotions, likely sadness or maybe joy if it's a positive reaction. But since they're emotionally wrecked, that leans towards sadness because they're overwhelmed by feelings, possibly from the show's ending or events.
+
+The second part is positive, congratulating everyone involved, which might indicate joy. However, the overall emotion conveyed seems to be more about feeling moved in a negative way—being emotionally drained. So the main emotion here is sadness.
+</think>
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

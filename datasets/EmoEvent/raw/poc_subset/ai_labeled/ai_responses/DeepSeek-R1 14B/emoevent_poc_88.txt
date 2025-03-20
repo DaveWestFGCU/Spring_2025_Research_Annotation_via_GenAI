@@ -1,0 +1,65 @@
+Record: "Wow, you weren't instantly downvoted hundreds of times. The omniscum must have had a salad once and got a protein deficancy."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, let's take a look at this tweet to figure out the emotion behind it. The user wrote, "Wow, you weren't instantly downvoted hundreds of times. The omniscum must have had a salad once and got a protein deficiency." Hmm, that's interesting.
+
+First, I notice they start with "Wow," which often expresses surprise or amazement. So maybe there's an element of surprise here. But let's break it down more.
+
+The first part says the user wasn't instantly downvoted hundreds of times. That suggests they were expecting a lot of negative feedback but didn't get it, which might be surprising. Maybe they thought something bad was going to happen but it didn't, hence the surprise.
+
+Then there's a joke about "omniscum" (which is probably a play on words, maybe combining "omniscient" and "scum") having had a salad and getting a protein deficiency. This seems like a humorous way to explain why they weren't downvoted as expected. The humor adds a light-hearted twist, which might convey joy or amusement.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. 
+
+- Anger: There's no indication of irritation or rage here.
+- Disgust: No signs of dislike or aversion.
+- Fear: They don't seem anxious or apprehensive; instead, they're reacting to an unexpected outcome.
+- Joy: The humor and the "Wow" could indicate joy or serenity.
+- Sadness: There's no hint of grief or pensiveness.
+- Surprise: The initial "Wow" and the unexpected lack of downvotes point towards surprise.
+
+So, while there's a touch of surprise in the beginning, the overall tone feels more light-hearted with a humorous twist. Therefore, I think the emotion conveyed here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I've got this tweet to classify into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise. Let me break it down.
+
+First, let's read the tweet carefully: "Wow, you weren't instantly downvoted hundreds of times. The omniscum must have had a salad once and got a protein deficiency." Hmm, okay. 
+
+The author starts with "Wow," which is an exclamation that often signals surprise or amazement. That could hint at surprise. Then they mention not being instantly downvoted hundreds of times. Downvoting usually implies negative feedback, so the person might be surprised that they didn't get as much negativity as expected.
+
+The next part is a bit cryptic: "The omniscum must have had a salad once and got a protein deficiency." I'm not entirely sure what "omniscum" refers to here. It seems like a typo or maybe an inside joke. Maybe it's meant to be "omniscient," implying someone all-knowing? If so, the author is suggesting that this person didn't have enough protein because they ate salad, which might be a playful way of saying they're not as strong or dominant as expected.
+
+Putting it together, the author seems surprised that the person wasn't immediately harshly downvoted. They express this surprise with humor by making a comment about omniscum's diet. So the primary emotion here is surprise because of the use of "Wow" and the unexpected outcome (not getting downvoted as much). The rest of the tweet adds to that surprise with a humorous twist.
+
+I don't think it's anger because there's no indication of frustration or rage. Disgust doesn't seem right either; it's more about being unimpressed rather than feeling disgusted. Fear isn't present, nor is sadness. Joy? Not really, unless the surprise brings some happiness, but I think surprise is a stronger fit here.
+
+So, yeah, the emotion conveyed is surprise.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let's tackle this query step by step. The user wants me to classify the emotion in the given tweet from a specific list: anger, disgust, fear, joy, sadness, surprise.
+
+First, I'll read the tweet carefully: "Wow, you weren't instantly downvoted hundreds of times. The omniscum must have had a salad once and got a protein deficiency."
+
+Breaking it down, the tweet starts with "Wow," which is an exclamation that often conveys surprise or amazement. Then it comments on someone not being downvoted, suggesting they expected it to happen but didn't. The second sentence seems like a humorous explanation for why the person wasn't downvoted—using "omniscum" (maybe a typo for "omniscient") and a protein deficiency as reasons.
+
+The user's possible emotions here: The initial "Wow" indicates surprise. The rest of the tweet is playful and sarcastic, possibly showing amusement or humor rather than any negative emotion like anger or disgust. It doesn't express fear, sadness, or joy in a strong way; it's more about reacting to an unexpected situation with surprise.
+
+I should consider if there are other emotions intertwined, but the primary emotion here seems to be surprise because of the "Wow" and the context provided.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

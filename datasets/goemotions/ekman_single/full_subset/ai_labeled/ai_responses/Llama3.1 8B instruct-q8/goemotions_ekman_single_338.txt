@@ -1,0 +1,33 @@
+Record: "It also makes me cry! but because it shows how far [NAME] has fallen..."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker mentions crying as a reaction to something.
+* They use the phrase "how far [NAME] has fallen," which suggests a negative change or decline.
+* There is no indication of positive emotions such as joy, amusement, or approval.
+
+Given these considerations, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker mentions crying, which suggests a strong emotional reaction.
+* The phrase "how far [NAME] has fallen" implies a sense of disappointment or decline.
+
+Given these considerations, the most relevant emotion label is **sadness**. The speaker's use of tears and their concern about someone else's downfall suggest a tone of sorrow or emotional pain.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions crying, which suggests a strong emotional reaction.
+* The context is about someone having fallen, implying a decline or deterioration in their situation.
+* The tone is melancholic and reflective.
+
+Given these points, the most relevant emotion label is **sadness**.
+------------------------------------------------------------------------------------------------------------------------
+

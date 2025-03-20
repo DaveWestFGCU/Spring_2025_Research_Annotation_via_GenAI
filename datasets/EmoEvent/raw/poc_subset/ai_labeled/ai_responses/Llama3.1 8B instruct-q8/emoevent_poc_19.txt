@@ -1,0 +1,35 @@
+Record: "This South Florida girl loves Jaxons Ice Cream. Seeing the kitchen sink makes me want to drive home."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a positive experience with Jaxon's Ice Cream.
+* The author expresses a desire to return home after seeing the kitchen, which implies a sense of comfort or familiarity associated with their current location.
+
+The most relevant emotion label is: **joy**. The tweet conveys a sense of happiness and fondness for the ice cream shop, as well as a positive association with being at home.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions a specific positive experience with Jaxons Ice Cream.
+* They express a strong desire to return home, but it's implied that they're motivated by their affection for ice cream rather than any negative emotions.
+* The mention of the kitchen sink seems unrelated to their emotional state and might be used as a transitional phrase or a way to introduce the idea of going back home.
+
+Most relevant emotion label: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions loving a specific ice cream brand (Jaxons), which suggests they are in a positive state of mind.
+* However, upon seeing a kitchen sink, their enthusiasm shifts to wanting to leave the current location and go back home.
+* The desire to leave is not accompanied by any negative language or tone.
+
+Given these points, the author's initial affection for Jaxons Ice Cream suggests **joy**, but their subsequent reaction indicates a subtle shift in mood. However, there isn't enough negative language to categorize it as an emotion like sadness or anger. The mention of wanting to leave is more of a neutral or even positive response ("drive home") rather than a negative one. Therefore, the author's intended emotion seems to be a slight disappointment or disinterest in staying, but still maintaining a relatively positive tone.
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

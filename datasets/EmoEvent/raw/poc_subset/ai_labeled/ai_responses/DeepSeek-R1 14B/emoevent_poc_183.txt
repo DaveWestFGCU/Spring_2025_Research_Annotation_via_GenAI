@@ -1,0 +1,52 @@
+Record: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's try to figure out which emotion this tweet is conveying. The user wrote: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress." 
+
+First, I notice they're comparing numbers—someone spent $35k, while they spent under $2k. The word "crazy" stands out here. Using "crazy" in this context usually expresses shock or disbelief. So, is that anger, disgust, fear, joy, sadness, or surprise?
+
+Looking at the options: anger might come from frustration, but here it's more about reacting to a surprising amount of money. Disgust involves dislike, which doesn't quite fit here because they're not expressing dislike for something, just shock.
+
+Fear is more about anxiety or apprehension, which doesn't seem right. Joy and surprise—well, "crazy" could be part of surprise. The tweet seems to express astonishment that someone spent so much more than expected.
+
+So, putting it all together, the emotion here is likely surprise because they're reacting with shock to the higher number and comparing it to their own experience.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, I need to classify this tweet into one of the given emotions: anger, disgust, fear, joy, sadness, or surprise. Let me look at the tweet again.
+
+The tweet says, "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress." 
+
+Hmm, so the author is talking about a price, maybe related to something like a wedding or an event. They mention 35k as being crazy and then compare it to their own experience where they spent less than 2k.
+
+The words used here are "crazy" and the comparison of expenses. The tone seems critical towards the higher amount, calling it excessive or unreasonable. So the emotion here is likely negative.
+
+Looking at the options: anger is a possibility because they might be annoyed or upset about the high price. Disgust could also fit as they seem to dislike the idea or find it repulsive that someone spent so much more. Fear doesn't seem right because there's no indication of worry or anxiety. Joy and surprise are positive emotions, which don't match the negative tone here.
+
+Between anger and disgust: The use of "crazy" suggests a strong reaction but not necessarily anger. It could be more about disapproval or dislike, which aligns with disgust. So I think the emotion conveyed is disgust.
+</think>
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, let me try to figure out what emotion is behind this tweet: "35k? That's just crazy. Mine was less than 2k, and that includes the wedding dress." Okay, so first, I need to understand the context here. It seems like the person is talking about a price tag—maybe related to an event, perhaps a wedding since they mention a wedding dress.
+
+The user says "35k? That's just crazy." So, 35 thousand dollars sounds really expensive to them. They're expressing disbelief or shock at that amount. Then they add, "Mine was less than 2k," showing that their own situation was much cheaper. This comparison highlights a significant difference and reinforces the initial reaction of surprise.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise. The key here is the use of words like "crazy" and the tone indicating astonishment. They're not expressing anger (which might involve frustration or irritation), nor are they showing disgust, fear, joy, or sadness. Instead, their reaction is more about being surprised by how high the number is compared to theirs.
+
+So, putting it all together, the emotion conveyed here is surprise because of the unexpectedly high amount mentioned.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

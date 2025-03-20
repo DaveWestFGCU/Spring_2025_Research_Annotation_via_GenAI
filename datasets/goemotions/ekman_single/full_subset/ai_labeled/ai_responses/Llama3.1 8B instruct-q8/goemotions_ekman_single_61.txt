@@ -1,0 +1,32 @@
+Record: "You’re mean"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a direct and confrontational statement to express their opinion.
+* The tone of the statement suggests a negative emotional response to something said by the person they are addressing.
+
+Given these points, the most relevant emotion label is **anger**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a brief and direct statement to express their opinion.
+* They label the other person as "mean", implying that they have been mistreated or offended.
+* There is no indication of surprise, fear, or disgust in the comment.
+
+Given these considerations, the most relevant emotion label for this text is **sadness**. The speaker's use of the word "mean" suggests that they are expressing emotional pain or hurt caused by the other person's behavior, which aligns with the definition of sadness as "Emotional pain, sorrow".
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is addressing someone directly with a statement that implies criticism.
+* The phrase "You're mean" suggests a negative assessment of the other person's behavior or attitude.
+
+Given these points, the most likely emotion being expressed by the speaker is **sadness**, as they seem to be hurt or affected by the other person's behavior. The tone is not confrontational or aggressive, but rather one of hurt or disappointment, which aligns with sadness.
+------------------------------------------------------------------------------------------------------------------------
+

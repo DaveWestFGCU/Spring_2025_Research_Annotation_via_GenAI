@@ -1,0 +1,38 @@
+Record: "You guys are mad because #Venezuela is dumping that Dollar https://t.co/7YorWFIW8e"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tweet mentions a negative event related to Venezuela (dumping the dollar), which suggests a potentially unfavorable or disappointing outcome.
+* There is no indication of strong emotions like anger, fear, or joy.
+* The tone of the message seems to be more matter-of-fact and observational than emotional.
+
+Given these considerations, the most relevant emotion label appears to be:
+
+**disgust**
+
+This classification is based on the tweet's neutral, observational tone, which may imply a sense of disapproval or dislike for Venezuela's actions. However, it's worth noting that disgust can also encompass disinterest and dislike, making it a suitable fit for this particular message.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tweet appears to be a reaction to news about Venezuela.
+* The author mentions that people are "mad" which implies a strong negative emotion.
+* The tone of the tweet seems confrontational, but it's unclear what exactly is being criticized.
+
+Given these considerations, I would classify the tweet as expressing **anger**, as the author uses the word "mad" to describe others' reactions and implies a sense of indignation or outrage.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The tweet mentions Venezuela's economic situation and the country's decision to devalue its currency.
+* The tone of the tweet seems celebratory or triumphant, given the use of "You guys are mad".
+* The language used is informal and conversational.
+
+Given these considerations, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+

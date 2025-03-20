@@ -1,0 +1,50 @@
+Record: "This #WorldBookDay, give the gift of reading. Today, with every book you buy at https://t.co/ohsactWgeW, you'll be making one new ebook available to readers in our programs. Thank you for spreading the joy of reading far and wide! USER #WBD2019 https://t.co/1IaR5ovodO"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise. Let me start by reading the tweet carefully.
+
+The tweet says, "This #WorldBookDay, give the gift of reading. Today, with every book you buy at [link], you'll be making one new ebook available to readers in our programs. Thank you for spreading the joy of reading far and wide! USER #WBD2019 [another link]"
+
+Hmm, the user is promoting World Book Day by encouraging others to buy books, which in turn provides ebooks to their programs. The message is positive, talking about giving the gift of reading and spreading joy. Words like "joy" are explicitly used.
+
+Looking at the emotion categories, joy seems to fit here because they're expressing happiness and enthusiasm about reading. There's no indication of any negative emotions like anger or disgust. It's all about celebrating books and sharing the love for reading. The tone is uplifting and encouraging.
+
+I don't see elements of fear, surprise, sadness, or disgust. It's purely a positive message aimed at spreading joy through reading.
+</think>
+
+The tweet conveys **joy** as it emphasizes giving the gift of reading and spreading happiness.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, so I need to classify this tweet based on the emotion it conveys. The options are anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's read the tweet carefully:
+
+"This #WorldBookDay, give the gift of reading. Today, with every book you buy at https://t.co/ohsactWgeW, you'll be making one new ebook available to readers in our programs. Thank you for spreading the joy of reading far and wide! USER #WBD2019 https://t.co/1IaR5ovodO"
+
+The tweet is promoting World Book Day by encouraging people to buy books, which in turn makes ebooks available to others. The language used here is positive and uplifting.
+
+Looking for emotional cues: "gift of reading," "spreading the joy of reading." Words like "joy" are explicitly mentioned, indicating a positive emotion.
+
+I don't see any signs of anger, disgust, fear, sadness, or surprise in the message. It's all about celebrating reading and sharing it with others, which fits under joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet's emotion from the given categories: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet is about World Book Day. It says to give the gift of reading and mentions that buying books makes new ebooks available. The tone seems positive because it's encouraging people to spread the joy of reading.
+
+I see words like "gift," "joy," and "spreading." These all convey a happy and uplifting feeling, so I'm leaning towards joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

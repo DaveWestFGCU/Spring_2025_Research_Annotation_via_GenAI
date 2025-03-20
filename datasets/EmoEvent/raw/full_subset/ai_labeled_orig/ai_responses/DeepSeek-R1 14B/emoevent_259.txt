@@ -1,0 +1,48 @@
+Record: "Excellent speech from Clive Lewis MP. Every MP should have been present at this debate. A Climate Emergency must be declared. #ExtinctionRebellion #GretaThunberg #LabourGreenRebellion https://t.co/MTz1xVGpAR"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to classify the emotion in this tweet. The user is asking for only one emotion from the list: anger, disgust, fear, joy, sadness, or surprise.
+
+Looking at the tweet: "Excellent speech from Clive Lewis MP. Every MP should have been present at this debate. A Climate Emergency must be declared. #ExtinctionRebellion #GretaThunberg #LabourGreenRebellion"
+
+The words used are positive like "excellent" and strong statements about declaring a climate emergency. The hashtags also suggest support for environmental causes, which is a positive stance.
+
+I don't see any signs of anger, disgust, fear, or sadness. There's no surprise either—it's more of an endorsement. So the emotion here is joy because they're expressing approval and enthusiasm.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I need to classify the emotion in this tweet using only the categories: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet says "Excellent speech from Clive Lewis MP." The word "excellent" is positive, indicating satisfaction or approval. This suggests a feeling of joy or serenity, which falls under the joy category.
+
+Even though the tweet talks about declaring a climate emergency and mentions Greta Thunberg's movement, the emotion expressed isn't negative like anger or disgust. It's more about applauding something done well, so joy is the most appropriate.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify the emotion of this tweet using one of the given categories: anger, disgust, fear, joy, sadness, surprise. Let me analyze the content step by step.
+
+The tweet starts with "Excellent speech from Clive Lewis MP." The word "excellent" is positive and suggests approval or satisfaction, which could point towards joy. The author is praising the speech, indicating a positive emotion.
+
+Next, they mention that every MP should have been present at the debate. This implies that the author feels the issue is important enough for all MPs to attend. It shows concern about climate issues but doesn't explicitly convey an emotion like anger or fear; rather, it emphasizes the importance of the topic.
+
+The tweet continues by stating "A Climate Emergency must be declared." Declaring a climate emergency is a strong statement that reflects urgency and seriousness. However, within the context of emotions, this still aligns with a positive sentiment because it's about taking action against climate change, which the author supports.
+
+The hashtags used are #ExtinctionRebellion, #GretaThunberg, and #LabourGreenRebellion. These are all related to environmental activism and indicate that the author is part of or supports these movements. The tone here is supportive and positive, aligning with joy as it shows solidarity with such causes.
+
+There's no indication of negative emotions like anger (annoyance, rage), disgust (dislike), fear, sadness, or surprise. Instead, the language used is approving and supportive, which fits under joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

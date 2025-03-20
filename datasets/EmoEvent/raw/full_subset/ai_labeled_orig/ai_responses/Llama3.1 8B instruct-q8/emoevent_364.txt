@@ -1,0 +1,42 @@
+Record: "They say much was spared, but the images of #Notre_dame_de_Paris up in flames are so heart-breaking. Watching the French mourn in song is so sad and beautiful like a hopeful prayer to save their #home. #NotreDameCathedralFire #TuesdayThoughts https://t.co/i33BUz15Pe"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Here are the important points to consider:
+
+* The tweet mentions that the images of Notre-Dame up in flames are "heart-breaking", indicating a negative emotional response.
+* The author describes watching the French mourn in song as "sad and beautiful", implying a sense of sorrow.
+* The tweet uses hashtags such as #NotreDameCathedralFire, which suggests a serious and somber tone.
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions that the images of Notre-Dame on fire are "heart-breaking", which suggests a strong emotional reaction.
+* The author describes the scene as "sad and beautiful" and compares it to a "hopeful prayer".
+* There is no indication of anger, disgust, or surprise in the text.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The author's use of words like "heart-breaking", "sad", and "grief" (implied by the context) suggests that they are expressing sadness and empathy for the people of France who are mourning the loss.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+To classify this tweet, consider the following points:
+
+* The author mentions that the images of Notre-Dame up in flames are "heart-breaking", which implies a strong emotional response to the event.
+* The author describes watching the French mourn as "sad and beautiful", which suggests a somber mood.
+* The phrase "like a hopeful prayer" suggests a sense of optimism, but it is still framed within a context of sadness and loss.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

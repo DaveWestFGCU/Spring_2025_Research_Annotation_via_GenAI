@@ -1,0 +1,36 @@
+Record: "Here’s another couple of images I shot inside Notre Dame Cathedral when I first visited Paris ten years ago. It really was a beautiful morning interior, here’s hoping she will be fully restored to her former glory. #NotreDame #NotreDameCathedralFire #NotreDameInterior https://t.co/Wm9LIbuqfJ"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author is sharing old photos of Notre Dame Cathedral before the fire.
+* They express a desire for the cathedral's restoration to its former glory.
+* There is no mention of anger, disgust, fear, or surprise in relation to the current situation.
+
+Given these points, the most relevant emotion label is **sadness**, as the author is expressing a wishful tone and nostalgia for the cathedral before the fire.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author is sharing personal photos taken before the fire, suggesting a sense of nostalgia and loss.
+* The author expresses hope for Notre Dame's full restoration, indicating a desire for its preservation.
+* There is no indication of anger, disgust, fear, joy, or surprise in the text.
+
+Given these points, the most relevant emotion label is **sadness**, as the author is reflecting on the loss of a beautiful structure and expressing hope for its restoration.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is sharing old photos of Notre Dame Cathedral.
+* The text mentions the recent fire at the cathedral.
+* The author expresses a desire for the cathedral to be fully restored.
+
+Given these points, the author's tone seems to be one of hope and nostalgia. The mention of the fire and the need for restoration may evoke some sadness, but it is balanced by the author's positive sentiment towards the cathedral.
+
+**sadness**
+------------------------------------------------------------------------------------------------------------------------
+

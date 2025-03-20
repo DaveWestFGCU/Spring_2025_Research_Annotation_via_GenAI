@@ -1,0 +1,46 @@
+Record: "I find it sadly ironic that a man's job is to protect his family, yet if he's alone with his children they question their safety."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses the word "sadly" to begin the sentence, which often indicates a negative or sorrowful tone.
+* The speaker highlights a perceived paradox in a man's role as protector of his family, suggesting that this situation is problematic or concerning.
+* The phrase "question their safety" implies a sense of unease or worry.
+
+Given these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's use of the word "sadly" and the tone of concern in the sentence suggest that they are feeling sadness or emotional pain.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The tone of the statement is reflective and somewhat disapproving.
+* The speaker highlights a perceived contradiction in expectations around a person's role as a protector.
+* The phrase "sadly ironic" suggests that the speaker finds the situation unfortunate or regrettable.
+
+Given these considerations, the most relevant emotion label for this text is:
+
+**sadness**
+ 
+The speaker's use of "sadly ironic" and the overall tone of disapproval suggest a sense of disappointment or sorrow about the situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions something as "sadly ironic", which suggests a tone of disappointment and criticism.
+* The speaker appears to be highlighting a contradiction or hypocrisy in the situation described.
+* There is no mention of strong negative emotions, such as anger or disgust, nor is there any sense of fear or surprise.
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+
+The speaker's use of "sadly ironic" suggests that they are feeling a sense of disappointment and sadness about the situation, rather than any other emotion.
+------------------------------------------------------------------------------------------------------------------------
+

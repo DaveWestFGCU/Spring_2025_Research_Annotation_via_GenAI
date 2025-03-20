@@ -1,0 +1,44 @@
+Record: "USER USER #NotreDameCathedralFire. Yes this fire is tragic, but when you see how the wealthy and mega rich have rallied to the cause compared to how they rallied around #GrenfellTower tragedy, where many people died. It just makes me question priorities."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author mentions that the Notre Dame Cathedral fire is "tragic", indicating a negative emotional tone.
+* The author compares the response to the Notre Dame fire with the Grenfell Tower tragedy, implying a sense of injustice and critique towards those who have responded differently to the two incidents.
+
+Given these points, the most relevant emotion label for this tweet is:
+
+**sadness**
+ 
+The author's tone is sorrowful and critical, expressing disappointment and frustration at what they perceive as a lack of similar response to a different tragedy. The focus on tragedy and criticism suggests sadness rather than other emotions like anger or surprise.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author mentions that the Notre Dame Cathedral fire is "tragic", indicating a negative tone.
+* However, the author quickly turns the topic towards criticizing the wealthy's response to the disaster and comparing it unfavorably to their response to another tragedy (Grenfell Tower).
+* The author expresses a sense of disappointment and disillusionment with the priorities of the wealthy.
+
+Given these points, the most relevant emotion label is:
+ 
+**sadness**
+
+The author's tone suggests sadness and concern for the victims of the fire, as well as frustration and disappointment with the societal response to it.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author mentions a "tragic" event (the Notre Dame Cathedral Fire), which suggests a somber tone.
+* However, the author quickly shifts focus to comparing the response of wealthy individuals to two different tragedies: Notre Dame and Grenfell Tower.
+* The author expresses dissatisfaction with the priorities of the wealthy, implying a sense of frustration or disappointment.
+
+Given these points, I would classify the tweet as:
+
+**sadness**
+The author is clearly distressed by the disparity in responses to the two tragedies and questions the priorities of the wealthy, conveying a sense of sadness and disillusionment.
+------------------------------------------------------------------------------------------------------------------------
+

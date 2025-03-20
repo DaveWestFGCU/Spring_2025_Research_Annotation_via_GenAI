@@ -1,0 +1,40 @@
+Record: "Who the fuck leaves a hot iron on the couch"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses profanity ("fuck") which suggests strong emotions.
+* The speaker expresses a critical opinion about someone's behavior, implying disapproval.
+* The comment is directed at a specific action (leaving a hot iron on the couch) rather than a person or idea.
+
+Given these considerations, the most relevant emotion label for this text is:
+
+**disgust**
+
+The speaker's language and tone convey revulsion and strong disapproval towards someone's careless behavior, which is characteristic of disgust.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses strong profanity ("fuck") and an exclamation mark, indicating a sense of urgency and emphasis.
+* The phrase "leaves a hot iron on the couch" is a statement that expresses disapproval or concern for someone's safety.
+* There is no indication of personal emotional investment or attachment to the situation.
+
+Most relevant emotion label: **disgust**
+
+Reasoning: The speaker's reaction to the situation seems to be driven by revulsion and strong disapproval, rather than anger (which would require a more aggressive tone), fear (which would imply concern for their own safety), joy (which is unlikely given the context), sadness (which doesn't fit with the language used), surprise (which isn't indicated as the speaker's response seems to be a straightforward reaction), or neutrality (as the tone is clearly disapproving).
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses strong profanity ("Who the fuck"), indicating a high level of emotional intensity.
+* The speaker expresses surprise and concern about someone's careless behavior (leaving a hot iron on the couch).
+* The tone is critical and disapproving.
+
+Given these considerations, the most relevant emotion label is **disgust**.
+------------------------------------------------------------------------------------------------------------------------
+

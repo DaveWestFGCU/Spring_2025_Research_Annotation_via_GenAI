@@ -1,0 +1,36 @@
+Record: "[NAME] is honestly really badass and he has a great design I hope they give him something good to do in 11"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The tone of the tweet appears to be positive, with words like "badass" and "great design".
+* The author expresses enthusiasm for the character "[NAME]".
+* The mention of hoping he gets a good role in the future suggests excitement or optimism.
+
+Given these points, the most relevant emotion label is: **joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author's tone appears positive.
+* They mention the character being "badass" and having a "great design".
+* They express a desire for the character to receive a significant or meaningful role.
+
+Based on these points, the most relevant emotion label is **joy**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author uses positive language such as "honestly", "really badass", and "great design" which suggests a favorable opinion.
+* The author expresses enthusiasm for the subject, using words like "badass".
+* The tone is optimistic with the use of the phrase "I hope they give him something good to do in 11".
+
+**joy**
+
+The tweet's positive language and enthusiastic tone suggest that the author intended to convey a feeling of joy.
+------------------------------------------------------------------------------------------------------------------------
+

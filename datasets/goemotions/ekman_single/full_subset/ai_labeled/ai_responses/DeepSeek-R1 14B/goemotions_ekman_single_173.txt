@@ -1,0 +1,77 @@
+Record: "Yeah my guess at this point is either a 2 year bridge or 8x8."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "Yeah my guess at this point is either a 2 year bridge or 8x8." 
+
+First, I'll break down the sentence. It seems like the speaker is making a prediction or sharing an opinion about something, possibly related to construction or technology given terms like "bridge" and "8x8," which could refer to a standard size in manufacturing or materials.
+
+Looking at each emotion category:
+
+1. **Anger**: The comment doesn't show any signs of irritation or dislike. It's more factual.
+2. **Disgust**: There's no indication of revulsion or disapproval here.
+3. **Fear**: No expressions of worry or nervousness are present.
+4. **Joy**: The speaker isn't expressing happiness or excitement, so this doesn't fit.
+5. **Sadness**: There's no sorrow or disappointment in the statement.
+6. **Surprise**: The comment is straightforward without any astonishment or unexpected elements.
+7. **Neutral**: This seems to be a factual statement without any emotional undertone.
+
+The speaker is simply sharing their guess, which doesn't convey any emotion beyond possibly being indifferent or neutral about the situation. So, the most appropriate emotion here would be neutral.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm trying to figure out what emotion the speaker might be feeling based on their Reddit comment. The comment says, "Yeah my guess at this point is either a 2 year bridge or 8x8." 
+
+First, I need to understand the context. Since it's from Reddit, it's likely in response to another post or comment, probably about gaming or tech given the terms "bridge" and "8x8." In gaming contexts, an 8x8 grid often refers to maps, maybe in games like Among Us or others where map size matters.
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one that best fits this comment. 
+
+The speaker is making a guess but sounds uncertain. They use "my guess" and "either," which indicates they're not sure. This doesn't show strong positive or negative emotions like joy or anger. It's more of an informative statement without much emotion.
+
+Comparing with the definitions:
+- Anger: Not present, no signs of displeasure.
+- Disgust: No indication of revulsion.
+- Fear: No worry or anxiety expressed.
+- Joy: Doesn't seem happy or excited.
+- Sadness: No sorrow or disappointment.
+- Surprise: The comment is straightforward, not surprising.
+- Neutral: Fits because it's a factual statement without emotion.
+
+So, the speaker seems neutral here. They're sharing their guess without much feeling attached.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I'm trying to figure out what emotion the speaker might be feeling based on their comment. The comment says, "Yeah my guess at this point is either a 2 year bridge or 8x8." Hmm, okay, first off, I need to understand the context a bit more because Reddit comments can sometimes be part of a larger discussion, like a post or another commenter's reply.
+
+Given that, the speaker is making a prediction or a guess about something. The options they're considering are "a 2 year bridge" and "8x8." Without knowing exactly what these refer to, I might have to make some assumptions based on common uses of such phrases. 
+
+The phrase "a 2 year bridge" could be related to temporary fixes, like a solution that's expected to last two years before needing replacement or an upgrade. The "8x8" is more ambiguous; it could refer to something technical, maybe dimensions, or perhaps shorthand for something else entirely.
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to determine which one fits best based on the comment's tone and content. The speaker is making a guess but doesn't express any strong emotions through their choice of words. They're stating facts or possibilities without showing irritation, happiness, worry, or surprise.
+
+So, breaking it down:
+
+- **Anger**: There's no indication of frustration or displeasure.
+- **Disgust**: No mention of something unpleasant causing revulsion.
+- **Fear**: The comment doesn't express any anxiety or nervousness.
+- **Joy**: No signs of happiness or excitement.
+- **Sadness**: The speaker isn't expressing sorrow or disappointment.
+- **Surprise**: There's no astonishment or realization here; it's a straightforward statement.
+- **Neutral**: The speaker is simply providing information without any emotional undertone.
+
+Therefore, the emotion most likely being felt by the speaker here is neutral because their comment is factual and doesn't convey any specific emotion.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

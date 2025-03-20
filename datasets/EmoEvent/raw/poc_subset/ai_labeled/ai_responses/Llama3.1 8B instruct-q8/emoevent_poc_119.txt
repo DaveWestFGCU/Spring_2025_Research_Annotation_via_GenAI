@@ -1,0 +1,39 @@
+Record: "Ugh I am in this same place right now. Dating a husband whose wife calls all the shots. I feel for you."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The author uses the phrase "Ugh", which is often an expression of distaste or dissatisfaction.
+* They mention being in the same situation as someone else, implying they're sharing a relatable experience.
+* They express empathy towards the other person ("I feel for you").
+
+Based on these points, the most relevant emotion label is:
+
+**sadness**
+
+This suggests that the author is expressing sympathy and understanding of someone's difficult situation, which is often associated with feelings of sadness or empathy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses the phrase "Ugh", which is an expression of strong displeasure or annoyance.
+* They describe being in a situation where someone else has control, implying frustration or powerlessness.
+* The author expresses empathy with the person they are responding to ("I feel for you").
+
+Most relevant emotion label: **sadness**
+The author's tone suggests a sense of resignation and sympathy for someone who is likely unhappy or trapped in their relationship.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Here are the important points to consider:
+
+* The author uses a phrase "Ugh" which indicates a negative emotion.
+* They express empathy towards someone else's situation, indicating that they may be experiencing something similar and are not happy about it.
+* The tone is more complaining than celebratory.
+
+Given these points, the most relevant emotion label is: **anger**.
+------------------------------------------------------------------------------------------------------------------------
+

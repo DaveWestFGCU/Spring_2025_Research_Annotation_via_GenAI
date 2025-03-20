@@ -1,0 +1,67 @@
+Record: "0% But then again most of us on here aren't placing top 8 at majors so that could factor in"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker seems to be downplaying their chances or abilities compared to others.
+* They are making a self-deprecating comment, implying they might not be as skilled or successful as others on the platform (Reddit).
+* However, there's no apparent emotion of disappointment, frustration, or animosity towards others.
+
+Given these points, it seems the speaker is being lighthearted and humble. The tone is more playful than anything else.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker seems to be dismissing or downplaying the achievement mentioned in the original post.
+* They compare themselves or others unfavorably, implying a lack of success or status.
+* There's a hint of defensiveness or justification for their own (or others') perceived shortcomings.
+
+Given these considerations, the most relevant emotion label is:
+
+**anger**
+
+The speaker appears to be annoyed or defensive about being compared negatively to others who are achieving more in their field. Their tone comes across as dismissive and slightly resentful, which aligns with the characteristics of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker is making a sarcastic comment.
+* They are implying that their own skill level (or lack thereof) may be the reason they're not as invested in the topic of discussion.
+* The tone is lighthearted and somewhat self-deprecating.
+
+Most relevant emotion label: **surprise**
+ 
+This choice is due to the fact that the speaker appears to be poking fun at themselves, implying that their relative lack of skill may contribute to a sense of detachment or disconnection from the conversation. This tone suggests surprise or astonishment at their own perceived shortcomings, rather than expressing anger, disgust, fear, joy, sadness, or neutral emotions.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 4:
+Important points to consider:
+
+* The speaker seems to be downplaying their own abilities and making a humorous comment.
+* They are comparing themselves to others, specifically saying they're not as good as those who are "placing top 8 at majors".
+* The tone appears to be lighthearted and self-deprecating.
+
+Most relevant emotion label: **joy**
+The speaker's comment is likely meant to be a joke or a humorous way of coping with the situation, which suggests they're experiencing joy or amusement.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 5:
+Important points to consider:
+
+* The speaker appears to be discussing a topic related to professional tennis, specifically the ranking system and its relation to performance.
+* The tone is somewhat sarcastic and dismissive, with a hint of competitiveness.
+* The phrase "0%" suggests a low opinion or rating.
+
+Given these points, I would categorize the emotion as:
+
+**anger**
+
+The speaker's comment comes across as slightly annoyed and frustrated, perhaps feeling that their own ranking or performance is not being taken seriously by others.
+------------------------------------------------------------------------------------------------------------------------
+

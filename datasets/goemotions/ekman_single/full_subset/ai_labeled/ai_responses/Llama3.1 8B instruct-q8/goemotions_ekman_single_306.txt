@@ -1,0 +1,38 @@
+Record: "Yeah it’s a repost, I saw this same exact post in a different subreddit couple months ago"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker is reacting to something that has been brought up before.
+* They express a sense of familiarity with the content being discussed.
+* Their tone is not overly enthusiastic or positive.
+
+Given these considerations, the most relevant emotion label for this text is: **surprise**.
+
+The speaker's surprise comes from recognizing that the post they are reading is a repost from another subreddit. This unexpected revelation sparks their comment.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Here are some important points to consider when analyzing the speaker's emotion:
+
+* The speaker mentions that the post is a repost from a different subreddit.
+* They express surprise or recognition that they've seen the same content before.
+* There's no indication of negative emotions such as anger, disgust, fear, or sadness.
+
+Given these considerations, the most relevant emotion label for this comment is: **surprise**.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker mentions that they have seen the same post before.
+* They express a sense of familiarity with the content being reposted.
+* There is no indication of strong emotions such as anger, disgust, fear, or joy.
+
+Based on these points, it appears that the speaker is expressing a neutral sentiment. However, there may be a hint of frustration or annoyance implied by the phrase "same exact post", but overall, the tone seems to be more matter-of-fact than emotional.
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

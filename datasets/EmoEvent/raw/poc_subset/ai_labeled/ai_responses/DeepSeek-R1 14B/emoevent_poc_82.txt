@@ -1,0 +1,54 @@
+Record: "Thanks! There are so many resources available. Thank you for telling me about one that actually helped you"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's take a look at this tweet and figure out what emotion is being conveyed here. The tweet says: "Thanks! There are so many resources available. Thank you for telling me about one that actually helped you." 
+
+First, I notice the user starts with "Thanks!" which immediately makes me think of gratitude or happiness. They're expressing appreciation, which usually falls under joy or a related emotion.
+
+Looking further, they mention there are many resources available but specifically thank someone for sharing one that actually helped them. The word "actually" here seems to add emphasis, highlighting that this particular resource was effective. This reinforces the positive sentiment because it shows genuine appreciation and maybe even some relief or satisfaction that the information was useful.
+
+I don't see any signs of anger, disgust, fear, sadness, or surprise in the text. There's no indication of frustration or annoyance; instead, there's a clear expression of gratitude. The tone is uplifting and appreciative throughout.
+
+So, considering all these elements, the emotion here is definitely joy. It's not just about being thankful but also about finding something helpful, which contributes to a sense of happiness or serenity.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Alright, I'm looking at this tweet: "Thanks! There are so many resources available. Thank you for telling me about one that actually helped you." 
+
+First, the user is thanking someone multiple times, which usually indicates a positive emotion. The word "thanks" is repeated, showing appreciation. They mention that there are many resources but specifically highlight one that actually helped them. This focus on a helpful resource adds to the positive sentiment because it shows gratitude for something that made a difference.
+
+I need to classify this into one of the six emotions: anger, disgust, fear, joy, sadness, or surprise. The tweet doesn't show any signs of anger or frustration; instead, it's quite cheerful. There's no indication of disgust or dislike either. Fear and anxiety aren't present here—this isn't a threatening situation.
+
+Looking at the remaining options, joy fits well because the user is expressing gratitude and appreciation. While surprise might sometimes be associated with unexpected good news, in this case, the tone is more about genuine happiness and satisfaction rather than being surprised.
+
+So, I think the emotion conveyed here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Okay, I need to classify this tweet's emotion from the given list: anger, disgust, fear, joy, sadness, surprise.
+
+The tweet is: "Thanks! There are so many resources available. Thank you for telling me about one that actually helped you."
+
+First, looking at the words used—lots of thanks and positive language like "helped." The person is expressing gratitude and appreciation because the resource was useful. That feels positive.
+
+Now, mapping to the emotion categories: anger, disgust, fear, joy, sadness, surprise. Gratitude is a form of joy because it's a positive feeling, happiness maybe.
+
+I don't think it's surprise because there's no indication of being amazed or distracted. It's more about appreciation and satisfaction.
+
+So, the emotion here is joy.
+</think>
+
+**joy**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,42 @@
+Record: "Bitch ass n*** [NAME] rooting for [NAME]"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Given the language and tone used in the speaker's comment, here are some important points to consider:
+
+* The use of derogatory slurs ("bitch ass") and profanity indicates a strong negative sentiment.
+* The comment targets an individual ([NAME]) with a personal attack, suggesting animosity or dislike.
+* The mention of rooting for someone else ([NAME]) implies a sense of rivalry or competition.
+
+Based on these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of aggressive language and personal attacks suggests that they are feeling angry towards [NAME] and possibly others associated with them.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The language used by the speaker contains strong profanity and derogatory terms, which may indicate a negative sentiment.
+* The speaker is addressing someone in a confrontational manner, using words like "bitch" and "n***", which can be seen as aggressive.
+* The speaker appears to be expressing disapproval or disdain towards [NAME] for rooting for the opposing team.
+
+Given these points, the most relevant emotion label is:
+
+**anger**
+
+The speaker's use of profanity and confrontational language suggests a strong negative emotion, which aligns with the definition of anger.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The language used by the speaker includes derogatory terms and a strong insult.
+* The tone appears aggressive and confrontational.
+* The comment targets someone specific, suggesting a personal or emotional investment.
+
+Given these points, the most relevant emotion label is **anger**. The use of strong profanity and insults suggests that the speaker is experiencing anger towards the person they are addressing.
+------------------------------------------------------------------------------------------------------------------------
+

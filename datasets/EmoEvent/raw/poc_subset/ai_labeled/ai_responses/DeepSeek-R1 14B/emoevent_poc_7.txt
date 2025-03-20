@@ -1,0 +1,59 @@
+Record: "You can't be serious."
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Alright, let's tackle this tweet classification task. The tweet is: "You can't be serious." I need to figure out which emotion it conveys from the given list.
+
+First, I'll break down the sentence. "You can't be serious" is often used when someone is reacting to something unexpected or unbelievable. It expresses shock or surprise because the speaker might not expect the other person to say or do something so outlandish.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise. I'll go through each possible emotion to see which fits best.
+
+- Anger: This would involve irritation or rage, but the statement doesn't seem angry—it's more of a reaction to something unexpected.
+- Disgust: That involves dislike or aversion. The tweet doesn't express any negative feelings towards someone or something; it's about the situation being unbelievable.
+- Fear: This would imply anxiety or apprehension. While surprise can sometimes be related to fear, the primary emotion here is more about astonishment rather than fear itself.
+- Joy: Unlikely because the statement isn't expressing happiness or excitement.
+- Sadness: Doesn't fit as there's no indication of grief or pensiveness in the tweet.
+- Surprise: This seems spot on. The speaker is reacting to something that caught them off guard, showing amazement or disbelief.
+
+So, putting it all together, "You can't be serious" primarily conveys surprise because it's a reaction to an unexpected statement.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I'm trying to classify this tweet: "You can't be serious." The user wants me to figure out which emotion the author intended to convey from a list of six options: anger, disgust, fear, joy, sadness, or surprise.
+
+First, let's break down the sentence. "You can't be serious." It sounds like a response to something unexpected or unbelievable. When someone says this, they're often reacting to something that surprised them because it was so unexpected or absurd.
+
+Looking at the emotion categories: anger would involve irritation or rage, but this doesn't seem confrontational. Disgust is about dislike, which isn't really captured here. Fear involves anxiety or terror, which I don't think fits either. Joy and sadness are also not applicable; there's no indication of happiness or sorrow.
+
+That leaves surprise. The phrase suggests the speaker is amazed or shocked by what was said or happened. It's a strong reaction to something unexpected, so "surprise" seems like the right fit.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out which emotion best fits the tweet: "You can't be serious." Let me break this down step by step.
+
+First, the phrase itself is a common response when someone says something that's unexpected or unbelievable. The speaker is expressing doubt or disbelief about what was said. So, the immediate thought is that surprise might be the right emotion here because it's all about being amazed or distracted by something unexpected.
+
+Now, looking at the options: anger, disgust, fear, joy, sadness, and surprise. Let me consider each one:
+
+- Anger: The tweet doesn't show any signs of frustration or rage; it's more about reacting to something surprising.
+- Disgust: There's no indication of dislike or disinterest in the statement.
+- Fear: The speaker isn't expressing anxiety or apprehension, but rather disbelief.
+- Joy and Sadness: These are positive or negative emotions, but the tweet doesn't convey either.
+- Surprise: This fits perfectly because "You can't be serious" is a response to something shocking or unbelievable.
+
+So, putting it all together, the emotion here is definitely surprise. The speaker is taken aback and finds the statement hard to believe, which aligns with the 'surprise' category.
+</think>
+
+**surprise**
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+Record: "I cant wait for the GIF of Klopps face after that ridiculous free kick #BARLIV #ChampionsLeague"
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+- The tone is casual and informal, suggesting a personal reaction rather than an objective statement.
+- The use of "ridiculous" implies criticism or mockery, but in a lighthearted manner.
+- The overall sentiment is positive, as the author expresses enthusiasm for a specific event.
+
+**joy**
+ 
+The author's excitement and eagerness to see the GIF suggest a joyful reaction, rather than any other emotion.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The author uses a positive phrase "can't wait" which suggests excitement and anticipation.
+* The use of hashtags related to Barcelona vs. Liverpool (BARLIV) in the Champions League implies a specific match is being referenced, indicating the author's interest in a particular event.
+* The phrase "ridiculous free kick" suggests the author found something amusing or unexpected.
+
+Given these points, the most relevant emotion label is:
+**joy**
+The author's tone is lighthearted and playful, suggesting they are looking forward to seeing a humorous moment (Klopp's reaction) which aligns with feelings of joy.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The author is expressing anticipation or excitement about a specific event.
+* The tone seems lighthearted and playful, with no apparent negative emotions.
+* The use of the phrase "ridiculous" could be interpreted as slightly mocking, but in this context it's more likely used to add humor.
+
+Given these points, the author is most likely conveying **joy**.
+------------------------------------------------------------------------------------------------------------------------
+

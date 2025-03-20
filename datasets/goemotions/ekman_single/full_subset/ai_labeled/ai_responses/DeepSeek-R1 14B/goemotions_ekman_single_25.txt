@@ -1,0 +1,80 @@
+Record: "#On a rainy day I dont accept any doordash requests unless there is a minimum of $5 bonus"
+DeepSeek-R1 14B
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+<think>
+Okay, so I need to figure out which emotion the speaker is feeling based on their comment. The comment is: "#On a rainy day I dont accept any doordash requests unless there is a minimum of $5 bonus". 
+
+First, I should read the comment carefully. The speaker is talking about not accepting DoorDash requests on a rainy day unless there's a $5 bonus. That makes me think they're setting a condition for taking on deliveries when it's raining. 
+
+Now, looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to determine which one fits best.
+
+The speaker is expressing a preference or a boundary. They don't want to take requests unless certain conditions are met. This could be seen as a way of asserting their terms, perhaps due to discomfort with the situation—like not wanting to deal with bad weather without extra incentive.
+
+But does this indicate any specific emotion? Let's analyze each option:
+
+- Anger: The comment doesn't express frustration or irritation directly. It's more about setting a condition rather than showing anger.
+- Disgust: There's no indication of revulsion or strong disapproval here.
+- Fear: No signs of being afraid or worried.
+- Joy: Not really happiness or pleasure in the statement.
+- Sadness: Doesn't seem like sorrow or disappointment.
+- Surprise: Nothing unexpected is mentioned.
+- Neutral: The comment is straightforward, stating a condition without any clear emotion expressed.
+
+I think "neutral" fits best because the speaker is simply stating their terms without showing any strong emotion. They're not expressing anger or joy, just setting a professional boundary.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+<think>
+Okay, so I need to figure out what emotion the speaker is feeling based on their comment. The comment says, "#On a rainy day I don't accept any doordash requests unless there is a minimum of $5 bonus". Hmm.
+
+First, let me understand the context. DoorDash is a food delivery service, right? So the speaker works with DoorDash or does deliveries. They're talking about rainy days and not accepting requests unless there's a $5 bonus. 
+
+Why would they say that? Well, on rainy days, maybe the weather is bad, and delivering in the rain could be tough or even dangerous. So perhaps the speaker doesn't want to take risks without extra compensation. 
+
+Looking at the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to pick one.
+
+Is there any sign of anger? The comment is straightforward; they're stating a condition for accepting requests. It doesn't sound like they're angry or annoyed. No strong language here.
+
+Disgust? They don't seem disgusted by anything mentioned, just setting a condition.
+
+Fear? Maybe fear of bad weather? But the comment is about compensation, not expressing fear directly.
+
+Joy? Not really; there's no positive emotion expressed.
+
+Sadness? Again, nothing sad in the statement. It's more about work conditions.
+
+Surprise? Doesn't seem so. The comment is a personal policy decision.
+
+Neutral? It sounds like they're just stating their preference without any strong emotion. They might be practical or making sure they get compensated for harder work.
+
+So putting it together, the speaker isn't expressing any of the primary emotions listed except possibly neutral. They're informing others about their working conditions but not showing anger, fear, etc.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+<think>
+Alright, so I need to figure out what emotion the speaker is feeling based on their Reddit comment. The comment says, "#On a rainy day I dont accept any doordash requests unless there is a minimum of $5 bonus." Let's break this down.
+
+First, the speaker mentions not accepting DoorDash requests during rain unless there's a $5 bonus. This sounds like they're setting a condition to take on deliveries, which might indicate they're in some sort of service or delivery job. The mention of a bonus suggests they want additional compensation for working under less-than-ideal conditions—specifically, rainy weather.
+
+Now, considering the emotion categories: anger, disgust, fear, joy, sadness, surprise, neutral. I need to determine which one fits best.
+
+Looking at the comment, there's no overt expression of strong emotions like anger or joy. It's more about a practical decision to not take on work unless certain conditions are met. The tone doesn't seem particularly positive (joy) or negative (anger/sadness). There's also nothing suggesting fear, disgust, surprise, or neutrality.
+
+Wait, but maybe there's an underlying emotion here. The speaker is establishing boundaries, which could imply they're tired or not wanting to deal with the hassle of deliveries in the rain without extra pay. That might lean towards sadness if it's due to feeling burdened, but I'm not entirely sure. Alternatively, setting a condition could be seen as being firm, maybe a bit annoyed (anger), but again, it's more about practicality.
+
+Alternatively, perhaps the speaker is simply stating a fact without any emotional charge. If that's the case, it might be neutral. But in this context, since they're expressing a preference or condition, it could still imply some emotion.
+
+Wait, maybe I'm overcomplicating. The comment is straightforward and doesn't express any explicit emotion words or exclamations. It's more of an announcement or a personal policy. So perhaps the emotion here is neutral because the speaker isn't showing any particular feeling—they're just stating their stance.
+</think>
+
+**neutral**
+------------------------------------------------------------------------------------------------------------------------
+

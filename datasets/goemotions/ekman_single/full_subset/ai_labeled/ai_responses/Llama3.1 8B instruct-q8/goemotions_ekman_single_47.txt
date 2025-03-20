@@ -1,0 +1,41 @@
+Record: "Feels like bathing in warm piss. Can't wait until summer is over."
+Llama3.1 8B instruct-q8
+------------------------------------------------------------------------------------------------------------------------
+
+Response 1:
+Important points to consider:
+
+* The speaker uses a metaphor ("bathing in warm piss") that is generally considered unpleasant and derogatory.
+* The tone of the comment is strongly negative, with the speaker expressing eagerness for an end to something (summer).
+* There is no indication of fear or surprise in the comment.
+
+Based on these points, the most relevant emotion label is:
+
+**disgust**
+
+The speaker's use of a strong, unpleasant metaphor and their eagerness to see summer end suggest that they are feeling disgusted by the current situation.
+------------------------------------------------------------------------------------------------------------------------
+
+Response 2:
+Important points to consider:
+
+* The speaker uses a strong and unpleasant comparison ("bathing in warm piss") to describe their experience.
+* They express a sense of urgency and anticipation for something to end ("Can't wait until summer is over").
+* The tone is negative and uncomfortable.
+
+Given these considerations, the emotion that best fits this description is disgust. The speaker's use of an unpleasant comparison and their expression of discomfort suggests a strong feeling of revulsion or disapproval, which aligns with the definition of disgust.
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
+Response 3:
+Important points to consider:
+
+* The speaker uses a vivid and unpleasant metaphor ("bathing in warm piss") to describe their experience.
+* They express a strong desire for something to end ("Can't wait until summer is over"), implying that they are unhappy with the current situation.
+
+Given these points, the speaker appears to be expressing revulsion or strong disapproval aroused by something unpleasant, which matches the definition of disgust. 
+
+**disgust**
+------------------------------------------------------------------------------------------------------------------------
+
