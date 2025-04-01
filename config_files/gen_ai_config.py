@@ -1,6 +1,6 @@
 model = \
     {
-        'Llama3.1 8B instruct-q8': {
+        'Llama3.1': {
             'id': 'llama3.1:8b-instruct-q8_0',
             'access': 'local',
             'platform': 'Ollama',
@@ -8,7 +8,7 @@ model = \
             'terminator': None
         },
 
-        'DeepSeek-R1 14B': {
+        'DeepSeek': {
             'id': 'deepseek-r1:14b',
             'access': 'local',
             'platform': 'Ollama',
